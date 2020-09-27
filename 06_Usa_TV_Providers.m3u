@@ -178,9 +178,7 @@ https://nimble.dashstreams.net/onestudio/ReallyTv/playlist.m3u8
 #EXTINF:-1 tvg-name="Network – Wink TV" tvg-id="" group-title="USA;MYTVTOGO" tvg-logo="",Network – Wink TV
 https://nimble.dashstreams.net/onestudio/winktv/playlist.m3u8
 #EXTINF:-1 tvg-name="************** USA PLEX TV *********" tvg-id="" group-title="" tvg-logo="",************** USA PLEX TV *********
-https://stream-us-east-1.getpublica.com/cl/66cf3069-0ba9-495e-b721-fc068e16f2fa/1280x720_2594694_5.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA;PLEX TV",Toon Googles
-https://stream-us-east-1.getpublica.com/cl/66cf3069-0ba9-495e-b721-fc068e16f2fa/1280x720_2594694_5.m3u8
+https://ign-plex.amagi.tv/amRdirect/us_privacy=1---&did=61e24c69-c657-5bf3-b863-7cdc122e912c&dnt=0&X-Plex-Token=yd2t7_mqLeso7PyTUYZ6&channelId=5eea605474085f0040ddc77c/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA;PLEX TV",IGN TV
 https://ign-plex.amagi.tv/amRdirect/us_privacy=1---&did=61e24c69-c657-5bf3-b863-7cdc122e912c&dnt=0&X-Plex-Token=yd2t7_mqLeso7PyTUYZ6&channelId=5eea605474085f0040ddc77c/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA;PLEX TV",AFV Family
