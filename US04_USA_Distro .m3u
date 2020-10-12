@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="*************** USA DISTRO ***********" tvg-id="" group-title="" tvg-logo="",************** USA DISTRO ***********
+https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bollywood TV" tvg-logo="https://i.imgur.com/d8mJYu0.png" group-title="DISTRO USA",Bollywood TV
+https://a.jsrdn.com/broadcast/d5b45/+0000/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BritAsia Live" tvg-logo="https://i.imgur.com/BPS22GM.png" group-title="DISTRO USA",BritAsia Live
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PbpvywI.png" group-title="DISTRO USA",BYUtv
+http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rAkIuW1.png" group-title="DISTRO USA",Cycle World
+http://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IUJSWSf.png" group-title="DISTRO USA",ElectricNOW
+https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_360p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qoKlYt3.png" group-title="DISTRO USA",Field & Stream
+http://a.jsrdn.com/broadcast/7536b84786/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUEiiK.png" group-title="DISTRO USA",Fighting Spirit
+https://a.jsrdn.com/broadcast/22696/+0000/low/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L0aXwHX.png" group-title="DISTRO USA",Gusto TV
+https://a.jsrdn.com/broadcast/ebf95254ca/+0000/low/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Honor TV" tvg-logo="https://i.imgur.com/FwXJj0L.png" group-title="DISTRO USA",Honor TV
+https://a.jsrdn.com/broadcast/d5b48/+0000/high/c.m3u8
+#EXTINF:-1  tvg-id="" tvg-name="IDG"tvg-logo="https://i.imgur.com/q1JeHsc.png" group-title="DISTRO USA",IDG
+http://a.jsrdn.com/broadcast/529a360c04/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latido Music TV" tvg-logo="https://i.imgur.com/woRgqEh.png" group-title="DISTRO USA",Latido Music TV
+https://a.jsrdn.com/broadcast/g8sfF32l0/playlist720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MMA Junkie" tvg-logo="https://i.imgur.com/9lYz3No.png" group-title="DISTRO USA",MMA Junkie
+http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Monarch TV" tvg-logo="https://i.imgur.com/iSqYInb.png" group-title="DISTRO USA",Monarch TV
+https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/low/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Motorcyclist" tvg-logo="https://i.imgur.com/sIXA1mh.png" group-title="DISTRO USA",Motorcyclist
+http://a.jsrdn.com/broadcast/256ad9e679/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movie Kingdom TV" tvg-logo="https://i.imgur.com/YgRz2Cc.png" group-title="DISTRO USA",Movie Kingdom TV
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Outside TV" tvg-logo="https://i.imgur.com/sXsyc1o.png" group-title="DISTRO USA",Outside TV
+https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="People TV" tvg-logo="https://i.imgur.com/fY0d5DK.png" group-title="DISTRO USA",People TV
+https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Popular Science" tvg-logo="https://i.imgur.com/jNoOxxz.png" group-title="DISTRO USA",Popular Science
+http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Saveur" tvg-logo="https://i.imgur.com/h0MqKbJ.png" group-title="DISTRO USA",Saveur
+http://a.jsrdn.com/broadcast/060753d37e/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sportskool TV" tvg-logo="https://i.imgur.com/X72z8BW.png" group-title="DISTRO USA",Sportskool TV
+https://a.jsrdn.com/broadcast/22697/+0000/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio C TV" tvg-logo="https://i.imgur.com/mYGNZ0A.png" group-title="DISTRO USA",Studio C TV
+https://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Boat Show TV" tvg-logo="https://i.imgur.com/55vA85a.png" group-title="DISTRO USA",The Boat Show TV
+https://a.jsrdn.com/broadcast/22706/+0000/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Film Detective TV" tvg-logo="https://i.imgur.com/nCB6LNt.png" group-title="DISTRO USA",The Film Detective TV
+https://a.jsrdn.com/broadcast/9Kl3dcb5l/indexfd_640x360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Titanic TV" tvg-logo="https://i.imgur.com/uIZpZky.png" group-title="DISTRO USA",Titanic TV
+https://a.jsrdn.com/broadcast/22719/+0000/low/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Venus TV" tvg-logo="https://i.imgur.com/1FRvMEX.png" group-title="DISTRO USA",Venus TV
+https://a.jsrdn.com/broadcast/22690/-0800/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="World Of Free Sports TV" tvg-logo="https://i.imgur.com/oitvOug.png" group-title="DISTRO USA",World Of Free Sports TV
+https://a.jsrdn.com/broadcast/22723/+0000/c.m3u8

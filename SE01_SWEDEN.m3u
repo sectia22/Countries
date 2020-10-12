@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="***************** SWEDEN ******************" tvg-name="***************** SWEDEN ******************" tvg-shift="0" radio="" tvg-logo="" group-title="SE",---- SENDER SCHWEDEN ----
+http://aftonbladetlive-lh.akamaihd.net/i/livestream01_1@182509/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATG Live" tvg-logo="https://i.imgur.com/5CdW62M.png" group-title="SWEDEN",ATG Live
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dagens Industri TV" tvg-logo="https://i.imgur.com/zApTDWn.png" group-title="SWEDEN",Dagens Industri TV
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Expressen TV" tvg-logo="https://i.imgur.com/Kt88QxS.png" group-title="SWEDEN",Expressen TV
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/chunklist_b3628000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Himlen TV 7" tvg-logo="https://i.imgur.com/pW6pPFF.jpg" group-title="SWEDEN",Himlen TV 7
+http://vod.tv7.fi:1935/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 10" tvg-logo="https://i.imgur.com/p5ktCEA.jpg" group-title="SWEDEN",Kanal 10
+http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0l2zIJF.png" group-title="SWEDEN",Oppna Kanalen
+http://83.140.64.214/edge/_451iw2h_/451iw2h/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SVT2" tvg-logo="https://i.imgur.com/bkgPL8L.jpg" group-title="SWEDEN",SVT2
+http://185.19.191.12:8090/SVT2/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="TV 4" tvg-logo="https://i.imgur.com/mvwiSqt.png" group-title="SWEDEN",TV 4
+https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 4 Nyheterna" tvg-logo="https://i.imgur.com/psAAPIE.jpg" group-title="SWEDEN",TV 4 Nyheterna
+https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791350.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 4 Svensk Politik" tvg-logo="https://i.imgur.com/PRh8iCp.png" group-title="SWEDEN",TV 4 Svensk Politik
+https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791553.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Västmanlands Television" tvg-logo="https://i.imgur.com/Mol9GKz.jpg" group-title="SWEDEN",Västmanlands Television
+https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8

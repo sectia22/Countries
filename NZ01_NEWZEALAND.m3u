@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="***************** NEWZEALAND ************" tvg-id="" group-title="" tvg-logo="",***************** NEWZEALAND ************
+https://tvnzliveios-i.akamaihd.net/hls/live/248954/tvnzliveios/16320191519/0253/master.m3u8
+#EXTINF:-1 tvg-name="Firstlight" tvg-id="" group-title="NEWZEALAND" tvg-logo="https://i.imgur.com/2TKL6BX.png",Firstlight
+https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="tv.13" tvg-name="Maori Television" tvg-logo="http://i.mjh.nz/nz/images/tv.13.png" group-title="NEWZEALAND",Maori Television
+http://i.mjh.nz/nz/tv.13.m3u8
+#EXTINF:-1 tvg-name="Parliament TV" tvg-id="" group-title="NEWZEALAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Coat_of_Arms_of_Australia.svg/255px-Coat_of_Arms_of_Australia.svg.png",Parliament TV
+https://i.mjh.nz/nz/tv.18.m3u8
+#EXTINF:-1 tvg-id="tv.20" tvg-name="Te Reo" tvg-logo="http://i.mjh.nz/nz/images/tv.20.png" group-title="NEWZEALAND",Te Reo
+http://i.mjh.nz/nz/tv.20.m3u8
+#EXTINF:-1 tvg-name="TVSN" tvg-id="" group-title="NEWZEALAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Shopping_bag_logo_no_shadow.png",TVSN
+http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
+#EXTINF:-1 tvg-name="Wairarapa TV" tvg-id="" group-title="NEWZEALAND" tvg-logo="https://i.imgur.com/qwGFZKE.png",Wairarapa TV
+http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8

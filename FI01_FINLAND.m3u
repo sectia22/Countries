@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="************* FINLAND ***************" tvg-name="************* FINLAND ***************" tvg-shift="0" radio="" tvg-logo="" group-title="FI",---- SENDER FINNLAND ----
+https://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/index_2764_av-p.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="Taivas TV7" tvg-logo="https://i.imgur.com/pIYSEUN.jpg" group-title="FINLAND",Taivas TV7
+http://vod.tv7.fi:1935/tv7-fi/tv7-fi.stream_720p/chunklist_w2131949141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YLE TV1" tvg-logo="https://i.imgur.com/MTZM0k5.png" group-title="FINLAND",YLE TV1
+https://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/index_2764_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YLE TV2" tvg-logo="https://i.imgur.com/SHLh731.png" group-title="FINLAND",YLE TV2
+https://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/master.m3u8

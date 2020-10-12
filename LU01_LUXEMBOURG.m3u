@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="******************* LUXEMBOURG ************" tvg-name="******************* LUXEMBOURG ************" tvg-shift="0" radio="" tvg-logo="" group-title="",******************* LUXENBURG ************
+https://media.webtvlive.eu/chd/_definst_/smil:chamber_tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Chamber TV" tvg-name="Chamber TV" tvg-shift="0" radio="" tvg-logo="" group-title="LUXEMBOURG",Chamber TV
+https://media02.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eldoradio TV (Webradio)" tvg-logo="https://i.imgur.com/4ntor8S.png" group-title="LUXEMBOURG",Eldoradio TV (Webradio)
+https://live-edge.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL Tele Letzeburg" tvg-name="RTL Tele Letzeburg  (Webradio)" tvg-shift="0" radio="" tvg-logo="https://i.imgur.com/bJrUjIC.png" group-title="LUXEMBOURG",RTL Tele Letzeburg (Webradio)
+https://live-edge.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL Tele Letzeburg" tvg-name="RTL Tele 2 Letzeburg" tvg-shift="0" radio="" tvg-logo="https://i.imgur.com/bJrUjIC.png" group-title="LUXEMBOURG",RTL Tele Letzeburg
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL Tele 2 Letzeburg" tvg-name="RTL Tele 2 Letzeburg" tvg-shift="0" radio="" tvg-logo="https://i.imgur.com/bJrUjIC.png" group-title="LUXEMBOURG",RTL 2 Tele Letzeburg
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV MCJ" tvg-logo="https://i.imgur.com/DzhlDF6.png" group-title="LUXEMBOURG",TV MCJ
+https://v5.ciclano.io:1443/tvmcj/_definst_/tvmcj/chunklist.m3u8

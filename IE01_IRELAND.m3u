@@ -1,0 +1,23 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="************ IRELAND ************" tvg-shift="0" radio="" tvg-logo="" group-title="",************ IRELAND ************
+https://live.rte.ie/live/a/channel3/news.isml/news-video=144960.m3u8
+#EXTINF:-1 tvg-name="RTÉ News Now" tvg-id="RTENewsNow.ie" group-title="IRELAND" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtenewsnow.png",RTÉ News Now
+https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
+
+#EXTINF:-1 tvg-name="Oireachtas TV" tvg-id="" group-title="IRELAND" tvg-logo="",Oireachtas TV
+https://oirlive.heanet.ie/oireachtas/ngrp:oireachtas.stream_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-name="Dáil Éireann" tvg-id="" group-title="IRELAND" tvg-logo="",Dáil Éireann
+https://oirlive.heanet.ie/dail/ngrp:dail.stream_all/chunklist_b478000.m3u8
+#EXTINF:-1 tvg-name="Seanad Éireann" tvg-id="" group-title="IRELAND" tvg-logo="",Seanad Éireann
+https://oirlive.heanet.ie/seanad/ngrp:seanad.stream_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-name="Committee Room 1" tvg-id="" group-title="IRELAND" tvg-logo="",Committee Room 1
+https://oirlive.heanet.ie/cr1/ngrp:cr1.stream_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-name="Committee Room 2" tvg-id="" group-title="IRELAND" tvg-logo="",Committee Room 2
+https://oirlive.heanet.ie/cr2/ngrp:cr2.stream_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-name="Committee Room 3" tvg-id="" group-title="IRELAND" tvg-logo="",Committee Room 3
+https://oirlive.heanet.ie/cr3/ngrp:cr3.stream_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-name="Committee Room 4" tvg-id="" group-title="IRELAND" tvg-logo="",Committee Room 4
+https://oirlive.heanet.ie/cr4/ngrp:cr4.stream_all/chunklist_b1228000.m3u8
+#EXTINF:-1  tvg-name="TG4 IE" tvg-id="" tvg-logo="https://i.imgur.com/TT9kAEp.png" group-title="IRELAND",TG4 IE
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8

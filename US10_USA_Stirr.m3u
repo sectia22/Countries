@@ -1,0 +1,241 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="***************** USA STIRR ***********" tvg-id="" group-title="" tvg-logo="",**************** USA  STIRR ***********
+https://dai.google.com/linear/hls/event/mMP0Ny8OTb2Ev2EvsiIlrg/master.m3u8
+#EXTINF:-1 tvg-id="2020 Live" tvg-name="2020 Live" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/e155b2ff-61dc-44c2-9d2a-26b0f69ebc5b-small3x1_stirr_0120_epg_2020LIVE_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",2020 Live
+https://dai.google.com/linear/hls/event/mMP0Ny8OTb2Ev2EvsiIlrg/master.m3u8
+#EXTINF:-1 tvg-id="21 Jump Street" tvg-name="21 Jump Street" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/fff115ea-8e29-48e9-b8bc-42c97e53a29f-small3x1_stirr_1219_epg_21jumpstreet_1920x1080_v2.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",21 Jump Street
+https://dai.google.com/linear/hls/event/UXgY8vuCSgiAlXtckOHm6A/master.m3u8
+#EXTINF:-1 tvg-id="AFV" tvg-name="AFV" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/1c6dcab5-c101-4b1d-8af3-d2f4d31ff511-small3x1_STIRR_Logo_0520_AFV_1920x1080_EPG.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",AFV
+https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
+#EXTINF:-1 tvg-id="Ambiance" tvg-name="Ambiance" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/9ea2d23c-e498-41ec-9a1a-2aa45d05e43a-small3x1_STIRR_Logo_0120_StingrayNaturescape_EPG_1920x1080_v2.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",Ambiance
+https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
+#EXTINF:-1 tvg-id="American Classics" tvg-name="American Classics" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/207935e9-f81c-4e73-9166-0e75e41e7ac3-small3x1_stirr_1219_epg_americanclassics_1920x1080_v2.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",American Classics
+https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8
+#EXTINF:-1 tvg-id="Baeble Music" tvg-name="Baeble Music" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/21481f0f-1ca5-46f5-9488-9f28d0bb7153-small3x1_STIRR_Logo_0320_BAEBLEMusic_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Baeble Music
+https://dai.google.com/linear/hls/event/HuoWULBBQFKJalbtsd7qPw/master.m3u8
+#EXTINF:-1 tvg-id="Beverly Hillbillies" tvg-name="Beverly Hillbillies" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/2855ccff-6344-45e2-a8d0-54982f399f5c-small3x1_stirr_0120_epg_TheBeverlyHillbillies_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",Beverly Hillbillies
+https://dai.google.com/linear/hls/event/TEeUv9DbStyK8DyFmG3Cfw/master.m3u8
+#EXTINF:-1 tvg-id="Big Life " tvg-name="Big Life " tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d461a675-af3d-41c9-8c78-aecec5fe80ab-small3x1_stirr_1219_epg_biglifetv_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",Big Life 
+https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Bonanza" tvg-name="Bonanza" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/3385dd03-f70f-42e3-b1e6-98b8b5078a8c-small3x1_stirr_0120_epg_Bonanza_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Bonanza
+https://dai.google.com/linear/hls/event/LeVr-Z0_Q4qMDdXx7zr22w/master.m3u8
+#EXTINF:-1 tvg-id="BritCom" tvg-name="BritCom" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/3b1f2833-2065-4bf9-a92b-88238158330e-small3x1_STIRR_Logo_0320_Britcom_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",BritCom
+https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
+#EXTINF:-1 tvg-id="Buzzr" tvg-name="Buzzr" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/21acd9d6-373a-4695-9ac0-99a35ea0fc40-small3x1_STIRR_Logo_0320_BUZZR_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Buzzr
+https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
+#EXTINF:-1 tvg-id="CHARGE " tvg-name="CHARGE " tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/8aa83636-ea2b-4bc0-946a-cb0942548724-small3x1_STIRR_Logo_0320_Charge_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",CHARGE 
+https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
+#EXTINF:-1 tvg-id="Cheddar" tvg-name="Cheddar" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/af608fc2-6c7a-43b8-8578-e961fe9c8554-small3x1_STIRR_Logo_0520_Cheddar_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Cheddar
+https://dai.google.com/linear/hls/event/frfwucAPTVunrpitYiymwg/master.m3u8
+#EXTINF:-1 tvg-id="Choppertown" tvg-name="Choppertown" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/7b1c655c-1037-4372-884f-97b8921ac8d2-small3x1_STIRR_Logo_0320_Choppertown_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Choppertown
+https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8
+#EXTINF:-1 tvg-id="Cinehouse" tvg-name="Cinehouse" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/9b0cc12d-a2e0-4a7b-bec4-31c00a4c499f-small3x1_STIRR_Logo_0520_Cinehouse_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Cinehouse
+https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8
+#EXTINF:-1 tvg-id="CineLife" tvg-name="CineLife" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b69e56d9-8aac-4cff-94e2-4d848cd44ead-small3x1_stirr_0120_epg_CineLife_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",CineLife
+https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
+#EXTINF:-1 tvg-id="Classica" tvg-name="Classica" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d5dd6f15-1fc2-46d0-b45e-57f4c5c897c6-small3x1_EPGLogoSTIRR_Logo_0420_Classica_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Classica
+https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
+#EXTINF:-1 tvg-id="Combat Go" tvg-name="Combat Go" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/849f3b26-39dd-4f9d-b902-96006dfd5517-small3x1_stirr_1219_epg_combatgo_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",Combat Go
+https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
+#EXTINF:-1 tvg-id="Comedy Dynamics" tvg-name="Comedy Dynamics" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/90195c82-4090-472d-9039-09be4e9c472f-small3x1_STIRR_Logo_0320_ComedyDynamics_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Comedy Dynamics
+https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
+#EXTINF:-1 tvg-id="COMET" tvg-name="COMET" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/1e3c13e3-cba9-4754-8e30-e158f14d17fe-small3x1_stirr_1219_epg_comet_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",COMET
+https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
+#EXTINF:-1 tvg-id="CONtv" tvg-name="CONtv" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/f7c2fe09-fad1-402b-8d73-2dfddece26e1-small3x1_stirr_1219_epg_contv_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",CONtv
+https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
+#EXTINF:-1 tvg-id="Crime Story" tvg-name="Crime Story" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/85d2d767-c699-4fbe-b53b-7256107e0c0e-small3x1_stirr_1219_epg_crimestory_1920x1080_v2.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Crime Story
+https://dai.google.com/linear/hls/event/HgozmUlQQviIXFUF23mloA/master.m3u8
+#EXTINF:-1 tvg-id="Deal or No Deal" tvg-name="Deal or No Deal" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/31bde873-2b72-4b5f-8087-05172adfd46e-small3x1_STIRR_Logo_0620_DealOrNoDeal_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Deal or No Deal
+https://dai.google.com/linear/hls/event/9cq79TtPR6WbyaQGeDlHjA/master.m3u8
+#EXTINF:-1 tvg-id="Docurama" tvg-name="Docurama" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/64e1e4f2-5aa5-49d8-bd74-a692313d0473-small3x1_stirr_0120_epg_Docurama_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",Docurama
+https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
+#EXTINF:-1 tvg-id="Dove " tvg-name="Dove " tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/f8e63530-6d3b-478b-b935-d4a834db5a7f-small3x1_stirr_1219_epg_dovechannel_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Dove 
+https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
+#EXTINF:-1 tvg-id="DUST" tvg-name="DUST" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/fc4a690f-2c95-4600-974c-10fa3b390b07-small3x1_stirr_1219_epg_dust_1920x10802.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",DUST
+http://dust.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="EDGESport" tvg-name="EDGESport" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/9661e155-c5b8-43f3-9e1c-0e87cb75ae94-small3x1_STIRR_Logo_0320_EdgeSport_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",EDGESport
+https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
+#EXTINF:-1 tvg-id="Electric Now" tvg-name="Electric Now" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/6e9b5b43-d409-47a5-a13a-fdba785d466b-small3x1_STIRR_Logo_0320_ElectricNOW_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Electric Now
+https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
+#EXTINF:-1 tvg-id="ESRevolution" tvg-name="ESRevolution" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/3e896322-56cd-4017-81aa-84d8962455fb-small3x1_STIRR_Logo_0320_ESR24x7eSportsChannel_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",ESRevolution
+https://dai.google.com/linear/hls/event/7-91LhuBQNONHzAbrFQr-Q/master.m3u8
+#EXTINF:-1 tvg-id="EVRGRN" tvg-name="EVRGRN" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/84a96620-2c59-4a44-bfed-bdec3fdf7451-small3x1_STIRR_Logo_0520_EVRGRN_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",EVRGRN
+https://dai.google.com/linear/hls/event/TDUiZE57Q3-CS7Its4kLDQ/master.m3u8
+#EXTINF:-1 tvg-id="FailArmy" tvg-name="FailArmy" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/3d50d31f-5b81-4560-b7a7-16bcf6a6fb5a-small3x1_stirr_1219_epg_failarmy_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",FailArmy
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+#EXTINF:-1 tvg-id="Film Detective" tvg-name="Film Detective" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/9a97a4b1-7900-42a0-86eb-d396ba2ff938-small3x1_STIRR_Logo_0520_TheFilmDetective_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Film Detective
+https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+#EXTINF:-1 tvg-id="Filmrise Classic TV" tvg-name="Filmrise Classic TV" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/0cc80229-e631-4ab5-b9e6-cab62f841ab5-small3x1_STIRR_Logo_0320_FilmriseClassicTV_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Filmrise Classic TV
+https://dai.google.com/linear/hls/event/hW5jMh7dTRK1UXW5fTH07A/master.m3u8
+#EXTINF:-1 tvg-id="Filmrise Free Movies" tvg-name="Filmrise Free Movies" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/dca5effb-f654-41c7-8f52-ae71b86b6511-small3x1_stirr_1219_epg_filmrisefreemovies_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",Filmrise Free Movies
+https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
+#EXTINF:-1 tvg-id="Forensics Files" tvg-name="Forensics Files" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/3e64aff5-e709-4ced-8452-d67728e54718-small3x1_stirr_1219_epg_forensicfiles_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Forensics Files
+https://dai.google.com/linear/hls/event/fJj7BuL_Tv2KjCnNAmLK8g/master.m3u8
+#EXTINF:-1 tvg-id="Futurism" tvg-name="Futurism" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/07e29bcf-2580-4d0d-896e-382ddc6291f5-small3x1_STIRR_Logo_0320_Futurism_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Futurism
+https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
+#EXTINF:-1 tvg-id="Glewed TV" tvg-name="Glewed TV" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/89b390bb-1351-4f08-82dd-a8b9dca9c33a-small3x1_stirr_1219_epg_glewedtv_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",Glewed TV
+https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8
+#EXTINF:-1 tvg-id="Gravitas" tvg-name="Gravitas" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b042bace-ff67-4f2b-8676-6d8877f746b4-small3x1_stirr_1219_epg_gravitasmovies_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",Gravitas
+https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
+#EXTINF:-1 tvg-id="Greatest American Hero" tvg-name="Greatest American Hero" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/885a4fe2-5dce-4193-8c9b-e72c9b16ae4d-small3x1_stirr_1219_epg_thegreatestamericanhero_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c",Greatest American Hero
+https://dai.google.com/linear/hls/event/zaW9PVeXQeamNt6SZ9FsOg/master.m3u8
+#EXTINF:-1 tvg-id="Gusto" tvg-name="Gusto" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/2be3bd47-2b8b-4bb4-83d2-924f59a261e3-small3x1_STIRR_Logo_0320_GustoTV_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Gusto
+https://dai.google.com/linear/hls/event/tdSCy5u2R5WtCLXX4NwDtg/master.m3u8
+#EXTINF:-1 tvg-id="Hallypop" tvg-name="Hallypop" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/5ff731ca-b389-4f24-84ca-c5a722a28308-small3x1_STIRR_Logo_0320_Hallypop_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Hallypop
+https://dai.google.com/linear/hls/event/ctGD-E18Q0-3WScFd_tK5w/master.m3u8
+#EXTINF:-1 tvg-id="Hell's Kitchen" tvg-name="Hell's Kitchen" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/e9486527-1ffc-4031-8b91-c954076365f8-small3x1_stirr_1219_epg_hellskitchen_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",Hell's Kitchen
+https://dai.google.com/linear/hls/event/SynaOtTyTq2y_N7BrGTz9Q/master.m3u8
+#EXTINF:-1 tvg-id="HSN" tvg-name="HSN" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/ee4f54a9-254b-422b-8565-04fedcfdb36e-small3x1_STIRR_Logo_0520_HSN_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",HSN
+https://dai.google.com/linear/hls/event/akursTHNTo6qGf1TtlHNsw/master.m3u8
+#EXTINF:-1 tvg-id="Hunter" tvg-name="Hunter" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/11ca088b-4ef8-41a8-bdfd-8fc62dd4682a-small3x1_stirr_1219_epg_hunter_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Hunter
+https://dai.google.com/linear/hls/event/Z-kHpGoATwyuxIuQEY_3fw/master.m3u8
+#EXTINF:-1 tvg-id="Insight TV" tvg-name="Insight TV" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/4c370dd2-0e81-4cab-9369-cfac5e55fcc6-small3x1_STIRR_Logo_0320_InsightTV_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Insight TV
+https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
+#EXTINF:-1 tvg-id="InTrouble" tvg-name="InTrouble" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/e5b6171b-31bd-4ae7-98c0-10bbf9589f70-small3x1_STIRR_Logo_0320_INTrouble_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",InTrouble
+https://dai.google.com/linear/hls/event/_af28lUaQjuoPhfAU_BYQA/master.m3u8
+#EXTINF:-1 tvg-id="InWonder" tvg-name="InWonder" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/e67f56ca-97c0-4830-9e28-57c559d94dfd-small3x1_STIRR_Logo_0320_INWonder_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",InWonder
+https://dai.google.com/linear/hls/event/QiQc47LCQDep-t9pkaGIVg/master.m3u8
+#EXTINF:-1 tvg-id="Karaoke" tvg-name="Karaoke" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/1bfafc55-f71a-48d3-bb7a-ed701a47d4bb-small3x1_stirr_1219_epg_StingrayKaraoke_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Karaoke
+https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
+#EXTINF:-1 tvg-id="Kitchen Nightmares" tvg-name="Kitchen Nightmares" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d3fa0a6c-3f76-46e0-b4d6-5039ee16f5a3-small3x1_stirr_1219_epg_kitchennightmares_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",Kitchen Nightmares
+https://dai.google.com/linear/hls/event/23QIslh0TOqygKz-M9W29Q/master.m3u8
+#EXTINF:-1 tvg-id="Law - Crime " tvg-name="Law - Crime " tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/51c6158b-80d1-4dde-883d-02bbb9a92f65-small3x1_stirr_1219_epg_lawandcrime_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Law & Crime 
+https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
+#EXTINF:-1 tvg-id="Laurel - Hardy" tvg-name="Laurel - Hardy" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b26179ed-d63c-41c0-a422-a2a9cbeb52f4-small3x1_stirr_0120_epg_LaurelandHardy_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",Laurel & Hardy
+https://dai.google.com/linear/hls/event/uDdlFsS2S1CqcUkd7KGu4Q/master.m3u8
+#EXTINF:-1 tvg-id="LiveXLive" tvg-name="LiveXLive" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/545cc045-69ad-4c2f-979a-3be0280c5e1c-small3x1_STIRR_Logo_0320_LiveXLive_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",LiveXLive
+https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
+#EXTINF:-1 tvg-id="Made In Hollywood" tvg-name="Made In Hollywood" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/30a2f367-97f1-49e2-b9a7-0ae1a859e917-small3x1_STIRR_Logo_0320_MadeInHollywood_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Made In Hollywood
+https://dai.google.com/linear/hls/event/Mteif75-SJeFi19Sk3-dGQ/master.m3u8
+#EXTINF:-1 tvg-id="MagellanTV" tvg-name="MagellanTV" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/8719b6b1-9dbd-4661-8a30-c351bbf91219-small3x1_stirr_0120_epg_MagellanTV_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",MagellanTV
+https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
+#EXTINF:-1 tvg-id="MavTv" tvg-name="MavTv" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b259ec9b-02ed-4aa0-81bd-5b7bd878c753-small3x1_STIRR_Logo_0420_MavTV_1920x1080_EPG.png?cb=a87ff679a2f3e71d9181a67b7542122c" group-title="STIRR USA",MavTv
+https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
+#EXTINF:-1 tvg-id="Midnight Pulp" tvg-name="Midnight Pulp" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/2f204814-d041-478c-b10c-88ee96fa4746-small3x1_STIRR_Logo_0520_MidnightPulp_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Midnight Pulp
+https://dai.google.com/linear/hls/event/1fO2zbpBRyy6S5yve_fnaw/master.m3u8
+#EXTINF:-1 tvg-id="Mobcrush" tvg-name="Mobcrush" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/ee4d67e0-234a-4e68-a174-a2f40654482a-small3x1_STIRR_Logo_0320_Mobcrush_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Mobcrush
+https://dai.google.com/linear/hls/event/LGDVXxxyT8SxrL4-ZodxKw/master.m3u8
+#EXTINF:-1 tvg-id="Movie Mix" tvg-name="Movie Mix" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/7dfc8d97-0c37-40f0-b251-5eacf509d891-small3x1_stirr_1219_epg_moviemix_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",Movie Mix
+https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
+#EXTINF:-1 tvg-id="Mystery Science Theater 3000" tvg-name="Mystery Science Theater 3000" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/ee454d3c-4cbe-4bda-a056-56d037c28705-small3x1_STIRR_Logo_0320_MysteryScienceTheater3000_1920x1080_EPG_2.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Mystery Science Theater 3000
+https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8
+#EXTINF:-1 tvg-id="NASATV" tvg-name="NASATV" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/441fd841-4cd4-42d0-8471-98d55a05ad47-small3x1_STIRR_Logo_0320_NASA_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",NASATV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 tvg-id="Newsy" tvg-name="Newsy" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/95613c15-7298-48d5-bf3d-43f33b630727-small3x1_stirr_1219_epg_newsy_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Newsy
+https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8
+#EXTINF:-1 tvg-id="Outdoor America" tvg-name="Outdoor America" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/da15753d-c536-4b71-956f-265192b5f74e-small3x1_STIRR_Logo_0320_OutdoorAmerica_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Outdoor America
+https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
+#EXTINF:-1 tvg-id="Outside TV" tvg-name="Outside TV" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/5814c8b2-9479-4d54-90e7-797a4e89578b-small3x1_STIRR_Logo_0320_OutsideTV_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Outside TV
+https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
+#EXTINF:-1 tvg-id="People TV" tvg-name="People TV" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/649c7a9c-8b5b-4494-bb0a-a5e8e4cc20fb-small3x1_STIRR_Logo_0420_PeopleTV_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",People TV
+https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8
+#EXTINF:-1 tvg-id="Popstar! TV" tvg-name="Popstar! TV" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/0e59efc2-cf39-4ae8-a587-c7b83f16b74e-small3x1_STIRR_Logo_0320_PopstarTV_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Popstar! TV
+https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
+#EXTINF:-1 tvg-id="PursuitUp" tvg-name="PursuitUp" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/cff7dcd8-15db-40ae-bfd7-72589c1e404c-small3x1_STIRR_Logo_0420_PursuitChannel_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",PursuitUp
+https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8
+#EXTINF:-1 tvg-id="Real People" tvg-name="Real People" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/61d8a775-ee54-406e-ab70-828eff54bad8-small3x1_stirr_0120_epg_RealPeople_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",Real People
+https://dai.google.com/linear/hls/event/RoiVzG-4TJiJMSVUatDd4A/master.m3u8
+#EXTINF:-1 tvg-id="Revry" tvg-name="Revry" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/38394c13-f158-4f11-ac90-e9c8f3e5784f-small3x1_STIRR_Logo_0320_Revry_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Revry
+https://dai.google.com/linear/hls/event/gvO6-Y6TTjCxRf1QALU4VQ/master.m3u8
+#EXTINF:-1 tvg-id="RetroCrush" tvg-name="RetroCrush" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/0eacc4f1-90c4-4ea4-b2f6-b643f77a92e2-small3x1_STIRR_Logo_0520_Retrocrush_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",RetroCrush
+https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
+#EXTINF:-1 tvg-id="Shout Factory" tvg-name="Shout Factory" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/1cb27c26-19c1-46ee-8b8a-fe02abcd3f65-small3x1_stirr_1219_epg_shoutfactorytv_1920x1080_v2.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Shout Factory
+https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
+#EXTINF:-1 tvg-id="Silk Stalkings" tvg-name="Silk Stalkings" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/f391754b-a2f8-4c0e-bdf9-7c40ffe92655-small3x1_stirr_1219_epg_silkstalkings_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",Silk Stalkings
+https://dai.google.com/linear/hls/event/8ZYru1fgSY6JL1Ejb6T5Ag/master.m3u8
+#EXTINF:-1 tvg-id="Space 1999" tvg-name="Space 1999" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/aaaa25c9-d98a-46b8-8dca-3851ab93d3ee-small3x1_STIRR_Logo_0320_SPACE1999_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Space 1999
+https://dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8
+#EXTINF:-1 tvg-id="Qello" tvg-name="Qello" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/12ed14eb-8a1b-472c-8aad-9469ed715cc4-small3x1_STIRR_LOGO_0120_Quello_EPG_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",Qello
+https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
+#EXTINF:-1 tvg-id="QVC" tvg-name="QVC" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/88c4dda8-577b-4a9f-ad81-1b5378fd24dd-small3x1_STIRR_Logo_0520_QVC_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",QVC
+https://dai.google.com/linear/hls/event/roEbn_l7Tzezwy22F1NSfA/master.m3u8
+#EXTINF:-1 tvg-id="Ring of Honor" tvg-name="Ring of Honor" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/154876f2-ed78-4a1e-959d-96aab12af9cd-small3x1_STIRR_Logo_0720_ROHBestofthePlanet_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Ring of Honor
+https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
+#EXTINF:-1tvg-id="SOAR" tvg-name="SOAR" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/2b6ed67f-5284-4622-8594-a956633c8383-small3x1_stirr_1219_epg_soartv_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",SOAR
+https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
+#EXTINF:-1 tvg-id="SportsGrid" tvg-name="SportsGrid" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b4765251-26e4-48e8-a5ad-f96d8a1eec77-small3x1_STIRR_Logo_0320_SportsGrid_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",SportsGrid
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+#EXTINF:-1 tvg-id="Stadium " tvg-name="Stadium " tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b4e26296-be68-4e3d-beda-04e81f4d34ee-small3x1_stirr_1219_epg_stadium_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",Stadium 
+https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
+#EXTINF:-1 tvg-id="Stingray Classic Rock" tvg-name="Stingray Classic Rock" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/dcf6dea4-94f1-49c2-8387-82569dde9f45-small3x1_stirr_1219_epg_singrayclassicrock_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",Stingray Classic Rock
+https://ott-linear-channels.stingray.com/hls/stirr/101.m3u8
+#EXTINF:-1 tvg-id="Stingray Everything 80s" tvg-name="Stingray Everything 80s" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/90d2dbf6-a533-4cc1-b1a3-6196c40efb16-small3x1_STIRR_LOGO_0220_StingrayEverything80s_1920x1080_EPG.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",Stingray Everything 80s
+https://ott-linear-channels.stingray.com/hls/stirr/128.m3u8
+#EXTINF:-1 tvg-id="Stingray Flashback 70s" tvg-name="Stingray Flashback 70s" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/4b83571f-2374-4e84-a27b-e772b0c94c51-small3x1_stirr_1219_epg_stingrayflashback70s_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",Stingray Flashback 70s
+https://ott-linear-channels.stingray.com/hls/stirr/115.m3u8
+#EXTINF:-1 tvg-id="Stingray Hit List" tvg-name="Stingray Hit List" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d35ab388-cc91-4070-876d-b5c48d989a60-small3x1_stirr_1219_epg_singrayhitlist_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",Stingray Hit List
+https://ott-linear-channels.stingray.com/hls/stirr/107.m3u8
+#EXTINF:-1 tvg-id="Stingray Holiday Hits" tvg-name="Stingray Holiday Hits" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/518a9541-fade-45ec-9d64-5b0a65806270-small3x1_stirr_1219_epg_stingraygreatesthits_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Stingray Holiday Hits
+https://ott-linear-channels.stingray.com/hls/stirr/155.m3u8
+#EXTINF:-1 tvg-id="Stingray Hot Country" tvg-name="Stingray Hot Country" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d2dac750-5e2b-4107-a037-6467fca68e93-small3x1_stirr_1219_epg_stingrayhotcountry_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",Stingray Hot Country
+https://ott-linear-channels.stingray.com/hls/stirr/108.m3u8
+#EXTINF:-1 tvg-id="Stingray Pop Adult" tvg-name="Stingray Pop Adult" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/f7fe1378-d4a8-434e-8c1a-d7e001560404-small3x1_stirr_1219_epg_stingraypopadult_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",Stingray Pop Adult
+https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
+#EXTINF:-1 tvg-id="Stingray Rock Alternative" tvg-name="Stingray Rock Alternative" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/ff902b0a-f978-495d-8b37-171eb5fee8a4-small3x1_STIRR_Logo_0720_Alternative_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Stingray Rock Alternative
+https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
+#EXTINF:-1 tvg-id="Stingray Today's Latin Pop" tvg-name="Stingray Today's Latin Pop" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b1d83dd9-b335-4871-89a1-b92cf2651b65-small3x1_STIRR_Logo_0720_StingrayLatinPop_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Stingray Today's Latin Pop
+https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
+#EXTINF:-1 tvg-id="Stingray Urban Beats" tvg-name="Stingray Urban Beats" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d2056e60-df7d-4fac-8533-19503d5af78e-small3x1_STIRR_Logo_0720_HipHopRB_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Stingray Urban Beats
+https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
+#EXTINF:-1 tvg-id="STIRR Black Cinema" tvg-name="STIRR Black Cinema" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/9625f6a4-43d3-46c2-a87a-8592261c0996-small3x1_stirr_1219_epg_stirrblackcinema_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",STIRR Black Cinema
+https://dai.google.com/linear/hls/event/9WuQ_LseR12mMx2-QW41XQ/master.m3u8
+#EXTINF:-1 tvg-id="STIRR Biographies" tvg-name="STIRR Biographies" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/96a62236-f903-4c02-9796-c90dd52a65f9-small3x1_STIRR_Logo_0520_STIRRDocumentaries_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",STIRR Biographies
+https://dai.google.com/linear/hls/event/OzhtmoTQQjSNOimI6ikGCQ/master.m3u8
+#EXTINF:-1 tvg-id="STIRR Comedy " tvg-name="STIRR Comedy " tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/990dca91-04c1-4795-b958-75339be1d01e-small3x1_stirr_1219_epg_stirrcomedy_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",STIRR Comedy 
+https://dai.google.com/linear/hls/event/dGP9Z-PNRPCgGQSDEzxqYg/master.m3u8
+#EXTINF:-1 tvg-id="STIRR Cooks" tvg-name="STIRR Cooks" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d2379062-d570-4ce6-ad7d-a31417eb5b27-small3x1_STIRR_Logo_0320_STIRRCooks_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",STIRR Cooks
+https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
+#EXTINF:-1 tvg-id="STIRR Fit" tvg-name="STIRR Fit" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/1514a022-e768-4276-a25e-1646d37a6f12-small3x1_stirr_0120_epg_stirr_fit_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",STIRR Fit
+https://dai.google.com/linear/hls/event/ZidoyK28TXyMRTZU7rFuEQ/master.m3u8
+#EXTINF:-1 tvg-id="STIRR Horror Movies" tvg-name="STIRR Horror Movies" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/0a9b36ef-1240-47c1-a7e6-5ed04648ad72-small3x1_stirr_1219_epg_stirrhorror_1920x1080.png?cb=a87ff679a2f3e71d9181a67b7542122c" group-title="STIRR USA",STIRR Horror Movies
+https://dai.google.com/linear/hls/event/3P6eoQ_ARgeofjgKUyVI6w/master.m3u8
+#EXTINF:-1 tvg-id="STIRR | life" tvg-name="STIRR | life" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/03f16a85-c53f-4e81-8482-84717fba63d6-small3x1_stirr_1219_epg_template_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",STIRR | life
+https://dai.google.com/linear/hls/event/08ADpEIeQ8iZOjusLsZbCg/master.m3u8
+#EXTINF:-1 tvg-id="STIRR | Movies" tvg-name="STIRR | Movies" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/5fd662e5-864f-4739-a6ec-67f00b2d95c7-small3x1_stirr_1219_epg_stirrmovies_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",STIRR | Movies
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+#EXTINF:-1 tvg-id="STIRR Music" tvg-name="STIRR Music" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/4401089e-ca2f-440c-918b-0628369b6b18-small3x1_stirr_1219_epg_stirrmusic_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",STIRR Music
+https://dai.google.com/linear/hls/event/_e1csFnJR6W6y056PyiG6A/master.m3u8
+#EXTINF:-1 tvg-id="STIRR | retro" tvg-name="STIRR | retro" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/64751cb2-0f74-482b-a55f-b3c20da53a9b-small3x1_stirr_1219_epg_stirrtvmix_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",STIRR | retro
+https://dai.google.com/linear/hls/event/UQrixd_tTG2nC-lOUtw0mQ/master.m3u8
+#EXTINF:-1 tvg-id="STIRR | sports" tvg-name="STIRR | sports" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/a43594d1-364b-4e0c-8647-0d117973a641-small3x1_stirr_1219_epg_stirrsports_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",STIRR | sports
+https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
+#EXTINF:-1 tvg-id="STIRR Travel" tvg-name="STIRR Travel" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/2adc9fb0-a8dd-4fc4-ac6e-9287f54c37e9-small3x1_STIRR_Logo_0320_STIRRTravel_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",STIRR Travel
+https://dai.google.com/linear/hls/event/0ZXyCbn9TYmrrAzcDfoU1w/master.m3u8
+#EXTINF:-1 tvg-id="STIRR Westerns" tvg-name="STIRR Westerns" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/51ae9480-f6ae-4c26-9518-b32bd8aa99e5-small3x1_stirr_1219_epg_stirrwesterns_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",STIRR Westerns
+https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
+#EXTINF:-1 tvg-id="TBD - do not use " tvg-name="TBD - do not use " tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/00042dc2-f462-42bc-8aaa-cf73828eb0e6-small3x1_stirr_1219_epg_tbd_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",TBD - do not use 
+https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
+#EXTINF:-1 tvg-id="The Adventures of Sherlock Holmes" tvg-name="The Adventures of Sherlock Holmes" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/8f0ba0f2-e3aa-45ca-bc7c-26d2e4cc79d9-small3x1_stirr_0120_epg_Sherlock_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",The Adventures of Sherlock Holmes
+https://dai.google.com/linear/hls/event/fMcxjP7ORACGFsBvi7ZhAg/master.m3u8
+#EXTINF:-1 tvg-id="The Asylum" tvg-name="The Asylum" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/2be0c3dc-50f6-46f6-b44f-f84cec861b5f-small3x1_STIRR_Logo_0520_TheAsylum_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",The Asylum
+https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
+#EXTINF:-1 tvg-id="The Commish" tvg-name="The Commish" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/3a139329-7cdd-40f7-85fa-35d3b68853ca-small3x1_stirr_1219_epg_thecommish_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",The Commish
+https://dai.google.com/linear/hls/event/zfyiHhG0TeuoNist_WUwjg/master.m3u8
+#EXTINF:-1 tvg-id="The Bob Ross Channel" tvg-name="The Bob Ross Channel" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/89b69784-d184-4cb4-84b8-4b6a059bb1d7-small3x1_STIRR_Logo_0320_BobRoss_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",The Bob Ross Channel
+https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
+#EXTINF:-1 tvg-id="The First" tvg-name="The First" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/5cc1a83b-0a37-452a-9fb2-3708d4579a58-small3x1_STIRR_Logo_0520_TheFirst_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",The First
+https://dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8
+#EXTINF:-1 tvg-id="The Lone Ranger" tvg-name="The Lone Ranger" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/37204910-429a-4e1a-8c8d-eeb697ae5c62-small3x1_stirr_0120_epg_TheLoneRanger_1920x1080_v3.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",The Lone Ranger
+https://dai.google.com/linear/hls/event/dRKvXuioSv-e5T65yR_7Ow/master.m3u8
+#EXTINF:-1 tvg-id="The Lucy Show" tvg-name="The Lucy Show" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/dbd51b97-8863-49a7-b6cf-f092f4676cf4-small3x1_stirr_0120_epg_TheLucyShow_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",The Lucy Show
+https://dai.google.com/linear/hls/event/-s-FtbzrQCaLMDSyM0ejyw/master.m3u8
+#EXTINF:-1 tvg-id="The Pet Collective" tvg-name="The Pet Collective" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/924f1362-0d11-488e-9644-42a7bae0a5cf-small3x1_stirr_1219_epg_thepetcollective_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",The Pet Collective
+https://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
+#EXTINF:-1 tvg-id="Truly" tvg-name="Truly" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/ed531a2a-04cd-4845-a419-cc46ed05333b-small3x1_STIRR_Logo_0320_Truly_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Truly
+https://dai.google.com/linear/hls/event/Xu-I6qGiSTKeu6glzS4BtQ/master.m3u8
+#EXTINF:-1 tvg-id="The T" tvg-name="The T" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/887ab420-6923-4600-b1ed-3cba74db10fd-small3x1_STIRR_Logo_0320_TheT_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",The T
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
+#EXTINF:-1 tvg-id="Unsolved Mysteries" tvg-name="Unsolved Mysteries" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/5cf60259-ce44-452f-a8a1-cb33585ea701-small3x1_stirr_1219_epg_unsolvedmysteries_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Unsolved Mysteries
+https://dai.google.com/linear/hls/event/iLjE1UKtRCiSNkFatA65bg/master.m3u8
+#EXTINF:-1 tvg-id="Waypoint" tvg-name="Waypoint" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/ef688958-0beb-430c-be30-6bf2ba3c6b1a-small3x1_STIRR_Logo_0320_WaypointTV_1920x1080_EPG.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",Waypoint
+https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8
+#EXTINF:-1 tvg-id="Whose Line Is It Anyway" tvg-name="Whose Line Is It Anyway" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/ed57e0b9-7f78-4203-a1d9-b0f542ca856a-small3x1_stirr_1219_epg_whoselineisitanyway_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",Whose Line Is It Anyway
+https://dai.google.com/linear/hls/event/SYob3ZZfTwyVW7LILC9ckw/master.m3u8
+#EXTINF:-1 tvg-id="Wiseguy" tvg-name="Wiseguy" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/5e3b98cb-3de9-4bb2-b775-e487f3a117ca-small3x1_stirr_1219_epg_wiseguy_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Wiseguy
+https://dai.google.com/linear/hls/event/kv03O_9RS8-uRahEGtDcjA/master.m3u8
+#EXTINF:-1 tvg-id="Whistle TV" tvg-name="Whistle TV" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/2cbf9983-6f7c-49f0-8343-416f93d9e8ed-small3x1_STIRR_Logo_0320_WhistleTV_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Whistle TV
+https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8
+#EXTINF:-1 tvg-id="Wipeout Xtra" tvg-name="Wipeout Xtra" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/8bb7cca9-e66e-4776-a70b-b22add0e368c-small3x1_STIRR_Logo_0620_Wipeout_1920x1080_EPG1.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Wipeout Xtra
+https://dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8
+#EXTINF:-1 tvg-id="World Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b0bcc7de-1b66-4bb0-aaba-f6b124b6446e-small3x1_STIRR_Logo_0520_WorldPokerTour_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",World Poker Tour
+https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
