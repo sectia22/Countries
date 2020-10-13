@@ -1,6 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="***************** ESTONIA  ***********" tvg-id="" group-title="" tvg-logo="",***************** ESTONIA  ***********
-http://egress.cdn.mind.ee/tallinnatv_live/_definst_/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/Tallinna_Televisioon_Estonia.jpg" group-title="ESTONIA",Tallinna TV
-http://egress.cdn.mind.ee/tallinnatv_live/_definst_/smil:live.smil/playlist.m3u8
+https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss-kval2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ETV+" tvg-logo="https://static.iptv-epg.com/ee/ETV2.ee.png" group-title="ESTONIA",ETV+
+https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss-kval2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ETV" tvg-logo="https://static.iptv-epg.com/ee/ETV.ee.png" group-title="ESTONIA",ETV
+https://errstreams4.cdn.eurovisioncdn.net/live/etv-kval2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ETV 2" tvg-logo="https://static.iptv-epg.com/ee/ETVPlus.ee.png" group-title="ESTONIA",ETV 2
+https://errstreams4.cdn.eurovisioncdn.net/live/etv2-kval2/index.m3u8
