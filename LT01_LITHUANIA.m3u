@@ -8,15 +8,5 @@ https://sb.err.ee/live/etv.m3u8
 https://errstreams4.cdn.eurovisioncdn.net/live/etv2-kval0/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/ETV%2B_logo.png/225px-ETV%2B_logo.png" group-title="LITHUANIA",ETV+
 https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss-kval0/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LNK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/LNK_television_logo.png/450px-LNK_television_logo.png" group-title="LITHUANIA",LNK
-http://185.176.117.243/live/eds/LNK/HLS_encr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/LRT_Lituanica.png" group-title="LITHUANIA",LRT
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport1" tvg-logo="https://i.imgur.com/ksZ53A1.png" group-title="LITHUANIA",Sport1
-http://185.176.117.243/live/eds/Sport1/HLS_encr/Sport1.m3u8
-#EXTINF:-1 tvg-id="tv3-lt" tvg-name="TV3" tvg-logo="https://i.imgur.com/jnfOI3O.png" group-title="LITHUANIA",TV3
-http://185.176.117.243/live/eds/TV3_LT_HD/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-id="tv6-lt" tvg-name="TV6" tvg-logo="https://i.imgur.com/TAeWSud.jpg" group-title="LITHUANIA",TV6
-http://185.176.117.243/live/eds/TV6_LT_SD/HLS_encr/index.m3u8
-#EXTINF:-1 tvg-id="tv8-lt" tvg-name="TV8" tvg-logo="https://i.imgur.com/pYogpSY.png" group-title="LITHUANIA",TV8
-http://185.176.117.243/live/eds/TV8_LT_SD/HLS_encr/index.m3u8
