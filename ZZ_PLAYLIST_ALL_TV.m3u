@@ -240,9 +240,9 @@ https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/chunklist_w2039
 https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/720p-playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="La Tele" tvg-logo="https://i.imgur.com/JiAnDPu.png" group-title="SWITZERLAND",La Tele
 https://latele.vedge.infomaniak.com/livecast/latele/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LFM TV" tvg-logo="https://i.imgur.com/UE1E3uH.png" group-title="SCHWEIZ;MUSIK",LFM TV
+#EXTINF:-1 tvg-id="" tvg-name="LFM TV" tvg-logo="https://i.imgur.com/UE1E3uH.png" group-title="SWITZERLAND;MUSIK",LFM TV
 https://edge4.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8?spark=cf45faac-ae15-4c71-92c5-6c3527ed8e0f&token=
-#EXTINF:-1 tvg-id="" tvg-name="Musig24" tvg-logo="https://i.imgur.com/A21WS1A.png" group-title="SCHWEIZ;MUSIK",Musig24
+#EXTINF:-1 tvg-id="" tvg-name="Musig24" tvg-logo="https://i.imgur.com/A21WS1A.png" group-title="SWITZERLAND;MUSIK",Musig24
 https://58b42f6c8c9bf.streamlock.net:8080/live/musig24/chunklist_w135827796.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="One TV" tvg-logo="https://i.imgur.com/YEQ957V.png" group-title="SWITZERLAND",One TV
 https://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8
@@ -254,7 +254,7 @@ https://livestream.gruppocdt.ch/hls/radio3i.m3u8
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_uv9hs4ww/sd/6000/t/wrKSSij4alVi5jiCA3spVQ/index-s32.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Pilatus (Webradio)" tvg-logo="https://i.imgur.com/lQzG2lg.png" group-title="SWITZERLAND",Radio Pilatus (Webradio)
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WGs1jsk.png" group-title="SCHWEIZ;MUSIK",Radio Pilatus (Webradio)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WGs1jsk.png" group-title="SWITZERLAND;MUSIK",Radio Pilatus (Webradio)
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rouge TV" tvg-id="RougeTV.ch" tvg-logo="https://i.imgur.com/PzF6q9I.png" group-title="SWITZERLAND",Rouge TV
 https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
@@ -394,7 +394,7 @@ https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-HBCU/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/HSN.png" group-title="USA",HSN
 https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jis8xic.png" group-title="USA,MUSIK",Hot Rock TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jis8xic.png" group-title="USA;MUSIK",Hot Rock TV
 https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5X0GYny.png" group-title="USA",HSN 2
 https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
@@ -570,7 +570,7 @@ http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_
 http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Local Now Philidelphia" tvg-logo="https://lh3.googleusercontent.com/9AnBf9_s5RDDg6joBI3kPqglfVddV72Esw1jGBc4rGzlxUElacw4UQy_z2CTVnI7vHgZXDQbqp2Gw5UqzD3uvzkJXfT0YZbxKmoeNMo" group-title="USA LOCAL",Local Now Philidelphia
 https://ottmanifest.weathergroup.com/live/10.233.185.101:58081/api/v1/live/hls/localnow/index.m3u8?network=OTT&experienceid=paPhiladelphia&seid=532865b2-796b-497d-abb2-56df16f62f32&showlocalnow=false&cdn=https%3a//ottcdn-a.akamaihd.net&sessionId=LocalNowWeb_bW9jLm9vYWNiQDM4NzkwZXd0&format=HLS&tpp=10443
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/YnOZtNm.png" group-title="Religious",LoveWorld USA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/YnOZtNm.png" group-title="USA LOCAL",LoveWorld USA
 https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8
 #EXTINF:-1 tvg-name="Metro Cable Network" tvg-id="Metro Cable" group-title="USA LOCAL" tvg-logo="http://75.146.183.54:2080/Cablecast/Public/Logos/1/MCN-Vimeo-Logo.png",Metro Cable Network
 http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
@@ -756,7 +756,7 @@ https://nimble.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8
 https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8
 #EXTINF:-1 tvg-name="Movee 4U" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="https://i.imgur.com/cb3fbiu.png",Movee 4U
 https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RZKS8XS.png" group-title="ENTERTAINMENT",My Life TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RZKS8XS.png" group-title="MYTVTOGO USA",My Life TV
 https://edge1.dashmedia.tv/onestudio/my_life_4u/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RMnzfj1.png" group-title="USA",Opportunity Knocks TV
 https://nimble.dashstreams.net/onestudio/myoktv/chunks.m3u8
@@ -1566,7 +1566,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e281b0b8840007
 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=5c6dc88fcd232425a6e0f06e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-name="Pluto TV Thrillers" tvg-logo="https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/colorLogoPNG.png" group-title="Pluto ",Pluto TV Thrillers
+#EXTINF:-1 tvg-name="Pluto TV Thrillers" tvg-logo="https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/colorLogoPNG.png" group-title="PLUTO USA",Pluto TV Thrillers
 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=74&deviceId=5b4e69e08291147bd04a9fd7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Pluto TV Travel" tvg-logo="https://images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png" group-title="PLUTO USA",Pluto TV Travel
@@ -2360,7 +2360,7 @@ plugin://plugin.video.youtube/play/?video_id=kZnhMpR_w78
 #EXTINF:-1 tvg-name="TVM 1" tvg-id="" group-title="MALTA" tvg-logo="",TVM
 https://live.23video.com/live/amlst:d4n7nueks81hj53mshgfqqvj5b:16966825-2ca040dbfeea9e5cb868.mp4/playlist.m3u8?referer=https://www.tvm.com.mt/mt/tvmi/live/&uuid=d752ada7-0289-0c92-8104-408700e788ea
 
-#EXTINF:-1 tvg-id="***************** NETHERLANDS ***********" tvg-name="**************** NETHERLANDS ***********" tvg-shift="0" radio="" tvg-logo="" group-title="NL",******************* HOLLAND ************
+#EXTINF:-1 tvg-id="" tvg-name="**************** NETHERLANDS ***********",**************** NETHERLANDS ***********
 https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wYbO6ch.jpg" group-title="NETHERLANDS",BNR Nieuwsradio (Webradio)
 https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
@@ -2380,7 +2380,7 @@ http://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8
 https://streams.uitzending.tv/gigantfm/gigantfm/chunklist_w666692457.m3u8
 #EXTINF:-1 tvg-id="L1 TV NL" tvg-name="L1 Limburg" tvg-logo="https://i.imgur.com/8bqkwkG.png" group-title="NETHERLANDS",L1 Limburg
 https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zAFt893.png" group-title="HOLLAND;MUSIK",GO-RTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zAFt893.png" group-title="NETHERLANDS;MUSIK",GO-RTV
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hG2k4QL.png" group-title="NETHERLANDS",Meer TV
 http://593aed234297b.streamlock.net/meervandaag/meervandaag/chunklist_w733465808.m3u8
@@ -2467,7 +2467,7 @@ https://streams.uitzending.tv/zo34/zo34/playlist.m3u8
 #EXTINF:-1 tvg-id="Zuid West TV" tvg-name="Zuid West TV" tvg-shift="0" radio="" tvg-logo="https://www.zuidwesttv.nl/images/zwtv_fb.png" group-title="NETHERLANDS",Zuid West TV
 https://olon.ctl.cdn.ebsd.ericsson.net/L8B/2cc7091a/dc57b750.isml/.m3u8
 
-#EXTINF:-1 tvg-id="******************** BELGIUM ************" tvg-name="******************** BELGIUM ************" tvg-shift="0" radio="" tvg-logo="" group-title="BELGIUM",******************** BELGIEN ************
+#EXTINF:-1 tvg-id="" tvg-name="******************** BELGIUM ************",******************** BELGIUM ************
 https://594a365b4a1b2.streamlock.net/matele/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="Antenne Centre TV" tvg-name="ACTV.be" tvg-shift="0" radio="" tvg-logo="https://i.imgur.com/wLCwmnr.jpg" group-title="BELGIUM",Antenne Centre TV
 https://tvl-live-prp.fl.freecaster.net/live/actv/actv.m3u8
@@ -2501,7 +2501,7 @@ https://594a365b4a1b2.streamlock.net/matele/live/chunklist_w1413980839.m3u8
 https://live-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
 #EXTINF:-1 tvg-id="NoTélé" tvg-name="NoTélé" tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="BELGIUM",NoTélé
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1424854023.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Q-Music (Webradio)" tvg-logo="https://i.imgur.com/s0CZjmi.png" group-title="BELGIEN;MUSIK",Q-Music (Webradio)
+#EXTINF:-1 tvg-id="" tvg-name="Q-Music (Webradio)" tvg-logo="https://i.imgur.com/s0CZjmi.png" group-title="BELGIUM;MUSIK",Q-Music (Webradio)
 https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
 #EXTINF:-1 tvg-id="Radio Contact" tvg-name="Radio Contact (Webradio)" tvg-shift="0" radio="" tvg-logo="https://www.radiocontact.be/GED/00110000/118600/118657.png" group-title="BELGIUM",Radio Contact (Webradio)
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
@@ -2522,7 +2522,7 @@ https://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
 
 #EXTINF:-1 tvg-id="Vedia" tvg-name="Vedia" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Vedia_logo.jpg" group-title="BELGIUM",Vedia
 https://tvl-live-prp.fl.freecaster.net/live/vedia/vedia.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XITE BE" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="BELGIEN;MUSIK",XITE BE
+#EXTINF:-1 tvg-id="" tvg-name="XITE BE" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="BELGIUM;MUSIK",XITE BE
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
 
 #EXTINF:-1 tvg-id="******************* LUXEMBOURG ************" tvg-name="******************* LUXEMBOURG ************" tvg-shift="0" radio="" tvg-logo="" group-title="",******************* LUXENBURG ************
@@ -2594,7 +2594,7 @@ https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791553.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Västmanlands Television" tvg-logo="https://i.imgur.com/Mol9GKz.jpg" group-title="SWEDEN",Västmanlands Television
 https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="******************* NORWAY ***************" tvg-shift="0" radio="" tvg-logo="" group-title="NO",******************* NORWAY ***************
+#EXTINF:-1 tvg-id="" tvg-name="******************* NORWAY ***************" tvg-logo="",******************* NORWAY ***************
 https://digicom.hls.iptvdc.com/tvplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gatebil TV" tvg-logo="https://i.imgur.com/dUqwvLz.png" group-title="NORWAY",Gatebil TV
 https://digicom.hls.iptvdc.com/tvplus/tracks-v1a1/mono.m3u8
@@ -2618,7 +2618,7 @@ https://ruvruverl-live-hls.secure.footprint.net/0e84e84137e292e51003f97b3681924e
 #EXTINF:-1 tvg-id="" tvg-name="RUV 2" tvg-logo="http://www.ruv.is/sjonvarp/static/media/RUV2_192.9247daaf.png" group-title="ICELAND",RUV 2
 http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruv2/index/stream5.m3u8
 
-#EXTINF:-1 tvg-id="************* FINLAND ***************" tvg-name="************* FINLAND ***************" tvg-shift="0" radio="" tvg-logo="" group-title="FI",---- SENDER FINNLAND ----
+#EXTINF:-1 tvg-id="" tvg-name="************* FINLAND ***************",************* FINLAND ***************
 https://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/index_2764_av-p.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Taivas TV7" tvg-logo="https://i.imgur.com/pIYSEUN.jpg" group-title="FINLAND",Taivas TV7
 http://vod.tv7.fi:1935/tv7-fi/tv7-fi.stream_720p/chunklist_w2131949141.m3u8
@@ -3772,11 +3772,7 @@ https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 #EXTINF:-1 tvg-name="*********** AFGHANISTAN PASHTO ********" tvg-id="" group-title="" tvg-logo="",*********** AFGHANISTAN PASHTO ********
 https://92news.vdn.dstreamone.net/92newshd/92hd/chunklist_w597745317.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",92 News Live
-https://92news.vdn.dstreamone.net/92newshd/92hd/chunklist_w597745317.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Afghan Javan
-http://livestream.5centscdn.com/459_push_211/test2/index.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Afghan Time TV
-http://iptv.afghantimetv.com/afghantime/playlist1/index.m3u8
+plugin://plugin.video.youtube/play/?video_id=nfUadtimczM
 #EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Andisheh
 http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Ariana Afghan
@@ -3792,49 +3788,35 @@ https://d2g7v53450s2i2.cloudfront.net/ATNUS/myStream/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Ayeneh TV
 https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/index.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Bahar TV
-http://iptv.bahartv-af.com/bahartv/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Baano TV
-http://51.15.242.185/hls/stream.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Batur TV
-http://173.208.166.179/batur-tv-live-789-456-123-asdf-fuck-off/tracks-v1a1/mono.m3u8
+https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Caltex Music TV
 http://vid1.caltexmusic.com/hls/caltextv.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Channel 1
 http://livestream.5centscdn.com/cls040317/0070c5b7ef083bdc8de09065c61a34d8.sdp/index.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Dubai One
-http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Dubai One (English)
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/media.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",EBC1 TV
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Ganje Hozoor
 http://topfi.ios.internapcdn.net/topfi/live_1/Test/Test.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Hewad TV
-http://173.208.166.179/hewad_tv_live-741zxc_fuckoff-789g_ghjkl_hj963klj123/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",High Vision TV
-https://streamer1.connectto.com/HIGHVISION_WEB_1205/highvision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",iFilm Persian
-http://mn-nl.mncdn.com/ifilm/smil:ifilmfa.smil/index.m3u8
+https://live2.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Iman TV
-http://52.88.26.55:1935/imantv/imantv/playlist.m3u8
+https://59d39900ebfb8.streamlock.net/imantv/imantv/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Iran International
-https://svs.itworkscdn.net/iinternationallive/iintl.smil/playlist.m3u8
+https://live.playstop.me/1816184091/index.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",IRIB Pooya
-http://185.37.52.131:3001/m3u8/314/hd?auth=UqzVRdELM2ve4ZLI1waiENF1Ysgq&amp.m3u8
+https://sade2.telewebion.com/devices/_definst_/pooya-500k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEwLzEzLzIwMjAgNTo1NDo1NyBBTSZoYXNoX3ZhbHVlPXBpVUhaSVRQVWc1a0hxbGtodnlFZmc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
 #EXTINF:-1 group-title="AFGHANISTAN",Israel Pars TV
-http://66.160.192.249:8080/asaltv2/live/index.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Jahan TV
-http://173.208.166.179/jahan_numa_tv_live-486asdf456_fuck_ghjk123zxcv458wxyz-fuck-off/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Kabul TV US
-http://1-fss27-s0.streamhoster.com/lv_kabultv/_definst_/kabultvus/chunklist.m3u8
+https://live.pars-israel.com/iptv/stream.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Kalemeh TV
 http://184.75.208.98:1935/live/kalemeh/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Kayhan TV
 http://208.93.117.113/live/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Khurshid
-http://173.208.166.179/khurshid_tv_live-ca7a6po-kosnana-a28b7_789abc_63664be7c2df49a4e888555-dont-copy/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Lemar
-http://173.208.166.179/lemar_tv_live-1c333-kos-moth-auiopa-bastard-fuck-off-1935f99f6-Dozd_zxcv555/playlist.m3u8
+https://afghantvchannels.ddns.net:30443/afghantvchannels-IOS/Khurshid-TV-ios-new/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Manoto TV
-https://dzll8dnb13thz.cloudfront.net/live_1500.m3u8
+https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Mihan TV
 http://iptv.mihantv.com/live/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Mohabat TV
@@ -3844,47 +3826,41 @@ http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Omid Javedan
 http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/index.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Pamir TV
-http://live.pamir.tv/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/tracks-v1a1/mono.m3u8
+http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Parnian TV
-https://dcunilive28-lh.akamaihd.net/i/dclive_1@529746/master.m3u8
+https://live2.parnian.tv/hls/live/play.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",ParsiLand TV
 http://vps.parsiland.net/hls/ParsiLand.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Payvand TV
 http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Payam-E-Afghan
-http://livestream.5centscdn.com/live12345/payameafghantv.stream/index.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",Payame Afghan
+http://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Persian Bazar
 http://stream.persiantv1.com/ptv1/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Radio Farda TV
 https://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Radio Javan TV
 https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Royal Time TV
-http://stream.rtimetv.com/rtimetv/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Sat7 Pars
-http://unirtmp.tulix.tv:1935/sat7pars/satparslive-web.smil/playlist.m3u8
+https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Shabakeh 7
-http://97.107.115.84:1935/live/myStream2/playlist.m3u8
+http://rtmp.abnsat.com/hls/txministry.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Shamshad
-http://173.208.166.179/shamshad_tv_live-ca999_mothfu-kuni_bastard_ca963c53664be7c2df49a4-dont-copy/playlist.m3u8
+https://54627d4fc5996.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Simaye Azadi
 https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Tapesh
 http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",TIN TV
-https://tna6.tulix.tv/live/tintv-demo.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Tolo
-http://51.75.133.50/Kos--Madar_basheh-harki-copie-koneh/index.m3u8
+https://unirtmp.tulix.tv/tintv/tintv/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Tolo News
-plugin://plugin.video.youtube/play/?video_id=DUOSXis8b-c
+plugin://plugin.video.youtube/play/?video_id=bgxl46AVt3E
 #EXTINF:-1 group-title="AFGHANISTAN",Tuti Tv
 https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",VOA Persian
 https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",WATAN-E-MAA
 http://cdn24.live247stream.com/watanemaa/tv/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Zhwandoon
-http://173.208.166.179/zhwandoon_tv_live-ca76ca2c8763_mothfuckoff-you664be7-dozd-lanati-kona-warkawa-c2df49a4/playlist.m3u8
 
 #EXTINF:-1 tvg-name="******************** MUSIC ************" tvg-id="" group-title="" tvg-logo="",****************** MUSIC ************
 https://secure7.todostreaming.es/live/101tv-web101tv.m3u8
@@ -3896,7 +3872,7 @@ https://eco.streams.ovh/BarazaClassic/BarazaClassic/playlist.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-blackartist/index.m3u8
 #EXTINF:-1 tvg-name="Black Music Artist TV" tvg-id="" group-title="MYTVTOGO USA;MUSIK" tvg-logo="https://www.ginikousa.com/channels/logo/-black-music-artist.jpg",Black Music Artist TV
 https://nimble.dashstreams.net/onestudio/blackmusicartist/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Brandnite TV" tvg-logo="https://i.imgur.com/XNiWKvL.png" group-title="ÖSTERREICH;MUSIK",Brandnite TV
+#EXTINF:-1 tvg-id="" tvg-name="Brandnite TV" tvg-logo="https://i.imgur.com/XNiWKvL.png" group-title="AUSTRIA;MUSIK",Brandnite TV
 https://markenfunk.tv/plive/chunks.php?tenant=brandnite&id=48c8fa3d82fe3afa989c641eca4538c0&variant=2
 #EXTINF:-1 tvg-name="CMC (US)" tvg-id="CMC 2" group-title="MUSIK" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cmc.png",CMC 2 (US)
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
@@ -3914,7 +3890,7 @@ https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
 https://www.djing.com/tv/28645-04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eurtz6A.png" group-title="MUSIK",Euro Indie Music Chart
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zAFt893.png" group-title="HOLLAND;MUSIK",GO-RTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zAFt893.png" group-title="NETHERLANDS;MUSIK",GO-RTV
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hit Music Channel" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Hit_music_channel1.png" group-title="MUSIK",Hit Music Channel
 http://hitmusic.hu/hitmusic.m3u8
@@ -3923,9 +3899,9 @@ https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
 #EXTINF:-1 tvg-id="KISS.uk" tvg-name="Kiss" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Kiss_Network_logo.svg/338px-Kiss_Network_logo.svg.png" group-title="UK;MUSIK",Kiss
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
 
-#EXTINF:-1 tvg-id="" tvg-name="KroneHit TV" tvg-logo="https://i.imgur.com/tLwBOtU.jpg" group-title="ÖSTERREICH;MUSIK",KroneHit TV
+#EXTINF:-1 tvg-id="" tvg-name="KroneHit TV" tvg-logo="https://i.imgur.com/tLwBOtU.jpg" group-title="AUSTRIA;MUSIK",KroneHit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LFM TV" tvg-logo="https://i.imgur.com/UE1E3uH.png" group-title="SCHWEIZ;MUSIK",LFM TV
+#EXTINF:-1 tvg-id="" tvg-name="LFM TV" tvg-logo="https://i.imgur.com/UE1E3uH.png" group-title="SWITZERLAND;MUSIK",LFM TV
 https://edge7.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w1230106190_b3000000.m3u8?spark=625bf5d7-210c-49c0-96af-3663c8de1d1d&token=
 #EXTINF:-1 tvg-id="" tvg-name="Magic" tvg-logo="https://i.imgur.com/HXfKkwj.png" group-title="UK;MUSIK",Magic
 
@@ -3943,7 +3919,7 @@ http://rtl-radio-stream-thron.akamaized.net/live-video/video2/ngrp:video2/chunkl
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ghLKlHs.png" group-title="MUSIK",Radio m20 Lazio
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WGs1jsk.png" group-title="SCHWEIZ;MUSIK",Radio Pilatus (Webradio)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WGs1jsk.png" group-title="SWITZERLAND;MUSIK",Radio Pilatus (Webradio)
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Reload Radio" tvg-logo="https://www.radioreload.it/wp-content/uploads/2019/05/Logo-Radio-Reload-black.png" group-title="MUSIK",Reload Radio
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
@@ -3967,7 +3943,7 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w10384273
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 tvg-name="Urban Music" tvg-id="" group-title="MUSIK" tvg-logo="https://www.ginikousa.com/channels/logo/urban-music-4u.jpg",Urban Music
 https://nrpus.bozztv.com/36bay2/gusa-urbanmusic4u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XITE" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="BELGIEN;MUSIK",XITE
+#EXTINF:-1 tvg-id="" tvg-name="XITE BE" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="BELGIUM;MUSIK",XITE BE
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
 
 #EXTINF:-1 tvg-name="******************** Pluto Germany ***********" tvg-id="" group-title="" tvg-logo="",******************* Pluto Germany ***********
@@ -4091,7 +4067,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0
 #EXTINF:-1 tvg-name="AFN Radio" group-title="RADIO" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/AFN_TV.jpg",AFN Radio
 http://14953.live.streamtheworld.com/AFN_LGY.mp3
 #EXTINF:-1 tvg-name="Fun Radio 92.7 Alabama" group-title="RADIO" radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/WAFN-FM_logo.png",Fun Radio 92.7 Alabama
-http://edge1-b.exa.live365.net/a20884_live365
+https://ais-edge07-live365-dal02.cdnstream.com/a20884
 #EXTINF:-1 tvg-name="105'5 Spreeradio" group-title="RADIO" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1055spreeradio.png",105'5 Spreeradio
 http://stream.spreeradio.de/spree-live/mp3-128/konsole
 #EXTINF:-1 tvg-name="105'5 Spreeradio 80er" group-title="RADIO" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1055spreeradio.png",105'5 Spreeradio 80er
