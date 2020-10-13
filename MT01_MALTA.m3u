@@ -4,5 +4,6 @@
 plugin://plugin.video.youtube/play/?video_id=kZnhMpR_w78
 #EXTINF:-1 tvg-name="TVM News" tvg-id="" group-title="MALTA" tvg-logo="",TVM News
 plugin://plugin.video.youtube/play/?video_id=kZnhMpR_w78
-#EXTINF:-1 tvg-name="TVM 1" tvg-id="" group-title="MALTA" tvg-logo="",TVM
-https://live.23video.com/live/amlst:d4n7nueks81hj53mshgfqqvj5b:16966825-2ca040dbfeea9e5cb868.mp4/playlist.m3u8?referer=https://www.tvm.com.mt/mt/tvmi/live/&uuid=d752ada7-0289-0c92-8104-408700e788ea
+#EXTINF:-1 tvg-name="TVM 1" tvg-id="" group-title="MALTA" tvg-logo="",TVM 1
+https://live.23video.com/live/amlst:hih4qbv63sn6g1rn8aoim1sidt:16966825-2ca040dbfeea9e5cb868.mp4/chunklist_b1128000.m3u8
+
