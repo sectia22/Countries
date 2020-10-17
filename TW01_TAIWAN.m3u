@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="*************** TAIWAN ***********",***************** TAIWAN ***********
+plugin://plugin.video.youtube/play/?video_id=sUjmSeE7vUE
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tw-cbtv-taiwan.jpg" group-title="TAIWAN",CBTV
+plugin://plugin.video.youtube/play/?video_id=sUjmSeE7vUE
+#EXTINF:-1 tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?deviceType=3&imageId=OTTLIVE_0000001752.png" group-title="TAIWAN",CNEX
+http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
+#EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/cti_tv_news.png" group-title="TAIWAN",CTI TV News
+plugin://plugin.video.youtube/play/?video_id=wUPPkSANpyo
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tw-cts-taiwan-news.jpg" group-title="TAIWAN",CTS
+plugin://plugin.video.youtube/play/?video_id=PQLMD4iHhG8
+#EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/da_ai_tv_tw.png" group-title="TAIWAN",Da Ai TV
+plugin://plugin.video.youtube/play/?video_id=oV_i3Hsl_zg
+#EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/ebc_tw_news.png" group-title="TAIWAN",EBC News
+plugin://plugin.video.youtube/play/?video_id=63RmMXCd_bQ
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tw-taiwan-formosa-tv.jpg" group-title="TAIWAN",Formosa
+plugin://plugin.video.youtube/play/?video_id=XxJKnDLYZz4
+#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/902.png" group-title="TAIWAN",FTV News
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tw-hakka-tv-3678-300x225.jpg" group-title="TAIWAN",Hakka TV
+plugin://plugin.video.youtube/play/?video_id=LWwepk1p5kE
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tw-hwazan-satellite-tv-3720-300x225.jpg" group-title="TAIWAN",HZTV
+plugin://plugin.video.youtube/play/?video_id=eC0uICSnm14
+#EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/taiwan_indigenous_tv.png" group-title="TAIWAN",Indigenous TV
+http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="TAIWAN",Legislative Yuan
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="TAIWAN",Set News
+plugin://plugin.video.youtube/play/?video_id=4ZVUmEUFwaY
+#EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/sjtv_star_tw.png" group-title="TAIWAN",SJTV Taiwan
+http://220.130.241.203:1935/sjtv/livestream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/ttv-news-tw.png" group-title="TAIWAN",TTV NEWS
+plugin://plugin.video.youtube/play/?video_id=xL0ch83RAK8
+#EXTINF:-1 tvg-logo="https://tv.itver.cc/wp-content/uploads/2014/04/TVBS-G.jpg" group-title="TAIWAN",TVBS
+http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
