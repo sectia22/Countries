@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="************** USA FILMRISE *********",************** USA FILMRISE  *********
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTINF:- tvg-name="Filmrise Classics" 1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71te2lAHq5L._SY355_.png" group-title="USA",Filmrise Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1  tvg-name="Filmrise Family" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81VZaxj6a1L._SY355_.png" group-title="USA",Filmrise Family
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
+#EXTINF:-1 tvg-name="FilmRise Forensic Files 24/7" tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="USA",FilmRise Forensic Files 24/7
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
+#EXTINF:-1 tvg-name="FilmRise Forensic Mysteries 24/7" tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="USA",FilmRise Mysteries 24/7
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
+#EXTINF:-1 tvg-name="Filmrise Movies" tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="USA",Filmrise Movies
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-name="FilmRise Sci-Fi" tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="USA",FilmRise Sci-Fi
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
