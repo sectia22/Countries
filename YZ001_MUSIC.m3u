@@ -1,7 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="******************** MUSIC ************" tvg-id="" group-title="" tvg-logo="",****************** MUSIC ************
-https://secure7.todostreaming.es/live/101tv-web101tv.m3u8
+http://51.158.31.93:1935/a2itvtwo/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A2i Music TV" tvg-logo="https://cdn.teleon.tv/logo/A2iTV-fr.jpeg" group-title="MUSIK",A2i Music TV
+http://51.158.31.93:1935/a2itvtwo/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="BaebleMusic" tvg-id="BaebleMusic" group-title="MUSIK" tvg-logo="",BaebleMusic
 https://dai1.xumo.com/bmneuerw7j9k5lfc/9999231/master.m3u8
 #EXTINF:-1 tvg-name="Baraza Music TV" tvg-id="Baraza Music TV" group-title="MUSIK" tvg-logo="https://www.gurudabeat.com/wp-content/themes/soundwave/images/logo.png",Baraza Music TV
@@ -12,12 +14,14 @@ https://nrpus.bozztv.com/36bay2/gusa-blackartist/index.m3u8
 https://nimble.dashstreams.net/onestudio/blackmusicartist/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Brandnite TV" tvg-logo="https://i.imgur.com/XNiWKvL.png" group-title="AUSTRIA;MUSIK",Brandnite TV
 https://markenfunk.tv/plive/chunks.php?tenant=brandnite&id=48c8fa3d82fe3afa989c641eca4538c0&variant=2
+#EXTINF:-1 tvg-id="" tvg-name="CDirect" tvg-logo="https://i.imgur.com/XjAxqDh.png" group-title="MUSIK",CDirect
+http://cms-streamaniak.top/Cdirect/CDIRECT/index.m3u8
 #EXTINF:-1 tvg-name="CMC (US)" tvg-id="CMC 2" group-title="MUSIK" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cmc.png",CMC 2 (US)
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ITALY;MUSIK",Deejay TV
-
 https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="D5 TV" tvg-logo="https://i.imgur.com/cThInij.png" group-title="MUSIK",D5 TV
+https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="DELUXEMUSIC (DE)" tvg-id="DeLuxeMusic.de" group-title="MUSIK" tvg-logo="http://logos.zattic.com/images/channels/logos/3fd5c0560659de243ed1/black/84x48.png",DELUXEMUSIC (DE)
 https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="DELUXEMUSIC (DE) 2" tvg-id="DeLuxeMusic.de" group-title="MUSIK" tvg-logo="http://logos.zattic.com/images/channels/logos/3fd5c0560659de243ed1/black/84x48.png",DELUXEMUSIC (DE) 2
@@ -30,21 +34,22 @@ https://www.djing.com/tv/28645-04.m3u8
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zAFt893.png" group-title="NETHERLANDS;MUSIK",GO-RTV
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gong" tvg-logo="https://i.imgur.com/k6bnmCc.jpg" group-title="MUSIK",Gong
+http://51.254.215.79/appflux/gong/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hit Music Channel" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Hit_music_channel1.png" group-title="MUSIK",Hit Music Channel
 http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jis8xic.png" group-title="USA;MUSIK",Hot Rock TV
 https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
 #EXTINF:-1 tvg-id="KISS.uk" tvg-name="Kiss" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Kiss_Network_logo.svg/338px-Kiss_Network_logo.svg.png" group-title="UK;MUSIK",Kiss
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
-
 #EXTINF:-1 tvg-id="" tvg-name="KroneHit TV" tvg-logo="https://i.imgur.com/tLwBOtU.jpg" group-title="AUSTRIA;MUSIK",KroneHit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LEEEKO TV" tvg-logo="https://i.imgur.com/96FfLIj.jpg" group-title="MUSIK",LEEEKO TV
+http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LFM TV" tvg-logo="https://i.imgur.com/UE1E3uH.png" group-title="SWITZERLAND;MUSIK",LFM TV
 https://edge7.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w1230106190_b3000000.m3u8?spark=625bf5d7-210c-49c0-96af-3663c8de1d1d&token=
 #EXTINF:-1 tvg-id="" tvg-name="Magic" tvg-logo="https://i.imgur.com/HXfKkwj.png" group-title="UK;MUSIK",Magic
-
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
-
 #EXTINF:-1 tvg-name="MTV Germany" tvg-id="MTVGermany.de" group-title="MUSIK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV_International_2009.svg/180px-MTV_International_2009.svg.png",MTV Germany
 http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-name="MTV Norway" tvg-id="MTV Norway" group-title="MUSIK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/MTV_Music_24.png",MTV Norway
@@ -53,6 +58,8 @@ https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="MUSIK",Otto FM TV
 http://217.182.192.240:8080/hls/ottofmtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Contact" tvg-logo="https://i.imgur.com/ekRMtra.png" group-title="MUSIK",Radio Contact
+https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O8ByUjT.png" group-title="ITALY;MUSIK",RADIO FRECCIA HD
 http://rtl-radio-stream-thron.akamaized.net/live-video/video2/ngrp:video2/chunklist_b2296000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bedxx0y.png" group-title="MUSIK",Radio Italia TV
