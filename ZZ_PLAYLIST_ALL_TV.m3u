@@ -3930,6 +3930,101 @@ https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="viaMirabelle" tvg-logo="https://i.imgur.com/YXUMEbi.png" group-title="FRANCE",viaMirabelle
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-name="***************** GEORGIA  ***********",***************** GEORGIA  ***********
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1 TV" tvg-logo="https://i.imgur.com/0LJRlFz.png" group-title="GEORGIA",1 TV
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="2 TV" tvg-logo="https://i.imgur.com/VBmQCH7.png" group-title="GEORGIA",2 TV
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Abkhaz" tvg-logo="https://i.imgur.com/wvNSQ6v.png" group-title="GEORGIA",Abkhaz
+http://tv.cdn.xsg.ge/abkhaz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Agro TV" tvg-logo="https://i.imgur.com/wAenxoe.png" group-title="GEORGIA",Agro TV
+http://tv.cdn.xsg.ge/agrotv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Agrogaremo" tvg-logo="https://cdn.teleon.tv/logo/agrogaremo-tv.jpg" group-title="GEORGIA",Agrogaremo
+http://nue01-edge01.itdc.ge/agrogaremo/index.m3u8?token=5UixybNsV3oTk9p-pYxO7b4QbpyOasrPqhO0GHchLi-S4ATdTixpklVPxZJR6wJhrEjjnU-k4xMzTqP34iYZIIeqGEUAFJK-tkzbGE5nL5GVwyXOV7VOm2E77te_KK30h8DlBu_bOcm1iYMY-oTtf_cukElPSgeZ7ibelFCX-OcaQDjbCXEv__FmTbTI_VwjvRNhjxOOKTWsFRW_wX5xYcUB1Nzn_-EFg1ft1uxbbnuGPZbyNlVSY_5A4rYMGPuiWfbkmk8miRDcdsNuDEb4oqU-elLZCCfhBjDPUk05TX1pIdmsuRDUnXizFzf6AuLM
+
+#EXTINF:-1 tvg-id="" tvg-name="Artarea" tvg-logo="https://i.imgur.com/YDNBw1S.png" group-title="GEORGIA",Artarea
+http://tv.cdn.xsg.ge/artarea/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Ajara" tvg-logo="https://cdn.teleon.tv/logo/ajara_tv_ge.png" group-title="GEORGIA",Ajara
+http://nue01-edge01.itdc.ge/adjara/index.m3u8?token=lHs6tItKCKzO1JVc8ZB-apmF-gq92bpzxh5DTQz3Kd74_jW93zOcrmdeB1fjNfmF1FsXstxUdjpRgm1VoRKaAocpkEWQX6C0j8npNlluwsuEoJoXs22KKypzWtdmj44gwts03s-lZUBhVSj0BoTHD6gC6TjSdvPOm_FTHgUNWncLtJA0E0_c-od9teuVCRqo_K99lA6gZtQLs4faWdj0435wR2UaPvs5ZOakuz04cETl8Jja1VTViZ6nE70ohaMyZd0yPxod42tVEYsQQx1hMshnAB843yIRSAviL18vPc7L0bdqsN3NINZyUGddnfml
+#EXTINF:-1 tvg-id="" tvg-name="Batumi TV" tvg-logo="https://i.imgur.com/2gH4apJ.png" group-title="GEORGIA",Batumi TV
+http://tv.cdn.xsg.ge/batumitv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB" tvg-logo="https://i.imgur.com/R367t6c.png" group-title="GEORGIA",BBB
+http://tv.cdn.xsg.ge/bbb/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Caucasia" tvg-logo="https://i.imgur.com/D4ZfXqB.png" group-title="GEORGIA",Caucasia
+http://tv.cdn.xsg.ge/caucasia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Comedy" tvg-logo="https://i.imgur.com/mjsztRK.png" group-title="GEORGIA",Comedy
+http://tv.cdn.xsg.ge/comedy/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Dia TV" tvg-logo="https://i.imgur.com/YvH1Hll.png" group-title="GEORGIA",Dia TV
+http://tv.cdn.xsg.ge/diatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dro TV" tvg-logo="https://i.imgur.com/dR9q4HP.png" group-title="GEORGIA",Dro TV
+http://tv.cdn.xsg.ge/drotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ertsulovneba" tvg-logo="https://i.imgur.com/cuGSbgu.png" group-title="GEORGIA",Ertsulovneba
+http://tv.cdn.xsg.ge/ertsulovneba/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food TV" tvg-logo="https://i.imgur.com/Y8rrOmC.png" group-title="GEORGIA",Food TV
+http://tv.cdn.xsg.ge/foodtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Enki Benki" tvg-logo="https://cdn.teleon.tv/logo/enki-benki.jpg" group-title="GEORGIA",Enki Benki
+http://nue01-edge01.itdc.ge/enkibenki/index.m3u8?token=Mu9lSLwPDiZRhzNNEy3d32-jEHcL4b0nx4gAQBptm8R73-rxjw2LkdoaB2sPUzgjnf1w9O5VBQ6vSt-LSDaCB0d0oNWPqIe5fP8XyO1qge3b3OJ7pjFDMRwYIZi1hqaOHLtB6KzErZHa3x8UGDF5RznBj0qTD8ojpwwbiX4EHSYA5ZMoyQVaQF2YSk9cin_TsPzQKQlbonwmlTfDsSSxOFmCSSou4aVl2GQQjtNfuykc0QErkuZl2RqWjUEzFH62dNsf5Joh-kDVyIxWUMJl0GafRZSmeeDwpS1Il2aZxygYjxWV427vU5k-VMVavxJG
+#EXTINF:-1 tvg-id="" tvg-name="Formula" tvg-logo="https://i.imgur.com/sI6Grvu.png" group-title="GEORGIA",Formula
+http://tv.cdn.xsg.ge/formula/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="GDS TV" tvg-logo="https://i.imgur.com/6SfF9xB.png" group-title="GEORGIA",GDS TV
+http://tv.cdn.xsg.ge/gdstv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Guria TV" tvg-logo="https://i.imgur.com/PqZe2ej.png" group-title="GEORGIA",Guria
+http://tv.cdn.xsg.ge/guriatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Imedi" tvg-logo="https://i.imgur.com/0w6wIE7.png" group-title="GEORGIA",Imedi
+https://imedi-tv.cdn.xsg.ge/imedihd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Majestro" tvg-logo="https://i.imgur.com/6BKiBJ4.png" group-title="GEORGIA",Majestro
+https://hls.t.stream-dns.net/hls/maestro_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mall TV" tvg-logo="https://i.imgur.com/VUHpDJH.png" group-title="GEORGIA",Mall TV
+http://tv.cdn.xsg.ge/malltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Marneuli TV" tvg-logo="https://cdn.teleon.tv/logo/marneuli_tv_ge.png" group-title="GEORGIA",Marneuli TV
+http://nue01-edge01.itdc.ge/marneulitv/index.m3u8?token=-vFqMb7MNsGGTJ9kV-dJ2wCpyAoLzW6Q672Us1gdvfe_VTuA7PzaQJRMEKQOtDT1rWHzhiqjZyrNPdFyfbBaBLngd7Rjj_nlI44qcpR44HeN5F9i_iI5Angf9RIOSlcaUlUMVz49lg9Kjc07t51pDj4-rPvUw-Nebqzjwqcr6VMF7B30nRYMwz4c3XhH-lOyfZO4V5tKrldH8tVXiwsR8hQ0XAot_ijEqaQOn25A-7xoKA_V-H8H27XRvy-M3NoRHF3TKm0N2QN_lX8PfDsP_1ScFMm5aUP-xgoj1e_C0XQraq7HnfpbwsyNCBn0UKvX
+#EXTINF:-1 tvg-id="" tvg-name="Mtavari" tvg-logo="https://i.imgur.com/XAwZAH4.png" group-title="GEORGIA",Mtavari
+http://tv.cdn.xsg.ge/mtavari/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Obiektivi" tvg-logo="https://i.imgur.com/eZ90ovC.png" group-title="GEORGIA",Obiektivi
+http://tv.cdn.xsg.ge/obiektivi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Palitra News" tvg-logo="https://i.imgur.com/9QVZGow.png" group-title="GEORGIA",Palitra News
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Pirveli TV" tvg-logo="https://i.imgur.com/wJ1F3ob.png" group-title="GEORGIA",Pirveli TV
+http://tv.cdn.xsg.ge/pirvelitv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PKTV" tvg-logo="https://i.imgur.com/5x7MOzF.png" group-title="GEORGIA",PKTV
+http://tv.cdn.xsg.ge/pktv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POS TV" tvg-logo="https://cdn.teleon.tv/logo/pos-tv-ge.png" group-title="GEORGIA",POS TV
+http://nue01-edge01.itdc.ge/postv/index.m3u8?token=c-4yhpbQVnjY-ntSERjRCy3b3DJXNiP6qr7OG5TMME_GzjIbBsM0bYsaPW-0R6IKaB3WfwdpZ8qNvv7iZ4NAoUU5IuO19CZq1-tWJOXY_y0EvLhi2DTtCiOsDOZwwiL43foytjE7sS4eRSDWK7h20T-7-uI13H9KoeHK0JJb0bfnL9l_x8__RSTbSlLIr2iQ8Cy5Q-hW9-i04ThKusLgnA4niprXMjojc7KGPT-wSN3ZG4zTp5cTBpgK5EbVGgSO-MZKPgWIKS-CLtFTSZunbtYEf6okg4qpuwaVpsxanqvGJxXbEDSgG2quNOZQ4SZP
+#EXTINF:-1 tvg-id="" tvg-name="Quartuli Arxi" tvg-logo="https://cdn.teleon.tv/logo/qartuli-arxi.png" group-title="GEORGIA",Quartuli Arxi
+http://nue01-edge01.itdc.ge/kartuliarkhi/index.m3u8?token=B8LDHHGIh7ZhCgFUi23VBEGEGxNoOl9FJoJjKAg_N4QAm2xUdza1iCSvw_wtx62R0lUdxocBt86YV9VA0E7o2E40eLFzid877siOxlAxhd7Kag3JoR4rOtqnDZJPQVbs8yGSwU7C4BiIwiN5IF5zVSd6iCmswQh7ppcmiVeyDv87A5WonLlXpAI_X2L24FZF3wWL8c_1PCEXt6dzndufUMudJSflueDBb_QYZV-hXJK4ztLusrKTxRvBvdbXfYVXs_mPT0T5ev8ruehe8W5nbqMEVGBOfd9Oy8fXNnh_T5Xzsg_ZBW6_kRlDvpatIpe2
+#EXTINF:-1 tvg-id="" tvg-name="Rioni" tvg-logo="https://i.imgur.com/ns534rl.png" group-title="GEORGIA",Rioni
+http://tv.cdn.xsg.ge/rioni/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rugby" tvg-logo="https://i.imgur.com/85D9kPy.png" group-title="GEORGIA",Rugby
+http://tv.cdn.xsg.ge/rtv/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Rustavi 2" tvg-logo="https://www.rustavi2.ge/img/logo2018_ka.png" group-title="GEORGIA",Rustavi 2
+http://hls.t.stream-dns.net/hls/rustavi2/rustavi2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Shoni TV" tvg-logo="https://i.imgur.com/jW2cdVt.png" group-title="GEORGIA",Shoni TV
+http://tv.cdn.xsg.ge/shonitv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trialeti" tvg-logo="https://cdn.teleon.tv/logo/trialeti-ge.jpg" group-title="GEORGIA",Trialeti
+http://nue01-edge01.itdc.ge/trialeti/index.m3u8?token=X5W8t9pCr1e9VbWVOAqJlzyuq7oerVOFMsu_DSS_8np4kIGgV30fngnwGpYayPJLgc5P1sP09jeKHH7jiHugzHgAWs1WuOdUHpR2QmVzH6dI5JDSN6NGtWEbiNxzVl6c8quBQhHhJnVsT2Cdio5_cpZN4-ErzJ9f7-43UudmNiWr08KSNzEeEGNTdNcaAh9alivhHdAaPGhF_xt2WmMHf96O4jyq9Ady-DLw5y5lE61ikhv_3UmtH8hx6PucLXlJfnPJpgCITc-YQx13Witoc6NWuiuxvW4jTkphqmYrsQhLosrJe5hTkEqU8Yql898P
+#EXTINF:-1 tvg-id="" tvg-name="TV 24" tvg-logo="https://i.imgur.com/Zo9mGO2.png" group-title="GEORGIA",TV 24
+http://tv.cdn.xsg.ge/tv24/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 25" tvg-logo="https://i.imgur.com/0s8ThqI.png" group-title="GEORGIA",TV 25
+http://tv.cdn.xsg.ge/tv25/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Max" tvg-logo="https://i.imgur.com/6NJ2kdx.png" group-title="GEORGIA",TV Max
+http://tv.cdn.xsg.ge/tvmax/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universe HD Channel" tvg-logo="https://i.imgur.com/UadE0xZ.png" group-title="GEORGIA",Universe HD Channel
+http://tv.cdn.xsg.ge/universehd/playlist.m3u8
+
 #EXTINF:-1 tvg-name="******************** Pluto Germany ***********" tvg-id="" group-title="" tvg-logo="",******************* Pluto Germany ***********
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede45d077746000072be0fe/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=0&deviceId=5ede45d077746000072be0fe&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=true
 #EXTINF:-1 group-title="Pluto Germany" tvg-name="Auction Hunters" tvg-logo="https://images.pluto.tv/channels/5ede45d077746000072be0fe/colorLogoPNG.png" ,Auction Hunters
