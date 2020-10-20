@@ -5,7 +5,7 @@ https://media.webtvlive.eu/chd/_definst_/smil:chamber_tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Chamber TV" tvg-name="Chamber TV" tvg-shift="0" radio="" tvg-logo="" group-title="LUXEMBOURG",Chamber TV
 https://media02.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Eldoradio TV (Webradio)" tvg-logo="https://i.imgur.com/4ntor8S.png" group-title="LUXEMBOURG",Eldoradio TV (Webradio)
-https://live-edge.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
+https://live-edge.rtl.lu/eldotv/smil:eldotv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTL Tele Letzeburg" tvg-name="RTL Tele Letzeburg  (Webradio)" tvg-shift="0" radio="" tvg-logo="https://i.imgur.com/bJrUjIC.png" group-title="LUXEMBOURG",RTL Tele Letzeburg (Webradio)
 https://live-edge.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RTL Tele Letzeburg" tvg-name="RTL Tele 2 Letzeburg" tvg-shift="0" radio="" tvg-logo="https://i.imgur.com/bJrUjIC.png" group-title="LUXEMBOURG",RTL Tele Letzeburg
