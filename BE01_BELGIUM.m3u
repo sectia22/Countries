@@ -1,6 +1,5 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="******************** BELGIUM ************" tvg-name="******************** BELGIUM ************" tvg-shift="0" radio="" tvg-logo="" group-title="BELGIUM",******************** BELGIEN ************
+#EXTINF:-1 tvg-id="" tvg-name="******************** BELGIUM ************",******************** BELGIUM ************
 https://594a365b4a1b2.streamlock.net/matele/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="Antenne Centre TV" tvg-name="ACTV.be" tvg-shift="0" radio="" tvg-logo="https://i.imgur.com/wLCwmnr.jpg" group-title="BELGIUM",Antenne Centre TV
 https://tvl-live-prp.fl.freecaster.net/live/actv/actv.m3u8
@@ -14,6 +13,9 @@ http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal C" tvg-name="Canal C" tvg-logo="https://i.imgur.com/JJcnXUF.png" group-title="BELGIUM",Canal C
 http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal Zoom" tvg-name="Canal C" tvg-logo="https://i.imgur.com/uoSMNnr.png" group-title="BELGIUM",Canal Zoom
+http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="Canvas BE" tvg-name="Canvas BE" tvg-logo="https://i.imgur.com/xVgqbbT.jpg" group-title="BELGIUM",Canvas
 https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8
 #EXTINF:-1 tvg-id="City Music" tvg-name="City Music (Webradio)" tvg-logo="https://i.imgur.com/LJ4Hpdc.png" group-title="BELGIUM",City Music (Webradio)
@@ -34,7 +36,7 @@ https://594a365b4a1b2.streamlock.net/matele/live/chunklist_w1413980839.m3u8
 https://live-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
 #EXTINF:-1 tvg-id="NoTélé" tvg-name="NoTélé" tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="BELGIUM",NoTélé
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1424854023.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Q-Music (Webradio)" tvg-logo="https://i.imgur.com/s0CZjmi.png" group-title="BELGIEN;MUSIK",Q-Music (Webradio)
+#EXTINF:-1 tvg-id="" tvg-name="Q-Music (Webradio)" tvg-logo="https://i.imgur.com/s0CZjmi.png" group-title="BELGIUM;MUSIK",Q-Music (Webradio)
 https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
 #EXTINF:-1 tvg-id="Radio Contact" tvg-name="Radio Contact (Webradio)" tvg-shift="0" radio="" tvg-logo="https://www.radiocontact.be/GED/00110000/118600/118657.png" group-title="BELGIUM",Radio Contact (Webradio)
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
@@ -48,12 +50,14 @@ https://tvl-live-prp.fl.freecaster.net/live/telemb/telemb.m3u8
 https://tvl-live-prp.fl.freecaster.net/live/telesambre/telesambre.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Lux" tvg-logo="https://i.imgur.com/p2eKv46.jpg" group-title="BELGIUM",TV Lux
 https://tvl-live-prp.fl.freecaster.net/live/tvlux/tvlux.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Oost" tvg-logo="https://i.imgur.com/JFVEcEA.png" group-title="BELGIUM",TV Oost
+http://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8
+
 #EXTINF:-1 tvg-id="TVcom" tvg-name="TVcom" tvg-shift="0" radio="" tvg-logo="https://i.imgur.com/cRTCPo1.png" group-title="BELGIUM",TVcom
 https://5a0b00d270652.streamlock.net/live/tvcom-live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVL" tvg-logo="https://i.ibb.co/KGRYRmt/download.jpg" group-title="BELGIUM",TVL
 https://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
-
 #EXTINF:-1 tvg-id="Vedia" tvg-name="Vedia" tvg-shift="0" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Vedia_logo.jpg" group-title="BELGIUM",Vedia
 https://tvl-live-prp.fl.freecaster.net/live/vedia/vedia.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XITE BE" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="BELGIEN;MUSIK",XITE BE
+#EXTINF:-1 tvg-id="" tvg-name="XITE BE" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="BELGIUM;MUSIK",XITE BE
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
