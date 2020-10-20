@@ -35,11 +35,15 @@ https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
 https://biptv.tv/live/biptvstream_orig/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CDirect" tvg-logo="https://i.imgur.com/XjAxqDh.png" group-title="FRANCE",CDirect
 http://cms-streamaniak.top/Cdirect/CDIRECT/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="D5 TV" tvg-logo="https://i.imgur.com/cThInij.png" group-title="FRANCE",D5 TV
+#EXTINF:-1 tvg-id="" tvg-name="D5TV" tvg-logo="https://i.imgur.com/cThInij.png" group-title="FRANCE",D5TV
 https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dici TV" tvg-logo="https://i.imgur.com/A9yLdYZ.png" group-title="FRANCE",Dici TV
 http://dciwebcam.vedge.infomaniak.com/livecast/dciwebcam/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Dieu TV" tvg-logo="https://www.dieutv.com/img/logo.png" group-title="FRANCE",Dieu TV
+https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil%3adieutv.smil/720p-playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EMCI TV" tvg-logo="https://i.imgur.com/cgTJ9wW.jpg" group-title="FRANCE",EMCI TV
+https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ere TV" tvg-logo="https://i.imgur.com/YlN5Y5b.jpg" group-title="FRANCE",Ere TV
 http://api.new.livestream.com/accounts/7861901/events/8505052/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="FRANCE",Fashion TV
@@ -120,3 +124,5 @@ https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="viaMirabelle" tvg-logo="https://i.imgur.com/YXUMEbi.png" group-title="FRANCE",viaMirabelle
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="viaVosges" tvg-logo="https://www.viavosges.tv/videoimages/2018.09.28_via_vosges_SD-Vogestv.jpg" group-title="FRANCE",viaVosges
+https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
