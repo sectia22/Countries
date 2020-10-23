@@ -233,6 +233,8 @@ https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/720p-playlist
 https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="La Tele" tvg-logo="https://i.imgur.com/JiAnDPu.png" group-title="SWITZERLAND",La Tele
 https://latele.vedge.infomaniak.com/livecast/latele/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Leman Bleu" tvg-logo="https://icanlive.tv/pictures/lemanbleu.jpg" group-title="SWITZERLAND",Leman Bleu
+https://edge5.vedge.infomaniak.com/livecast/ik:naxoo/manifest.m3u8?spark=88728f76-440d-4265-8f6b-b8a776071e47&token=
 #EXTINF:-1 tvg-id="" tvg-name="LFM TV" tvg-logo="https://i.imgur.com/UE1E3uH.png" group-title="SWITZERLAND;MUSIK",LFM TV
 https://edge4.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8?spark=cf45faac-ae15-4c71-92c5-6c3527ed8e0f&token=
 #EXTINF:-1 tvg-id="" tvg-name="Musig24" tvg-logo="https://i.imgur.com/A21WS1A.png" group-title="SWITZERLAND;MUSIK",Musig24
@@ -250,12 +252,17 @@ https://livestream.gruppocdt.ch/hls/radio3i.m3u8
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_uv9hs4ww/sd/6000/t/wrKSSij4alVi5jiCA3spVQ/index-s32.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Pilatus (Webradio)" tvg-logo="https://i.imgur.com/lQzG2lg.png" group-title="SWITZERLAND",Radio Pilatus (Webradio)
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WGs1jsk.png" group-title="SWITZERLAND;MUSIK",Radio Pilatus (Webradio)
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rouge TV" tvg-id="RougeTV.ch" tvg-logo="https://i.imgur.com/PzF6q9I.png" group-title="SWITZERLAND",Rouge TV
 https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTS Couleur 3 (Webradio)" tvg-logo="https://i.imgur.com/9fAlB8K.png" group-title="SWITZERLAND",RTS Couleur 3 (Webradio)
 https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/index_2500_av-b.m3u8
+#EXTINF:-1 tvg-name="Schweiz 5" tvg-id="SCHWEIZ5.ch" group-title="SWITZERLAND" tvg-logo="http://www.schweiz5.ch/wp-content/uploads/2018/10/ch5logo-large-1.png",Schweiz 5
+https://stream.schweiz5.ch/schweiz52020/stream.m3u8
+#EXTINF:-1 tvg-name="Tele 1" tvg-id="Tele1.ch" group-title="SWITZERLAND" tvg-logo="https://icanlive.tv/pictures/tele1.jpg",Tele 1
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-name="Tele M1 HD" tvg-id="TeleM1.ch" group-title="SWITZERLAND" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telem1.png",Tele M1 HD
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-id="Telebasel HD CH" tvg-name="Telebasel" tvg-logo="https://i.imgur.com/mMXYqtm.png" group-title="SWITZERLAND",Telebasel
@@ -265,7 +272,7 @@ https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTG
 #EXTINF:-1 tvg-id="" tvg-name="TeleBielingue" tvg-logo="https://i.imgur.com/bPpWJj2.png" group-title="SWITZERLAND",TeleBielingue
 https://edge4.vedge.infomaniak.com/livecast/telebielinguech/chunklist.m3u8
 #EXTINF:-1 tvg-id="TeleTicino.ch" tvg-name="TeleTicino" tvg-logo="https://i.imgur.com/HuPkeOg.jpg" group-title="SWITZERLAND",TeleTicino
-https://livestream.gruppocdt.ch/hls/teleticino.m3u8
+https://livestream.gruppocdt.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:-1 tvg-name="Telezürich" tvg-id="TeleZuri.ch" group-title="SWITZERLAND" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telezueri.png",Telezürich
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_4dmq7avs/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-name="TVM 3" tvg-id="TVM3.ch"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_TVM3_2015.png/1200px-Logo_TVM3_2015.png" group-title="SWITZERLAND;MUSIK",TVM 3
@@ -398,6 +405,8 @@ http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo
 https://central.dashstreams.net/onestudio/jerrymiller/playlist.m3u8
 #EXTINF:-1 tvg-name="KMTV Omaha" tvg-id="kbvr.com" group-title="USA" tvg-logo="https://ewscripps.brightspotcdn.com/dims4/default/1c306ef/2147483647/strip/true/crop/600x200+0+0/resize/400x133!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F93%2F73%2Fe6d295434cdc87b8808494e765df%2Fkmtv-geographic-locator-600x200.png",KMTV Omaha
 https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1 tvg-name="KronOn TV" tvg-id="kronon.tv" group-title="USA" tvg-logo="https://icanlive.tv/pictures/kron4.jpg",KronOn TV
+https://d33i9o1z3iws9l.cloudfront.net/v1/master/dfe581e0a446a1e548014078b2d81b62b917979d/kronon_4i3ls75cavqa71rt7alu/fae00157cfe748478a224b26e3a30db5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HY64Nhe.png" group-title="USA",Law & Crime Network
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lax Sports Network TV" tvg-logo="https://i.imgur.com/Lt9ZUYA.png" group-title="USA",Lax Sports Network TV
@@ -420,6 +429,8 @@ http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 #EXTINF:-1 tvg-name="Orange Media Network" tvg-id="Orange Media Network" group-title="USA" tvg-logo="https://i.imgur.com/C8vBURi.png",Orange Media Network
 http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+#EXTINF:-1 tvg-name="Orange TV" tvg-id="orangecountyfl.net" group-title="USA" tvg-logo="https://icanlive.tv/pictures/orange-tv.jpg",Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Peace TV" tvg-id="Peace TV" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/Peace_TV_logo.png",Peace TV
 http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="POPSTAR! TV" tvg-logo="https://www.video.popstaronline.com/wp-content/themes/dwg/images/logo.png" group-title="USA",POPSTAR! TV
@@ -472,6 +483,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_500000
 https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
 #EXTINF:-1 tvg-name="TMZ" tvg-id="TMZ" tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="USA",TMZ
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/tvw.jpg" group-title="USA",TVW
+https://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qg0QrUp.png" group-title="USA",TWiT
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-name="UN Web TV" tvg-id="UN Web TV" group-title="USA" tvg-logo="https://i.imgur.com/lPyJhBN.png",UN Web TV
@@ -482,6 +495,8 @@ http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 https://ad-playlistserver.aws.syncbak.com/playlist/13613390/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjEzMzkwLCJtZDUiOiI2Y2M5MzczYjIxZWIwNzQ4ZDA0YTRlYzYyMjU2YjBhMiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.qJPiMCbnGjAn9wgPrGjVl3M9Xfc4CVSyoZTZ5OH-1jo
 #EXTINF:-1 tvg-name="Weather Nation" tvg-id="Weather Nation" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WeatherNation_logo.png",Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1 tvg-name="WJLA" tvg-id="" group-title="USA" tvg-logo="https://icanlive.tv/pictures/wjla.jpg",WJLA
+https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8?tc=1&exp=1603450324&rn=639963239&ct=a&cid=40cec2bf074c40f08932da03ab4510be&sig=07bfefa5ee84a9197e4091c661d702754ac9fa540e6a5e40dd16c098a5a1bf9a
 #EXTINF:-1 tvg-name="Xcorps TV" tvg-id="Xcorps TV" group-title="USA" tvg-logo="http://actionsportsmusictv.com/wp-content/uploads/2015/05/XCgfxSTIL22.png",Xcorps TV
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3se2VEB.png" group-title="USA",Youtoo America
@@ -3858,6 +3873,8 @@ https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
 https://biptv.tv/live/biptvstream_orig/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CDirect" tvg-logo="https://i.imgur.com/XjAxqDh.png" group-title="FRANCE",CDirect
 http://cms-streamaniak.top/Cdirect/CDIRECT/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNews" tvg-logo="https://icanlive.tv/pictures/cnews-fr.jpg" group-title="FRANCE",CNews
+https://stream-02.ix7.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gfAqbz8Q7Ev2jB9riyTTE2k)/dm/3/x3b68jn/d/live-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="D5TV" tvg-logo="https://i.imgur.com/cThInij.png" group-title="FRANCE",D5TV
 https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dici TV" tvg-logo="https://i.imgur.com/A9yLdYZ.png" group-title="FRANCE",Dici TV
@@ -3899,6 +3916,8 @@ https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LCI" tvg-logo="https://i.imgur.com/6VzdKEa.png" group-title="FRANCE",LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LCP" tvg-logo="https://icanlive.tv/pictures/lcp.jpg" group-title="FRANCE",LCP
+https://stream-08.dc3.dailymotion.com/sec(H1f0mpDjQl1MhvhMGJwkbAOhQUKYtUZI8Ff8PqWtqVs)/dm/3/xji3qy/d/live-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LEEEKO TV" tvg-logo="https://i.imgur.com/96FfLIj.jpg" group-title="FRANCE",LEEEKO TV
 http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MDL" tvg-logo="https://i.imgur.com/QjjVd1M.jpg" group-title="FRANCE",MDL
@@ -3915,6 +3934,8 @@ https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RT France" tvg-logo="https://i.imgur.com/gVedXRh.png" group-title="FRANCE",RT France
 https://rt-france.secure.footprint.net/1107.m3u8?streamType=live
 
+#EXTINF:-1 tvg-id="" tvg-name="Tele Nantes" tvg-logo="https://icanlive.tv/pictures/tele-nantes.jpg" group-title="FRANCE",Tele Nantes
+https://stream-03.dc3.dailymotion.com/sec(p8YnJV3FLjCMnNAdm2Yx4YeFhsWWUzDcok6yf1gJLio)/dm/3/x5so98l/s/live-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TF 1" tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="FRANCE",TF 1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 
@@ -3935,9 +3956,13 @@ https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/master.m3
 #EXTINF:-1 tvg-id="" tvg-name="TV5 Style" tvg-logo="https://i.imgur.com/FRP03WJ.jpg" group-title="FRANCE",TV5 Style
 https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TV7 Bordeaux" tvg-logo="https://icanlive.tv/pictures/tv7.jpg" group-title="FRANCE",TV7 Bordeaux
+https://stream-11.dc3.dailymotion.com/sec(Gyc0INqj0EpvK3i1I2v6pSLj1R5sJXHqdkhJB1yhul8)/dm/3/x46ancl/d/live-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV7 Colmar" tvg-logo="https://i.imgur.com/RuFISFk.png" group-title="FRANCE",TV7 Colmar
 https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TV8 Mont Blanc" tvg-logo="https://icanlive.tv/pictures/8-montblanc-fr.jpg" group-title="FRANCE",TV8 Mont Blanc
+https://stream-02.ix7.dailymotion.com/sec(FBIw6_1cjAQKo7Kzrsy7L-q0zxMP1BQSKT3x4K50RQM)/dm/3/x3wqv8b/s/live-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVPI" tvg-logo="https://i.imgur.com/RT3pz5L.png" group-title="FRANCE",TVPI
 http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVR" tvg-logo="https://cdn.teleon.tv/logo/tv_rennes_fr.png" group-title="FRANCE",TVR
@@ -3949,6 +3974,8 @@ https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="viaVosges" tvg-logo="https://www.viavosges.tv/videoimages/2018.09.28_via_vosges_SD-Vogestv.jpg" group-title="FRANCE",viaVosges
 https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEO" tvg-logo="https://icanlive.tv/pictures/weo-tv-france.jpg" group-title="FRANCE",WEO
+https://stream-11.ix7.dailymotion.com/sec(BL70jlKo4tGRkEGgNbONw-HFT5I47pdnlChw1-WsPOs)/dm/3/x62islg/s/live-2.m3u8
 
 #EXTINF:-1 tvg-name="***************** GEORGIA  ***********",***************** GEORGIA  ***********
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
