@@ -35,6 +35,8 @@ https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
 https://biptv.tv/live/biptvstream_orig/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CDirect" tvg-logo="https://i.imgur.com/XjAxqDh.png" group-title="FRANCE",CDirect
 http://cms-streamaniak.top/Cdirect/CDIRECT/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNews" tvg-logo="https://icanlive.tv/pictures/cnews-fr.jpg" group-title="FRANCE",CNews
+https://stream-02.ix7.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gfAqbz8Q7Ev2jB9riyTTE2k)/dm/3/x3b68jn/d/live-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="D5TV" tvg-logo="https://i.imgur.com/cThInij.png" group-title="FRANCE",D5TV
 https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dici TV" tvg-logo="https://i.imgur.com/A9yLdYZ.png" group-title="FRANCE",Dici TV
@@ -76,6 +78,8 @@ https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LCI" tvg-logo="https://i.imgur.com/6VzdKEa.png" group-title="FRANCE",LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LCP" tvg-logo="https://icanlive.tv/pictures/lcp.jpg" group-title="FRANCE",LCP
+https://stream-08.dc3.dailymotion.com/sec(H1f0mpDjQl1MhvhMGJwkbAOhQUKYtUZI8Ff8PqWtqVs)/dm/3/xji3qy/d/live-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LEEEKO TV" tvg-logo="https://i.imgur.com/96FfLIj.jpg" group-title="FRANCE",LEEEKO TV
 http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MDL" tvg-logo="https://i.imgur.com/QjjVd1M.jpg" group-title="FRANCE",MDL
@@ -92,6 +96,8 @@ https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RT France" tvg-logo="https://i.imgur.com/gVedXRh.png" group-title="FRANCE",RT France
 https://rt-france.secure.footprint.net/1107.m3u8?streamType=live
 
+#EXTINF:-1 tvg-id="" tvg-name="Tele Nantes" tvg-logo="https://icanlive.tv/pictures/tele-nantes.jpg" group-title="FRANCE",Tele Nantes
+https://stream-03.dc3.dailymotion.com/sec(p8YnJV3FLjCMnNAdm2Yx4YeFhsWWUzDcok6yf1gJLio)/dm/3/x5so98l/s/live-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TF 1" tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="FRANCE",TF 1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 
@@ -112,9 +118,13 @@ https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/master.m3
 #EXTINF:-1 tvg-id="" tvg-name="TV5 Style" tvg-logo="https://i.imgur.com/FRP03WJ.jpg" group-title="FRANCE",TV5 Style
 https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TV7 Bordeaux" tvg-logo="https://icanlive.tv/pictures/tv7.jpg" group-title="FRANCE",TV7 Bordeaux
+https://stream-11.dc3.dailymotion.com/sec(Gyc0INqj0EpvK3i1I2v6pSLj1R5sJXHqdkhJB1yhul8)/dm/3/x46ancl/d/live-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV7 Colmar" tvg-logo="https://i.imgur.com/RuFISFk.png" group-title="FRANCE",TV7 Colmar
 https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TV8 Mont Blanc" tvg-logo="https://icanlive.tv/pictures/8-montblanc-fr.jpg" group-title="FRANCE",TV8 Mont Blanc
+https://stream-02.ix7.dailymotion.com/sec(FBIw6_1cjAQKo7Kzrsy7L-q0zxMP1BQSKT3x4K50RQM)/dm/3/x3wqv8b/s/live-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVPI" tvg-logo="https://i.imgur.com/RT3pz5L.png" group-title="FRANCE",TVPI
 http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVR" tvg-logo="https://cdn.teleon.tv/logo/tv_rennes_fr.png" group-title="FRANCE",TVR
@@ -126,3 +136,5 @@ https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="viaVosges" tvg-logo="https://www.viavosges.tv/videoimages/2018.09.28_via_vosges_SD-Vogestv.jpg" group-title="FRANCE",viaVosges
 https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WEO" tvg-logo="https://icanlive.tv/pictures/weo-tv-france.jpg" group-title="FRANCE",WEO
+https://stream-11.ix7.dailymotion.com/sec(BL70jlKo4tGRkEGgNbONw-HFT5I47pdnlChw1-WsPOs)/dm/3/x62islg/s/live-2.m3u8
