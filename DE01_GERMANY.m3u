@@ -15,6 +15,8 @@ https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master.m3u8
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 #EXTINF:-1 tvg-name=ONE tvg-id=One.de tvg-logo=http://logos.zattic.com/images/channels/logos/7490dbd81ca7b22871f5/black/84x48.png group-title="GERMAN TV",ONE
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
+#EXTINF:-1 tvg-name=Radio Bremen TV tvg-id=radiobremen.de tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Logo_Radio_Bremen_TV.svg/200px-Logo_Radio_Bremen_TV.svg.png group-title="GERMAN TV",Radio Bremen TV
++https://rbfs-lh.akamaihd.net/i/rb_fs@438960/index_3584_av-p.m3u8
 #EXTINF:-1 tvg-name=NDR Niedersachsen tvg-id=ndr.de tvg-logo=http://logos.zattic.com/images/channels/logos/29a7c6a23050e3820a3b/black/84x48.png group-title="GERMAN TV",NDR Niedersachsen
 https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8?set-segment-duration=responsive
 #EXTINF:-1 tvg-name=WDR Koeln tvg-id=WDR.de tvg-logo=http://logos.zattic.com/images/channels/logos/da2f7b1155f1c2586f93/black/84x48.png group-title="GERMAN TV",WDR Koeln
