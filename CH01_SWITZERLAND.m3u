@@ -15,6 +15,8 @@ https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/720p-playlist
 https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="La Tele" tvg-logo="https://i.imgur.com/JiAnDPu.png" group-title="SWITZERLAND",La Tele
 https://latele.vedge.infomaniak.com/livecast/latele/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Leman Bleu" tvg-logo="https://icanlive.tv/pictures/lemanbleu.jpg" group-title="SWITZERLAND",Leman Bleu
+https://edge5.vedge.infomaniak.com/livecast/ik:naxoo/manifest.m3u8?spark=88728f76-440d-4265-8f6b-b8a776071e47&token=
 #EXTINF:-1 tvg-id="" tvg-name="LFM TV" tvg-logo="https://i.imgur.com/UE1E3uH.png" group-title="SWITZERLAND;MUSIK",LFM TV
 https://edge4.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8?spark=cf45faac-ae15-4c71-92c5-6c3527ed8e0f&token=
 #EXTINF:-1 tvg-id="" tvg-name="Musig24" tvg-logo="https://i.imgur.com/A21WS1A.png" group-title="SWITZERLAND;MUSIK",Musig24
@@ -32,12 +34,17 @@ https://livestream.gruppocdt.ch/hls/radio3i.m3u8
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_uv9hs4ww/sd/6000/t/wrKSSij4alVi5jiCA3spVQ/index-s32.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Pilatus (Webradio)" tvg-logo="https://i.imgur.com/lQzG2lg.png" group-title="SWITZERLAND",Radio Pilatus (Webradio)
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WGs1jsk.png" group-title="SWITZERLAND;MUSIK",Radio Pilatus (Webradio)
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rouge TV" tvg-id="RougeTV.ch" tvg-logo="https://i.imgur.com/PzF6q9I.png" group-title="SWITZERLAND",Rouge TV
 https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTS Couleur 3 (Webradio)" tvg-logo="https://i.imgur.com/9fAlB8K.png" group-title="SWITZERLAND",RTS Couleur 3 (Webradio)
 https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/index_2500_av-b.m3u8
+#EXTINF:-1 tvg-name="Schweiz 5" tvg-id="SCHWEIZ5.ch" group-title="SWITZERLAND" tvg-logo="http://www.schweiz5.ch/wp-content/uploads/2018/10/ch5logo-large-1.png",Schweiz 5
+https://stream.schweiz5.ch/schweiz52020/stream.m3u8
+#EXTINF:-1 tvg-name="Tele 1" tvg-id="Tele1.ch" group-title="SWITZERLAND" tvg-logo="https://icanlive.tv/pictures/tele1.jpg",Tele 1
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-name="Tele M1 HD" tvg-id="TeleM1.ch" group-title="SWITZERLAND" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telem1.png",Tele M1 HD
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-id="Telebasel HD CH" tvg-name="Telebasel" tvg-logo="https://i.imgur.com/mMXYqtm.png" group-title="SWITZERLAND",Telebasel
@@ -47,7 +54,7 @@ https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTG
 #EXTINF:-1 tvg-id="" tvg-name="TeleBielingue" tvg-logo="https://i.imgur.com/bPpWJj2.png" group-title="SWITZERLAND",TeleBielingue
 https://edge4.vedge.infomaniak.com/livecast/telebielinguech/chunklist.m3u8
 #EXTINF:-1 tvg-id="TeleTicino.ch" tvg-name="TeleTicino" tvg-logo="https://i.imgur.com/HuPkeOg.jpg" group-title="SWITZERLAND",TeleTicino
-https://livestream.gruppocdt.ch/hls/teleticino.m3u8
+https://livestream.gruppocdt.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:-1 tvg-name="Telezürich" tvg-id="TeleZuri.ch" group-title="SWITZERLAND" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telezueri.png",Telezürich
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_4dmq7avs/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-name="TVM 3" tvg-id="TVM3.ch"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_TVM3_2015.png/1200px-Logo_TVM3_2015.png" group-title="SWITZERLAND;MUSIK",TVM 3
