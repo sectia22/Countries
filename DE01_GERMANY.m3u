@@ -9,7 +9,7 @@ https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
 #EXTINF:-1 tvg-name=3Sat tvg-id=3sat.de tvg-logo=http://logos.zattic.com/images/channels/logos/02257e2400c10df8cbab/black/84x48.png group-title="GERMAN TV",3Sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
-#EXTINF:-1 tvg-name=Servus TV tvg-id=ServusHD.de tvg-logo=http://logos.zattic.com/images/channels/logos/bd9d0bcc49c2b74017ad/black/84x48.png group-title="GERMAN TV",Servus TV
+#EXTINF:-1 tvg-name=ServusTV HD tvg-id=ServusHD.de tvg-logo=http://logos.zattic.com/images/channels/logos/bd9d0bcc49c2b74017ad/black/84x48.png group-title="GERMAN TV",ServusTV HD
 https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master.m3u8
 #EXTINF:-1 tvg-name=ZDFneo tvg-id=ZDFneo.de tvg-logo=http://logos.zattic.com/images/channels/logos/de09c10b090491ef8806/black/84x48.png group-title="GERMAN TV",ZDFneo
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
