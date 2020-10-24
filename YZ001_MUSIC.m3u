@@ -1,9 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="******************** MUSIC ************" tvg-id="" group-title="" tvg-logo="",****************** MUSIC ************
-http://51.158.31.93:1935/a2itvtwo/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A2i Music TV" tvg-logo="https://cdn.teleon.tv/logo/A2iTV-fr.jpeg" group-title="MUSIK",A2i Music TV
-http://51.158.31.93:1935/a2itvtwo/myStream/playlist.m3u8
+https://dai1.xumo.com/bmneuerw7j9k5lfc/9999231/master.m3u8
 #EXTINF:-1 tvg-name="BaebleMusic" tvg-id="BaebleMusic" group-title="MUSIK" tvg-logo="",BaebleMusic
 https://dai1.xumo.com/bmneuerw7j9k5lfc/9999231/master.m3u8
 #EXTINF:-1 tvg-name="Baraza Music TV" tvg-id="Baraza Music TV" group-title="MUSIK" tvg-logo="https://www.gurudabeat.com/wp-content/themes/soundwave/images/logo.png",Baraza Music TV
