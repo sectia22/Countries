@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name=Das Erste HD tvg-id=DasErste.de tvg-logo=http://logos.zattic.com/images/channels/logos/2a2a4aee64bbd6f7f817/black/84x48.png group-title="GERMAN TV",Das Erste HD
+#EXTINF:-1 tvg-name=Das Erste HD tvg-id=ARD.de tvg-logo=http://logos.zattic.com/images/channels/logos/2a2a4aee64bbd6f7f817/black/84x48.png group-title="GERMAN TV",Das Erste HD
 https://mcdn.daserste.de/daserste/de/master_3744.m3u8
 #EXTINF:-1 tvg-name=ZDF HD tvg-id=ZDF.de tvg-logo=http://logos.zattic.com/images/channels/logos/42a29350387ee5fda8fe/black/84x48.png group-title="GERMAN TV", ZDF HD
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
@@ -15,8 +15,8 @@ https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master.m3u8
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 #EXTINF:-1 tvg-name=ONE HD tvg-id=One.de tvg-logo=http://logos.zattic.com/images/channels/logos/7490dbd81ca7b22871f5/black/84x48.png group-title="GERMAN TV",ONE HD
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
-#EXTINF:-1 tvg-name=Radio Bremen TV HD tvg-id=rbtv.de tvg-logo=https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbtv.png group-title="GERMAN TV",Radio Bremen TV HD
-+https://rbfs-lh.akamaihd.net/i/rb_fs@438960/index_3584_av-p.m3u8
+#EXTINF:-1 tvg-name=Radio Bremen TV HD tvg-id=RadioBremen.de tvg-logo=https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbtv.png group-title="GERMAN TV",Radio Bremen TV HD
+https://rbfs-lh.akamaihd.net/i/rb_fs@438960/index_3584_av-p.m3u8
 #EXTINF:-1 tvg-name=NDR Niedersachsen tvg-id=ndr.de tvg-logo=http://logos.zattic.com/images/channels/logos/29a7c6a23050e3820a3b/black/84x48.png group-title="GERMAN TV",NDR Niedersachsen
 https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8?set-segment-duration=responsive
 #EXTINF:-1 tvg-name=WDR Koeln tvg-id=WDR.de tvg-logo=http://logos.zattic.com/images/channels/logos/da2f7b1155f1c2586f93/black/84x48.png group-title="GERMAN TV",WDR Koeln
