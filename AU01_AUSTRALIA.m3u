@@ -1,25 +1,35 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="****************** AUSTRALIA ************" tvg-id="" group-title="" tvg-logo="",****************** AUSTRALIA ************
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_2.m3u8
-#EXTINF:-1 tvg-name="3AW Melburne (Webradio)" tvg-id="" group-title="AUSTRALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/72/3AW693logo.svg/330px-3AW693logo.svg.png",3AW Melburne (Webradio)
+#EXTINF:-1 tvg-name="3AW Melburne (Webradio)" tvg-id="" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/Uvie0ws.png",3AW Melburne (Webradio)
 http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
-#EXTINF:-1 tvg-name="Australian News Channel" tvg-id="australiachannel.com.au" group-title="AUSTRALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Australian_News_Channel_logo.png/330px-Australian_News_Channel_logo.png",Australian News Channel
+#EXTINF:-1 tvg-name="ABC News Australia" tvg-id="abcnews.com.au" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/duQkQta.png",ABC News Australia
+plugin://plugin.video.youtube/play/?video_id=W1ilCy6XrmI
+#EXTINF:-1 tvg-name="Australian News Channel" tvg-id="australiachannel.com.au" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/AZB3B3c.png",Australian News Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
-#EXTINF:-1 tvg-name="Australian  Sports Channel" tvg-id="australiachannel.com.au" group-title="AUSTRALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/News_Corp_Australia_logo.svg/375px-News_Corp_Australia_logo.svg.png",Australian  Sports Channel
+#EXTINF:-1 tvg-name="Australian  Sports Channel" tvg-id="australiachannel.com.au" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/XakLUm4.png",Australian  Sports Channel
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 tvg-name="Bloomberg Australia" tvg-id="australiachannel.com.au" group-title="AUSTRALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png",Bloomberg Australia
+#EXTINF:-1 tvg-name="Bloomberg Australia" tvg-id="australiachannel.com.au" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/KKFqbHw.png",Bloomberg Australia
 https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8
-#EXTINF:-1 tvg-name="Expo Channel" tvg-id="" group-title="AUSTRALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Expo_2015_logo.png/300px-Expo_2015_logo.png",Expo Channel
+#EXTINF:-1 tvg-name="C31 Melbourne" tvg-id="" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/Tl79upK.jpg",C31 Melbourne
+https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8
+#EXTINF:-1 tvg-name="Channel 44 Adelaide" tvg-id="" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/gJvEW9o.png",Channel 44 Adelaide
+https://bdz47wk-lh.akamaihd.net/i/bdz47wkvo0zjom_1@1017167/master.m3u8
+#EXTINF:-1 tvg-name="Expo Channel" tvg-id="" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/RpCWw2I.png",Expo Channel
 https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vLdszKt.png" group-title="AUSTRALIA",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 tvg-name="Racing.com" tvg-id="Racing.com" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png" group-title="AUSTRALIA",Racing.com
+#EXTINF:-1 tvg-name="MIS Televizija" tvg-id="" tvg-logo="https://i.imgur.com/XaXRbxj.png" group-title="AUSTRALIA",MIS Televizija
+https://5afd52b55ff79.streamlock.net/MISTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-name="Racing.com" tvg-id="Racing.com" tvg-logo="https://i.imgur.com/NAY9DTt.png" group-title="AUSTRALIA",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
 #EXTINF:-1  tvg-name="Rainbow TV Chinese" tvg-logo="https://i.imgur.com/gRrfqSb.png" group-title="AUSTRALIA",Rainbow TV Chinese
 http://rtvcdn.com.au:8082/TV_GG.m3u8
-#EXTINF:-1 tvg-name="Sky News Australia Extra 1" tvg-id="skynews.com.au" group-title="AUSTRALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_News_Live_logo.jpg",Sky News Australia Extra 1
+#EXTINF:-1 tvg-name="Sky News Australia Extra 1" tvg-id="skynews.com.au" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/1XiQezD.png",Sky News Australia Extra 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 tvg-name="Sky News Australia Extra 2" tvg-id="skynews.com.au" group-title="AUSTRALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_News_Live_logo.jpg",Sky News Australia Extra 2
+#EXTINF:-1 tvg-name="Sky News Australia Extra 2" tvg-id="skynews.com.au" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/1XiQezD.png",Sky News Australia Extra 2
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:-1 tvg-name="Sky News Australia Extra 3" tvg-id="skynews.com.au" group-title="AUSTRALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_News_Live_logo.jpg",Sky News Australia Extra 3
+#EXTINF:-1 tvg-name="Sky News Australia Extra 3" tvg-id="skynews.com.au" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/1XiQezD.png",Sky News Australia Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1  tvg-name="TVSN" tvg-logo="https://i.imgur.com/TuHnkxP.png" group-title="AUSTRALIA",TVSN
+https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
