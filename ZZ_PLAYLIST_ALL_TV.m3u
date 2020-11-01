@@ -2209,8 +2209,18 @@ http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w530158239_b1228800.m3
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_2.m3u8
 #EXTINF:-1 tvg-name="3AW Melburne (Webradio)" tvg-id="" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/Uvie0ws.png",3AW Melburne (Webradio)
 http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
-#EXTINF:-1 tvg-name="ABC News Australia" tvg-id="abcnews.com.au" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/duQkQta.png",ABC News Australia
+#EXTINF:-1 tvg-name="ABC News Australia" tvg-id="abcnews.com.au" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/rdkvOCh.png",ABC News Australia
 plugin://plugin.video.youtube/play/?video_id=W1ilCy6XrmI
+#EXTINF:-1 tvg-name="ABC News Australia (2)" tvg-id="abcnews.com.au" tvg-logo="https://i.imgur.com/rdkvOCh.png",ABC News Australia (2)
+https://c.mjh.nz/101002210220/
+#EXTINF:-1 tvg-name="ABC AU" tvg-id="" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/rLCHYCs.png",ABC AU
+https://c.mjh.nz/101002210221/
+#EXTINF:-tvg-name="ABC Kids" 1 tvg-id="" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/DQqcXqk.png",ABC Kids
+https://c.mjh.nz/101002210222/
+#EXTINF:-1 tvg-name="ABC Me" tvg-id="" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/wIdfcUx.png",ABC Me
+https://c.mjh.nz/101002210224/
+#EXTINF:-1 tvg-name="Ausbiz TV" tvg-id="tv.7ausbiz" tvg-logo="https://i.imgur.com/8hYBj3q.png",Ausbiz TV
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 #EXTINF:-1 tvg-name="Australian News Channel" tvg-id="australiachannel.com.au" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/AZB3B3c.png",Australian News Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1 tvg-name="Australian  Sports Channel" tvg-id="australiachannel.com.au" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/XakLUm4.png",Australian  Sports Channel
@@ -2237,12 +2247,18 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 #EXTINF:-1 tvg-name="Sky News Australia Extra 3" tvg-id="skynews.com.au" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/1XiQezD.png",Sky News Australia Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 tvg-name="Snowy Mountains Television" tvg-id="tv.snowy-mountains" tvg-logo="https://i.imgur.com/hgwckSr.png",Snowy Mountains Television
+https://c.mjh.nz/snowy-mountains/
 #EXTINF:-1  tvg-name="TVSN" tvg-logo="https://i.imgur.com/TuHnkxP.png" group-title="AUSTRALIA",TVSN
 https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
 #EXTINF:-1 tvg-name="***************** NEWZEALAND ************" tvg-id="" group-title="" tvg-logo="",***************** NEWZEALAND ************
 https://tvnzliveios-i.akamaihd.net/hls/live/248954/tvnzliveios/16320191519/0253/master.m3u8
 #EXTINF:-1 tvg-name="Firstlight" tvg-id="" group-title="NEWZEALAND" tvg-logo="https://i.imgur.com/2TKL6BX.png",Firstlight
 https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Kordia TV" tvg-id="tv.66" group-title="NEWZEALAND" tvg-logo="https://i.imgur.com/7FCjq7C.png",Kordia TV
+
+https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+
 #EXTINF:-1 tvg-id="tv.13" tvg-name="Maori Television" tvg-logo="https://i.imgur.com/yo8kEk5.png" group-title="NEWZEALAND",Maori Television
 http://i.mjh.nz/nz/tv.13.m3u8
 #EXTINF:-1 tvg-name="Parliament TV" tvg-id="" group-title="NEWZEALAND" tvg-logo="https://i.imgur.com/Bmt34GV.png",Parliament TV
@@ -2264,6 +2280,12 @@ http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-S
 https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News UK" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="UK",BBC News
 https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News UK 2" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="UK",BBC News 2
+http://51.52.156.22:8888/http/004
+#EXTINF:-1 tvg-id="BBC Scotland" tvg-name="BBC Scotland" tvg-logo="https://i.imgur.com/rtZxGzr.png" group-title="UK",BBC Scotland
+http://51.52.156.22:8888/http/001
+#EXTINF:-1 tvg-id="BBC Four" tvg-name="BBC Four" tvg-logo="https://i.imgur.com/W5silL1.png" group-title="UK",BBC Four
+http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="UK",BBC World News
 https://1636691764.rsc.cdn77.org/SnGcBmYPpn7xvomYeS0WCQ==,1604079097/LS-ATL-54548-11/index.m3u8
 #EXTINF:-1 tvg-name="Bloomberg EU" tvg-id="Bloomberg.nws" group-title="UK" tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg EU
@@ -2303,6 +2325,8 @@ https://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8
 #EXTINF:-1 tvg-id="ITV (UK)" tvg-name="ITV" tvg-logo="https://i.imgur.com/SsgOgRF.png" group-title="UK",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 
+#EXTINF:-1 tvg-id="ITV 2" tvg-name="ITV2" tvg-logo="https://i.imgur.com/eZks811.png" group-title="UK",ITV2
+http://51.52.156.22:8888/http/005
 #EXTINF:-1 tvg-id="kerang.uk" tvg-name="Kerrang" tvg-logo="https://i.imgur.com/z8T3Q48.png" group-title="UK;MUSIK",Kerrang
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 
@@ -2352,6 +2376,8 @@ https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 #EXTINF:-1 tvg-name="Sky News" tvg-id="SkyNews.uk" group-title="UK" tvg-logo="https://i.imgur.com/vfqWSHv.png",Sky News
 plugin://plugin.video.youtube/play/?video_id=9Auq9mYxFEE
+#EXTINF:-1 tvg-name="Thane Direct TV" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/F4tE9CW.png",Thane Direct TV
+http://51.52.156.22:8888/http/012
 #EXTINF:-1 tvg-name="Sonlife UK" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/p6og1yz.png",Sonlife UK
 https://sonlife7-i.akamaihd.net/hls/live/585011/ch7/master.m3u8
 #EXTINF:-1 tvg-name="Sports Tonight" tvg-id="FreeSports.uk" group-title="UK" tvg-logo="https://i.imgur.com/Nh4LyPv.png",Sports Tonight
@@ -3888,10 +3914,10 @@ plugin://plugin.video.youtube/play/?video_id=xL0ch83RAK8
 #EXTINF:-1 tvg-logo="https://tv.itver.cc/wp-content/uploads/2014/04/TVBS-G.jpg" group-title="TAIWAN",TVBS
 http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
 
-#EXTINF:-1 tvg-name="****************** KOREA ************" tvg-id="" group-title="" tvg-logo="",****************** KOREA ************
-https://tv.nknews.org/tvhls/stream.m3u8
-#EXTINF:-1 tvg-name="KCTV - Nordkorea" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/8wpHCps.png",KCTV - Nordkorea
-https://tv.nknews.org/tvhls/stream.m3u8
+#EXTINF:-1 tvg-name="****************** KOREA ************",****************** KOREA ************
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="KCTV - Nordkorea" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/aYmkkM2.png",KCTV - Nordkorea
+plugin://plugin.video.youtube/play/?video_id=wSGVaSDgkdY
 #EXTINF:-1 tvg-name="All the K-Pop" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/tJ8GRqi.png",All the K-Pop
 plugin://plugin.video.youtube/play/?video_id=8zUdwHwuwhQ
 #EXTINF:-1 tvg-name="Arirang" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/RuHZ6Dx.png",Arirang
@@ -3914,18 +3940,12 @@ http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
 http://smart.igtb.co.kr:1935/live/stream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QUxuHA1.png" group-title="KOREA",GCN
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
-#EXTINF:-1 tvg-name="KBS 1" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/xNi8ZpW.png",KBS 1
-http://hls.live.kbskme.gscdn.com/www_subtitle-1tv/_definst_/subtitle-1tv_5.stream/playlist.m3u8?_lsu_sa_=3895ac3cec5039f3d08bf7a936a1db3613836bb2f085344164e4f63a605a35b934df1e2e38033c67cc323f850ebc03de0c48fe850c8206f64cf9c04dd5c8cf40e52742e5b4a26583a6e51388154cf8ae
-#EXTINF:-1 tvg-name="KBS 2" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/cSYzoaP.png",KBS 2
-http://hls.live.kbskme.gscdn.com/www_subtitle-2tv/_definst_/subtitle-2tv_5.stream/playlist.m3u8?_lsu_sa_=33a5f5332c4e3a13f08e076339f1dc3043106892d68714056dc43e3b100e32c936d4ae8c39f30f6f1c553bc520bcc3001b6a538b1a525b231643a5caeab100ec1a74e79830f6ae968d1b3336c6c5f3b5
 #EXTINF:-1 tvg-name="KBS LiveCam DokDo" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/b7uMB9T.png",KBS LiveCam DokDo
 http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/gljQEfD.png",KBS World
 plugin://plugin.video.youtube/play/?video_id=4gwqZYZ-OSw
 #EXTINF:-1 tvg-name="SBS News" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/Gv7Ajkd.jpg",SBS News
 plugin://plugin.video.youtube/play/?video_id=0uwK35Go394
-#EXTINF:-1 tvg-name="TV Chosun" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/wy3D7at.png",TV Chosun
-http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zmzq3pF.png" group-title="KOREA",YTN
 http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
 
