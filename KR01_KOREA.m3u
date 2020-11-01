@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="****************** KOREA ************" tvg-id="" group-title="" tvg-logo="",****************** KOREA ************
-https://tv.nknews.org/tvhls/stream.m3u8
-#EXTINF:-1 tvg-name="KCTV - Nordkorea" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/8wpHCps.png",KCTV - Nordkorea
-https://tv.nknews.org/tvhls/stream.m3u8
+#EXTINF:-1 tvg-name="****************** KOREA ************",****************** KOREA ************
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="KCTV - Nordkorea" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/aYmkkM2.png",KCTV - Nordkorea
+plugin://plugin.video.youtube/play/?video_id=wSGVaSDgkdY
 #EXTINF:-1 tvg-name="All the K-Pop" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/tJ8GRqi.png",All the K-Pop
 plugin://plugin.video.youtube/play/?video_id=8zUdwHwuwhQ
 #EXTINF:-1 tvg-name="Arirang" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/RuHZ6Dx.png",Arirang
@@ -26,17 +26,11 @@ http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
 http://smart.igtb.co.kr:1935/live/stream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QUxuHA1.png" group-title="KOREA",GCN
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
-#EXTINF:-1 tvg-name="KBS 1" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/xNi8ZpW.png",KBS 1
-http://hls.live.kbskme.gscdn.com/www_subtitle-1tv/_definst_/subtitle-1tv_5.stream/playlist.m3u8?_lsu_sa_=3895ac3cec5039f3d08bf7a936a1db3613836bb2f085344164e4f63a605a35b934df1e2e38033c67cc323f850ebc03de0c48fe850c8206f64cf9c04dd5c8cf40e52742e5b4a26583a6e51388154cf8ae
-#EXTINF:-1 tvg-name="KBS 2" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/cSYzoaP.png",KBS 2
-http://hls.live.kbskme.gscdn.com/www_subtitle-2tv/_definst_/subtitle-2tv_5.stream/playlist.m3u8?_lsu_sa_=33a5f5332c4e3a13f08e076339f1dc3043106892d68714056dc43e3b100e32c936d4ae8c39f30f6f1c553bc520bcc3001b6a538b1a525b231643a5caeab100ec1a74e79830f6ae968d1b3336c6c5f3b5
 #EXTINF:-1 tvg-name="KBS LiveCam DokDo" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/b7uMB9T.png",KBS LiveCam DokDo
 http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/gljQEfD.png",KBS World
 plugin://plugin.video.youtube/play/?video_id=4gwqZYZ-OSw
 #EXTINF:-1 tvg-name="SBS News" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/Gv7Ajkd.jpg",SBS News
 plugin://plugin.video.youtube/play/?video_id=0uwK35Go394
-#EXTINF:-1 tvg-name="TV Chosun" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/wy3D7at.png",TV Chosun
-http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zmzq3pF.png" group-title="KOREA",YTN
 http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
