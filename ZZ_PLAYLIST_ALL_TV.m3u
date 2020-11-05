@@ -3718,67 +3718,48 @@ https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/playlist.m3u8
 https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",WATAN-E-MAA
 http://cdn24.live247stream.com/watanemaa/tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="******************** INDIA ***********" tvg-id="" group-title="" tvg-logo="",******************* INDIA ***********
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="INDIA",ABP News
+#EXTINF:-1 tvg-name="******************** INDIA ***********",******************* INDIA ***********
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABP News" tvg-logo="https://i.imgur.com/FX5t179.png" group-title="INDIA",ABP News
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ark TV" tvg-logo="https://i.imgur.com/fDYSPey.png" group-title="INDIA",Ark TV
+http://livematrix.in:1935/live/arktv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ashrafi Channel" tvg-logo="https://i.imgur.com/WjNX1vS.png" group-title="INDIA",Ashrafi Channel
+http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bhakti TV" tvg-logo="https://i.imgur.com/PFiNM4e.png" group-title="INDIA",Bhakti TV
+plugin://plugin.video.youtube/play/?video_id=Xeg0Q6SZRBA
+#EXTINF:-1 tvg-id="" tvg-name="Bollywood Classic" tvg-logo="https://i.imgur.com/pXqSXto.png" group-title="INDIA",Bollywood Classic
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="" tvg-name="Channel-S Live TV" tvg-logo="" group-title="INDIA",Channel-S Live TV
 https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0500/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bhaktisagartv.com/images/HD-Logo.png" group-title="INDIA",Bhakti Sagar
-http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/index_2128_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" group-title="INDIA",Bollywood Classic
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/02/yuppclassicsmarathi.png" group-title="INDIA",Classics Marathi
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarcla.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/Screenshot_2.png" group-title="INDIA",Classics Tamil
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/yuppclassicstelugu.png" group-title="INDIA",Classics Telugu
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcla.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/CNBC_Awaaz_2010.png" group-title="INDIA",CNBC Awaaz
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Awaaz" tvg-logo="https://i.imgur.com/qMGgnjb.png" group-title="INDIA",CNBC Awaaz
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/yuppcomedytelugu.png" group-title="INDIA",Comedy Telugu
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcom.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="DD News-IN" tvg-name="DD News-IN" tvg-logo="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" group-title="INDIA",DD News
+#EXTINF:-1 tvg-id="DD News-IN" tvg-name="DD News-IN" tvg-logo="https://i.imgur.com/QCE6XYu.jpg" group-title="INDIA",DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dhamaal.tv/images/logo.png" group-title="INDIA",Dhamaal
-http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/index_2128_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Dil Se
-http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/et_now.png" group-title="INDIA",ET Now
+#EXTINF:-1 tvg-id="" tvg-name="ET Now" tvg-logo="https://i.imgur.com/rhkI95a.png" group-title="INDIA",ET Now
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
-#EXTINF:-1 tvg-id="India TV-IN" tvg-name="India TV" tvg-logo="http://jadootv.com/wp-content/uploads/2015/05/ai1.png" group-title="INDIA",India TV
-http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="INDIA",Kadak Hits
-http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
-#EXTINF:-1 tvg-id="KTV HD-IN" tvg-name="KTV" tvg-logo="http://www.sunnetwork.in/ChannelLogo/3ktv.jpg" group-title="INDIA",KTV
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/chunklist_w798628189_b232000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Lok Sabha TV
+#EXTINF:-1 tvg-id="" tvg-name="GSTV" tvg-logo="https://i.imgur.com/zCIK5Ze.png" group-title="INDIA",GSTV
+https://cdnlive.livecast.io/388656798579293628302251.m3u8
+#EXTINF:-1 tvg-id="India TV-IN" tvg-name="India TV" tvg-logo="https://i.imgur.com/IYXrLPs.png" group-title="INDIA",India TV
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lok Sabha TV" tvg-logo="https://i.imgur.com/eoAeDrU.jpg" group-title="INDIA",Lok Sabha TV
 https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/mirror_now_in.png" group-title="INDIA",Mirror Now
+#EXTINF:-1 tvg-id="" tvg-name="Mirror Now" tvg-logo="https://i.imgur.com/e72DoDw.png" group-title="INDIA",Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="",Nazrana
-http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
-#EXTINF:-1 tvg-id="NDTV 24x7-IN" tvg-name="NDTV 24x7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/NDTV_247.svg" group-title="INDIA",NDTV 24x7
+#EXTINF:-1 tvg-id="NDTV 24x7-IN" tvg-name="NDTV 24x7" tvg-logo="https://i.imgur.com/RZ0HIn4.jpg" group-title="INDIA",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",News18 Lokmat
+#EXTINF:-1 tvg-id="" tvg-name="News18 Lokmat" tvg-logo="https://i.imgur.com/chFSLkD.jpg" group-title="INDIA",News18 Lokmat
 https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hungama.com/assets/images/logo.png" group-title="INDIA",Pop Pataka
-https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/yupppremiummarathi.png" group-title="INDIA",Premium Marathi
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarpre.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Punjabi Tadka
-http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9NsI8zT.jpg" group-title="INDIA",RSTV RajyaSabha
+#EXTINF:-1 tvg-id="" tvg-name="Republic Bharat" tvg-logo="https://i.imgur.com/Z3PgblG.png" group-title="INDIA",Republic Bharat
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Republic TV" tvg-logo="https://i.imgur.com/PvI2PCX.png" group-title="INDIA",Republic TV
+https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RSTV RajyaSabha" tvg-logo="https://i.imgur.com/9NsI8zT.jpg" group-title="INDIA",RSTV RajyaSabha
 http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Sakkat
-http://linear03hun-lh.akamaihd.net/i/sakkat_1@665240/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PTdI1KE.png" group-title="INDIA",Suria
-https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Screenshot_1-8.png" group-title="INDIA",Times Now HD
+#EXTINF:-1 tvg-id="" tvg-name="Thanthi TV" tvg-logo="https://i.imgur.com/jek0twl.png" group-title="INDIA",Thanthi TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Times Now HD" tvg-logo="https://i.imgur.com/mI3NURu.png" group-title="INDIA",Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xJYoW5I.png" group-title="INDIA",Vasantham
-https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 #EXTINF:-1 tvg-name="******************** CHINA ***********" tvg-id="" group-title="" tvg-logo="",******************* CHINA ***********
 http://cclive.aniu.tv/live/anzb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N8YdX6W.png" group-title="CHINA",Aniu TV
@@ -3880,39 +3861,39 @@ http://hbzx.chinashadt.com:2036/zhibo/stream:zx1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHINA",Zhao County TV 2
 http://hbzx.chinashadt.com:2036/zhibo/stream:zx2.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-name="*************** TAIWAN ***********",***************** TAIWAN ***********
-plugin://plugin.video.youtube/play/?video_id=sUjmSeE7vUE
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tw-cbtv-taiwan.jpg" group-title="TAIWAN",CBTV
-plugin://plugin.video.youtube/play/?video_id=sUjmSeE7vUE
-#EXTINF:-1 tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?deviceType=3&imageId=OTTLIVE_0000001752.png" group-title="TAIWAN",CNEX
+plugin://plugin.video.youtube/play/?video_id=PL9zBiizEm0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zRvkyEx.jpg" group-title="TAIWAN",CBTV
+plugin://plugin.video.youtube/play/?video_id=PL9zBiizEm0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xZzyOjw.jpg" group-title="TAIWAN",CNEX
 http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
-#EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/cti_tv_news.png" group-title="TAIWAN",CTI TV News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uR7ZrHG.png" group-title="TAIWAN",CTI TV News
 plugin://plugin.video.youtube/play/?video_id=wUPPkSANpyo
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tw-cts-taiwan-news.jpg" group-title="TAIWAN",CTS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VMLLsWs.jpg" group-title="TAIWAN",CTS
 plugin://plugin.video.youtube/play/?video_id=PQLMD4iHhG8
-#EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/da_ai_tv_tw.png" group-title="TAIWAN",Da Ai TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jz3KV6a.png" group-title="TAIWAN",Da Ai TV
 plugin://plugin.video.youtube/play/?video_id=oV_i3Hsl_zg
-#EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/ebc_tw_news.png" group-title="TAIWAN",EBC News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BP9EMLw.png" group-title="TAIWAN",EBC News
 plugin://plugin.video.youtube/play/?video_id=63RmMXCd_bQ
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tw-taiwan-formosa-tv.jpg" group-title="TAIWAN",Formosa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SSaCVNV.jpg" group-title="TAIWAN",Formosa
 plugin://plugin.video.youtube/play/?video_id=XxJKnDLYZz4
-#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/902.png" group-title="TAIWAN",FTV News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8JPOdS8.png" group-title="TAIWAN",FTV News
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tw-hakka-tv-3678-300x225.jpg" group-title="TAIWAN",Hakka TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/akJHmJn.jpg" group-title="TAIWAN",Hakka TV
 plugin://plugin.video.youtube/play/?video_id=LWwepk1p5kE
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tw-hwazan-satellite-tv-3720-300x225.jpg" group-title="TAIWAN",HZTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TEiEn1Y.jpg" group-title="TAIWAN",HZTV
 plugin://plugin.video.youtube/play/?video_id=eC0uICSnm14
-#EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/taiwan_indigenous_tv.png" group-title="TAIWAN",Indigenous TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RuAYuSM.png" group-title="TAIWAN",Indigenous TV
 http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="TAIWAN",Legislative Yuan
 https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="TAIWAN",Set News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d5s3EwA.png" group-title="TAIWAN",Set News
 plugin://plugin.video.youtube/play/?video_id=4ZVUmEUFwaY
-#EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/sjtv_star_tw.png" group-title="TAIWAN",SJTV Taiwan
-http://220.130.241.203:1935/sjtv/livestream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5c3r8tz.png" group-title="TAIWAN",SJTV Taiwan
+plugin://plugin.video.youtube/play/?video_id=LeM7LHO8tY8
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/ttv-news-tw.png" group-title="TAIWAN",TTV NEWS
 plugin://plugin.video.youtube/play/?video_id=xL0ch83RAK8
-#EXTINF:-1 tvg-logo="https://tv.itver.cc/wp-content/uploads/2014/04/TVBS-G.jpg" group-title="TAIWAN",TVBS
-http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YHMXeqI.jpg" group-title="TAIWAN",TVBS
+plugin://plugin.video.youtube/play/?video_id=XxJKnDLYZz4
 
 #EXTINF:-1 tvg-name="****************** KOREA ************",****************** KOREA ************
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -4074,92 +4055,34 @@ https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="viaVosges" tvg-logo="https://i.imgur.com/tSHM5tO.jpg" group-title="FRANCE",viaVosges
 https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
-
 #EXTINF:-1 tvg-name="***************** GEORGIA  ***********",***************** GEORGIA  ***********
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="1 TV" tvg-logo="https://i.imgur.com/0LJRlFz.png" group-title="GEORGIA",1 TV
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="2 TV" tvg-logo="https://i.imgur.com/VBmQCH7.png" group-title="GEORGIA",2 TV
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Abkhaz" tvg-logo="https://i.imgur.com/wvNSQ6v.png" group-title="GEORGIA",Abkhaz
-http://tv.cdn.xsg.ge/abkhaz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adjarasport 1" tvg-logo="https://staticsport.adjara.com/sport_tv/dev//dir2/file2264.png" group-title="GEORGIA",Adjarasport 1
+#EXTINF:-1 tvg-id="" tvg-name="Adjarasport 1" tvg-logo="https://i.imgur.com/pdXjLx7.png" group-title="GEORGIA",Adjarasport 1
 https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adjarasport 2" tvg-logo="https://staticsport.adjara.com/sport_tv/dev//dir5/file5664.png" group-title="GEORGIA",Adjarasport 2
+#EXTINF:-1 tvg-id="" tvg-name="Adjarasport 2" tvg-logo="https://i.imgur.com/FM8Itzj.png" group-title="GEORGIA",Adjarasport 2
 https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Agro TV" tvg-logo="https://i.imgur.com/wAenxoe.png" group-title="GEORGIA",Agro TV
-http://tv.cdn.xsg.ge/agrotv/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Artarea" tvg-logo="https://i.imgur.com/YDNBw1S.png" group-title="GEORGIA",Artarea
-http://tv.cdn.xsg.ge/artarea/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Batumi TV" tvg-logo="https://i.imgur.com/2gH4apJ.png" group-title="GEORGIA",Batumi TV
-http://tv.cdn.xsg.ge/batumitv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBB" tvg-logo="https://i.imgur.com/R367t6c.png" group-title="GEORGIA",BBB
-http://tv.cdn.xsg.ge/bbb/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Caucasia" tvg-logo="https://i.imgur.com/D4ZfXqB.png" group-title="GEORGIA",Caucasia
-http://tv.cdn.xsg.ge/caucasia/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Comedy" tvg-logo="https://i.imgur.com/mjsztRK.png" group-title="GEORGIA",Comedy
-http://tv.cdn.xsg.ge/comedy/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Dia TV" tvg-logo="https://i.imgur.com/YvH1Hll.png" group-title="GEORGIA",Dia TV
-http://tv.cdn.xsg.ge/diatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dro TV" tvg-logo="https://i.imgur.com/dR9q4HP.png" group-title="GEORGIA",Dro TV
-http://tv.cdn.xsg.ge/drotv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ertsulovneba" tvg-logo="https://i.imgur.com/cuGSbgu.png" group-title="GEORGIA",Ertsulovneba
-http://tv.cdn.xsg.ge/ertsulovneba/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Food TV" tvg-logo="https://i.imgur.com/Y8rrOmC.png" group-title="GEORGIA",Food TV
-http://tv.cdn.xsg.ge/foodtv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Formula" tvg-logo="https://i.imgur.com/sI6Grvu.png" group-title="GEORGIA",Formula
-http://tv.cdn.xsg.ge/formula/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="GDS TV" tvg-logo="https://i.imgur.com/6SfF9xB.png" group-title="GEORGIA",GDS TV
-http://tv.cdn.xsg.ge/gdstv/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Guria TV" tvg-logo="https://i.imgur.com/PqZe2ej.png" group-title="GEORGIA",Guria
-http://tv.cdn.xsg.ge/guriatv/playlist.m3u8
+https://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Imedi" tvg-logo="https://i.imgur.com/0w6wIE7.png" group-title="GEORGIA",Imedi
 https://imedi-tv.cdn.xsg.ge/imedihd/tracks-v1a1/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Majestro" tvg-logo="https://i.imgur.com/6BKiBJ4.png" group-title="GEORGIA",Majestro
 https://hls.t.stream-dns.net/hls/maestro_1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mall TV" tvg-logo="https://i.imgur.com/VUHpDJH.png" group-title="GEORGIA",Mall TV
-http://tv.cdn.xsg.ge/malltv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Mtavari" tvg-logo="https://i.imgur.com/XAwZAH4.png" group-title="GEORGIA",Mtavari
-http://tv.cdn.xsg.ge/mtavari/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Obiektivi" tvg-logo="https://i.imgur.com/eZ90ovC.png" group-title="GEORGIA",Obiektivi
-http://tv.cdn.xsg.ge/obiektivi/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Mtavari Arkhi" tvg-logo="https://i.imgur.com/XVpqukA.png" group-title="GEORGIA",Mtavari Arkhi
+https://bozztv.com/36bay2/mtavariarxi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Obieqtivi TV" tvg-logo="https://i.imgur.com/1mokgQ7.png" group-title="GEORGIA",Obieqtivi TV
+https://vod.livestream.com/5fa442b5_44f77904111ad62d3e470ece5f438af2f5bf99ec/events/00000000001cc95c/66471914-6e5c-4546-b95a-8237f1ab129e_2320.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Palitra News" tvg-logo="https://i.imgur.com/9QVZGow.png" group-title="GEORGIA",Palitra News
 https://live.palitranews.ge/hls/palitratv/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Pirveli TV" tvg-logo="https://i.imgur.com/wJ1F3ob.png" group-title="GEORGIA",Pirveli TV
-http://tv.cdn.xsg.ge/pirvelitv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="PKTV" tvg-logo="https://i.imgur.com/5x7MOzF.png" group-title="GEORGIA",PKTV
-http://tv.cdn.xsg.ge/pktv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rioni" tvg-logo="https://i.imgur.com/ns534rl.png" group-title="GEORGIA",Rioni
-http://tv.cdn.xsg.ge/rioni/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rioni 2" tvg-logo="https://i.imgur.com/ns534rl.png" group-title="GEORGIA",Rioni 2
-http://tv.cdn.xsg.ge/rioni2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rugby" tvg-logo="https://i.imgur.com/85D9kPy.png" group-title="GEORGIA",Rugby
-http://tv.cdn.xsg.ge/rtv/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Rustavi 2" tvg-logo="https://www.rustavi2.ge/img/logo2018_ka.png" group-title="GEORGIA",Rustavi 2
+#EXTINF:-1 tvg-id="" tvg-name="Rioni TV" tvg-logo="https://i.imgur.com/9ecTETD.png" group-title="GEORGIA",Rioni TV
+http://video.rionitv.com:9090/hls/live/rioni.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rustavi 2" tvg-logo="https://i.imgur.com/o3aATNp.png" group-title="GEORGIA",Rustavi 2
 http://hls.t.stream-dns.net/hls/rustavi2/rustavi2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Shoni TV" tvg-logo="https://i.imgur.com/jW2cdVt.png" group-title="GEORGIA",Shoni TV
-http://tv.cdn.xsg.ge/shonitv/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV 24" tvg-logo="https://i.imgur.com/Zo9mGO2.png" group-title="GEORGIA",TV 24
-http://tv.cdn.xsg.ge/tv24/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV 25" tvg-logo="https://i.imgur.com/0s8ThqI.png" group-title="GEORGIA",TV 25
-http://tv.cdn.xsg.ge/tv25/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Max" tvg-logo="https://i.imgur.com/6NJ2kdx.png" group-title="GEORGIA",TV Max
-http://tv.cdn.xsg.ge/tvmax/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Universe HD Channel" tvg-logo="https://i.imgur.com/UadE0xZ.png" group-title="GEORGIA",Universe HD Channel
-http://tv.cdn.xsg.ge/universehd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Pirveli" tvg-logo="https://i.imgur.com/pWmIioI.png" group-title="GEORGIA",TV Pirveli
+https://hls.t.stream-dns.net/hls/tvpirveli_1/index.m3u8
 #EXTINF:-1 tvg-name="******************** Pluto Germany ***********" tvg-id="" group-title="" tvg-logo="",******************* Pluto Germany ***********
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede45d077746000072be0fe/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=0&deviceId=5ede45d077746000072be0fe&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
 #EXTINF:-1 tvg-id="5ede45d077746000072be0fe" group-title="Pluto Germany" tvg-name="Auction Hunters" tvg-logo="https://images.pluto.tv/channels/5ede45d077746000072be0fe/colorLogoPNG.png" ,Auction Hunters
