@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="*************** TURKEY ***********",***************** TURKEY ***********
+plugin://plugin.video.youtube/play/?video_id=deKH0pQ7-rg
+#EXTINF:-1 tvg-name="Habertürk" tvg-id="Habertürk" tvg-logo="" group-title="TURKEY",Habertürk
+plugin://plugin.video.youtube/play/?video_id=deKH0pQ7-rg
+#EXTINF:-1 tvg-name="NTV" tvg-id="NTV TK" tvg-logo="" group-title="TURKEY",NTV
+plugin://plugin.video.youtube/play/?video_id=XEJM4Hcgd3M
+#EXTINF:-1 tvg-name="TRT Haber" tvg-id="TRT Haber" tvg-logo="" group-title="TURKEY",TRT Haber
+https://tv-trthaber.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="Haber Global" tvg-id="Haber Global" tvg-logo="" group-title="TURKEY",Haber Global
+plugin://plugin.video.youtube/play/?video_id=mOtMCjRg-AI
+#EXTINF:-1 tvg-name="CNN Türk" tvg-id="CNN Türk" tvg-logo="" group-title="TURKEY",CNN Türk
+plugin://plugin.video.youtube/play/?video_id=c0Na7E1EVk8
+#EXTINF:-1 tvg-name="TV 100" tvg-id="TV 100" tvg-logo="" group-title="TURKEY",TV 100
+plugin://plugin.video.youtube/play/?video_id=M0eAO5YMDXQ
+#EXTINF:-1 tvg-name="A Haber" tvg-id="A Haber" tvg-logo="" group-title="TURKEY",A Haber
+plugin://plugin.video.youtube/play/?video_id=AbX7HxqMy6o
+#EXTINF:-1 tvg-name="24 TV" tvg-id="24 TV" tvg-logo="" group-title="TURKEY",24 TV
+plugin://plugin.video.youtube/play/?video_id=jKqWodTbEMI
