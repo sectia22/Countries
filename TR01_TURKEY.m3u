@@ -1,15 +1,41 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="*************** TURKEY ***********",***************** TURKEY ***********
 plugin://plugin.video.youtube/play/?video_id=deKH0pQ7-rg
-#EXTINF:-1 tvg-name="Habert�rk" tvg-id="Habert�rk" tvg-logo="" group-title="TURKEY",Habert�rk
+#EXTINF:-1 tvg-name="Habertürk" tvg-id="Habertürk" tvg-logo="" group-title="TURKEY",Habertürk
 plugin://plugin.video.youtube/play/?video_id=deKH0pQ7-rg
 #EXTINF:-1 tvg-name="NTV" tvg-id="NTV TK" tvg-logo="" group-title="TURKEY",NTV
 plugin://plugin.video.youtube/play/?video_id=XEJM4Hcgd3M
+#EXTINF:-1 tvg-name="AKİT TV" tvg-id="AKİT TV" tvg-logo="" group-title="TURKEY",AKİT TV
+http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1 tvg-name="TRT Haber" tvg-id="TRT Haber" tvg-logo="" group-title="TURKEY",TRT Haber
-https://tv-trthaber.live.trt.com.tr/master.m3u8
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT 1" tvg-logo="" group-title="TURKEY",TRT 1
+http://tv-trt1.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT 2" tvg-logo="" group-title="TURKEY",TRT 2
+http://tv-trt2.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT 3" tvg-id="TRT 3" tvg-logo="" group-title="TURKEY",TRT 3
+http://tv-trt3.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT SPOR 1" tvg-id="TRT SPOR 1" tvg-logo="" group-title="TURKEY",TRT SPOR 1
+http://tv-trtspor1.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT SPOR 2" tvg-id="TRT SPOR 2" tvg-logo="" group-title="TURKEY",TRT SPOR 2
+http://tv-trtspor2.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT Avaz" tvg-id="TRT Avaz" tvg-logo="" group-title="TURKEY",TRT Avaz
+http://tv-trtavaz.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT Belgesel" tvg-id="TRT Belgesel" tvg-logo="" group-title="TURKEY",TRT Belgesel
+http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT Türk" tvg-id="TRT Türk" tvg-logo="" group-title="TURKEY",TRT Türk
+http://tv-trtturk.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT Çocuk" tvg-id="TRT Çocuk" tvg-logo="" group-title="TURKEY",TRT Çocuk
+http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT EBA İlkokul" tvg-id="TRT EBA İlkokul" tvg-logo="" group-title="TURKEY",TRT EBA İlkokul
+http://tv-e-okul00.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT EBA Ortaokul" tvg-id="TRT EBA Ortaokul" tvg-logo="" group-title="TURKEY",TRT EBA Ortaokul
+http://tv-e-okul01.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT EBA Lise" tvg-id="TRT EBA Lise" tvg-logo="" group-title="TURKEY",TRT EBA Lise
+http://tv-e-okul02.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="Haber Global" tvg-id="Haber Global" tvg-logo="" group-title="TURKEY",Haber Global
 plugin://plugin.video.youtube/play/?video_id=mOtMCjRg-AI
-#EXTINF:-1 tvg-name="CNN T�rk" tvg-id="CNN T�rk" tvg-logo="" group-title="TURKEY",CNN T�rk
+#EXTINF:-1 tvg-name="CNN Türk" tvg-id="CNN Türk" tvg-logo="" group-title="TURKEY",CNN Türk
 plugin://plugin.video.youtube/play/?video_id=c0Na7E1EVk8
 #EXTINF:-1 tvg-name="TV 100" tvg-id="TV 100" tvg-logo="" group-title="TURKEY",TV 100
 plugin://plugin.video.youtube/play/?video_id=M0eAO5YMDXQ
