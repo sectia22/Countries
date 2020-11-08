@@ -161,8 +161,6 @@ https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playl
 https://nrpus.bozztv.com/36bay2/gusa-rope2rope/index.m3u8
 #EXTINF:-1 tvg-name="SafeTV4U" tvg-id="SafeTV4U" tvg-logo="https://i.imgur.com/sDGZCpL.png" group-title="USA",SafeTV4U
 http://18.191.91.130:1935/live/safetv/playlist.m3u8
-#EXTINF:-1 tvg-name="Screamfest" tvg-id="Screamfest" group-title="USA" tvg-logo="https://i.imgur.com/yfEizcN.png",Screamfest
-https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/playlist.m3u8
 #EXTINF:-1 tvg-name="Sidewalks" tvg-id="Sidewalks" group-title="USA" tvg-logo="https://i.imgur.com/hyEyWIq.png",Sidewalks
 http://30a-tv.com/sidewalks.m3u8
 #EXTINF:-1 tvg-name="Smart Lifestyle TV" tvg-id="Smart Lifestyle TV" group-title="USA" tvg-logo="https://i.imgur.com/UyIkHU3.png",Smart Lifestyle TV
@@ -193,8 +191,6 @@ https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/tvw.jpg" group-title="USA",TVW
 https://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qg0QrUp.png" group-title="USA",TWiT
-https://video-weaver.arn03.hls.ttvnw.net/v1/playlist/CvgEO6yWqBuOGx5XiwmyI7GPnTT5QOt4vW1-S4MCznLikq5GaklodKeGkOgsSh3aKZ1HeMHk8d51eHbIvYKvaXkTvXhbEX42CbdNXdPSGWTIkX7nA-4G_7A9s5_Uwa-1jV92E6cPLubCkJPDQ7RMm8gQMILizTSIrXb-xL0cAPRRtIuu9vK1vnoQDdQ-hhdnzAlbI7uuyueGr4dfbPZsuhua0f6dIuCryIpdREMZ56sjNOw3hZYkf7pLqGgSMyM0zU3ydxlK17VFz0t94u3t0rSzQR3Kz9R4b9Ee6BNryDd5QHvvh1GbWEVwDtOC7t1Ocy-ii_8r9816DyxFBgGEgZjsAbR3yt-WJnbW3XmSICzZKaCwMKpByB9C2Mt2YPe6jjCYO5mmZrefaUufCCuwC5_jTxvL5tQLAKjRPyYrKsuQHKpxy69qPEfCL4pCjcRytzgJaH7PGATsjNpqk3miQ-jQfIdt6r-Yyj_K7d98bCKmG3AUvAHU9FdJb_I1MH1VK7IM52rfQSfYZxs62Y_4BXfcWuFr82T8_K3oN6omIdSZWdhv3UkXMqw76ZzL5krxUjZjexDuX3T_i8p6TgJUppXSEGpeSYrfo4ZjqGyONEvj1f6JwIy-RuOTXvwIFrqzyZbJogOORsS7v7HWNZHQVyw6UfcSuVJ1mdtYylKUK1Ji94d3fj9U3EAUBgvy83f5Zlw_FRYDreceA5sqcrjyGpSX-CltrbgpSMpVob8YuW1sUEebZnnmP4LA9VO6j8qi81vu81EtLzOqOiFuG_Wn02aECMCuIrev5jeWR0S8YdjuI2_pNbXXdBijC1b49PI5Rot2S9qn8OOkUJISELkMUTzkAaYyn3YSLjDdmMUaDDpBSCvrXv7BaCAbaA.m3u8
 #EXTINF:-1 tvg-name="UN Web TV" tvg-id="UN Web TV" group-title="USA" tvg-logo="https://i.imgur.com/lPyJhBN.png",UN Web TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
 #EXTINF:-1 tvg-id="Voice of America" tvg-name="Voice of America" tvg-logo="https://i.imgur.com/ieoPf2G.png" group-title="USA",Voice of America
