@@ -7,14 +7,18 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8
 #EXTINF:-1 tvg-name="Blomberg US" tvg-id="CBS Eastern US" group-title="USA" tvg-logo="https://i.imgur.com/idRFfhY.png",Blomberg US
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="CBS HD New York" tvg-logo="https://i.imgur.com/8YjL5Lo.png" group-title="USA ",CBS HD New York
-http://161.0.157.5/PLTV/88888888/224/3221227041/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg Politics" tvg-logo="https://i.imgur.com/WdpIGAF.png" group-title="",Bloomberg Politics
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_politics.m3u8
 #EXTINF:-1 tvg-name="CBSN" tvg-id="CBS Eastern US" group-title="USA" tvg-logo="https://i.imgur.com/nki2HDQ.png",CBSN
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 tvg-name="Investment Pitch" tvg-id="Investment Pitch" tvg-logo="https://i.imgur.com/CKCtZo7.png" group-title="USA",Investment Pitch
-http://www.30a-tv.com/InvPit.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC" tvg-logo="https://i.imgur.com/STg40ub.png" group-title="USA",CNBC
+https://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="CSPAN-US" tvg-name="CSPAN-US" tvg-logo="https://i.imgur.com/xGBmzm3.png" group-title="USA",CSPAN-US
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBC" tvg-logo="https://i.imgur.com/apjLF1L.png" group-title="USA",NBC
 http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 tvg-name="Investment Pitch" tvg-id="Investment Pitch" tvg-logo="https://i.imgur.com/CKCtZo7.png" group-title="USA",Investment Pitch
+http://www.30a-tv.com/InvPit.m3u8
 #EXTINF:-1 tvg-name="NewsNet" tvg-id="NewsNet" tvg-logo="https://i.imgur.com/Fc40om4.jpg" group-title="USA",NewsNet
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 #EXTINF:-1 tvg-name="Newsmax TV" tvg-id="Newsmax" group-title="USA" tvg-logo="https://i.imgur.com/L0PC2YI.png",Newsmax TV
@@ -33,6 +37,10 @@ http://30a-tv.com/my999.m3u8
 http://30a-tv.com/music.m3u8
 #EXTINF:-1 tvg-name="360 North" tvg-id="360north.org" group-title="USA" tvg-logo="https://i.imgur.com/CFHtVxO.png",360 North
 https://wowzaprod3-i.akamaihd.net/hls/live/252236/29256539/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="3ABN Kids" tvg-logo="https://i.imgur.com/bi97moY.png" group-title="USA",3ABN Kids
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://i.imgur.com/LD97XyN.png" group-title="USA",A&E
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="USA",AFV Family
 http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ENtRDds.png" group-title="USA",American Horrors
@@ -45,10 +53,16 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-auftv/index.m3u8
 #EXTINF:-1 tvg-name="BaebleMusic" tvg-id="BaebleMusic" group-title="USA;MUSIK" tvg-logo="https://i.imgur.com/9kLTfsY.png",BaebleMusic
 https://dai1.xumo.com/bmneuerw7j9k5lfc/9999231/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Beto TV" tvg-logo="https://i.imgur.com/plkVezw.jpg" group-title="USA",Beto TV (4K -Test)
+https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmM19zu.png" group-title="USA",BigLife TV
 http://biglife.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Biz TV" tvg-logo="https://i.imgur.com/tjEw9X1.png" group-title="USA",Biz TV
+https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zvg7RMP.png" group-title="USA;MUSIK",Black Artist
 https://nrpus.bozztv.com/36bay2/gusa-blackartist/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Blaze TV" tvg-logo="https://i.imgur.com/Q31xTcM.png" group-title="USA",Blaze TV
+https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nm3N3aw.png" group-title="USA",Bluegrass 4U
 https://59d39900ebfb8.streamlock.net/blugrassmusic/blugrassmusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RDVOzu9.png" group-title="USA",Blues TN
@@ -61,6 +75,8 @@ https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
 http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 #EXTINF:-1 tvg-name="CBN News International" tvg-id="" group-title="USA" tvg-logo="https://i.imgur.com/VS1lw49.png",CBN News International
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chef Champion" tvg-logo="https://i.imgur.com/qj7DSnR.png" group-title="USA",Chef Champion
+https://nrpus.bozztv.com/36bay2/gusa-chefchampion/index.m3u8
 #EXTINF:-1 tvg-name="Cheddar" tvg-id="cheddar.com" group-title="USA" tvg-logo="https://i.imgur.com/nWjAjzy.png",Cheddar
 https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2OnFFoP.png" group-title="USA",Cheddar Business
@@ -71,6 +87,10 @@ https://live.chdrstatic.com/cbn/primary/1.m3u8
 http://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
 #EXTINF:-1 tvg-name="Classic Arts Showcase" tvg-id="ClassicArtsShowcase" group-title="USA" tvg-logo="https://i.imgur.com/2LJzdu6.png",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Classic Cinema" tvg-logo="https://i.imgur.com/gi2LOKf.png" group-title="USA",Classic Cinema
+https://nrpus.bozztv.com/36bay2/gusa-classiccinema/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cloudflare TV" tvg-logo="https://i.imgur.com/DU6kO3S.png" group-title="USA",Cloudflare TV
+https://cloudflare.tv/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CMC-USA" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="USA",CMC-USA
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 #EXTINF:-1 tvg-name="Court TV (Pluto)" tvg-id="Court TV" tvg-logo="https://i.imgur.com/f0FtDEI.png" group-title="USA",Court TV (Pluto)
