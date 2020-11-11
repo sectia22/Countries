@@ -57,6 +57,8 @@ https://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/playlist.m3u8
 https://edge1.dashmedia.tv/onestudio/ezwaytv/playlist.m3u8
 #EXTINF:-1 tvg-name="Fairfax Ch. 16 - Virginia" tvg-id="Fairfax Ch. 16" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/yP1nhl0.jpg",Fairfax Ch. 16 - Virginia
 https://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Galveston County TV"  tvg-logo="https://i.imgur.com/mGIeNl2.png" group-title="USA LOCAL",Galveston County TV
+https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Glendale 11 - Arizona" tvg-logo="https://i.imgur.com/TAGILVe.png" group-title="USA LOCAL",Glendale 11 - Arizona
 https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Globesville (NY Institute of Technology)" tvg-logo="https://i.imgur.com/ffTmXdk.png" group-title="USA LOCAL",Globesville (NY Institute of Technology)
@@ -73,6 +75,10 @@ https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KIRO 7 News" tvg-logo="https://i.imgur.com/os5b80c.jpg" group-title="USA LOCAL",KIRO 7 News
 https://d3brkxnx500hx8.cloudfront.net/v1/manifest/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10090_8e38113f-0933-4706-b0c6-ae96ab12921c_LE/124adea9-222d-43fc-b08c-a1b9d98a6326/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KOMO News" tvg-logo="https://i.imgur.com/g9qLJ2l.jpg" group-title="USA LOCAL",KOMO News
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KTLA 5" tvg-logo="https://i.imgur.com/JH99Psi.jpg" group-title="USA LOCAL",KTLA 5
+https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KUSI" tvg-logo="https://i.imgur.com/4uDFUNi.png" group-title="USA LOCAL",KUSI
 https://dai.google.com/linear/hls/pa/event/YQrqEzS-QkeI4UECvYoWDA/stream/73105722-0aff-4b09-abf9-e46693242464:GRQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Leominster TV Educational" tvg-logo="https://i.imgur.com/nEG2ZST.png" group-title="USA LOCAL",Leominster TV Educational
