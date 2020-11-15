@@ -196,9 +196,9 @@ http://185.85.28.19/oe3sd/orf.sdp/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OyOPRtq.png" group-title="AUSTRIA",K-TV
 http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KT1" tvg-logo="https://www.kt1.at/wp-content/uploads/2019/08/kt1_header_logo.png" group-title="AUSTRIA",KT1
-plugin://plugin.video.youtube/play/?video_id=zEntkC6YZT4
+plugin://plugin.video.youtube/play/?video_id=5-0BTQ_iq-c
 #EXTINF:-1 tvg-name="Ländle Tv" tvg-id="laendletv.com" group-title="AUSTRIA" tvg-logo="https://i.imgur.com/g2Hdysr.jpg",Ländle Tv
-https://streaming7.huberwebmedia.at/hls-live/live_laendle/_definst_/liveevent/livestream.m3u8
+https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
 #EXTINF:-1 tvg-name="M4TV" tvg-id="" group-title="AUSTRIA" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m4tv.png",M4TV
 https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
 #EXTINF:-1 tvg-name="oe24 TV" tvg-id="" group-title="AUSTRIA" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oe24tv.png",oe24 TV
@@ -210,7 +210,7 @@ http://p3-6.mov.at:1935/live/weekstream/master.m3u8
 #EXTINF:-1 tvg-name="R9 TV" tvg-id="R9Osterreich.at" group-title="AUSTRIA" tvg-logo="https://i.imgur.com/Wu6SMvb.png",R9 TV
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="RTS Salzburg" tvg-id="rts-salzburg.at" group-title="AUSTRIA" tvg-logo="https://i.imgur.com/SSDLpPU.png",RTS Salzburg
-plugin://plugin.video.youtube/play/?video_id=Be4dBk_Q7n4
+plugin://plugin.video.youtube/play/?video_id=ivkhFJqme5g
 #EXTINF:-1 tvg-name="SchauTV" tvg-id="schautv.at" group-title="AUSTRIA" tvg-logo="https://image.schautv.at/images/cfs_616w/3123676/schautv_homepagebanner_twitter.png",SchauTV
 https://schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8?guid=c5bca0ef-7394-4b87-a48b-b625dfae0101
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KJie1k5.png" group-title="AUSTRIA",Teins TV
@@ -218,7 +218,9 @@ http://live1.markenfunk.com/t1/live/chunklist.m3u8
 #EXTINF:-1 tvg-name="Tirol TV" tvg-id="Tiroltv.at" tvg-logo="https://i.imgur.com/0jHWmjL.png" group-title="AUSTRIA",Tirol TV
 https://streaming5.huberwebmedia.at/hls-live/live_tiroltv/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-name="UPPERA Community TV" tvg-id="uppera.club" tvg-logo="https://i.imgur.com/4fAkcCd.jpg" group-title="AUSTRIA",UPPERA Community TV
-http://163.172.15.177/live/sUPPERchannel/index.m3u8
+http://89.187.168.245:8080/live/sUPPERchannel/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4fAkcCd.jpg" group-title="AUSTRIA",Uppera Balkan
+http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8
 #EXTINF:-1 tvg-name="W24 TV" tvg-id="w24.at" group-title="AUSTRIA" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/w24.png",W24 TV
 https://ms01.w24.at/W24/smil:liveevent.smil/chunklist_w89103916_b2176000_slger.m3u8
 #EXTINF:-1 tvg-name="************** SWITZERLAND **********" tvg-id="" group-title="" tvg-logo="",*************** SWITZERLAND **********
@@ -230,9 +232,9 @@ http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Die Neue Zeit" tvg-logo="https://i.imgur.com/9dQuwCc.jpg" group-title="SWITZERLAND",Die Neue Zeit
 https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/chunklist_w2039349636.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dieu TV" tvg-logo="https://i.imgur.com/3sWAEuY.jpg" group-title="SWITZERLAND",Dieu TV
-
 https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/720p-playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Energy TV" tvg-logo="https://i.imgur.com/B6zQ6xn.png" group-title="SWITZERLAND; MUSIK",Energy TV
+https://edge10.vedge.infomaniak.com/livecast/ik:energytv/chunklist_w229962190_b3001080.m3u8?spark=2ef26dd4-6c62-4d52-9dcb-b177d141f032&token=
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 9" tvg-logo="https://i.imgur.com/nQVDOVb.png" group-title="SWITZERLAND",Kanal 9
 https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="La Tele" tvg-logo="https://i.imgur.com/JiAnDPu.png" group-title="SWITZERLAND",La Tele
@@ -242,12 +244,9 @@ https://edge5.vedge.infomaniak.com/livecast/ik:naxoo/manifest.m3u8?spark=88728f7
 #EXTINF:-1 tvg-id="" tvg-name="LFM TV" tvg-logo="https://i.imgur.com/UE1E3uH.png" group-title="SWITZERLAND;MUSIK",LFM TV
 https://edge4.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8?spark=cf45faac-ae15-4c71-92c5-6c3527ed8e0f&token=
 #EXTINF:-1 tvg-id="" tvg-name="Musig24" tvg-logo="https://i.imgur.com/A21WS1A.png" group-title="SWITZERLAND;MUSIK",Musig24
-https://player-api.new.livestream.com/accounts/16598383/events/8687407/broadcasts/212291450.secure.m3u8?dw=14400&hdnea=st%3D1603170554~exp%3D1603172354~acl%3D%2Fi%2F16598383_8687407_lsi31bo06t4eub8qj64_1%40446960%2F%2A~hmac%3D4478ae604f0ea2e6cdc9a34b5ef5d39f08ddadbc176aa55d91549fcb7821fc6e&token=5f8e7226_c29d1b61d7671d8b95a8da99be7e2dcd37c33275
-
+https://playback2.akamaized.net/streams/16598383_8687407_lsin7mfbawvyji8z19o_1/master.m3u8?dw=14400&hdnts=exp=1605428280~acl=/streams/16598383_8687407_lsin7mfbawvyji8z19o_1/master.m3u8*~hmac=073ce4b0d92471b2f87e3786620b8bc6eb0c98e131334e32ff9394fa72cc3d71
 #EXTINF:-1 tvg-id="" tvg-name="One TV" tvg-logo="https://i.imgur.com/YEQ957V.png" group-title="SWITZERLAND",One TV
-
 https://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="QS24" tvg-logo="https://i.imgur.com/sxrRSXb.jpg" group-title="SWITZERLAND",QS24
 http://62.113.221.4/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio 3i (Webradio)" tvg-logo="https://i.imgur.com/lp23ChL.jpg" group-title="SWITZERLAND",Radio 3i (Webradio)
@@ -256,7 +255,6 @@ https://livestream.gruppocdt.ch/hls/radio3i.m3u8
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_uv9hs4ww/sd/6000/t/wrKSSij4alVi5jiCA3spVQ/index-s32.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Pilatus (Webradio)" tvg-logo="https://i.imgur.com/lQzG2lg.png" group-title="SWITZERLAND",Radio Pilatus (Webradio)
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WGs1jsk.png" group-title="SWITZERLAND;MUSIK",Radio Pilatus (Webradio)
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Rouge TV" tvg-id="RougeTV.ch" tvg-logo="https://i.imgur.com/PzF6q9I.png" group-title="SWITZERLAND",Rouge TV
@@ -4163,6 +4161,8 @@ https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2
 https://edge6.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
 #EXTINF:-1 tvg-name="Ditty TV (US)" tvg-id="DittyTV.com" group-title="MUSIK" tvg-logo="https://i.imgur.com/p5rREUo.png",Ditty TV (US)
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Energy TV (CH)" tvg-logo="https://i.imgur.com/B6zQ6xn.png" group-title="SWITZERLAND; MUSIK",Energy TV (CH)
+https://edge10.vedge.infomaniak.com/livecast/ik:energytv/chunklist_w229962190_b3001080.m3u8?spark=2ef26dd4-6c62-4d52-9dcb-b177d141f032&token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eurtz6A.png" group-title="MUSIK",Euro Indie Music Chart
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Generations TV (FR)" tvg-logo="https://i.imgur.com/daUGyPl.jpg" group-title="FRANCE;MUSIK",Generations TV (FR)
