@@ -2535,15 +2535,18 @@ https://ff0000.latnet.media/ltv9/playlist.m3u8
 http://ott-cdn.ucom.am/s85/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.userlogos.org/files/logos/spaljeni/tvnet.png" group-title="LATVIA",TV Net
 http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
-
-#EXTINF:-1 tvg-name="***************** ESTONIA  ***********" tvg-id="" group-title="" tvg-logo="",***************** ESTONIA  ***********
+#EXTINF:-1 tvg-name="***************** ESTONIA  ***********",***************** ESTONIA  ***********
 https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss-kval2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ETV+" tvg-logo="https://static.iptv-epg.com/ee/ETV2.ee.png" group-title="ESTONIA",ETV+
+#EXTINF:-1 tvg-id="" tvg-name="ETV+" tvg-logo="https://i.imgur.com/L8fGd9d.png" group-title="ESTONIA",ETV+
 https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss-kval2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ETV" tvg-logo="https://static.iptv-epg.com/ee/ETV.ee.png" group-title="ESTONIA",ETV
+#EXTINF:-1 tvg-id="" tvg-name="ETV" tvg-logo="https://i.imgur.com/SAOGSmL.png" group-title="ESTONIA",ETV
 https://errstreams4.cdn.eurovisioncdn.net/live/etv-kval2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ETV 2" tvg-logo="https://static.iptv-epg.com/ee/ETVPlus.ee.png" group-title="ESTONIA",ETV 2
+#EXTINF:-1 tvg-id="" tvg-name="ETV 2" tvg-logo="https://i.imgur.com/wY6Pz37.png" group-title="ESTONIA",ETV 2
 https://errstreams4.cdn.eurovisioncdn.net/live/etv2-kval2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Riigikogu" tvg-logo="https://i.imgur.com/xuySaSN.png" group-title="ESTONIA",Riigikogu
+https://riigikogu.babahhcdn.com/bb1027/smil:riigikogu_ch1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Taevas TV 7 " tvg-logo="https://i.imgur.com/FaQQdzz.png" group-title="ESTONIA",Taevas TV 7
+https://vod.tv7.fi/tv7-ee/_definst_/smil:tv7-ee.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="***************** LITHUANIA  ***********" tvg-id="" group-title="" tvg-logo="",***************** LITHUANIA  ***********
 https://sb.err.ee/live/etv.m3u8
