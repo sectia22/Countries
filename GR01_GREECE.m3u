@@ -53,6 +53,8 @@ http://94.130.180.175:8081/live/greektv/playlist.m3u8
 http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Play TV" tvg-logo="http://i.imgur.com/100uuWA.png" group-title="GREECE",Play TV
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pik Sat (Cyprus)" tvg-logo="https://i.imgur.com/gHwbGLR.png" group-title="GREECE",Pik Sat (Cyprus)
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PLP" tvg-logo="https://i.imgur.com/qa3Lurc.png" group-title="GREECE",PLP
 https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Reload Play" tvg-logo="https://i.imgur.com/KYNqguL.jpg" group-title="GREECE",Reload Play
