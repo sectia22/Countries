@@ -28,7 +28,7 @@ http://mdrsahls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@513999/index_3776_av
 #EXTINF:-1 tvg-name=rbb Berlin tvg-id=rbbBerlin.de tvg-logo=http://logos.zattic.com/images/channels/logos/823d10599014e6b23d78/black/84x48.png group-title="GERMAN TV",rbb Berlin
 https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8
 #EXTINF:-1 tvg-name=SWR BW tvg-id=SWR.de tvg-logo=http://logos.zattic.com/images/channels/logos/5edb77a08387f0b820f6/black/84x48.png group-title="GERMAN TV",SWR BW
-https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master_3776.m3u8
+https://swrbwhls-i.akamaihd.net/hls/live/667638-b/swrbwd/master.m3u8
 #EXTINF:-1 tvg-name=SR Fernsehen tvg-id=SRFernsehen.de tvg-logo=http://logos.zattic.com/images/channels/logos/c50695d215e17cb3f886/black/84x48.png group-title="GERMAN TV",SR Fernsehen
 http://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8
 #EXTINF:-1 tvg-name=BR Fernsehen tvg-id=BR.de tvg-logo=http://logos.zattic.com/images/channels/logos/7bede2308528e63feaac/black/84x48.png group-title="GERMAN TV",BR Fernsehen
