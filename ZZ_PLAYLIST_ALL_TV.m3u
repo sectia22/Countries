@@ -28,7 +28,7 @@ http://mdrsahls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@513999/index_3776_av
 #EXTINF:-1 tvg-name=rbb Berlin tvg-id=rbbBerlin.de tvg-logo=http://logos.zattic.com/images/channels/logos/823d10599014e6b23d78/black/84x48.png group-title="GERMAN TV",rbb Berlin
 https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8
 #EXTINF:-1 tvg-name=SWR BW tvg-id=SWR.de tvg-logo=http://logos.zattic.com/images/channels/logos/5edb77a08387f0b820f6/black/84x48.png group-title="GERMAN TV",SWR BW
-https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master_3776.m3u8
+https://swrbwhls-i.akamaihd.net/hls/live/667638-b/swrbwd/master.m3u8
 #EXTINF:-1 tvg-name=SR Fernsehen tvg-id=SRFernsehen.de tvg-logo=http://logos.zattic.com/images/channels/logos/c50695d215e17cb3f886/black/84x48.png group-title="GERMAN TV",SR Fernsehen
 http://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8
 #EXTINF:-1 tvg-name=BR Fernsehen tvg-id=BR.de tvg-logo=http://logos.zattic.com/images/channels/logos/7bede2308528e63feaac/black/84x48.png group-title="GERMAN TV",BR Fernsehen
@@ -3738,7 +3738,7 @@ http://akittv-live.ercdn.net/akittv/akittv.m3u8
 https://live.al-zahratv.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Altas TV" tvg-logo="https://i.imgur.com/AS04Jyv.png" group-title="TURKEY",Altas TV
 http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="ATR Kırım Tatar" tvg-id="ATR Kırım Tatar" tvg-logo="https://i.imgur.com/ysvDr1D.jpg" group-title="TURKEY",ATR Kırım Tatar
+#EXTINF:-1 tvg-name="ATR Kirim Tatar" tvg-id="ATR Kirim Tatar" tvg-logo="https://i.imgur.com/ysvDr1D.jpg" group-title="TURKEY",ATR Kırım Tatar
 http://stream.atr.ua/atr//live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Besiktas Web TV" tvg-logo="https://i.imgur.com/xa1Vjw5.png" group-title="TURKEY",Besiktas Web TV
 https://s01.vpis.io/besiktas/besiktas.m3u8
@@ -3752,13 +3752,13 @@ http://wms.brtk.net:1935/live/brt2/playlist.m3u8
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cay TV" tvg-logo="https://i.imgur.com/A2T9A4g.png" group-title="TURKEY",Cay TV
 http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
-#EXTINF:-1 tvg-name="CNN Türk" tvg-id="CNN Türk" tvg-logo="https://i.imgur.com/qz0Kp2K.png" group-title="TURKEY",CNN Türk
+#EXTINF:-1 tvg-name="CNN Turk" tvg-id="CNN Turk" tvg-logo="https://i.imgur.com/qz0Kp2K.png" group-title="TURKEY",CNN Türk
 plugin://plugin.video.youtube/play/?video_id=c0Na7E1EVk8
 #EXTINF:-1 tvg-id="" tvg-name="CRI Turk Belgesel" tvg-logo="https://i.imgur.com/OTkx1gi.png" group-title="TURKEY",CRI Turk Belgesel
 http://cri.aa.net.tr:1935/belgesel/belgesel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Diyalog TV" tvg-logo="https://i.imgur.com/6A3HIH0.png" group-title="TURKEY",Diyalog TV
 http://yayin3.canlitv.com:1935/live/diyalogtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Doğuş TV" tvg-logo="https://i.imgur.com/CKzLWE3.png" group-title="TURKEY",Doğuş TV
+#EXTINF:-1 tvg-id="" tvg-name="Dogus TV" tvg-logo="https://i.imgur.com/CKzLWE3.png" group-title="TURKEY",Doğuş TV
 https://s01.vpis.io/dogustv/dogustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ETV Manisa" tvg-logo="https://i.imgur.com/mU505C6.png" group-title="TURKEY",ETV Manisa
 https://broadcasttr.com:446/manisaetv/bant1/chunklist.m3u8
@@ -3766,11 +3766,11 @@ https://broadcasttr.com:446/manisaetv/bant1/chunklist.m3u8
 https://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Finans Turk TV" tvg-logo="https://i.imgur.com/G7uDQBv.png" group-title="TURKEY",Finans Turk TV
 http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Guneydoğu TV" tvg-logo="https://i.imgur.com/JT5pp3Y.png" group-title="TURKEY",Guneydoğu TV
+#EXTINF:-1 tvg-id="" tvg-name="Guneydogu TV" tvg-logo="https://i.imgur.com/JT5pp3Y.png" group-title="TURKEY",Guneydoğu TV
 http://stream2.taksimbilisim.com:1935/gtv/bant1/chunklist.m3u8
 #EXTINF:-1 tvg-name="Haber Global" tvg-id="Haber Global" tvg-logo="https://i.imgur.com/gFKMfhh.png" group-title="TURKEY",Haber Global
 plugin://plugin.video.youtube/play/?video_id=mOtMCjRg-AI
-#EXTINF:-1 tvg-name="Habertürk" tvg-id="Habertürk" tvg-logo="https://i.imgur.com/LDboBFB.jpg" group-title="TURKEY",Habertürk
+#EXTINF:-1 tvg-name="Haberturk" tvg-id="Haberturk" tvg-logo="https://i.imgur.com/LDboBFB.jpg" group-title="TURKEY",Habertürk
 plugin://plugin.video.youtube/play/?video_id=deKH0pQ7-rg
 #EXTINF:-1 tvg-id="" tvg-name="IBB TV" tvg-logo="https://i.imgur.com/aXxAz84.png" group-title="TURKEY",IBB TV
 rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
@@ -3786,7 +3786,7 @@ https://59cba4d34b678.streamlock.net/live/kontv/playlist.m3u8
 https://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kral TV" tvg-logo="https://i.imgur.com/I4FqjxE.png" group-title="TURKEY",Kral TV
 https://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8
-#EXTINF:-1 tvg-name="Lale TV Kırım Tatar" tvg-id="Lale TV Kırım Tatar" tvg-logo="https://i.imgur.com/9kImwIc.jpg" group-title="TURKEY",Lale TV Kırım Tatar
+#EXTINF:-1 tvg-name="Lale TV Kirim Tatar" tvg-id="Lale TV Kirim Tatar" tvg-logo="https://i.imgur.com/9kImwIc.jpg" group-title="TURKEY",Lale TV Kırım Tatar
 http://stream.atr.ua/lale//live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Med Muzîk" tvg-logo="https://i.imgur.com/3nXs170.png" group-title="TURKEY",Med Muzîk
 http://137.74.205.201/live3/mm-3mbps.m3u8
@@ -3804,7 +3804,7 @@ https://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT Haber" tvg-logo="https://i.imgur.com/MtN0lyc.png" group-title="TURKEY",TGRT Haber
 http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="tivi TÜRK" tvg-logo="https://i.imgur.com/GLxHjHi.jpg" group-title="TURKEY",tivi TÜRK
+#EXTINF:-1 tvg-id="" tvg-name="tivi TURK" tvg-logo="https://i.imgur.com/GLxHjHi.jpg" group-title="TURKEY",tivi TÜRK
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TLC TR" tvg-logo="https://i.imgur.com/vtedYFm.png" group-title="TURKEY",TLC TR
 https://pa9agxjg.rocketcdn.com/tlctv.smil/index.m3u8
@@ -3818,7 +3818,7 @@ http://tv-trt3.live.trt.com.tr/master_720.m3u8
 http://tv-trtavaz.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT Belgesel" tvg-id="TRT Belgesel" tvg-logo="https://i.imgur.com/9lW0TV2.png" group-title="TURKEY",TRT Belgesel
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT Çocuk" tvg-id="TRT Çocuk" tvg-logo="https://i.imgur.com/ThPgKiG.jpg" group-title="TURKEY",TRT Çocuk
+#EXTINF:-1 tvg-name="TRT Cocuk" tvg-id="TRT Cocuk" tvg-logo="https://i.imgur.com/ThPgKiG.jpg" group-title="TURKEY",TRT Çocuk
 http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT EBA Ilkokul" tvg-id="TRT EBA Ilkokul" tvg-logo="https://i.imgur.com/IUha5eQ.jpg" group-title="TURKEY",TRT EBA Ilkokul
 http://tv-e-okul00.live.trt.com.tr/master_720.m3u8
@@ -3830,15 +3830,15 @@ http://tv-e-okul01.live.trt.com.tr/master_720.m3u8
 http://tv-e-okul02.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRT Muzik TR" tvg-name="TRT Muzik TR" tvg-logo="https://i.imgur.com/w50lU8s.jpg" group-title="TURKEY",TRT Muzik
 https://tv-trtmuzik.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT Türk" tvg-id="TRT Türk" tvg-logo="https://i.imgur.com/zT6ruUV.png" group-title="TURKEY",TRT Türk
+#EXTINF:-1 tvg-name="TRT Turk" tvg-id="TRT Turk" tvg-logo="https://i.imgur.com/zT6ruUV.png" group-title="TURKEY",TRT Türk
 http://tv-trtturk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT World" tvg-logo="https://i.imgur.com/W46XnRD.png" group-title="TURKEY",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="Türkmeneli Irak" tvg-id="Türkmeneli Irak" tvg-logo="https://i.imgur.com/9AarcQo.jpg" group-title="TURKEY",Türkmeneli Irak
+#EXTINF:-1 tvg-name="TUrkmeneli Irak" tvg-id="Türkmeneli Irak" tvg-logo="https://i.imgur.com/9AarcQo.jpg" group-title="TURKEY",Türkmeneli Irak
 http://116.203.71.169/hls/stream1.m3u8
 #EXTINF:-1 tvg-name="TV 100" tvg-id="TV 100" tvg-logo="https://i.imgur.com/U0oSqO4.jpg" group-title="TURKEY",TV 100
 plugin://plugin.video.youtube/play/?video_id=M0eAO5YMDXQ
-#EXTINF:-1 tvg-id="" tvg-name="UçanKuş TV" tvg-logo="https://i.imgur.com/4SQAn3U.jpg" group-title="TURKEY",UçanKuş TV
+#EXTINF:-1 tvg-id="" tvg-name="UcanKus TV" tvg-logo="https://i.imgur.com/4SQAn3U.jpg" group-title="TURKEY",UçanKuş TV
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 #EXTINF:-1 tvg-name="****************** BELARUS ************",****************** BELARUS ************
 http://91.215.176.238:8000/8channel
@@ -3926,6 +3926,8 @@ http://94.130.180.175:8081/live/greektv/playlist.m3u8
 http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Play TV" tvg-logo="http://i.imgur.com/100uuWA.png" group-title="GREECE",Play TV
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pik Sat (Cyprus)" tvg-logo="https://i.imgur.com/gHwbGLR.png" group-title="GREECE",Pik Sat (Cyprus)
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PLP" tvg-logo="https://i.imgur.com/qa3Lurc.png" group-title="GREECE",PLP
 https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Reload Play" tvg-logo="https://i.imgur.com/KYNqguL.jpg" group-title="GREECE",Reload Play
@@ -4050,6 +4052,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0a1f73654db655a9274428/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=372611e5-6b4b-4a3f-9491-368034dfa39e&deviceId=5d0a1f73654db655a9274428&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
 #EXTINF:-1 tvg-id="5be1c3f9851dd5632e2c91b2" group-title="Pluto Germany" tvg-name="Nature" tvg-logo="https://images.pluto.tv/channels/5be1c3f9851dd5632e2c91b2/colorLogoPNG.png" ,Nature
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1c3f9851dd5632e2c91b2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1e26d24e-0585-11eb-82fe-0242ac110002&deviceId=5be1c3f9851dd5632e2c91b2&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+#EXTINF:-1 tvg-id="5dc29179c928a600093a7747" group-title="Pluto Germany" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/5dc29179c928a600093a7747/colorLogoPNG.png" ,Pluto TV Christmas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc29179c928a600093a7747/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=b2dba43c-28d9-11eb-922f-0242ac110002&deviceId=5dc29179c928a600093a7747&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+#EXTINF:-1 tvg-id="5c8a6bc64dc7286c6afaf4ab" group-title="Pluto Germany" tvg-name="Pluto TV Movies+ (CH)" tvg-logo="https://images.pluto.tv/channels/5c8a6bc64dc7286c6afaf4ab/colorLogoPNG.png" ,Pluto TV Movies+ (CH)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c8a6bc64dc7286c6afaf4ab/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=f747754f-ee3e-4968-9e8e-779da031bce9&deviceId=5c8a6bc64dc7286c6afaf4ab&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
 #EXTINF:-1 tvg-id="5dde47b63585b500099f74ec" group-title="Pluto Germany" tvg-name="Retro Drama" tvg-logo="https://images.pluto.tv/channels/5dde47b63585b500099f74ec/colorLogoPNG.png" ,Retro Drama
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dde47b63585b500099f74ec/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=5204e9ec-0585-11eb-a18c-0242ac110002&deviceId=5dde47b63585b500099f74ec&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
 #EXTINF:-1 tvg-id="5e1c669094e0e80009b22ab8" group-title="Pluto Germany" tvg-name="Retro Toons" tvg-logo="https://images.pluto.tv/channels/5e1c669094e0e80009b22ab8/colorLogoPNG.png" ,Retro Toons
@@ -4096,6 +4102,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db6a697d5f34a0009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db6a697d5f34a000934cd13/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=f1438745-0586-11eb-82fe-0242ac110002&deviceId=5db6a697d5f34a000934cd13&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
 #EXTINF:-1 tvg-id="5e7b855972c36600076b7ddd" group-title="Pluto Germany" tvg-name="MTV Catfish+" tvg-logo="https://images.pluto.tv/channels/5e7b855972c36600076b7ddd/colorLogoPNG.png" ,MTV Catfish+
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e7b855972c36600076b7ddd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=4433ef8f-a215-466e-a65b-405518cd6e6c&deviceId=5e7b855972c36600076b7ddd&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+#EXTINF:-1 tvg-id="5ce40f8aa43c46795e36e8a5" group-title="Pluto Germany" tvg-name="MTV Christmas Songs" tvg-logo="https://images.pluto.tv/channels/5ce40f8aa43c46795e36e8a5/colorLogoPNG.png" ,MTV Christmas Songs
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce40f8aa43c46795e36e8a5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=b2dba43c-28d9-11eb-922f-0242ac110002&deviceId=5ce40f8aa43c46795e36e8a5&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
 #EXTINF:-1 tvg-id="5caf325764025859afdd6c4d" group-title="Pluto Germany" tvg-name="MTV pluto.tv" tvg-logo="https://images.pluto.tv/channels/5caf325764025859afdd6c4d/colorLogoPNG.png" ,MTV pluto.tv
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5caf325764025859afdd6c4d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1b711cc8-0587-11eb-9df2-0242ac110002&deviceId=5caf325764025859afdd6c4d&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
 #EXTINF:-1 tvg-id="5dcebe53d352330009e56f5b" group-title="Pluto Germany" tvg-name="MTV pluto.tv+" tvg-logo="https://images.pluto.tv/channels/5dcebe53d352330009e56f5b/colorLogoPNG.png" ,MTV pluto.tv+
@@ -4134,6 +4142,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cd1495bd9e0ec55c4
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc02ece31f6050009de4b39/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=7ecc4d45-0714-11eb-9b92-0242ac110002&deviceId=5dc02ece31f6050009de4b39&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
 #EXTINF:-1 tvg-id="5e1c669094e0e80009b22ab8" group-title="Pluto Germany" tvg-name="Retro Toons" tvg-logo="https://images.pluto.tv/channels/5e1c669094e0e80009b22ab8/colorLogoPNG.png" ,Retro Toons
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1c669094e0e80009b22ab8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=a8542c9b-0714-11eb-a18c-0242ac110002&deviceId=5e1c669094e0e80009b22ab8&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+#EXTINF:-1 tvg-id="5f982a3579d7c00007b54d30" group-title="Pluto Germany" tvg-name="nick Christmas" tvg-logo="https://images.pluto.tv/channels/5f982a3579d7c00007b54d30/colorLogoPNG.png" ,nick Christmas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f982a3579d7c00007b54d30/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=b2dba43c-28d9-11eb-922f-0242ac110002&deviceId=5f982a3579d7c00007b54d30&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
 #EXTINF:-1 tvg-id="5f4796368174910007756454" group-title="Pluto Germany" tvg-name="nick Emma einfach magisch!" tvg-logo="https://images.pluto.tv/channels/5f4796368174910007756454/colorLogoPNG.png",nick Emma einfach magisch!
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4796368174910007756454/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=db62fa8b-15bd-11eb-bde1-0242ac110002&deviceId=5f4796368174910007756454&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
 #EXTINF:-1 tvg-id="5ede45451dce190007ef9ff2" group-title="Pluto Germany" tvg-name="nick Jr. Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ede45451dce190007ef9ff2/colorLogoPNG.png" ,nick Jr. Pluto TV
