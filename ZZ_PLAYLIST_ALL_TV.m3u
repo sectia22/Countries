@@ -1913,7 +1913,6 @@ http://i.mjh.nz/nz/tv.20.m3u8
 http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
 #EXTINF:-1 tvg-name="Wairarapa TV" tvg-id="" group-title="NEWZEALAND" tvg-logo="https://i.imgur.com/qwGFZKE.png",Wairarapa TV
 http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="************ ENGLAND ************",************ ENGLAND ************
 http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" group-title="UK",92 News UK
@@ -1931,7 +1930,7 @@ http://51.52.156.22:8888/http/001
 #EXTINF:-1 tvg-id="BBC Four" tvg-name="BBC Four" tvg-logo="https://i.imgur.com/W5silL1.png" group-title="UK",BBC Four
 http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="UK",BBC World News
-https://1636691764.rsc.cdn77.org/SnGcBmYPpn7xvomYeS0WCQ==,1604079097/LS-ATL-54548-11/index.m3u8
+https://1636691764.rsc.cdn77.org/WDL8DwIhfs3xbaIAjptn1w==,1606031062/LS-ATL-54548-11/index.m3u8
 #EXTINF:-1 tvg-name="Bloomberg EU" tvg-id="Bloomberg.nws" group-title="UK" tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg EU
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 #EXTINF:-1 tvg-name="Bloomberg EU Event" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg EU Event
@@ -1939,13 +1938,13 @@ https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Box Hits" tvg-logo="https://i.imgur.com/Q0Y3sT5.png" group-title="UK;MUSIK",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cip3E0N.jpg" group-title="UK",British Muslim TV
-plugin://plugin.video.youtube/play/?video_id=gQXDufr1JLM
+plugin://plugin.video.youtube/play/?video_id=emU7EXE0D88
+#EXTINF:-1 tvg-name="Calm Piano Music" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/KC8FleL.jpg",Calm Piano Music
+plugin://plugin.video.youtube/play/?video_id=XULUBg_ZcAU
 #EXTINF:-1 tvg-id="" tvg-name="Canaf 54" tvg-logo="https://i.imgur.com/Wlv9PeF.jpg" group-title="UK",Canaf 54
 https://stream.ecable.tv/canaf54/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="Cbeebies (UK)" tvg-name="CBeebies" tvg-logo="https://i.imgur.com/q6ipFCf.png" group-title="UK",CBeebies
 http://51.52.156.22:8888/http/003
-
 #EXTINF:-1 tvg-name="CGTN" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/6rlt5Ph.png",CGTN
 http://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:-1 tvg-name="Channel S" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/Cqu1HjT.png",Channel S
@@ -1958,36 +1957,29 @@ http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hs
 https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
 #EXTINF:-1 tvg-name="Forces TV" tvg-logo="https://i.imgur.com/O8Mbaii.jpg" group-title="UK",Forces TV
 https://edge-1192-ch-gv.filmon.com/live/3386.high.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Hala London" tvg-logo="https://i.imgur.com/BVJWUpc.png" group-title="UK",Hala London
 https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CzsBnvf.png" group-title="UK",Horizon Sports
 https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
 #EXTINF:-1 tvg-id="Inspiration TV" tvg-name="ITV" tvg-logo="https://i.imgur.com/AOCGKzY.png" group-title="UK",Inspiration TV
 https://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8
 #EXTINF:-1 tvg-id="ITV (UK)" tvg-name="ITV" tvg-logo="https://i.imgur.com/SsgOgRF.png" group-title="UK",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-
 #EXTINF:-1 tvg-id="ITV 2" tvg-name="ITV2" tvg-logo="https://i.imgur.com/eZks811.png" group-title="UK",ITV2
 http://51.52.156.22:8888/http/005
 #EXTINF:-1 tvg-id="kerang.uk" tvg-name="Kerrang" tvg-logo="https://i.imgur.com/z8T3Q48.png" group-title="UK;MUSIK",Kerrang
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
-
 #EXTINF:-1 tvg-id="KISS.uk" tvg-name="Kiss" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Kiss_Network_logo.svg/338px-Kiss_Network_logo.svg.png" group-title="UK;MUSIK",Kiss
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
-
 #EXTINF:-1 tvg-name="Kool London Radio (Webradio)" tvg-id="" group-title="UK" tvg-logo="http://undergroundbass.co.uk/image/koollondon.png",Kool London Radio (Webradio)
 http://w11.streamgb.com:1935/kool/kool/playlist.m3u8
+#EXTINF:-1 tvg-name="La Muscle TV" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/ZiVPUiT.png",La Muscle TV
+https://streamcdn.lamuscle.com/lamtv-origin/smil:monsterworkout-tricepspt1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Loveworld TV" tvg-logo="https://i.imgur.com/8mc9KqX.png" group-title="UK",Loveworld TV
 https://cdn.lwuk.live/live/smil:lwukweb.smil/chunklist_b864000_sleng.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Magic" tvg-logo="https://i.imgur.com/HXfKkwj.png" group-title="UK;MUSIK",Magic
-
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
-
 #EXTINF:-1 tvg-id="" tvg-name="Manoto" tvg-logo="https://i.imgur.com/y2oiXz6.png" group-title="UK",Manoto
-
 https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="UK",MTA 1
 https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
@@ -2000,12 +1992,11 @@ https://ls1.serverdump.com/stream3.m3u8
 #EXTINF:-1 tvg-name="Press TV" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/qRp85O2.png",Press TV
 https://live.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Pop UK" tvg-name="Pop UK" tvg-logo="https://i.imgur.com/WQt03re.png" group-title="UK",Pop UK
-
 https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pop Max" tvg-logo="https://i.imgur.com/x2OtGXV.png" group-title="UK",Pop MAX
-
 https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
-
+#EXTINF:-1 tvg-name="Psychic TV" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/eCASQql.png",Psychic TV
+plugin://plugin.video.youtube/play/?video_id=zMcghqXEgWk
 #EXTINF:-1 tvg-id="" tvg-name="Relevation TV" tvg-logo="https://i.imgur.com/nb0Ckyw.png" group-title="UK",Relevation TV
 https://rtv.cdn.mangomolo.com/rtv/smil:rtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Sheffield Live 93.2 FM (Webradio)" tvg-id="SheffieldLive.uk" tvg-logo="https://i.imgur.com/IlSYKSK.png" group-title="UK",Sheffield Live 93.2 FM (Webradio)
@@ -2014,9 +2005,9 @@ http://tv.sheffieldlive.org/hls/main.m3u8
 http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
 #EXTINF:-1 tvg-id="" tvg-name="Sangat Television"  tvg-logo="https://i.imgur.com/KcPEkHh.png" group-title="UK",Sangat Television
 https://api.new.livestream.com/accounts/6986636/events/5362122/live.m3u8
-#EXTINF:-1 tvg-name="Sky 1" tvg-id="SKY1" group-title="UK" tvg-logo="https://i.imgur.com/QweV0BP.png",Sky 1
+#EXTINF:-1 tvg-name="Sky 1 Racing" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/QweV0BP.png",Sky 1 Racing
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
-#EXTINF:-1 tvg-name="Sky 2" tvg-id="SKY 2" group-title="UK" tvg-logo="https://i.imgur.com/7MkX0Ct.png",Sky 2 Racing
+#EXTINF:-1 tvg-name="Sky 2" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/7MkX0Ct.png",Sky 2 Racing
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 #EXTINF:-1 tvg-name="Sky News" tvg-id="SkyNews.uk" group-title="UK" tvg-logo="https://i.imgur.com/vfqWSHv.png",Sky News
 plugin://plugin.video.youtube/play/?video_id=9Auq9mYxFEE
@@ -3984,6 +3975,36 @@ https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
 https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Weather News" tvg-logo="https://i.imgur.com/hoRB8Gc.png" group-title="JAPAN",Weather News
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+#EXTINF:-1 tvg-name="****************** BULGARIA ************",****************** BULGARIA ************
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="100% Auto Moto TV" tvg-logo="https://i.imgur.com/PjBm4Ic.jpg" group-title="BULGARIA",100% Auto Moto TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Balkanika Music TV" tvg-logo="https://i.imgur.com/S0GrDsQ.png" group-title="BULGARIA",Balkanika Music TV
+rtsp://stream.teracomm.bg/balkanika
+#EXTINF:-1 tvg-id="" tvg-name="BTK" tvg-logo="https://i.imgur.com/5Sl6bKi.png" group-title="BULGARIA",BTK
+http://hls.cdn.bg:2007/fls/vtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bulgaria On Air" tvg-logo="https://i.imgur.com/fawQSJN.jpg" group-title="BULGARIA",Bulgaria On Air
+http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bulgarska Svobodna TV" tvg-logo="https://i.imgur.com/Ugl3Pq5.png" group-title="BULGARIA",Bulgarska Svobodna TV
+https://lb-ts.cdn.bg/bstv/fls/bstv.stream/playlist.m3u8?at=b723b4ea9326455525550db407e66f8d
+#EXTINF:-1 tvg-id="" tvg-name="City TV" tvg-logo="https://i.imgur.com/BjRTbrU.png" group-title="BULGARIA",City TV
+https://tv.city.bg/play/tshls/citytv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Evrokom" tvg-logo="https://i.imgur.com/3s7qchh.png" group-title="BULGARIA",Evrokom
+https://live.ecomservice.bg/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Light Channel" tvg-logo="https://i.imgur.com/qskVMhF.png" group-title="BULGARIA",Light Channel
+http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sportal" tvg-logo="https://i.imgur.com/ZY7hoD8.png" group-title="BULGARIA",Sportal
+https://clb.cdn.bg/sportal/fls//sportal_pal/playlist.m3u8?at=b723b4ea9326455525550db407e66f8d
+#EXTINF:-1 tvg-id="" tvg-name="This is Bulgaria" tvg-logo="https://i.imgur.com/FxLjPLh.jpg" group-title="BULGARIA",This is Bulgaria
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel TV" tvg-logo="https://i.imgur.com/7E4Kia6.jpg" group-title="BULGARIA",Travel TV
+http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV+" tvg-logo="https://i.imgur.com/W074hkS.jpg" group-title="BULGARIA",TV+
+http://141.136.14.18/kanal1/kanal1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vibee TV" tvg-logo="https://i.imgur.com/aNoxdla.png" group-title="BULGARIA",Vibee TV
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wness TV" tvg-logo="https://i.imgur.com/n0YJN6v.png" group-title="BULGARIA",Wness TV
+https://wness103.neterra.tv/wness/wness.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="******************** Pluto Germany ***********" tvg-id="" group-title="" tvg-logo="",******************* Pluto Germany ***********
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede45d077746000072be0fe/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=0&deviceId=5ede45d077746000072be0fe&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
 #EXTINF:-1 tvg-id="5ede45d077746000072be0fe" group-title="Pluto Germany" tvg-name="Auction Hunters" tvg-logo="https://images.pluto.tv/channels/5ede45d077746000072be0fe/colorLogoPNG.png" ,Auction Hunters
