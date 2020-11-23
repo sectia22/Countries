@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name=Das Erste HD tvg-id=ARD.de tvg-logo=http://logos.zattic.com/images/channels/logos/2a2a4aee64bbd6f7f817/black/84x48.png group-title="GERMAN TV",Das Erste HD
 https://mcdn.daserste.de/daserste/de/master_3744.m3u8
-#EXTINF:-1 tvg-name=ZDF HD tvg-id=ZDF.de tvg-logo=http://logos.zattic.com/images/channels/logos/42a29350387ee5fda8fe/black/84x48.png group-title="GERMAN TV", ZDF HD
+#EXTINF:-1 tvg-name=ZDF HD tvg-id=ZDF.de tvg-logo=http://logos.zattic.com/images/channels/logos/42a29350387ee5fda8fe/black/84x48.png group-title="GERMAN TV",ZDF HD
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-#EXTINF:-1 tvg-name=ZDFinfo tvg-id=ZDFinfo.de tvg-logo=http://logos.zattic.com/images/channels/logos/bfabafc809aa7b6db677/black/84x48.png group-title="GERMAN TV", ZDFinfo
+#EXTINF:-1 tvg-name=ZDFinfo tvg-id=ZDFinfo.de tvg-logo=http://logos.zattic.com/images/channels/logos/bfabafc809aa7b6db677/black/84x48.png group-title="GERMAN TV",ZDFinfo
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-#EXTINF:-1 tvg-name=ARTE tvg-id=ARTE.de tvg-logo=http://logos.zattic.com/images/channels/logos/865aac6dd62f5bf74ebc/black/84x48.png group-title="GERMAN TV", ARTE
+#EXTINF:-1 tvg-name=ARTE tvg-id=ARTE.de tvg-logo=http://logos.zattic.com/images/channels/logos/865aac6dd62f5bf74ebc/black/84x48.png group-title="GERMAN TV",ARTE
 https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
 #EXTINF:-1 tvg-name=3Sat tvg-id=3sat.de tvg-logo=http://logos.zattic.com/images/channels/logos/02257e2400c10df8cbab/black/84x48.png group-title="GERMAN TV",3Sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
@@ -21,8 +21,8 @@ https://rbfs-lh.akamaihd.net/i/rb_fs@438960/index_3584_av-p.m3u8
 https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8?set-segment-duration=responsive
 #EXTINF:-1 tvg-name=WDR Koeln tvg-id=WDR.de tvg-logo=http://logos.zattic.com/images/channels/logos/da2f7b1155f1c2586f93/black/84x48.png group-title="GERMAN TV",WDR Koeln
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
-#EXTINF:-1 tvg-name=HR tvg-id=HR.de tvg-logo=http://logos.zattic.com/images/channels/logos/f9fce1487da75bf65159/black/84x48.png group-title="GERMAN TV", HR
-http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-b.m3u8
+#EXTINF:-1 tvg-name=HR tvg-id=HR.de tvg-logo=http://logos.zattic.com/images/channels/logos/f9fce1487da75bf65159/black/84x48.png group-title="GERMAN TV",HR
+http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
 #EXTINF:-1 tvg-name=MDR SACHSEN-ANHALT tvg-id=MDRS-Anhalt.de tvg-logo=http://logos.zattic.com/images/channels/logos/1694a32cffbc010c5733/black/84x48.png group-title="GERMAN TV",MDR SACHSEN-ANHALT
 http://mdrsahls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@513999/index_3776_av-p.m3u8
 #EXTINF:-1 tvg-name=rbb Berlin tvg-id=rbbBerlin.de tvg-logo=http://logos.zattic.com/images/channels/logos/823d10599014e6b23d78/black/84x48.png group-title="GERMAN TV",rbb Berlin
@@ -33,7 +33,7 @@ https://swrbwhls-i.akamaihd.net/hls/live/667638-b/swrbwd/master.m3u8
 http://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8
 #EXTINF:-1 tvg-name=BR Fernsehen tvg-id=BR.de tvg-logo=http://logos.zattic.com/images/channels/logos/7bede2308528e63feaac/black/84x48.png group-title="GERMAN TV",BR Fernsehen
 https://mcdn.br.de/bfs_sued/de/master.m3u8
-#EXTINF:-1 tvg-name=ARD-alpha tvg-id=ARD-alpha.de tvg-logo=http://logos.zattic.com/images/channels/logos/e96fafec01ec632f9b38/black/84x48.png group-title="GERMAN TV", ARD-alpha
+#EXTINF:-1 tvg-name=ARD-alpha tvg-id=ARD-alpha.de tvg-logo=http://logos.zattic.com/images/channels/logos/e96fafec01ec632f9b38/black/84x48.png group-title="GERMAN TV",ARD-alpha
 https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
 #EXTINF:-1 tvg-name=tagesschau24 tvg-id=tagesschau24.de tvg-logo=http://logos.zattic.com/images/channels/logos/6e02ccb8c56d7fc1fd21/black/84x48.png group-title="GERMAN TV",tagesschau24
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
