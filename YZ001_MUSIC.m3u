@@ -3,10 +3,16 @@
 https://dai1.xumo.com/bmneuerw7j9k5lfc/9999231/master.m3u8
 #EXTINF:-1 tvg-name="30A Music (US)" tvg-id="30a-tv.com" group-title="USA;MUSIK" tvg-logo="https://i.imgur.com/gNWg9tl.png",30A Music (US)
 http://30a-tv.com/music.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MFbbITI.jpg" group-title="MUSIK",80s Party (US)
+https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/5.m3u8
 #EXTINF:-1 tvg-name="BaebleMusic (US)" tvg-id="BaebleMusic" group-title="USA;MUSIK" tvg-logo="https://i.imgur.com/9kLTfsY.png",BaebleMusic (US)
 https://dai1.xumo.com/bmneuerw7j9k5lfc/9999231/master.m3u8
 #EXTINF:-1 tvg-name="Baraza Music TV" tvg-id="Baraza Music TV" group-title="MUSIK" tvg-logo="https://i.imgur.com/djhtmFQ.png",Baraza Music TV
 https://eco.streams.ovh/BarazaClassic/BarazaClassic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pxtr7VO.jpg" group-title="MUSIK",Beast Mode (US)
+https://1f0e60dbce3043279c491fe51983361d.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/beast_mode_plex/dedcdc71-f8ba-4371-9ed9-e5fb2a691485/5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lls2GLr.jpg" group-title="MUSIK",Bedroom Beats (US)
+https://eb8029576dd74625b1d49e34afc1febb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_plex/932c2e9d-348a-4633-8a43-5e590398fde7/5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zvg7RMP.png" group-title="MUSIK",Black Artist (US)
 https://nrpus.bozztv.com/36bay2/gusa-blackartist/index.m3u8
 #EXTINF:-1 tvg-name="Black Music Artist TV (US)" tvg-id="" group-title="MYTVTOGO USA;MUSIK" tvg-logo="https://i.imgur.com/SQSkO2y.jpg",Black Music Artist TV (US)
@@ -33,10 +39,14 @@ https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2
 https://edge6.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
 #EXTINF:-1 tvg-name="Ditty TV (US)" tvg-id="DittyTV.com" group-title="MUSIK" tvg-logo="https://i.imgur.com/p5rREUo.png",Ditty TV (US)
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RAtVhO4.jpg" group-title="MUSIK",Electro Anthems (US)
+https://57490d2f4ea646bbae56a1a816617a5f.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_plex/3f15c325-941b-4c87-b429-d93bd3e70738/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Energy TV (CH)" tvg-logo="https://i.imgur.com/B6zQ6xn.png" group-title="SWITZERLAND; MUSIK",Energy TV (CH)
 https://edge10.vedge.infomaniak.com/livecast/ik:energytv/chunklist_w229962190_b3001080.m3u8?spark=2ef26dd4-6c62-4d52-9dcb-b177d141f032&token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eurtz6A.png" group-title="MUSIK",Euro Indie Music Chart
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5MLGsFs.png" group-title="MUSIK",Friday Feels (US)
+https://7d6f1eaab26244879085a9c647097af7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_plex/8d5f1f7f-8546-4892-9eca-988e973d6cc2/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Generations TV (FR)" tvg-logo="https://i.imgur.com/daUGyPl.jpg" group-title="FRANCE;MUSIK",Generations TV (FR)
 https://edge10.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8?spark=28dc12a7-48b5-4d36-9b5b-c2deb9b70bcb&token=
 #EXTINF:-1 tvg-id="" tvg-name="GO-RTV (NL)" tvg-logo="https://i.imgur.com/zAFt893.png" group-title="NETHERLANDS;MUSIK",GO-RTV (NL)
@@ -45,8 +55,12 @@ http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 http://51.254.215.79/appflux/gong/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hit Music Channel" tvg-logo="https://i.imgur.com/n6zkLpb.png" group-title="MUSIK",Hit Music Channel
 http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EMcSZeW.jpg" group-title="MUSIK",Hip Hop Bangers (US)
+https://e20b86263a38460ba3647b18fb150000.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_plex/ed8212a6-b4f2-46e7-8386-eab377eb0607/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hot Rock TV (US)" tvg-logo="https://i.imgur.com/Jis8xic.png" group-title="USA;MUSIK",Hot Rock TV (US)
 https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FzWHKTE.png" group-title="MUSIK",Hottest of the Hot (US)
+https://942aece530c1422894fddbd5867984d1.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hottest_of_the_hot_plex/224447a1-0ef3-43cf-bb86-cb636669ba45/5.m3u8
 #EXTINF:-1 tvg-id="kerang.uk" tvg-name="Kerrang (UK)" tvg-logo="https://i.imgur.com/z8T3Q48.png" group-title="UK;MUSIK",Kerrang (UK)
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 #EXTINF:-1 tvg-id="KISS.uk" tvg-name="Kiss (UK)" tvg-logo="https://i.imgur.com/InXTyza.png" group-title="UK;MUSIK",Kiss (UK)
@@ -59,6 +73,8 @@ https://vidaprimo-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57
 http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LFM (CH)" tvg-logo="https://i.imgur.com/UE1E3uH.png" group-title="MUSIK",LFM (CH)
 https://edge7.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w1230106190_b3000000.m3u8?spark=625bf5d7-210c-49c0-96af-3663c8de1d1d&token=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PsrGxob.png" group-title="MUSIK",Like Yesterday (US)
+https://7b65d9c562ad41b4b6efeaf1f598093d.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_plex/11b32cf3-e807-4244-b949-6a22933cef3a/2.m3u8
 #EXTINF:-1 tvg-name="Live Music Replay (US)" tvg-id="" group-title="PLUTO USA;MUSIK" tvg-logo="https://i.imgur.com/NLEWmqQ.png",Live Music Replay (US)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=855&deviceId=5873fc21cad696fb37aa9054&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="" tvg-name="Magic (UK)" tvg-logo="https://i.imgur.com/HXfKkwj.png" group-title="UK;MUSIK",Magic (UK)
@@ -69,10 +85,14 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8?sd=10&
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nancy Web TV (FR)" tvg-logo="https://i.imgur.com/W43rv1R.jpg" group-title="FRANCE;MUSIK",Nancy Web TV (FR)
 https://edge4.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8?spark=4bb70108-16ee-48ef-b780-08d91bffccbc&token=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ymFMMn8.png" group-title="MUSIK",Neural Focused (US)
+https://1d75125ffd43490eb970a2f3f575e96c.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_plex/35cba159-09d0-4e37-bf3c-99cd99ec425b/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Obosso TV (FR)" tvg-logo="https://i.imgur.com/UTo9vCc.jpg" group-title="FRANCE;MUSIK",Obosso TV (FR)
 https://edge4.vedge.infomaniak.com/livecast/ik:obossotv_6/manifest.m3u8?spark=f033d292-cb89-4c69-bcad-4cfb4c160d9d&token=
 #EXTINF:-1 tvg-name="Ocko TV" tvg-id="Ocko TV" group-title="MUSIK" tvg-logo="https://i.imgur.com/jKPRYdM.png",Ocko TV
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gMj1BQR.jpg" group-title="MUSIK",Only 90s Kids will understand (US)
+https://526cbf93692f48879c403ab8c1350e2a.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_plex/76979eef-8053-48eb-a1dc-b165e0d3dbf9/5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="MUSIK",Otto FM TV
 http://217.182.192.240:8080/hls/ottofmtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Contact" tvg-logo="https://i.imgur.com/ekRMtra.png" group-title="MUSIK",Radio Contact
@@ -103,17 +123,29 @@ https://securecontributions.sechls01.visionip.tv/live/securecontributions-secure
 https://nimble.dashstreams.net/onestudio/StreetMusic4U/playlist.m3u8
 #EXTINF:-1 tvg-id="STIRR Music" tvg-name="STIRR Music (US)" tvg-logo="https://i.imgur.com/4ZmofFV.jpg" group-title="STIRR USA;MUSIK",STIRR Music (US)
 https://dai.google.com/linear/hls/event/_e1csFnJR6W6y056PyiG6A/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r9jJQXU.png" group-title="MUSIK",Texas-Sized Hits (US)
+https://8d1615d8ec69435ea11a3e039f9e3771.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/texas_sized_hits_plex/b39ab3ff-fde8-42cf-a6e7-32e66a3da20a/5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aVkb7RV.jpg" group-title="MUSIK",That 70s Channel (US)
+https://18a6ff4fa5424e6797030b139ca98e6c.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_plex/19b70c9a-59d0-418c-9cbc-80be9698c16b/5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xbLho4R.jpg" group-title="MUSIK",That's Hot (US)
+https://fd80a2d7c3fb4580b4cb8ef661a96d49.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_plex/6fd86144-5938-4c3a-bda9-14ae30d6e38b/5.m3u8
 #EXTINF:-1 tvg-name="The Box (UK)" tvg-logo="https://i.imgur.com/gPaTIUd.png" group-title="UK;MUSIK",The Box (UK)
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 #EXTINF:-1 tvg-id="" tvg-name="Top Music" tvg-logo="https://i.imgur.com/G1oaOXY.gif" group-title="MUSIK",Top Music
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1038427347_b2028000_sleng.m3u8
 #EXTINF:-1 tvg-name="TVM 3 (CH)" tvg-id="TVM3.ch"tvg-logo="https://i.imgur.com/ns5Ex9s.png" group-title="SWITZERLAND;MUSIK",TVM 3 (CH)
 http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dpF2Hhh.png" group-title="MUSIK",Trending (US)
+https://8f8959ec0c604ae0aac98fe0cda060eb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trending_plex/9ea57596-c36d-4991-802a-3f1961fb4e87/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TZiK (FR)" tvg-logo="https://i.imgur.com/6Iw1YRL.png" group-title="MUSIK",TZiK (FR)
 https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1QEigQ6.jpg" group-title="MUSIK",Unwind (US)
+https://fc68583ae7094821b6ab3b44c50c7740.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/unwind_plex/3c8fb5fb-b196-45cc-9284-40da26a04a98/5.m3u8
 #EXTINF:-1 tvg-name="Urban Music" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/m4fM1B7.jpg",Urban Music
 https://nrpus.bozztv.com/36bay2/gusa-urbanmusic4u/index.m3u8
-#EXTINF:-1 tvg-name="Vevo Pop (US)" tvg-logo="https://i.imgur.com/ws0RcNP.png" group-title="PLUTO USA",Vevo Pop (US)
+#EXTINF:-1 tvg-name="Vevo Pop (US)" tvg-logo="https://i.imgur.com/ws0RcNP.png" group-title="PLUTO USA;MUSIK",Vevo Pop (US)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=890&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="" tvg-name="XITE (BE)" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="BELGIUM;MUSIK",XITE (BE)
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N6ouzgW.png" group-title="MUSIK",Yacht Rock (US)
+https://6f293d7819ba4cf39ea9152700ad54ad.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_plex/eea1884a-76ca-461b-886d-9707c39c0fbb/5.m3u8
