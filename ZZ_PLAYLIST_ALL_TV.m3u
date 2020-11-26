@@ -3294,98 +3294,6 @@ http://89.38.8.130:39443
 http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VP TV" tvg-logo="" group-title="ROMANIA",VP TV
 http://89.38.8.130:39437
-#EXTINF:-1 tvg-name="*********** AFGHANISTAN PASHTO ********" tvg-id="" group-title="" tvg-logo="",*********** AFGHANISTAN PASHTO ********
-https://92news.vdn.dstreamone.net/92newshd/92hd/chunklist_w597745317.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",92 News Live
-plugin://plugin.video.youtube/play/?video_id=nfUadtimczM
-#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Andisheh
-http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Ariana Afghan
-http://iptv.arianaafgtv.com/ariana/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",ATN Europe
-https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",ATN National
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",ATN News
-https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",ATN USA
-https://d2g7v53450s2i2.cloudfront.net/ATNUS/myStream/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Ayeneh TV
-https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/index.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Bahar TV
-https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Caltex Music TV
-http://vid1.caltexmusic.com/hls/caltextv.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Channel 1
-http://livestream.5centscdn.com/cls040317/0070c5b7ef083bdc8de09065c61a34d8.sdp/index.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Dubai One (English)
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/media.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",EBC1 TV
-https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Ganje Hozoor
-http://topfi.ios.internapcdn.net/topfi/live_1/Test/Test.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",iFilm Persian
-https://live2.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Iman TV
-https://59d39900ebfb8.streamlock.net/imantv/imantv/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Iran International
-https://live.playstop.me/1816184091/index.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",IRIB Pooya
-https://sade2.telewebion.com/devices/_definst_/pooya-500k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEwLzEzLzIwMjAgNTo1NDo1NyBBTSZoYXNoX3ZhbHVlPXBpVUhaSVRQVWc1a0hxbGtodnlFZmc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
-#EXTINF:-1 group-title="AFGHANISTAN",Israel Pars TV
-https://live.pars-israel.com/iptv/stream.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Kalemeh TV
-http://184.75.208.98:1935/live/kalemeh/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Kayhan TV
-http://208.93.117.113/live/Stream1/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Khurshid
-https://afghantvchannels.ddns.net:30443/afghantvchannels-IOS/Khurshid-TV-ios-new/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Manoto TV
-https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Mihan TV
-http://iptv.mihantv.com/live/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Mohabat TV
-http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",MTC
-http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Omid Javedan
-http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/index.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Pamir TV
-http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Parnian TV
-https://live2.parnian.tv/hls/live/play.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",ParsiLand TV
-http://vps.parsiland.net/hls/ParsiLand.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Payvand TV
-http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Payame Afghan
-http://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Persian Bazar
-http://stream.persiantv1.com/ptv1/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Radio Farda TV
-https://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Radio Javan TV
-https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Sat7 Pars
-https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Shabakeh 7
-http://rtmp.abnsat.com/hls/txministry.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Shamshad
-https://54627d4fc5996.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Simaye Azadi
-https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Tapesh
-http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",TIN TV
-https://unirtmp.tulix.tv/tintv/tintv/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Tolo News
-plugin://plugin.video.youtube/play/?video_id=bgxl46AVt3E
-#EXTINF:-1 group-title="AFGHANISTAN",Tuti Tv
-https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",VOA Persian
-https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",WATAN-E-MAA
-http://cdn24.live247stream.com/watanemaa/tv/playlist.m3u8
 #EXTINF:-1 tvg-name="******************** INDIA ***********",******************* INDIA ***********
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",92 News
@@ -3970,7 +3878,7 @@ https://hls.t.stream-dns.net/hls/tvpirveli_1/index.m3u8
 #EXTINF:-1 tvg-name="*************** TURKEY ***********",***************** TURKEY ***********
 plugin://plugin.video.youtube/play/?video_id=jKqWodTbEMI
 #EXTINF:-1 tvg-name="24 TV" tvg-id="24 TV" tvg-logo="https://i.imgur.com/8FO41es.png" group-title="TURKEY",24 TV
-plugin://plugin.video.youtube/play/?video_id=jKqWodTbEMI
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="A Haber" tvg-id="A Haber" tvg-logo="https://i.imgur.com/4GUPPb7.png" group-title="TURKEY",A Haber
 plugin://plugin.video.youtube/play/?video_id=AbX7HxqMy6o
 #EXTINF:-1 tvg-id="" tvg-name="Afyon Turk TV" tvg-logo="https://i.imgur.com/AcxXaK9.png" group-title="TURKEY",Afyon Turk TV
@@ -4036,7 +3944,7 @@ http://stream.atr.ua/lale//live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Med Muzîk" tvg-logo="https://i.imgur.com/3nXs170.png" group-title="TURKEY",Med Muzîk
 http://137.74.205.201/live3/mm-3mbps.m3u8
 #EXTINF:-1 tvg-name="NTV" tvg-id="NTV TK" tvg-logo="https://i.imgur.com/RblkzCm.jpg" group-title="TURKEY",NTV
-plugin://plugin.video.youtube/play/?video_id=XEJM4Hcgd3M
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ON4 TV" tvg-logo="https://i.imgur.com/bl1nBNQ.jpg" group-title="TURKEY",ON4 TV
 http://yayin.netradyom.com:1935/live/on4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rudaw" tvg-logo="https://i.imgur.com/FzTqH0m.jpg" group-title="TURKEY",Rudaw
@@ -4329,6 +4237,150 @@ http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
 rtmp://s1.media-planet.sk:80/live/turzovka
 #EXTINF:-1 tvg-id="" tvg-name="Wau TV" tvg-logo="https://i.imgur.com/nRDWpNs.jpg" group-title="SLOVAKIA",Wau TV
 https://nn.geo.joj.sk/live/wau-index.m3u8
+#EXTINF:-1 tvg-name="*********** AFGHANISTAN PASHTO ********" tvg-id="" group-title="" tvg-logo="",*********** AFGHANISTAN PASHTO ********
+https://92news.vdn.dstreamone.net/92newshd/92hd/chunklist_w597745317.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",92 News Live
+plugin://plugin.video.youtube/play/?video_id=nfUadtimczM
+#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Andisheh
+http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Ariana Afghan
+http://iptv.arianaafgtv.com/ariana/playlist.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",ATN Europe
+https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",ATN National
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",ATN News
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",ATN USA
+https://d2g7v53450s2i2.cloudfront.net/ATNUS/myStream/playlist.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Ayeneh TV
+https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/index.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Bahar TV
+https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Caltex Music TV
+http://vid1.caltexmusic.com/hls/caltextv.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Channel 1
+http://livestream.5centscdn.com/cls040317/0070c5b7ef083bdc8de09065c61a34d8.sdp/index.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Dubai One (English)
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/media.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",EBC1 TV
+https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Ganje Hozoor
+http://topfi.ios.internapcdn.net/topfi/live_1/Test/Test.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",iFilm Persian
+https://live2.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Iman TV
+https://59d39900ebfb8.streamlock.net/imantv/imantv/playlist.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Iran International
+https://live.playstop.me/1816184091/index.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",IRIB Pooya
+https://sade2.telewebion.com/devices/_definst_/pooya-500k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEwLzEzLzIwMjAgNTo1NDo1NyBBTSZoYXNoX3ZhbHVlPXBpVUhaSVRQVWc1a0hxbGtodnlFZmc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
+#EXTINF:-1 group-title="AFGHANISTAN",Israel Pars TV
+https://live.pars-israel.com/iptv/stream.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",Kalemeh TV
+http://184.75.208.98:1935/live/kalemeh/playlist.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",Kayhan TV
+http://208.93.117.113/live/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",Khurshid
+https://afghantvchannels.ddns.net:30443/afghantvchannels-IOS/Khurshid-TV-ios-new/playlist.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",Manoto TV
+https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",Mihan TV
+http://iptv.mihantv.com/live/playlist.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",Mohabat TV
+http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",MTC
+http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",Omid Javedan
+http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/index.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",Pamir TV
+http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",Parnian TV
+https://live2.parnian.tv/hls/live/play.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",ParsiLand TV
+http://vps.parsiland.net/hls/ParsiLand.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",Payvand TV
+http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/playlist.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",Payame Afghan
+http://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",Persian Bazar
+http://stream.persiantv1.com/ptv1/playlist.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",Radio Farda TV
+https://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",Radio Javan TV
+https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",Sat7 Pars
+https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",Shabakeh 7
+http://rtmp.abnsat.com/hls/txministry.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",Shamshad
+https://54627d4fc5996.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",Simaye Azadi
+https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",Tapesh
+http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",TIN TV
+https://unirtmp.tulix.tv/tintv/tintv/playlist.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",Tolo News
+plugin://plugin.video.youtube/play/?video_id=bgxl46AVt3E
+#EXTINF:-1 group-title="AFGHANISTAN",Tuti Tv
+https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",VOA Persian
+https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",WATAN-E-MAA
+http://cdn24.live247stream.com/watanemaa/tv/playlist.m3u8
+#EXTINF:-1 tvg-name="*********** GEM ONLINE ********",*********** GEM ONLINE  ********
+https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM 24B" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM 24B
+https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM Academy" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM Academy
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM Arabia" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM Arabia
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_arabia/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM AZ" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM AZ
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_az/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM Bollywood" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM Bollywood
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM Classic" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM Classic
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM Drama" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM Drama
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM Fit" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM Fit
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_fit/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM Food" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM Food
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_food/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM Film" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM Film
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_film/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM Junior" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM Junior
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM Kids" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM Kids
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM Latido" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM Latido
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_latino/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM Life" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM Life
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_life/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM MAX" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM MAX
+https://d2e40kvaojifd6.cloudfront.net/stream/maxx/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM Mifa" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM Mifa
+https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM Modern Economy" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM Modern Economy
+https://d2e40kvaojifd6.cloudfront.net/stream/modern_economy/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM Nature" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM Nature
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_nature/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM Onyx" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM Onyx
+https://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM Property" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM Property
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_property/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM River" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM River
+https://d2e40kvaojifd6.cloudfront.net/stream/river/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM Rubix" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM Rubix
+https://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM Series" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM Series
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM Travel" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM Travel
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_travel/playlist.m3u8
+#EXTINF:-1 tvg-name="GEM TV" tvg-id="" group-title="GEM ONLINE" tvg-logo="https://i.imgur.com/7dQioKG.png",GEM TV
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
 #EXTINF:-1 tvg-name="******************** Pluto Germany ***********" tvg-id="" group-title="" tvg-logo="",******************* Pluto Germany ***********
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede45d077746000072be0fe/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=0&deviceId=5ede45d077746000072be0fe&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
 #EXTINF:-1 tvg-id="5ede45d077746000072be0fe" group-title="Pluto Germany" tvg-name="Auction Hunters" tvg-logo="https://images.pluto.tv/channels/5ede45d077746000072be0fe/colorLogoPNG.png" ,Auction Hunters
