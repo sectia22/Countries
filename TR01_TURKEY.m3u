@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="*************** TURKEY ***********",***************** TURKEY ***********
 plugin://plugin.video.youtube/play/?video_id=jKqWodTbEMI
 #EXTINF:-1 tvg-name="24 TV" tvg-id="24 TV" tvg-logo="https://i.imgur.com/8FO41es.png" group-title="TURKEY",24 TV
-plugin://plugin.video.youtube/play/?video_id=jKqWodTbEMI
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="A Haber" tvg-id="A Haber" tvg-logo="https://i.imgur.com/4GUPPb7.png" group-title="TURKEY",A Haber
 plugin://plugin.video.youtube/play/?video_id=AbX7HxqMy6o
 #EXTINF:-1 tvg-id="" tvg-name="Afyon Turk TV" tvg-logo="https://i.imgur.com/AcxXaK9.png" group-title="TURKEY",Afyon Turk TV
@@ -68,7 +68,7 @@ http://stream.atr.ua/lale//live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Med Muzîk" tvg-logo="https://i.imgur.com/3nXs170.png" group-title="TURKEY",Med Muzîk
 http://137.74.205.201/live3/mm-3mbps.m3u8
 #EXTINF:-1 tvg-name="NTV" tvg-id="NTV TK" tvg-logo="https://i.imgur.com/RblkzCm.jpg" group-title="TURKEY",NTV
-plugin://plugin.video.youtube/play/?video_id=XEJM4Hcgd3M
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ON4 TV" tvg-logo="https://i.imgur.com/bl1nBNQ.jpg" group-title="TURKEY",ON4 TV
 http://yayin.netradyom.com:1935/live/on4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rudaw" tvg-logo="https://i.imgur.com/FzTqH0m.jpg" group-title="TURKEY",Rudaw
