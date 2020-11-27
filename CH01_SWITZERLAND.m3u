@@ -9,7 +9,7 @@ http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
 https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/chunklist_w2039349636.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dieu TV" tvg-logo="https://i.imgur.com/3sWAEuY.jpg" group-title="SWITZERLAND",Dieu TV
 https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/720p-playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Energy TV" tvg-logo="https://i.imgur.com/B6zQ6xn.png" group-title="SWITZERLAND; MUSIK",Energy TV
+#EXTINF:-1 tvg-id="" tvg-name="Energy TV" tvg-logo="https://i.imgur.com/B6zQ6xn.png" group-title="SWITZERLAND;MUSIK",Energy TV
 https://edge10.vedge.infomaniak.com/livecast/ik:energytv/chunklist_w229962190_b3001080.m3u8?spark=2ef26dd4-6c62-4d52-9dcb-b177d141f032&token=
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 9" tvg-logo="https://i.imgur.com/nQVDOVb.png" group-title="SWITZERLAND",Kanal 9
 https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
@@ -51,7 +51,7 @@ https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTG
 https://edge4.vedge.infomaniak.com/livecast/telebielinguech/chunklist.m3u8
 #EXTINF:-1 tvg-id="TeleTicino.ch" tvg-name="TeleTicino" tvg-logo="https://i.imgur.com/HuPkeOg.jpg" group-title="SWITZERLAND",TeleTicino
 https://livestream.gruppocdt.ch/hls/teleticino_720p/index.m3u8
-#EXTINF:-1 tvg-name="Telezürich" tvg-id="TeleZuri.ch" group-title="SWITZERLAND" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telezueri.png",Telezürich
+#EXTINF:-1 tvg-name="TelezÃ¼rich" tvg-id="TeleZuri.ch" group-title="SWITZERLAND" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telezueri.png",TelezÃ¼rich
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_4dmq7avs/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-name="TVM 3" tvg-id="TVM3.ch"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_TVM3_2015.png/1200px-Logo_TVM3_2015.png" group-title="SWITZERLAND;MUSIK",TVM 3
 http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
