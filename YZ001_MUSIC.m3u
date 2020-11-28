@@ -113,6 +113,8 @@ https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
 https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Retro Musik" tvg-id="Retro Musik" group-title="MUSIK" tvg-logo="https://i.imgur.com/GHJYqYg.png",Retro Musik
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-name="RTL 102.5 BEST (IT)" tvg-id="" group-title="ITALY;MUSIK" tvg-logo="https://i.imgur.com/E4G6PiA.png",RTL 102.5 BEST (IT)
+https://rtl-video4-stream.thron.com/live-video/video4/ngrp:video4/playlist.m3u8
 #EXTINF:-1  tvg-name="Sonus FM TV (US)" tvg-id="Sonus FM TV" tvg-logo="https://i.imgur.com/GcCzcpE.png" group-title="USA;MUSIK",Sonus FM TV (US)
 http://www.sonus.fm:1935/public/stream_240p/playlist.m3u8
 #EXTINF:-1 tvg-name="Spirit TV" tvg-id="Spirit TV" group-title="MUSIK" tvg-logo="https://i.imgur.com/jR24flK.png",Spirit TV
