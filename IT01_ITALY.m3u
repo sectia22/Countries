@@ -155,6 +155,8 @@ http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
 https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAuAcpv.png" group-title="ITALY",RTC Quarta Rete
 http://msh0232.stream.seeweb.it:1935/live/stream012.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="RTL 102.5 BEST" tvg-id="" group-title="ITALY;MUSIK" tvg-logo="https://i.imgur.com/E4G6PiA.png",RTL 102.5 BEST
+https://rtl-video4-stream.thron.com/live-video/video4/ngrp:video4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vmxfdmy.png" group-title="ITALY",RTL Radio
 https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Radio_Televisione_Peloritana.svg/1200px-Logo_Radio_Televisione_Peloritana.svg.png" group-title="ITALY",RTP Sicilia
