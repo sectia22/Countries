@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="****************** ITALIEN ************" tvg-id="" group-title="" tvg-logo="",****************** ITALIEN ************
+#EXTINF:-1 tvg-name="****************** ITALY ************" tvg-id="" group-title="" tvg-logo="",****************** ITALY ************
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/wmf409.jpg" group-title="ITALY",51 Radio TV
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
@@ -67,8 +67,8 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ia7iULa.png" group-title="ITALY",Orler TV Favaro Veneto
 https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="ITALY;MUSIK",Otto FM TV
-http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="ITALY",Otto FM TV
+http://streaming.bitonlive.net:8080/hls/ottofmtv/8_7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OKhpyWr.png" group-title="ITALY",Paradise TV Ercolano
 https://59ef7ad665d1d.streamlock.net:1443/paradisetv/_definst_/paradisetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PHmQHas.png" group-title="ITALY",Pescara TV
@@ -87,6 +87,7 @@ http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ITALY",Radio Capital TV
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.conodeliaband.it/wp-content/uploads/2016/07/Radio-Carina-Azzurro.png" group-title="ITALY",Radio Carina TV 
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O8ByUjT.png" group-title="ITALY;MUSIK",RADIO FRECCIA IT
@@ -127,6 +128,7 @@ http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai Sport IT" tvg-name="Rai Sport IT" tvg-logo="https://i.imgur.com/Lqtz4tS.jpg" group-title="ITALY",Rai Sport
 https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LDcsCZC.png" group-title="ITALY",RDS Social TV
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Reggio_TV_logo.png" group-title="ITALY",ReggioTV
@@ -161,6 +163,7 @@ https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 http://wma07.fluidstream.net:1935/RTTRlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/c5s5l3n.png" group-title="ITALY",RTV Sport (San Marino)
 https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.sardegna1.tv/wp-content/uploads/2015/07/logo.png" group-title="ITALY",Sardegna Uno
 https://59d7d6f47d7fc.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://webtv.senato.it/application/xmanager/projects/leg17/img/home/logo_interne.gif" group-title="ITALY",Senato TV
@@ -247,6 +250,7 @@ http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
 http://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teleromagna.it/wp-content/uploads/2016/01/logo.png" group-title="ITALY",TR Mia
 http://livetr.teleromagna.it/news/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/32xXpaS.png" group-title="ITALY",TRG Umbria
 http://streaming126.trgmedia.it/filestream/livestreamHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JEw9RCq.png" group-title="ITALY",TRM h24 Basilicata
