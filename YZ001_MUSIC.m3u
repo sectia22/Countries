@@ -85,6 +85,8 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8?sd=10&
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nancy Web TV (FR)" tvg-logo="https://i.imgur.com/W43rv1R.jpg" group-title="FRANCE;MUSIK",Nancy Web TV (FR)
 https://edge4.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8?spark=4bb70108-16ee-48ef-b780-08d91bffccbc&token=
+#EXTINF:-1 tvg-id="" tvg-name="NRJ Hits (FR)" tvg-logo="https://i.imgur.com/mcgIxUN.png" group-title="FRANCE;MUSIK",NRJ Hits (FR)
+https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ymFMMn8.png" group-title="MUSIK",Neural Focused (US)
 https://1d75125ffd43490eb970a2f3f575e96c.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_plex/35cba159-09d0-4e37-bf3c-99cd99ec425b/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Obosso TV (FR)" tvg-logo="https://i.imgur.com/UTo9vCc.jpg" group-title="FRANCE;MUSIK",Obosso TV (FR)
