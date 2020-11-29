@@ -1811,7 +1811,7 @@ http://diffusionm3.assnat.qc.ca/canal10/250.sdp/chunklist.m3u8
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Amazing Discoveries TV" tvg-logo="https://i.imgur.com/XgejLKw.png" group-title="CANADA",Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w133198316.m3u8
-#EXTINF:-1 tvg-name="Canada One" tvg-id="Canada One" group-title="CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/One_TV_Get_Fit.png/150px-One_TV_Get_Fit.png",Canada One
+#EXTINF:-1 tvg-name="Canada One" tvg-id="Canada One" group-title="CANADA" tvg-logo="https://i.imgur.com/1D8LfbD.png",Canada One
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canadian Arab TV" tvg-logo="https://i.imgur.com/rAZBgir.png" group-title="CANADA",Canadian Arab TV
 http://142.112.39.133:8080/catv.mp4
@@ -1821,13 +1821,13 @@ https://hls.savoir.media/live/stream.m3u8
 https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""tvg-logo="https://i.imgur.com/wwmapsS.png" group-title="CANADA",CPAC
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
-#EXTINF:-1 tvg-name="EET TV" tvg-id="EET TV" tvg-logo="https://eettv.com/wp-content/uploads/2018/05/eet.png" group-title="CANADA",EET TV
+#EXTINF:-1 tvg-name="EET TV" tvg-id="EET TV" tvg-logo="https://i.imgur.com/k0Hzr3X.png" group-title="CANADA",EET TV
 https://eu.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/avIsx8W.png" group-title="CANADA",EMCI TV
 https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EWTN Canada" tvg-logo="https://i.imgur.com/Rxuem4o.png" group-title="CANADA",EWTN Canada
 https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8
-#EXTINF:-1 tvg-name="Francophonie 24" tvg-id="Francophonie 24" group-title="CANADA" tvg-logo="https://televisiongratuite.com/wp-content/uploads/2018/10/Francophonie-24.jpg",Francophonie 24
+#EXTINF:-1 tvg-name="Francophonie 24" tvg-id="Francophonie 24" group-title="CANADA" tvg-logo="https://i.imgur.com/8V1ZmJn.jpg",Francophonie 24
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Global Calgary" tvg-logo="https://i.imgur.com/ppMNSKT.png" group-title="CANADA",Global Calgary
 https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
@@ -1835,21 +1835,21 @@ https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/ind
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GurSikh Sabha TV Scarborough" tvg-logo="https://i.imgur.com/2EKCtQm.png" group-title="CANADA",GurSikh Sabha TV Scarborough
 http://cdn12.henico.net:8080/live/gsctv/index.m3u8
-#EXTINF:-1 tvg-name="ICI RDI HD" tvg-id="ICI RDI HD" group-title="CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/ICI_RDI_logo.svg/langfr-200px-ICI_RDI_logo.svg.png",ICI RDI HD
+#EXTINF:-1 tvg-name="ICI RDI HD" tvg-id="ICI RDI HD" group-title="CANADA" tvg-logo="https://i.imgur.com/AI0PIzQ.png",ICI RDI HD
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1 tvg-name="ICI Tele HD" tvg-id="ICI T√©l√© HD" group-title="CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/300px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",ICI Tele HD
+#EXTINF:-1 tvg-name="ICI T√©l√© HD" tvg-id="ICI T√©l√© HD" group-title="CANADA" tvg-logo="https://i.imgur.com/byTTNAi.png",ICI T√©l√© HD
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_2500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="CANADA",IIPC TV
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
-#EXTINF:-1 tvg-name="Legislative Assembly of Ontario" tvg-id="Legislative Assembly of Ontario" group-title="CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Shield_of_arms_-_Ontario_Leg.jpg/170px-Shield_of_arms_-_Ontario_Leg.jpg",Legislative Assembly of Ontario
+#EXTINF:-1 tvg-name="Legislative Assembly of Ontario" tvg-id="Legislative Assembly of Ontario" group-title="CANADA" tvg-logo="https://i.imgur.com/CDXKBdO.jpg",Legislative Assembly of Ontario
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Miracle Channel" tvg-logo="https://i.imgur.com/0jeKzdO.png" group-title="CANADA",Miracle Channel
 https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Montreal Greek TV" tvg-id="Montreal Greek TV" tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="CANADA",Montreal Greek TV
 http://94.130.180.175:8081/live/greektv/playlist.m3u8
-#EXTINF:-1 tvg-name="NTV CA" tvg-id="NTV CA" group-title="CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/CJON-TV.PNG/200px-CJON-TV.PNG",NTV CA
+#EXTINF:-1 tvg-name="NTV CA" tvg-id="NTV CA" group-title="CANADA" tvg-logo="https://i.imgur.com/c0USmrL.png",NTV CA
 https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NTV Newfoundland" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NTV-CA_400x400.png" group-title="CANADA",NTV Newfoundland
+#EXTINF:-1 tvg-id="" tvg-name="NTV Newfoundland" tvg-logo="https://i.imgur.com/c0USmrL.png" group-title="CANADA",NTV Newfoundland
 https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pardesi TV" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" group-title="CANADA",Pardesi TV
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
@@ -1863,7 +1863,7 @@ https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
 https://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sardari TV" tvg-logo="https://i.imgur.com/AhbJjPL.jpg" group-title="CANADA",Sardari TV
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1 tvg-name="TAG TV" tvg-id="TAG TV" group-title="CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Tag_TV_channel_logo.jpg/150px-Tag_TV_channel_logo.jpg",TAG TV
+#EXTINF:-1 tvg-name="TAG TV" tvg-id="TAG TV" group-title="CANADA" tvg-logo="https://i.imgur.com/M923NG5.jpg",TAG TV
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tamil Vision TV" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="CANADA",Tamil Vision TV
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
@@ -1871,7 +1871,7 @@ http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tele Culturelle Medias" tvg-logo="https://i.imgur.com/oRigj9q.jpg" group-title="CANADA",Tele Culturelle Medias
 https://5790d294af2dc.streamlock.net/8150/8150/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tele-V" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleV_1200x1200.png" group-title="CANADA",Tele-V
+#EXTINF:-1 tvg-id="" tvg-name="Tele-V" tvg-logo="https://i.imgur.com/ENLiXkJ.png" group-title="CANADA",Tele-V
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-name="Toronto 360" tvg-id="Toronto 360" group-title="CANADA" tvg-logo="https://i.imgur.com/PkWndsv.png",Toronto 360
 http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
@@ -2230,11 +2230,11 @@ https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LN24" tvg-logo="https://i.imgur.com/bp1Qp0d.png" group-title="BELGIUM",LN24
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
-#EXTINF:-1 tvg-id="MaTÈlÈ" tvg-name="MaTÈlÈ" tvg-logo="https://i.ibb.co/m48XZS7/matele.png" group-title="BELGIUM",MaTÈlÈ
+#EXTINF:-1 tvg-id="MaT√©l√©" tvg-name="MaT√©l√©" tvg-logo="https://i.ibb.co/m48XZS7/matele.png" group-title="BELGIUM",MaT√©l√©
 https://594a365b4a1b2.streamlock.net/matele/live/chunklist_w1413980839.m3u8
 #EXTINF:-1 tvg-id="MNM" tvg-name="MNM (Webradio)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mnm_logo.svg/180px-Mnm_logo.svg.png" group-title="BELGIUM",MNM (Webradio)
 https://live-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
-#EXTINF:-1 tvg-id="NoTÈlÈ" tvg-name="NoTÈlÈ" tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="BELGIUM",NoTÈlÈ
+#EXTINF:-1 tvg-id="NoT√©l√©" tvg-name="NoT√©l√©" tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="BELGIUM",NoT√©l√©
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1424854023.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Q-Music (Webradio)" tvg-logo="https://i.imgur.com/s0CZjmi.png" group-title="BELGIUM;MUSIK",Q-Music (Webradio)
 https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
@@ -2248,7 +2248,7 @@ http://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
 http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tele MB" tvg-logo="https://i.imgur.com/e7xUgDm.png" group-title="BELGIUM",Tele MB
 https://tvl-live-prp.fl.freecaster.net/live/telemb/telemb.m3u8
-#EXTINF:-1 tvg-id="TÈlÈsambre" tvg-name="TÈlÈsambre" tvg-logo="https://i.imgur.com/hMdMaEx.png" group-title="BELGIUM",TÈlÈsambre
+#EXTINF:-1 tvg-id="T√©l√©sambre" tvg-name="T√©l√©sambre" tvg-logo="https://i.imgur.com/hMdMaEx.png" group-title="BELGIUM",T√©l√©sambre
 https://tvl-live-prp.fl.freecaster.net/live/telesambre/telesambre.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Lux" tvg-logo="https://i.imgur.com/p2eKv46.jpg" group-title="BELGIUM",TV Lux
 https://tvl-live-prp.fl.freecaster.net/live/tvlux/tvlux.m3u8
@@ -3805,6 +3805,8 @@ plugin://plugin.video.youtube/play/?video_id=dSls9-EKGBI
 https://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nancy Web TV" tvg-logo="https://i.imgur.com/W43rv1R.jpg" group-title="FRANCE;MUSIK",Nancy Web TV
 https://edge4.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8?spark=4bb70108-16ee-48ef-b780-08d91bffccbc&token=
+#EXTINF:-1 tvg-id="" tvg-name="NRJ Hits" tvg-logo="https://i.imgur.com/mcgIxUN.png" group-title="FRANCE;MUSIK",NRJ Hits
+https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Obosso TV" tvg-logo="https://i.imgur.com/UTo9vCc.jpg" group-title="FRANCE;MUSIK",Obosso TV
 https://edge4.vedge.infomaniak.com/livecast/ik:obossotv_6/manifest.m3u8?spark=f033d292-cb89-4c69-bcad-4cfb4c160d9d&token=
 #EXTINF:-1 tvg-id="" tvg-name="ONE GOLF" tvg-logo="https://i.imgur.com/CKnSeT7.png" group-title="FRANCE",ONE GOLF
@@ -4731,6 +4733,8 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8?sd=10&
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nancy Web TV (FR)" tvg-logo="https://i.imgur.com/W43rv1R.jpg" group-title="FRANCE;MUSIK",Nancy Web TV (FR)
 https://edge4.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8?spark=4bb70108-16ee-48ef-b780-08d91bffccbc&token=
+#EXTINF:-1 tvg-id="" tvg-name="NRJ Hits (FR)" tvg-logo="https://i.imgur.com/mcgIxUN.png" group-title="FRANCE;MUSIK",NRJ Hits (FR)
+https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ymFMMn8.png" group-title="MUSIK",Neural Focused (US)
 https://1d75125ffd43490eb970a2f3f575e96c.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_plex/35cba159-09d0-4e37-bf3c-99cd99ec425b/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Obosso TV (FR)" tvg-logo="https://i.imgur.com/UTo9vCc.jpg" group-title="FRANCE;MUSIK",Obosso TV (FR)
