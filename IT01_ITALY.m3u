@@ -68,7 +68,7 @@ https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ia7iULa.png" group-title="ITALY",Orler TV Favaro Veneto
 https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="ITALY",Otto FM TV
-http://streaming.bitonlive.net:8080/hls/ottofmtv/8_7/index.m3u8
+http://streaming.bitonlive.net:8080/hls/ottofmtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OKhpyWr.png" group-title="ITALY",Paradise TV Ercolano
 https://59ef7ad665d1d.streamlock.net:1443/paradisetv/_definst_/paradisetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PHmQHas.png" group-title="ITALY",Pescara TV
