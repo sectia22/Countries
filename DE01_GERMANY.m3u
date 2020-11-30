@@ -22,9 +22,9 @@ https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8?set-segment-duratio
 #EXTINF:-1 tvg-name=WDR Koeln tvg-id=WDR.de tvg-logo=http://logos.zattic.com/images/channels/logos/da2f7b1155f1c2586f93/black/84x48.png group-title="GERMAN TV",WDR Koeln
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
 #EXTINF:-1 tvg-name=HR tvg-id=HR.de tvg-logo=http://logos.zattic.com/images/channels/logos/f9fce1487da75bf65159/black/84x48.png group-title="GERMAN TV",HR
-http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8?sd=4&set-segment-duration=responsive&rebase=on
 #EXTINF:-1 tvg-name=MDR SACHSEN-ANHALT tvg-id=MDRS-Anhalt.de tvg-logo=http://logos.zattic.com/images/channels/logos/1694a32cffbc010c5733/black/84x48.png group-title="GERMAN TV",MDR SACHSEN-ANHALT
-http://mdrsahls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@513999/index_3776_av-p.m3u8
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
 #EXTINF:-1 tvg-name=rbb Berlin tvg-id=rbbBerlin.de tvg-logo=http://logos.zattic.com/images/channels/logos/823d10599014e6b23d78/black/84x48.png group-title="GERMAN TV",rbb Berlin
 https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8
 #EXTINF:-1 tvg-name=SWR BW tvg-id=SWR.de tvg-logo=http://logos.zattic.com/images/channels/logos/5edb77a08387f0b820f6/black/84x48.png group-title="GERMAN TV",SWR BW
