@@ -6,6 +6,10 @@ to one list, i use the ADD-On IPTV-Merge from Matt Huisman. ;-) Without Kodi you
 
 You can also use the ZZ_PLAYLIST_ALL_TV.m3u, there you have all TV stations in one list (.m3u).
 
-Important! Some TV-Stations (very few) only run under Kodi with the Youtube addon. ;-)
+The correct link to use the Playlist-ALL in the VLC-Player or with the IPTV Simple Client in Kodi is:
 
-Should a channel stop working, just leave a message. :-)
+https://raw.githubusercontent.com/Free-IPTV/Countries/master/ZZ_PLAYLIST_ALL_TV.m3u
+
+Important! Some streams (very few) only work in Kodi with the Youtube add-on ;-)
+
+Should a channel stop working, just leave a message. You can this with the Menu "Issues". :-)
