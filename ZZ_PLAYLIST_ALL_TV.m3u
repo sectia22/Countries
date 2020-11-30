@@ -22,9 +22,9 @@ https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8?set-segment-duratio
 #EXTINF:-1 tvg-name=WDR Koeln tvg-id=WDR.de tvg-logo=http://logos.zattic.com/images/channels/logos/da2f7b1155f1c2586f93/black/84x48.png group-title="GERMAN TV",WDR Koeln
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
 #EXTINF:-1 tvg-name=HR tvg-id=HR.de tvg-logo=http://logos.zattic.com/images/channels/logos/f9fce1487da75bf65159/black/84x48.png group-title="GERMAN TV",HR
-http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8?sd=4&set-segment-duration=responsive&rebase=on
 #EXTINF:-1 tvg-name=MDR SACHSEN-ANHALT tvg-id=MDRS-Anhalt.de tvg-logo=http://logos.zattic.com/images/channels/logos/1694a32cffbc010c5733/black/84x48.png group-title="GERMAN TV",MDR SACHSEN-ANHALT
-http://mdrsahls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@513999/index_3776_av-p.m3u8
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
 #EXTINF:-1 tvg-name=rbb Berlin tvg-id=rbbBerlin.de tvg-logo=http://logos.zattic.com/images/channels/logos/823d10599014e6b23d78/black/84x48.png group-title="GERMAN TV",rbb Berlin
 https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8
 #EXTINF:-1 tvg-name=SWR BW tvg-id=SWR.de tvg-logo=http://logos.zattic.com/images/channels/logos/5edb77a08387f0b820f6/black/84x48.png group-title="GERMAN TV",SWR BW
@@ -281,8 +281,6 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_4dmq
 http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 tvg-name="TVO (CH)" tvg-id="TVO.ch" group-title="SWITZERLAND" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvo_ch.png",TVO (CH)
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8
-
-
 #EXTINF:-1 tvg-name="*************** LIECHTENSTEIN ************" tvg-id="" group-title="" tvg-logo="",*************** LIECHTENSTEIN ************
 http://31.10.19.12:8066/live/999/0.m3u8
 #EXTINF:-1 tvg-name="Kommu TV" tvg-id="KommuTV.li" group-title="LIECHTENSTEIN" tvg-logo="https://i.imgur.com/hNA8pC9.png",Kommu TV
@@ -1837,7 +1835,7 @@ https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b
 http://cdn12.henico.net:8080/live/gsctv/index.m3u8
 #EXTINF:-1 tvg-name="ICI RDI HD" tvg-id="ICI RDI HD" group-title="CANADA" tvg-logo="https://i.imgur.com/AI0PIzQ.png",ICI RDI HD
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1 tvg-name="ICI Télé HD" tvg-id="ICI Télé HD" group-title="CANADA" tvg-logo="https://i.imgur.com/byTTNAi.png",ICI Télé HD
+#EXTINF:-1 tvg-name="ICI Tele HD" tvg-id="ICI Tele HD" group-title="CANADA" tvg-logo="https://i.imgur.com/byTTNAi.png",ICI Tele HD
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_2500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="CANADA",IIPC TV
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
@@ -2230,11 +2228,11 @@ https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LN24" tvg-logo="https://i.imgur.com/bp1Qp0d.png" group-title="BELGIUM",LN24
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
-#EXTINF:-1 tvg-id="MaTélé" tvg-name="MaTélé" tvg-logo="https://i.ibb.co/m48XZS7/matele.png" group-title="BELGIUM",MaTélé
+#EXTINF:-1 tvg-id="MaTele" tvg-name="MaTele" tvg-logo="https://i.ibb.co/m48XZS7/matele.png" group-title="BELGIUM",MaTele
 https://594a365b4a1b2.streamlock.net/matele/live/chunklist_w1413980839.m3u8
 #EXTINF:-1 tvg-id="MNM" tvg-name="MNM (Webradio)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mnm_logo.svg/180px-Mnm_logo.svg.png" group-title="BELGIUM",MNM (Webradio)
 https://live-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
-#EXTINF:-1 tvg-id="NoTélé" tvg-name="NoTélé" tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="BELGIUM",NoTélé
+#EXTINF:-1 tvg-id="NoTele" tvg-name="NoTele" tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="BELGIUM",NoTele
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1424854023.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Q-Music (Webradio)" tvg-logo="https://i.imgur.com/s0CZjmi.png" group-title="BELGIUM;MUSIK",Q-Music (Webradio)
 https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
@@ -2248,7 +2246,7 @@ http://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
 http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tele MB" tvg-logo="https://i.imgur.com/e7xUgDm.png" group-title="BELGIUM",Tele MB
 https://tvl-live-prp.fl.freecaster.net/live/telemb/telemb.m3u8
-#EXTINF:-1 tvg-id="Télésambre" tvg-name="Télésambre" tvg-logo="https://i.imgur.com/hMdMaEx.png" group-title="BELGIUM",Télésambre
+#EXTINF:-1 tvg-id="Telesambre" tvg-name="Telesambre" tvg-logo="https://i.imgur.com/hMdMaEx.png" group-title="BELGIUM",Telesambre
 https://tvl-live-prp.fl.freecaster.net/live/telesambre/telesambre.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Lux" tvg-logo="https://i.imgur.com/p2eKv46.jpg" group-title="BELGIUM",TV Lux
 https://tvl-live-prp.fl.freecaster.net/live/tvlux/tvlux.m3u8
@@ -2260,7 +2258,7 @@ https://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
 https://tvl-live-prp.fl.freecaster.net/live/vedia/vedia.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XITE BE" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="BELGIUM;MUSIK",XITE BE
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
-#EXTINF:-1 tvg-id="******************* LUXEMBOURG ************" tvg-name="******************* LUXEMBOURG ************" tvg-shift="0" radio="" tvg-logo="" group-title="",******************* LUXENBURG ************
+#EXTINF:-1 tvg-name="******************* LUXEMBOURG ************",******************* LUXEMBURG ************
 https://media.webtvlive.eu/chd/_definst_/smil:chamber_tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Chamber TV" tvg-name="Chamber TV" tvg-shift="0" radio="" tvg-logo="" group-title="LUXEMBOURG",Chamber TV
 https://media02.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/playlist.m3u8
@@ -2274,34 +2272,33 @@ https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV MCJ" tvg-logo="https://i.imgur.com/DzhlDF6.png" group-title="LUXEMBOURG",TV MCJ
 https://v5.ciclano.io:1443/tvmcj/_definst_/tvmcj/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="************* DENMARK ***************" group-title="",************* DENMARK ***************
+#EXTINF:-1 tvg-name="************* DENMARK ***************",************* DENMARK ***************
 https://streaming.media.digicast.dk/clients_live/tv3/tv3_live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aarhus TV" tvg-logo="https://www.tvaarhus.dk/files/sitelogo.png" group-title="DEMARK",Aarhus TV
+#EXTINF:-1 tvg-id="" tvg-name="Aarhus TV" tvg-logo="https://www.tvaarhus.dk/files/sitelogo.png" group-title="DENMARK",Aarhus TV
 https://streaming.media.digicast.dk/clients_live/tv3/tv3_live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kanal Hovedstaden" tvg-logo="https://i.imgur.com/hATNB38.jpg" group-title="DEMARK",Kanal Hovedstaden
+#EXTINF:-1 tvg-id="" tvg-name="Kanal Hovedstaden" tvg-logo="https://i.imgur.com/hATNB38.jpg" group-title="DENMARK",Kanal Hovedstaden
 https://59b954022ec35.streamlock.net:443/liveTV2/_definst_/smil:liveTVstream2.transcoder.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KKR TV" tvg-logo="http://kkrtv.dk/wp-content/uploads/2015/09/kkrtv-logo-navi.png" group-title="DEMARK",KKR TV
+#EXTINF:-1 tvg-id="" tvg-name="KKR TV" tvg-logo="http://kkrtv.dk/wp-content/uploads/2015/09/kkrtv-logo-navi.png" group-title="DENMARK",KKR TV
 http://stream.kkr.dk/live/ngrp:kkr_adaptive/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KVF" tvg-tvg-logo="https://i.imgur.com/Nb93Skv.jpg" group-title="DEMARK",KVF
+#EXTINF:-1 tvg-id="" tvg-name="KVF" tvg-tvg-logo="https://i.imgur.com/Nb93Skv.jpg" group-title="DENMARK",KVF
 https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TV2 Bornholm" tvg-id="TV2bornholm.dk" group-title="DEMARK" tvg-logo="https://i.imgur.com/ylB5ea2.jpg",TV2 Bornholm
+#EXTINF:-1 tvg-name="TV2 Bornholm" tvg-id="TV2bornholm.dk" group-title="DENMARK" tvg-logo="https://i.imgur.com/ylB5ea2.jpg",TV2 Bornholm
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
-#EXTINF:-1 tvg-name="TV2 Fyn" tvg-id="TV2fyn.dk" group-title="DEMARK" tvg-logo="https://i.imgur.com/wamEY0w.png",TV2 Fyn
+#EXTINF:-1 tvg-name="TV2 Fyn" tvg-id="TV2fyn.dk" group-title="DENMARK" tvg-logo="https://i.imgur.com/wamEY0w.png",TV2 Fyn
 https://cdnapisec.kaltura.com/p/1966291/sp/196629100/playManifest/entryId/0_vsfrv0zm/format/applehttp/protocol/https/uiConfId/30288171/a.m3u8?referrer=aHR0cHM6Ly93d3cudHYyZnluLmRr&playSessionId=d59870a6-313c-ead3-3510-cb5123b228f1
-#EXTINF:-1 tvg-name="TV2 Lorry" tvg-id="TV2fyn.dk" group-title="DEMARK" tvg-logo="https://i.imgur.com/IxJIiLJ.jpg",TV2 Lorry
+#EXTINF:-1 tvg-name="TV2 Lorry" tvg-id="TV2fyn.dk" group-title="DENMARK" tvg-logo="https://i.imgur.com/IxJIiLJ.jpg",TV2 Lorry
 https://cdnapisec.kaltura.com/p/2045321/sp/204532100/playManifest/entryId/1_2kojfk4m/format/applehttp/protocol/https/uiConfId/32599481/a.m3u8
-#EXTINF:-1 tvg-name="TV2 Midvest" tvg-id="TV2fyn.dk" group-title="DEMARK" tvg-logo="https://i.imgur.com/yIismAO.jpg",TV2 Midvest
+#EXTINF:-1 tvg-name="TV2 Midvest" tvg-id="TV2fyn.dk" group-title="DENMARK" tvg-logo="https://i.imgur.com/yIismAO.jpg",TV2 Midvest
 http://cdn-lt-live.tvmidtvest.dk/dc-1/live/hls/p/1953371/e/0_ghzg9q0q/t/Ue-Gu9xZZqKtozF3ghcQeQ/index-s32.m3u8
-#EXTINF:-1 tvg-id="TV 2 Nord Salto" tvg-name="TV 2 Nord Salto DK" tvg-logo="https://i.imgur.com/vIobmIp.png" group-title="DEMARK",TV 2 Nord Salto
+#EXTINF:-1 tvg-id="TV 2 Nord Salto" tvg-name="TV 2 Nord Salto DK" tvg-logo="https://i.imgur.com/vIobmIp.png" group-title="DENMARK",TV 2 Nord Salto
 https://cdn-lt-live.tv2nord.dk/dc-0/live/hls/p/1956931/e/0_74s20zcv/sd/6000/t/U6L8elLqfaGmZ1aA6yR23A/index-s32.m3u8
-#EXTINF:-1 tvg-name="TV2 Ost" tvg-id="TV2fyn.dk" group-title="DEMARK" tvg-logo="https://i.imgur.com/0ehow2k.jpg",TV2 Ost
+#EXTINF:-1 tvg-name="TV2 Ost" tvg-id="TV2fyn.dk" group-title="DENMARK" tvg-logo="https://i.imgur.com/0ehow2k.jpg",TV2 Ost
 http://cdn-lt-live.tveast.dk/dc-0/live/hls/p/1953381/e/0_zphj9q61/t/bvgwwfCgkC73kKZD7wBe4g/index-s32.m3u8
-#EXTINF:-1 tvg-name="TV2 Ostjylland" tvg-id="TV2fyn.dk" group-title="DEMARK" tvg-logo="https://i.imgur.com/rC07Op2.jpg",TV2 Ostjylland
+#EXTINF:-1 tvg-name="TV2 Ostjylland" tvg-id="TV2fyn.dk" group-title="DENMARK" tvg-logo="https://i.imgur.com/rC07Op2.jpg",TV2 Ostjylland
 https://cdn-lt-live.tv2oj.dk/dc-1/live/hls/p/2102081/e/0_x4p3licd/sd/6000/t/5aoqiGIZk5dVwQnsYa1OiQ/index-s32.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Danish" tvg-logo="https://i.imgur.com/tvLkbh3.jpg" group-title="DEMARK",TV Storbyen
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Danish" tvg-logo="https://i.imgur.com/tvLkbh3.jpg" group-title="DENMARK",TV Storbyen
 https://5942cb81db6d0.streamlock.net/kanalnordvest/_definst_/mp4:kanalnordvest/chunklist.m3u8
-#EXTINF:-1 tvg-name="TV2 Syd" tvg-id="TV2fyn.dk" group-title="DEMARK" tvg-logo="https://i.imgur.com/CG8VU2c.png",TV2 Syd
+#EXTINF:-1 tvg-name="TV2 Syd" tvg-id="TV2fyn.dk" group-title="DENMARK" tvg-logo="https://i.imgur.com/CG8VU2c.png",TV2 Syd
 http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="***************** SWEDEN ******************" tvg-shift="0" radio="" tvg-logo="" group-title="",***************** SWEDEN ******************
@@ -2656,7 +2653,7 @@ https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ia7iULa.png" group-title="ITALY",Orler TV Favaro Veneto
 https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="ITALY",Otto FM TV
-http://streaming.bitonlive.net:8080/hls/ottofmtv/8_7/index.m3u8
+http://streaming.bitonlive.net:8080/hls/ottofmtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OKhpyWr.png" group-title="ITALY",Paradise TV Ercolano
 https://59ef7ad665d1d.streamlock.net:1443/paradisetv/_definst_/paradisetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PHmQHas.png" group-title="ITALY",Pescara TV
@@ -4744,7 +4741,7 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gMj1BQR.jpg" group-title="MUSIK",Only 90s Kids will understand (US)
 https://526cbf93692f48879c403ab8c1350e2a.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_plex/76979eef-8053-48eb-a1dc-b165e0d3dbf9/5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="MUSIK",Otto FM TV (IT)
-http://streaming.bitonlive.net:8080/hls/ottofmtv/8_7/index.m3u8
+http://streaming.bitonlive.net:8080/hls/ottofmtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Contact" tvg-logo="https://i.imgur.com/ekRMtra.png" group-title="MUSIK",Radio Contact
 https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O8ByUjT.png" group-title="ITALY;MUSIK",RADIO FRECCIA HD (IT)
