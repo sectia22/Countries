@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="************* SINGAPORE **********",********** SINGAPORE **********
+plugin://plugin.video.youtube/play/?video_id=XWq5kBlakcQ
+#EXTINF:-1 tvg-id="" tvg-name="CNA 24/7" tvg-logo="https://i.imgur.com/sP727kx.png" group-title="SINGAPORE",CNA 24/7
+plugin://plugin.video.youtube/play/?video_id=XWq5kBlakcQ
