@@ -3720,6 +3720,46 @@ plugin://plugin.video.youtube/play/?video_id=4gwqZYZ-OSw
 plugin://plugin.video.youtube/play/?video_id=0uwK35Go394
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zmzq3pF.png" group-title="KOREA",YTN
 http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
+#EXTINF:-1 tvg-name="************* JAPAN **********",********** JAPAN **********
+plugin://plugin.video.youtube/play/?video_id=coYw-eVU0Ks
+#EXTINF:-1 tvg-id="" tvg-name="ANN News" tvg-logo="https://i.imgur.com/WXjmhdZ.jpg" group-title="JAPAN",ANN News
+plugin://plugin.video.youtube/play/?video_id=coYw-eVU0Ks
+#EXTINF:-1 tvg-id="" tvg-name="BSC24" tvg-logo="https://i.imgur.com/7GzyvgI.jpg" group-title="JAPAN",BSC24
+plugin://plugin.video.youtube/play/?video_id=ZeZ049BUy8Q
+#EXTINF:-1 tvg-id="" tvg-name="CGNTV" tvg-logo="https://i.imgur.com/zilI4I3.jpg" group-title="JAPAN",CGNTV
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GSTV" tvg-logo="https://i.imgur.com/PQPIMEf.jpg" group-title="JAPAN",GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gunma TV" tvg-logo="https://i.imgur.com/Lt2tCwo.png" group-title="JAPAN",Gunma TV
+https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hiroshima Weather Information" tvg-logo="https://i.imgur.com/ZoYNgdd.png" group-title="JAPAN",Hiroshima Weather Information
+https://hiroshima-tv-live.hls.wselive.stream.ne.jp/hiroshima-tv-live/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Japanet Channel DX" tvg-logo="https://i.imgur.com/KVralKI.png" group-title="JAPAN",Japanet Channel DX
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netchannel KYO" tvg-logo="https://i.imgur.com/38tFPGp.jpg" group-title="JAPAN",Netchannel KYO
+plugin://plugin.video.youtube/play/?video_id=O2ROb_dPCjc
+#EXTINF:-1 tvg-id="" tvg-name="NHK Chinese Vision" tvg-logo="https://i.imgur.com/4yRulEZ.png" group-title="JAPAN",NHK Chinese Vision
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://i.imgur.com/db41qjL.jpg" group-title="JAPAN",NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTV News24" tvg-logo="https://i.imgur.com/qjVpiub.jpg" group-title="JAPAN",NTV News24
+https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX Live (Webcam)" tvg-logo="https://i.imgur.com/WLgD1v7.png" group-title="JAPAN",MX Live (Webcam)
+https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QVC Japan" tvg-logo="https://i.imgur.com/9u9TaMA.png" group-title="JAPAN",QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Shop Channel" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="JAPAN",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tokyo MX1" tvg-logo="https://i.imgur.com/WLgD1v7.png" group-title="JAPAN",Tokyo MX1
+https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tokyo MX2" tvg-logo="https://i.imgur.com/WLgD1v7.png" group-title="JAPAN",Tokyo MX2
+https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Weather News" tvg-logo="https://i.imgur.com/hoRB8Gc.png" group-title="JAPAN",Weather News
+https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+#EXTINF:-1 tvg-name="************* SINGAPORE **********",********** SINGAPORE **********
+plugin://plugin.video.youtube/play/?video_id=XWq5kBlakcQ
+#EXTINF:-1 tvg-id="" tvg-name="CNA 24/7" tvg-logo="https://i.imgur.com/sP727kx.png" group-title="SINGAPORE",CNA 24/7
+plugin://plugin.video.youtube/play/?video_id=XWq5kBlakcQ
 #EXTINF:-1 tvg-id="" tvg-name="******************** FRANCE ************",******************** FRANCE ************
 https://stream.sen-gt.com/A2itv/myStream/chunklist_w1124459956.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A2i TV" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="FRANCE",A2i TV
@@ -4090,6 +4130,36 @@ https://edge-1192-ch-gv.filmon.com/live/1738.high.stream/playlist.m3u8
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vitebsk Telekanal" tvg-logo="https://i.imgur.com/FXAqELU.jpg" group-title="BELARUS",Vitebsk Telekanal
 https://flu.vtv.by/tvt-non-by/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="****************** BULGARIA ************",****************** BULGARIA ************
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="100% Auto Moto TV" tvg-logo="https://i.imgur.com/PjBm4Ic.jpg" group-title="BULGARIA",100% Auto Moto TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Balkanika Music TV" tvg-logo="https://i.imgur.com/S0GrDsQ.png" group-title="BULGARIA",Balkanika Music TV
+rtsp://stream.teracomm.bg/balkanika
+#EXTINF:-1 tvg-id="" tvg-name="BTK" tvg-logo="https://i.imgur.com/5Sl6bKi.png" group-title="BULGARIA",BTK
+http://hls.cdn.bg:2007/fls/vtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bulgaria On Air" tvg-logo="https://i.imgur.com/fawQSJN.jpg" group-title="BULGARIA",Bulgaria On Air
+http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bulgarska Svobodna TV" tvg-logo="https://i.imgur.com/Ugl3Pq5.png" group-title="BULGARIA",Bulgarska Svobodna TV
+https://lb-ts.cdn.bg/bstv/fls/bstv.stream/playlist.m3u8?at=b723b4ea9326455525550db407e66f8d
+#EXTINF:-1 tvg-id="" tvg-name="City TV" tvg-logo="https://i.imgur.com/BjRTbrU.png" group-title="BULGARIA",City TV
+https://tv.city.bg/play/tshls/citytv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Evrokom" tvg-logo="https://i.imgur.com/3s7qchh.png" group-title="BULGARIA",Evrokom
+https://live.ecomservice.bg/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Light Channel" tvg-logo="https://i.imgur.com/qskVMhF.png" group-title="BULGARIA",Light Channel
+http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sportal" tvg-logo="https://i.imgur.com/ZY7hoD8.png" group-title="BULGARIA",Sportal
+https://clb.cdn.bg/sportal/fls//sportal_pal/playlist.m3u8?at=b723b4ea9326455525550db407e66f8d
+#EXTINF:-1 tvg-id="" tvg-name="This is Bulgaria" tvg-logo="https://i.imgur.com/FxLjPLh.jpg" group-title="BULGARIA",This is Bulgaria
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel TV" tvg-logo="https://i.imgur.com/7E4Kia6.jpg" group-title="BULGARIA",Travel TV
+http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV+" tvg-logo="https://i.imgur.com/W074hkS.jpg" group-title="BULGARIA",TV+
+http://141.136.14.18/kanal1/kanal1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vibee TV" tvg-logo="https://i.imgur.com/aNoxdla.png" group-title="BULGARIA",Vibee TV
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wness TV" tvg-logo="https://i.imgur.com/n0YJN6v.png" group-title="BULGARIA",Wness TV
+https://wness103.neterra.tv/wness/wness.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="************* GREECE **********",********** GREECE **********
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 tvg-id="Alert" tvg-name="Alert" tvg-logo="https://i.imgur.com/plW8kkT.png" group-title="GREECE",Alert
@@ -4174,74 +4244,6 @@ http://wpso.com:1936/hls/kidshd.m3u8
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Xplore TV" tvg-logo="https://i.imgur.com/ErFj6rR.png" group-title="GREECE",Xplore TV
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
-#EXTINF:-1 tvg-name="************* JAPAN **********",********** JAPAN **********
-plugin://plugin.video.youtube/play/?video_id=coYw-eVU0Ks
-#EXTINF:-1 tvg-id="" tvg-name="ANN News" tvg-logo="https://i.imgur.com/WXjmhdZ.jpg" group-title="JAPAN",ANN News
-plugin://plugin.video.youtube/play/?video_id=coYw-eVU0Ks
-#EXTINF:-1 tvg-id="" tvg-name="BSC24" tvg-logo="https://i.imgur.com/7GzyvgI.jpg" group-title="JAPAN",BSC24
-plugin://plugin.video.youtube/play/?video_id=ZeZ049BUy8Q
-#EXTINF:-1 tvg-id="" tvg-name="CNA 24/7" tvg-logo="https://i.imgur.com/sP727kx.png" group-title="JAPAN",CNA 24/7
-plugin://plugin.video.youtube/play/?video_id=XWq5kBlakcQ
-#EXTINF:-1 tvg-id="" tvg-name="CGNTV" tvg-logo="https://i.imgur.com/zilI4I3.jpg" group-title="JAPAN",CGNTV
-http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GSTV" tvg-logo="https://i.imgur.com/PQPIMEf.jpg" group-title="JAPAN",GSTV
-https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gunma TV" tvg-logo="https://i.imgur.com/Lt2tCwo.png" group-title="JAPAN",Gunma TV
-https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hiroshima Weather Information" tvg-logo="https://i.imgur.com/ZoYNgdd.png" group-title="JAPAN",Hiroshima Weather Information
-https://hiroshima-tv-live.hls.wselive.stream.ne.jp/hiroshima-tv-live/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Japanet Channel DX" tvg-logo="https://i.imgur.com/KVralKI.png" group-title="JAPAN",Japanet Channel DX
-https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Netchannel KYO" tvg-logo="https://i.imgur.com/38tFPGp.jpg" group-title="JAPAN",Netchannel KYO
-plugin://plugin.video.youtube/play/?video_id=O2ROb_dPCjc
-#EXTINF:-1 tvg-id="" tvg-name="NHK Chinese Vision" tvg-logo="https://i.imgur.com/4yRulEZ.png" group-title="JAPAN",NHK Chinese Vision
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://i.imgur.com/db41qjL.jpg" group-title="JAPAN",NHK World
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NTV News24" tvg-logo="https://i.imgur.com/qjVpiub.jpg" group-title="JAPAN",NTV News24
-https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX Live (Webcam)" tvg-logo="https://i.imgur.com/WLgD1v7.png" group-title="JAPAN",MX Live (Webcam)
-https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="QVC Japan" tvg-logo="https://i.imgur.com/9u9TaMA.png" group-title="JAPAN",QVC Japan
-https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Shop Channel" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="JAPAN",Shop Channel
-https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tokyo MX1" tvg-logo="https://i.imgur.com/WLgD1v7.png" group-title="JAPAN",Tokyo MX1
-https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tokyo MX2" tvg-logo="https://i.imgur.com/WLgD1v7.png" group-title="JAPAN",Tokyo MX2
-https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Weather News" tvg-logo="https://i.imgur.com/hoRB8Gc.png" group-title="JAPAN",Weather News
-https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
-#EXTINF:-1 tvg-name="****************** BULGARIA ************",****************** BULGARIA ************
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="100% Auto Moto TV" tvg-logo="https://i.imgur.com/PjBm4Ic.jpg" group-title="BULGARIA",100% Auto Moto TV
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Balkanika Music TV" tvg-logo="https://i.imgur.com/S0GrDsQ.png" group-title="BULGARIA",Balkanika Music TV
-rtsp://stream.teracomm.bg/balkanika
-#EXTINF:-1 tvg-id="" tvg-name="BTK" tvg-logo="https://i.imgur.com/5Sl6bKi.png" group-title="BULGARIA",BTK
-http://hls.cdn.bg:2007/fls/vtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bulgaria On Air" tvg-logo="https://i.imgur.com/fawQSJN.jpg" group-title="BULGARIA",Bulgaria On Air
-http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bulgarska Svobodna TV" tvg-logo="https://i.imgur.com/Ugl3Pq5.png" group-title="BULGARIA",Bulgarska Svobodna TV
-https://lb-ts.cdn.bg/bstv/fls/bstv.stream/playlist.m3u8?at=b723b4ea9326455525550db407e66f8d
-#EXTINF:-1 tvg-id="" tvg-name="City TV" tvg-logo="https://i.imgur.com/BjRTbrU.png" group-title="BULGARIA",City TV
-https://tv.city.bg/play/tshls/citytv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Evrokom" tvg-logo="https://i.imgur.com/3s7qchh.png" group-title="BULGARIA",Evrokom
-https://live.ecomservice.bg/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Light Channel" tvg-logo="https://i.imgur.com/qskVMhF.png" group-title="BULGARIA",Light Channel
-http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sportal" tvg-logo="https://i.imgur.com/ZY7hoD8.png" group-title="BULGARIA",Sportal
-https://clb.cdn.bg/sportal/fls//sportal_pal/playlist.m3u8?at=b723b4ea9326455525550db407e66f8d
-#EXTINF:-1 tvg-id="" tvg-name="This is Bulgaria" tvg-logo="https://i.imgur.com/FxLjPLh.jpg" group-title="BULGARIA",This is Bulgaria
-http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Travel TV" tvg-logo="https://i.imgur.com/7E4Kia6.jpg" group-title="BULGARIA",Travel TV
-http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV+" tvg-logo="https://i.imgur.com/W074hkS.jpg" group-title="BULGARIA",TV+
-http://141.136.14.18/kanal1/kanal1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vibee TV" tvg-logo="https://i.imgur.com/aNoxdla.png" group-title="BULGARIA",Vibee TV
-https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Wness TV" tvg-logo="https://i.imgur.com/n0YJN6v.png" group-title="BULGARIA",Wness TV
-https://wness103.neterra.tv/wness/wness.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="****************** Czech Republic **********",****************** Czech Republic **********
 http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Elektrika TV" tvg-logo="https://i.imgur.com/rl09RVe.png" group-title="Czech Republic",Elektrika TV
