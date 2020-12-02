@@ -87,11 +87,10 @@ http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ITALY",Radio Capital TV
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.conodeliaband.it/wp-content/uploads/2016/07/Radio-Carina-Azzurro.png" group-title="ITALY",Radio Carina TV 
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O8ByUjT.png" group-title="ITALY;MUSIK",RADIO FRECCIA IT
-http://rtl-radio-stream-thron.akamaized.net/live-video/video2/ngrp:video2/chunklist_b2296000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O8ByUjT.png" group-title="ITALY;MUSIK",RADIO FRECCIA
+https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KDtVpLl.png" group-title="ITALY",Radio Iglesias Sardegna
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bedxx0y.png" group-title="ITALY",Radio-Italia TV
@@ -103,13 +102,15 @@ https://flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ghLKlHs.png" group-title="ITALY;MUSIK",Radio m20 Lazio
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8cpuaG5.png" group-title="ITALY",Radio Number One
-http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
+https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DfugVgy.png" group-title="ITALY",Radio Piterpan
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3UvjR39.png" group-title="ITALY",Radio Studio 7
 https://flash7.xdevel.com/studio7mctv/studio7mctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SrhtocV.png" group-title="ITALY",Radio Taormina Sicilia
 https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
+#EXTINF:-1 tvg-name="RTL 102.5 BEST" tvg-id="" group-title="ITALY;MUSIK" tvg-logo="https://i.imgur.com/E4G6PiA.png",RTL 102.5 BEST
+https://rtl-video4-stream.thron.com/live-video/video4/ngrp:video4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Zess4Q.png" group-title="ITALY",Radio Universal TV Catania
 http://flash2.streaming.xdevel.com:80/radiouniversaltv/radiouniversaltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cambiovitaexpo.com/wp-content/uploads/2018/04/radio-universal-TV-1-1-1.png" group-title="ITALY",Radio Universal TV Sicilia
