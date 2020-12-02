@@ -79,6 +79,10 @@ https://7b65d9c562ad41b4b6efeaf1f598093d.mediatailor.us-west-2.amazonaws.com/v1/
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=855&deviceId=5873fc21cad696fb37aa9054&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="" tvg-name="Magic (UK)" tvg-logo="https://i.imgur.com/HXfKkwj.png" group-title="UK;MUSIK",Magic (UK)
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fr1SYxZ.png" group-title="MUSIK",MM TV (BG)
+https://streamer103.neterra.tv/mmtv/mmtv.smil/chunklist_w2100760669_b6128000_slbul.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g46c2Ht.png" group-title="MUSIK",Music Channel (RO)
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="MTV Germany (DE)" tvg-id="MTVGermany.de" group-title="MUSIK" tvg-logo="https://i.imgur.com/peq4OaE.png",MTV Germany (DE)
 http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-name="MTV Norway (NO)" tvg-id="MTV Norway" group-title="MUSIK" tvg-logo="https://i.imgur.com/peq4OaE.png",MTV Norway (NO)
@@ -97,14 +101,18 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
 https://526cbf93692f48879c403ab8c1350e2a.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_plex/76979eef-8053-48eb-a1dc-b165e0d3dbf9/5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="MUSIK",Otto FM TV (IT)
 http://streaming.bitonlive.net:8080/hls/ottofmtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yz3LSXo.png" group-title="MUSIK",Radio 51 Lombardia (IT)
+http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Contact" tvg-logo="https://i.imgur.com/ekRMtra.png" group-title="MUSIK",Radio Contact
 https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O8ByUjT.png" group-title="ITALY;MUSIK",RADIO FRECCIA HD (IT)
-http://rtl-radio-stream-thron.akamaized.net/live-video/video2/ngrp:video2/chunklist_b2296000.m3u8
+https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bedxx0y.png" group-title="MUSIK",Radio Italia TV (IT)
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ghLKlHs.png" group-title="MUSIK",Radio m20 Lazio
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCQNwdW.jpg" group-title="MUSIK",Radio Number One TV (IT)
+https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WGs1jsk.png" group-title="SWITZERLAND;MUSIK",Radio Pilatus (Webradio) (CH)
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Reload Radio" tvg-logo="https://i.imgur.com/WCWvj2M.png" group-title="MUSIK",Reload Radio
