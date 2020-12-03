@@ -16,4 +16,4 @@ https://is.gd/freeiptvall
 
 Important! Some streams (very few) only work in Kodi with the Youtube add-on ;-)
 
-Should a channel stop working, just leave a message. You can this with the Menu "Issues". :-)
+Should a channel stop working, just leave a message. You can do this with the Menu "Issues". :-)
