@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-name="************* SPAIN **********" tvg-id="" group-title="" tvg-logo="",********** SPAIN **********
 http://secure.todostreaming.es/live/101tv-web101tv.m3u8
 #EXTINF:-1 tvg-name="101TV Malaga" tvg-logo="https://i.imgur.com/CXHLhZD.png" group-title="SPAIN;MUSIK",101TV Malaga
@@ -16,12 +15,10 @@ https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist_b1296000.m3u8
 https://directes-tv-int.ccma.cat/int/ngrp:c33_web/chunklist_b630067.m3u8
 #EXTINF:-1 tvg-name="7 Murcia" tvg-logo="https://i.imgur.com/M0JqHa9.png" group-title="SPAIN",7 Murcia
 https://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-
 #EXTINF:-1 tvg-name="8 Cadiz TV" tvg-logo="https://i.imgur.com/gr1pI7Y.png" group-title="SPAIN;MUSIK",8 Cadiz TV
 https://5940924978228.streamlock.net/8289/smil:8289.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="A Punt" tvg-id="" tvg-logo="http://i.imgur.com/ROPlvzc.png" group-title="SPAIN",A Punt
 https://bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/6057955885001/playlist_dvr.m3u8
-
 #EXTINF:-1 tvg-name="Alacanti TV" tvg-id="" tvg-logo="http://www.alacantitv.com/wp-content/uploads/2017/03/logo_moviles-1.png" group-title="SPAIN",Alacanti TV
 http://5.39.65.105/hls/alacantixa.m3u8
 #EXTINF:-1 tvg-name="Alacanti TV" tvg-id="" tvg-logo="https://i.imgur.com/aJL1mjy.png" group-title="SPAIN",Alcarria TV
@@ -64,14 +61,12 @@ http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
 https://elastic10.todostreaming.es/live/sanroque-livestream.m3u8
 #EXTINF:-1 tvg-name="Canal Super 3" tvg-id="" tvg-logo="http://cdn.teleon.tv/logo/Canal-Super3.png" group-title="SPAIN",Canal Super 3
 https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Canal Sur" tvg-id="" tvg-logo="http://cdn.teleon.tv/logo/canal_sur_andalucia_es.png" group-title="SPAIN",Canal Sur
 https://originlive2.shooowit.net/rtvalive/smil:channelDVR.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal Taronja Osona" tvg-id="" tvg-logo="https://i.imgur.com/OFZCqGj.png" group-title="SPAIN",Canal Taronja Osona
 https://taronjavic.streaming-pro.com/hls/vic_240p.m3u8
 #EXTINF:-1 tvg-name="Canalcosta TV" tvg-id="" tvg-logo="https://i.imgur.com/1RVS7Wh.png" group-title="SPAIN",Canalcosta TV
 http://stream.canalcostatv.es:1935/web/IKbtqOuj/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Canaria SAT" tvg-id="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/c/cd/Televisión_Canaria_SAT_logo_2008.png" group-title="SPAIN",Canaria SAT
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="CMM Castilla La Mancha" tvg-id="" tvg-logo="https://www.portalparados.es/wp-content/uploads/castilla-la-mancha-television.png" group-title="SPAIN",CMM Castilla La Mancha
@@ -86,7 +81,6 @@ https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
 #EXTINF:-1 tvg-name="EiTB 2" tvg-id="" tvg-logo="https://i.imgur.com/mrGvcPV.png" group-title="SPAIN",EiTB 2
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-p.m3u8
-
 #EXTINF:-1 tvg-name="Elche 7 TV" tvg-id="" tvg-logo="https://i.imgur.com/zeC5t44.png" group-title="SPAIN",Elche 7 TV
 https://streaming.elche7tv.es/hls/canal2.m3u8
 #EXTINF:-1 tvg-name="Esplugues Televisio" tvg-id="" tvg-logo="https://i.imgur.com/adySzI2.png" group-title="SPAIN",Esplugues Televisio
@@ -95,7 +89,6 @@ https://vodingesta1083.cdnmedia.tv/video/etv/lcnhpgm134311015ceb4c0c-e8af_H,700,
 https://5b38ce71f1f00.streamlock.net/8122/8122/chunklist_w310432579.m3u8
 #EXTINF:-1 tvg-name="Esport 3" tvg-id="" tvg-logo="http://cdn.teleon.tv/logo/es-esport-3.jpg" group-title="SPAIN",Esport 3
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
-
 #EXTINF:-1 tvg-name="ETB Sat" tvg-id="" tvg-logo="http://img1.wikia.nocookie.net/__cb20110830201749/logopedia/images/9/90/ETB_Sat_logo_2009.png" group-title="SPAIN",ETB Sat
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:-1 tvg-name="FDF" tvg-id="" tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png" group-title="SPAIN",Fight Time
@@ -114,12 +107,10 @@ http://interalmeria.tv/directo/live.m3u8
 https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8
 #EXTINF:-1 tvg-name="La 1" tvg-id="" tvg-logo="https://i.imgur.com/0mGTdcg.png" group-title="SPAIN",La 1
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-
 #EXTINF:-1 tvg-name="La Otra" tvg-id="" tvg-logo="https://i.imgur.com/WT5EeEd.png" group-title="SPAIN",La Otra
 http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/master.m3u8
 #EXTINF:-1 tvg-name="La Voz 24h" tvg-id="" tvg-logo="https://i.imgur.com/Vp26cr1.jpg" group-title="SPAIN",La Voz 24h
 https://pull12.atresmedia.com/lavoz/master.m3u8
-
 #EXTINF:-1 tvg-name="Lancelot TV" tvg-id="" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hCZUn3g.png" group-title="SPAIN",Lancelot TV
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 #EXTINF:-1 tvg-name="Lebrija TV" tvg-id="" tvg-logo="http://www.lebrija.tv/wp-content/uploads/2016/06/logo-web-2.png" group-title="SPAIN",Lebrija TV
@@ -132,7 +123,6 @@ https://www.dailymotion.com/cdn/live/video/xnm032.m3u8?sec=cw-Hsy2kBl2-tlTYk6nGA
 https://40al1-lh.akamaihd.net/i/directo40al1_x@764444/master.m3u8
 #EXTINF:-1 tvg-name="Mas 24 Horas" tvg-id="" tvg-logo="https://i.imgur.com/WhfpLWM.png" group-title="SPAIN",Mas 24 Horas
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Mijas 3.40 TV" tvg-id="" tvg-logo="https://i.imgur.com/61ttFDF.png" group-title="SPAIN",Mijas 3.40 TV
 https://mijas-live.flumotion.com/mijastv/live/chunks.m3u8
 #EXTINF:-1 tvg-name="Mola TV" tvg-id="" tvg-logo="https://www.colectivosvip.com/public/colectivos/390/logo.png" group-title="SPAIN",Mola TV
@@ -146,7 +136,6 @@ http://amaru.dyndns.org:8835/0.m3u8
 #EXTINF:-1 tvg-name="Oizmendi Telebista" tvg-id="" tvg-logo="https://i.imgur.com/LpJGFUP.png" group-title="SPAIN",Oizmendi Telebista
 https://5940924978228.streamlock.net/8161/8161/master.m3u8
 #EXTINF:-1 tvg-name="Onda Cadiz Radio (Webradio)" tvg-id="" tvg-logo="https://i.imgur.com/s7mjgwW.png" group-title="SPAIN",Onda Cadiz Radio  (Webradio)
-
 https://player-api.new.livestream.com/accounts/22727797/events/7923562/broadcasts/212065245.secure.m3u8?dw=14400&hdnea=st%3D1602657366~exp%3D1602659166~acl%3D%2Fi%2F22727797_7923562_lsi86gbhgw7svw5nsbb_1%40688879%2F%2A~hmac%3D70ee682dfef5ec55eb1a5da54d92126052925265e999153b7af1d64bf895af80&token=5f869d82_8a78cacf9286508718621d17479c3e3da8c28f2a
 #EXTINF:-1 tvg-name="Onda Madrid (Webradio)" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/OndaMadrid.svg/1280px-OndaMadrid.svg.png" group-title="SPAIN",Onda Madrid (Webradio)
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8
@@ -196,7 +185,6 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m
 http://video.telesafor.com/hls/video.m3u8
 #EXTINF:-1 tvg-name="Television Galicia" tvg-id="" tvg-logo="https://i.imgur.com/QkhxAuY.png" group-title="SPAIN",Television Galicia
 https://europa-crtvg.flumotion.com/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Televisio Girona" tvg-id="" tvg-logo="https://i.imgur.com/khRXhT1.png" group-title="SPAIN",Televisio Girona
 http://ventdelnord.tv:8080/girona/directe.m3u8
 #EXTINF:-1 tvg-name="Television Aranda" tvg-id="" tvg-logo="https://i.imgur.com/nGuGVTO.png" group-title="SPAIN",Television Aranda
@@ -211,10 +199,8 @@ https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3
 http://212.104.160.156:1935/live/trebujenatv2/master.m3u8
 #EXTINF:-1 tvg-name="TV3 Catalunya" tvg-id="" tvg-logo="https://i.imgur.com/QCKNWMJ.jpg" group-title="SPAIN",TV3 Catalunya
 https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/chunklist.m3u8
-
 #EXTINF:-1 tvg-name="TV4 La Vall" tvg-id="" tvg-logo="https://noticias.adventista.es/wp-content/uploads/sites/8/2014/05/Captura-de-pantalla-2014-05-28-a-las-14.22.231.png" group-title="SPAIN",TV4 La Vall
 https://limited09.todostreaming.es/live/tarson-livestream.m3u8
-
 #EXTINF:-1 tvg-name="TV Benavente" tvg-id="" tvg-logo="https://i.imgur.com/m2b1ozC.png" group-title="SPAIN",TV Benavente
 https://5f4cab04444c6.streamlock.net/gcm3/gcm3/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Ferrol" tvg-id="" tvg-logo="https://i.imgur.com/YCiTqGj.png" group-title="SPAIN",TV Ferrol

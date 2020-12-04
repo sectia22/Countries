@@ -1,10 +1,7 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="" tvg-name="************ MALTA ************" tvg-shift="0" radio="" tvg-logo="" group-title="",************ MALTA ************
 plugin://plugin.video.youtube/play/?video_id=kZnhMpR_w78
 #EXTINF:-1 tvg-name="TVM News" tvg-id="" group-title="MALTA" tvg-logo="",TVM News
 plugin://plugin.video.youtube/play/?video_id=kZnhMpR_w78
 #EXTINF:-1 tvg-name="TVM 1" tvg-id="" group-title="MALTA" tvg-logo="",TVM 1
 https://live.23video.com/live/amlst:hp69qmgjcmp8k4upaphgonpb06:16966825-2ca040dbfeea9e5cb868.mp4/chunklist_b1128000.m3u8
-
-

@@ -4,10 +4,8 @@ https://tvnzliveios-i.akamaihd.net/hls/live/248954/tvnzliveios/16320191519/0253/
 #EXTINF:-1 tvg-name="Firstlight" tvg-id="" group-title="NEWZEALAND" tvg-logo="https://i.imgur.com/2TKL6BX.png",Firstlight
 https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Kordia TV" tvg-id="tv.66" group-title="NEWZEALAND" tvg-logo="https://i.imgur.com/7FCjq7C.png",Kordia TV
-
 https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
-
-#EXTINF:-1 tvg-id="tv.13" tvg-name="Maori Television" tvg-logo="https://i.imgur.com/yo8kEk5.png" group-title="NEWZEALAND",Maori Television
+#EXTINF:-1 tvg-id="tv.13" tvg-name="Maori Television" tvg-logo="https://i.imgur.com/yo8kEk5.png" group-title="NEWZEALAND",Maori Television
 http://i.mjh.nz/nz/tv.13.m3u8
 #EXTINF:-1 tvg-name="Parliament TV" tvg-id="" group-title="NEWZEALAND" tvg-logo="https://i.imgur.com/Bmt34GV.png",Parliament TV
 https://i.mjh.nz/nz/tv.18.m3u8
