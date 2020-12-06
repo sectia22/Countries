@@ -183,6 +183,12 @@ http://hellin-hls-live.flumotion.com/hellin/hellin-live_source/playlist.m3u8
 http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8
 #EXTINF:-1 tvg-name="tvA" tvg-id="" tvg-logo="https://i.imgur.com/BuqsgOD.png" group-title="SPAIN",tvA
 https://alicantitv.gestec-video.com/hls/artequatreTVA.m3u8
+#EXTINF:-1 tvg-name="TVE Canal24" tvg-logo="https://i.imgur.com/g6WWN4g.png" group-title="SPAIN", TVE Canal24
+https://rtvelivestream.akamaized.net/24h_dvr.m3u8
+#EXTINF:-1 tvg-name="TVE Canarias" tvg-logo="https://i.imgur.com/3GjLKeu.jpg" group-title="SPAIN",TVE Canarias
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@303292/master.m3u8
+#EXTINF:-1 tvg-name="TVE Catalunya" tvg-logo="https://i.imgur.com/Gl9CXMw.jpg" group-title="SPAIN",TVE Catalunya
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@130182/master.m3u8
 #EXTINF:-1 tvg-name="TVG 2" tvg-id="" tvg-logo="https://i.imgur.com/KoTonIp.png" group-title="SPAIN",TVG 2
 http://events3-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-name="TVG America" tvg-id="" tvg-logo="https://i.imgur.com/v5d0xMH.png" group-title="SPAIN",TVG America
