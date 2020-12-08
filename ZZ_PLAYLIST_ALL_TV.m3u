@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name=Das Erste HD tvg-id=ARD.de tvg-logo=http://logos.zattic.com/images/channels/logos/2a2a4aee64bbd6f7f817/black/84x48.png group-title="GERMAN TV",Das Erste HD
-https://mcdn.daserste.de/daserste/de/master_3744.m3u8
+https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-name=ZDF HD tvg-id=ZDF.de tvg-logo=http://logos.zattic.com/images/channels/logos/42a29350387ee5fda8fe/black/84x48.png group-title="GERMAN TV",ZDF HD
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 #EXTINF:-1 tvg-name=ZDFinfo tvg-id=ZDFinfo.de tvg-logo=http://logos.zattic.com/images/channels/logos/bfabafc809aa7b6db677/black/84x48.png group-title="GERMAN TV",ZDFinfo
@@ -16,13 +16,13 @@ https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 #EXTINF:-1 tvg-name=ONE HD tvg-id=One.de tvg-logo=http://logos.zattic.com/images/channels/logos/7490dbd81ca7b22871f5/black/84x48.png group-title="GERMAN TV",ONE HD
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
 #EXTINF:-1 tvg-name=Radio Bremen TV HD tvg-id=RadioBremen.de tvg-logo=https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbtv.png group-title="GERMAN TV",Radio Bremen TV HD
-https://rbfs-lh.akamaihd.net/i/rb_fs@438960/index_3584_av-p.m3u8
+https://rbfs-lh.akamaihd.net/i/rb_fs@438960/master.m3u8
 #EXTINF:-1 tvg-name=NDR Niedersachsen tvg-id=ndr.de tvg-logo=http://logos.zattic.com/images/channels/logos/29a7c6a23050e3820a3b/black/84x48.png group-title="GERMAN TV",NDR Niedersachsen
 https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8?set-segment-duration=responsive
 #EXTINF:-1 tvg-name=WDR Koeln tvg-id=WDR.de tvg-logo=http://logos.zattic.com/images/channels/logos/da2f7b1155f1c2586f93/black/84x48.png group-title="GERMAN TV",WDR Koeln
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
 #EXTINF:-1 tvg-name=HR tvg-id=HR.de tvg-logo=http://logos.zattic.com/images/channels/logos/f9fce1487da75bf65159/black/84x48.png group-title="GERMAN TV",HR
-https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8?sd=4&set-segment-duration=responsive&rebase=on
+https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8?set-segment-duration=responsive
 #EXTINF:-1 tvg-name=MDR SACHSEN-ANHALT tvg-id=MDRS-Anhalt.de tvg-logo=http://logos.zattic.com/images/channels/logos/1694a32cffbc010c5733/black/84x48.png group-title="GERMAN TV",MDR SACHSEN-ANHALT
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
 #EXTINF:-1 tvg-name=rbb Berlin tvg-id=rbbBerlin.de tvg-logo=http://logos.zattic.com/images/channels/logos/823d10599014e6b23d78/black/84x48.png group-title="GERMAN TV",rbb Berlin
@@ -30,7 +30,7 @@ https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8
 #EXTINF:-1 tvg-name=SWR BW tvg-id=SWR.de tvg-logo=http://logos.zattic.com/images/channels/logos/5edb77a08387f0b820f6/black/84x48.png group-title="GERMAN TV",SWR BW
 https://swrbwhls-i.akamaihd.net/hls/live/667638-b/swrbwd/master.m3u8
 #EXTINF:-1 tvg-name=SR Fernsehen tvg-id=SRFernsehen.de tvg-logo=http://logos.zattic.com/images/channels/logos/c50695d215e17cb3f886/black/84x48.png group-title="GERMAN TV",SR Fernsehen
-http://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8
+https://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8?set-segment-duration=responsive
 #EXTINF:-1 tvg-name=BR Fernsehen tvg-id=BR.de tvg-logo=http://logos.zattic.com/images/channels/logos/7bede2308528e63feaac/black/84x48.png group-title="GERMAN TV",BR Fernsehen
 https://mcdn.br.de/bfs_sued/de/master.m3u8
 #EXTINF:-1 tvg-name=ARD-alpha tvg-id=ARD-alpha.de tvg-logo=http://logos.zattic.com/images/channels/logos/e96fafec01ec632f9b38/black/84x48.png group-title="GERMAN TV",ARD-alpha
@@ -44,7 +44,7 @@ https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
 #EXTINF:-1 tvg-name=WELT Live Stream tvg-id=WELT.de tvg-logo=http://logos.zattic.com/images/channels/logos/2e460a3011ecd55bd3b9/black/84x48.png group-title="GERMAN TV",WELT Live Stream
 https://eventenc02-lh.akamaihd.net/i/eventenc02_1@379038/index_1_av-p.m3u8?sd=10&dw=0&rebase=on
 #EXTINF:-1 tvg-name=Deutsche Welle tvg-id="DeutscheWelleDE.de" group-title="GERMAN TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle
-https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
+https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
 #EXTINF:-1 tvg-name=Deutsche Welle+ tvg-id="DeutscheWelle+DE.de" group-title="GERMAN TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle+
 http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
 #EXTINF:-1 tvg-name=Sky Sport News HD tvg-id="SkySportNewsHD.de" group-title="GERMAN TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skysportnewshd.png",Sky Sport News HD
@@ -1509,7 +1509,7 @@ https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
 https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
 #EXTINF:-1 tvg-ID="EPIE2" tvg-name="Epix 2 (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/500px-Epix_Logo_2009.svg.png" group-title="ROKU USA",Epix 2 (East)
 https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
-#EXTINF:-1 tvg-name="***************** USA STIRR ***********" tvg-id="" group-title="" tvg-logo="",**************** USA  STIRR ***********
+#EXTINF:-1 tvg-name="***************** USA STIRR ***********",**************** USA  STIRR ***********
 https://dai.google.com/linear/hls/event/mMP0Ny8OTb2Ev2EvsiIlrg/master.m3u8
 #EXTINF:-1 tvg-id="2020 Live" tvg-name="2020 Live" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/e155b2ff-61dc-44c2-9d2a-26b0f69ebc5b-small3x1_stirr_0120_epg_2020LIVE_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",2020 Live
 https://dai.google.com/linear/hls/event/mMP0Ny8OTb2Ev2EvsiIlrg/master.m3u8
@@ -1611,8 +1611,6 @@ https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
 https://dai.google.com/linear/hls/event/23QIslh0TOqygKz-M9W29Q/master.m3u8
 #EXTINF:-1 tvg-id="Law - Crime " tvg-name="Law - Crime " tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/51c6158b-80d1-4dde-883d-02bbb9a92f65-small3x1_stirr_1219_epg_lawandcrime_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Law & Crime
 https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
-#EXTINF:-1 tvg-id="Laurel - Hardy" tvg-name="Laurel - Hardy" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b26179ed-d63c-41c0-a422-a2a9cbeb52f4-small3x1_stirr_0120_epg_LaurelandHardy_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",Laurel & Hardy
-https://dai.google.com/linear/hls/event/uDdlFsS2S1CqcUkd7KGu4Q/master.m3u8
 #EXTINF:-1 tvg-id="LiveXLive" tvg-name="LiveXLive" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/545cc045-69ad-4c2f-979a-3be0280c5e1c-small3x1_STIRR_Logo_0320_LiveXLive_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",LiveXLive
 https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
 #EXTINF:-1 tvg-id="Made In Hollywood" tvg-name="Made In Hollywood" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/30a2f367-97f1-49e2-b9a7-0ae1a859e917-small3x1_STIRR_Logo_0320_MadeInHollywood_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Made In Hollywood
@@ -1698,15 +1696,13 @@ https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
 #EXTINF:-1 tvg-id="STIRR Fit" tvg-name="STIRR Fit" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/1514a022-e768-4276-a25e-1646d37a6f12-small3x1_stirr_0120_epg_stirr_fit_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",STIRR Fit
 https://dai.google.com/linear/hls/event/ZidoyK28TXyMRTZU7rFuEQ/master.m3u8
 #EXTINF:-1 tvg-id="STIRR Horror Movies" tvg-name="STIRR Horror Movies" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/0a9b36ef-1240-47c1-a7e6-5ed04648ad72-small3x1_stirr_1219_epg_stirrhorror_1920x1080.png?cb=a87ff679a2f3e71d9181a67b7542122c" group-title="STIRR USA",STIRR Horror Movies
-https://dai.google.com/linear/hls/event/3P6eoQ_ARgeofjgKUyVI6w/master.m3u8
+https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
 #EXTINF:-1 tvg-id="STIRR | life" tvg-name="STIRR | life" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/03f16a85-c53f-4e81-8482-84717fba63d6-small3x1_stirr_1219_epg_template_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",STIRR | life
 https://dai.google.com/linear/hls/event/08ADpEIeQ8iZOjusLsZbCg/master.m3u8
 #EXTINF:-1 tvg-id="STIRR | Movies" tvg-name="STIRR | Movies" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/5fd662e5-864f-4739-a6ec-67f00b2d95c7-small3x1_stirr_1219_epg_stirrmovies_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",STIRR | Movies
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 #EXTINF:-1 tvg-id="STIRR Music" tvg-name="STIRR Music" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/4401089e-ca2f-440c-918b-0628369b6b18-small3x1_stirr_1219_epg_stirrmusic_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA;MUSIK",STIRR Music
 https://dai.google.com/linear/hls/event/_e1csFnJR6W6y056PyiG6A/master.m3u8
-#EXTINF:-1 tvg-id="STIRR | retro" tvg-name="STIRR | retro" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/64751cb2-0f74-482b-a55f-b3c20da53a9b-small3x1_stirr_1219_epg_stirrtvmix_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA;",STIRR | retro
-https://dai.google.com/linear/hls/event/UQrixd_tTG2nC-lOUtw0mQ/master.m3u8
 #EXTINF:-1 tvg-id="STIRR | sports" tvg-name="STIRR | sports" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/a43594d1-364b-4e0c-8647-0d117973a641-small3x1_stirr_1219_epg_stirrsports_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",STIRR | sports
 https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
 #EXTINF:-1 tvg-id="STIRR Travel" tvg-name="STIRR Travel" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/2adc9fb0-a8dd-4fc4-ac6e-9287f54c37e9-small3x1_STIRR_Logo_0320_STIRRTravel_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",STIRR Travel
