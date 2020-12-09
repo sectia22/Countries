@@ -196,7 +196,7 @@ http://185.85.28.19/oe3sd/orf.sdp/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OyOPRtq.png" group-title="AUSTRIA",K-TV
 http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KT1" tvg-logo="https://www.kt1.at/wp-content/uploads/2019/08/kt1_header_logo.png" group-title="AUSTRIA",KT1
-plugin://plugin.video.youtube/play/?video_id=5-0BTQ_iq-c
+plugin://plugin.video.youtube/play/?video_id=XweEdR3IV-Q
 #EXTINF:-1 tvg-name="Ländle Tv" tvg-id="laendletv.com" group-title="AUSTRIA" tvg-logo="https://i.imgur.com/g2Hdysr.jpg",Ländle Tv
 https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
 #EXTINF:-1 tvg-name="M4TV" tvg-id="" group-title="AUSTRIA" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m4tv.png",M4TV
@@ -204,19 +204,17 @@ https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
 #EXTINF:-1 tvg-name="oe24 TV" tvg-id="" group-title="AUSTRIA" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oe24tv.png",oe24 TV
 http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Okto TV" tvg-id="OKTO.at" group-title="AUSTRIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Okto.svg/150px-Okto.svg.png",Okto TV
-https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8
+https://d2i6psfxyapxwi.cloudfront.net/out/v1/f0cc8e3aceb64ad8968231dc5a0041d4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="P3tv" tvg-logo="https://i.imgur.com/C6Hp5Pb.jpg" group-title="AUSTRIA",P3tv
 http://p3-6.mov.at:1935/live/weekstream/master.m3u8
 #EXTINF:-1 tvg-name="R9 TV" tvg-id="R9Osterreich.at" group-title="AUSTRIA" tvg-logo="https://i.imgur.com/Wu6SMvb.png",R9 TV
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="RTS Salzburg" tvg-id="rts-salzburg.at" group-title="AUSTRIA" tvg-logo="https://i.imgur.com/SSDLpPU.png",RTS Salzburg
-plugin://plugin.video.youtube/play/?video_id=ivkhFJqme5g
 #EXTINF:-1 tvg-name="SchauTV" tvg-id="schautv.at" group-title="AUSTRIA" tvg-logo="https://image.schautv.at/images/cfs_616w/3123676/schautv_homepagebanner_twitter.png",SchauTV
 https://schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8?guid=c5bca0ef-7394-4b87-a48b-b625dfae0101
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KJie1k5.png" group-title="AUSTRIA",Teins TV
 http://live1.markenfunk.com/t1/live/chunklist.m3u8
 #EXTINF:-1 tvg-name="Tirol TV" tvg-id="Tiroltv.at" tvg-logo="https://i.imgur.com/0jHWmjL.png" group-title="AUSTRIA",Tirol TV
-https://streaming5.huberwebmedia.at/hls-live/live_tiroltv/_definst_/liveevent/livestream.m3u8
+https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
 #EXTINF:-1 tvg-name="UPPERA Community TV" tvg-id="uppera.club" tvg-logo="https://i.imgur.com/4fAkcCd.jpg" group-title="AUSTRIA",UPPERA Community TV
 http://89.187.168.245:8080/live/sUPPERchannel/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4fAkcCd.jpg" group-title="AUSTRIA",Uppera Balkan
@@ -1793,6 +1791,120 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/p
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
 #EXTINF:-1 tvg-name="FilmRise Sci-Fi" tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="USA",FilmRise Sci-Fi
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
+#EXTINF:-1 tvg-name="*********** USA BUMBLEBEE **********",*********** USA BUMBLEBEE **********
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+#EXTINF:-1 tvg-name="Animals Live" tvg-logo="https://i.imgur.com/mJZHoUj.png" group-title="Bumblebee USA",Animals Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+#EXTINF:-1 tvg-name="Aurora Live" tvg-logo="https://i.imgur.com/vNrFKse.png" group-title="Bumblebee USA",Aurora Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+#EXTINF:-1 tvg-name="Automoto" tvg-name="" tvg-logo="https://i.imgur.com/H3iaTB5.png" group-title="Bumblebee USA",Automoto
+https://stitcheraws.unreel.me/wse-node04.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
+#EXTINF:-1 tvg-name="Beaches Live" tvg-logo="https://i.imgur.com/wdD4lov.png" group-title="Bumblebee USA",Beaches Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
+#EXTINF:-1 tvg-name="Boy Kid Vids" tvg-name="" tvg-logo="https://i.imgur.com/2IgM6LJ.png" group-title="Bumblebee USA",Country Boy Kid Vids
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
+#EXTINF:-1 tvg-name="Classics Channel" tvg-logo="https://i.imgur.com/AuKo7Nx.png" group-title="Bumblebee USA",Classics Channel
+https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/playlist.m3u8
+#EXTINF:-1 tvg-name="Civilized" tvg-logo="https://i.imgur.com/MMCKDpf.png" group-title="Bumblebee USA",Civilized
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2531932c8368bdbfd87c/playlist.m3u8
+#EXTINF:-1 tvg-name="Coronavirus.gov" tvg-logo="https://i.imgur.com/hqSGsrX.png" group-title="Bumblebee USA",Coronavirus.gov
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e7559e8a46b495a2283c5e8/playlist.m3u8
+#EXTINF:-1 tvg-name="Cute Zone" tvg-logo="https://i.imgur.com/1H2KOju.png" group-title="Bumblebee USA",Cute Zone
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
+#EXTINF:-1 tvg-name="Divorce Court" tvg-logo="https://i.imgur.com/V0CDykG.png" group-title="Bumblebee USA",Divorce Court
+https://44fbc29539b04817bbfc7e40a5b4a1ab.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e76d1474f9020c06f9ee/playlist.m3u8
+#EXTINF:-1 tvg-name="Docs Channel" tvg-logo="https://i.imgur.com/peb9qn3.png" group-title="Bumblebee USA",Docs Channel
+https://0813a4e76b5d404a97a4070b8e087bc4.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f8609d9d6344257cbfb6ee4/playlist.m3u8
+#EXTINF:-1 tvg-name="Epic Misses & Mayhem" tvg-name="" tvg-logo="https://i.imgur.com/JcDDd5I.png" group-title="Bumblebee USA",Epic Misses & Mayhem
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22225d5eeee0f5a40941d/playlist.m3u8
+#EXTINF:-1 tvg-name="External Ottera" tvg-logo="https://i.imgur.com/MMCKDpf.png" group-title="Bumblebee USA",External Ottera
+https://otteravision-tg.ottera.tv/live/master.m3u8?channel=tg_tg_us
+#EXTINF:-1 tvg-name="FGTV & Funnelvision" tvg-logo="https://i.imgur.com/OD6qg0K.png" group-title="Bumblebee USA",FGTV & Funnelvision
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
+#EXTINF:-1 tvg-name="Forests Live" tvg-logo="https://i.imgur.com/NKW3gW7.png" group-title="Bumblebee USA",Forests Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+#EXTINF:-1 tvg-name="Fun Zone" tvg-logo="https://i.imgur.com/qmjK72w.png" group-title="Bumblebee USA",Fun Zone
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/playlist.m3u8
+#EXTINF:-1 tvg-name="Gameplay" tvg-logo="https://i.imgur.com/MMCKDpf.png" group-title="Bumblebee USA",Gameplay
+https://5ab2d7093e38404091ca44d800f6c4c4.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5d42f01baea0c5699f368901/playlist.m3u8
+#EXTINF:-1 tvg-name="Giggle Zone" tvg-logo="https://i.imgur.com/Pr5GWWg.png" group-title="Bumblebee USA",Giggle Zone
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8
+#EXTINF:-1 tvg-name="High Times TV" tvg-logo="https://i.imgur.com/MMCKDpf.png" group-title="Bumblebee USA",High Times TV
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2503932c8368bdbfd875/playlist.m3u8
+#EXTINF:-1 tvg-name="Jerry Springer" tvg-logo="https://i.imgur.com/sAfnZip.png" group-title="Bumblebee USA",Jerry Springer
+https://057ed30176c1453da6d54e583b32852b.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e7f848f1ff2e1d2555a2/playlist.m3u8
+#EXTINF:-1 tvg-name="Judge Karen's Court" tvg-logo="https://i.imgur.com/rku6tmo.png" group-title="Bumblebee USA",Judge Karen's Court
+https://cb5273f195a147f2bcf23544e4495f66.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e7261474f9020c06f9ec/playlist.m3u8
+#EXTINF:-1 tvg-name="Lakes Live" tvg-logo="https://i.imgur.com/ijurD8t.png" group-title="Bumblebee USA",Lakes Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+#EXTINF:-1 tvg-name="Lego Toons" tvg-logo="https://i.imgur.com/0ksEr4f.png" group-title="Bumblebee USA",Lego Toons
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+#EXTINF:-1 tvg-name="Let's Play Minecraft" tvg-logo="https://i.imgur.com/lW4n39E.png" group-title="Bumblebee USA",Let's Play Minecraft
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625700145130f25474624/playlist.m3u8
+#EXTINF:-1 tvg-name="Lifebae" tvg-logo="https://i.imgur.com/8aNLwPG.png" group-title="Bumblebee USA",Lifebae
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22681932c8304fc453418/playlist.m3u8
+#EXTINF:-1 tvg-name="Master Builders" tvg-logo="https://i.imgur.com/4GQ78zv.png" group-title="Bumblebee USA",Master Builders
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
+#EXTINF:-1 tvg-name="Maury" tvg-logo="https://i.imgur.com/HXi8HG8.png" group-title="Bumblebee USA",Maury
+https://43eed3df38d04ed7a3be7cc4ee510b43.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e88458ad7801fa2cfc2e/playlist.m3u8
+#EXTINF:-1 tvg-name="Motorcyclist" tvg-name="" tvg-logo="https://i.imgur.com/VBkJrGv.png" group-title="Bumblebee USA",Motorcyclist
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8
+#EXTINF:-1 tvg-name="Mountains Live" tvg-logo="https://i.imgur.com/XthH1RM.png" group-title="Bumblebee USA",Mountains Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+#EXTINF:-1 tvg-name="Now You Know" tvg-logo="https://i.imgur.com/BGGhItM.png" group-title="Bumblebee USA",Now You Know
+https://stitcheraws.unreel.me/wse-node04.powr.com/live/5b284f40d5eeee07522b775e/playlist.m3u8
+#EXTINF:-1 tvg-name="Popcorn Flix Action" tvg-logo="https://i.imgur.com/CgYnCxA.png" group-title="Bumblebee USA",Popcorn Flix Action
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+#EXTINF:-1 tvg-name="Recoil TV" tvg-logo="https://i.imgur.com/YfDWYmN.png" group-title="Bumblebee USA",Recoil TV
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7dff0f932c8368bdbfd5fd/playlist.m3u8
+#EXTINF:-1 tvg-name="Rivers Live" tvg-logo="https://i.imgur.com/asqplX6.png" group-title="Bumblebee USA",Rivers Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 tvg-name="Roblox" tvg-logo="https://i.imgur.com/Byan2OK.jpg" group-title="Bumblebee USA",Roblox
+https://5ab2d7093e38404091ca44d800f6c4c4.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5d42f01baea0c5699f368901/playlist.m3u8
+#EXTINF:-1 tvg-name=Shorts Channel" tvg-logo="https://i.imgur.com/ttsZkJM.png" group-title="Bumblebee USA",Shorts Channel
+https://b29da26d9a17436eafe339c08e488f33.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f8609010d552957bf5aa546/playlist.m3u8
+#EXTINF:-1 tvg-name="Slimo" tvg-logo="https://i.imgur.com/MMCKDpf.png" group-title="Bumblebee USA",Slimo
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8
+#EXTINF:-1 tvg-name="Smosh" tvg-logo="https://i.imgur.com/PbkQkhq.png" group-title="Bumblebee USA",Smosh
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625af5748670f12a3bee9/playlist.m3u8
+#EXTINF:-1 tvg-name="Sports News" tvg-logo="https://i.imgur.com/DWcfDc5.png" group-title="Bumblebee USA",Sports News
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf221fad5eeee0f5a40941c/playlist.m3u8
+#EXTINF:-1 tvg-name="Steve Wilkos" tvg-logo="https://i.imgur.com/CzrTxt2.png" group-title="Bumblebee USA",Steve Wilkos
+https://ff025cd3f4b44af9915c7303489f823c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e84c95ee0253b97679d7/playlist.m3u8
+#EXTINF:-1 tvg-name="Sunsets Live" tvg-logo="https://i.imgur.com/O7gIg07.png" group-title="Bumblebee USA",Sunsets Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+#EXTINF:-1 tvg-name="Taste It" tvg-name="" tvg-logo="https://i.imgur.com/VR1E6WB.png" group-title="Bumblebee USA",Taste It
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5af61f59d5eeee7af3d1db8f/playlist.m3u8
+#EXTINF:-1 tvg-name="Thinknoodles" tvg-logo="https://i.imgur.com/LNzPgeF.png" group-title="Bumblebee USA",Thinknoodles
+https://stitcheraws.unreel.me/wse-node04.powr.com/live/5afc810e932c833522744733/playlist.m3u8
+#EXTINF:-1 tvg-name="Toy Zone" tvg-logo="https://i.imgur.com/pE9Vv17.png" group-title="Bumblebee USA",Toy Zone
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/playlist.m3u8
+#EXTINF:-1 tvg-name="Trinity & Beyond" tvg-logo="https://i.imgur.com/Q7Zss1U.png" group-title="Bumblebee USA",Trinity & Beyond
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2626030145130f25474626/playlist.m3u8
+#EXTINF:-1 tvg-name="Tropics Live" tvg-logo="https://i.imgur.com/lvCjTl5.png" group-title="Bumblebee USA",Tropics Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
+#EXTINF:-1 tvg-name="Wanderluster" tvg-logo="https://i.imgur.com/rFL5oBe.png" group-title="Bumblebee USA",Wanderluster
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2267fd5eeee0f5a4094c0/playlist.m3u8
+#EXTINF:-1 tvg-name="Waterfalls Live" tvg-logo="https://i.imgur.com/b0jl5EG.png" group-title="Bumblebee USA",Waterfalls Live
+https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
+#EXTINF:-1 tvg-name="*********** USA UDU TV **********",*********** USA UDU TV **********
+https://5c8eaf7647284895b269fd13a40d410c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89af95de69db1f20935d98/playlist.m3u8
+#EXTINF:-1 tvg-name="Action" tvg-logo="https://i.imgur.com/tZgazoF.png" group-title="UDU TV USA", Action
+https://5c8eaf7647284895b269fd13a40d410c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89af95de69db1f20935d98/playlist.m3u8
+#EXTINF:-1 tvg-name="Comedy" tvg-logo="https://i.imgur.com/cSVlBb0.png" group-title="UDU TV USA", Comedy
+https://342189106f294f6da7687918228af833.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f9ad508f47afc741c2526be/playlist.m3u8
+#EXTINF:-1 tvg-name="Crime" tvg-logo="https://i.imgur.com/DelC3oV.png" group-title="UDU TV USA", Crime
+https://210a3c3b5dbc49aaae871dee45d83603.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89adc6bc70441f38fca7bd/playlist.m3u8
+#EXTINF:-1 tvg-name="Drama" tvg-logo="https://i.imgur.com/aonn9ln.png" group-title="UDU TV USA", Drama
+https://fb2bf1d1d7134ce3b02c27f2e2db706b.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89aecf39cfef1f2542d35d/playlist.m3u8
+#EXTINF:-1 tvg-name="Horror" tvg-logo="https://i.imgur.com/Vfms5FO.png" group-title="UDU TV USA", Horror
+https://5f11a6bb1fcb4f22addc43cd31c84b5e.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89ad2f3d50841f3d796fdf/playlist.m3u8
+#EXTINF:-1 tvg-name="Romance" tvg-logo="https://i.imgur.com/oo3Dre9.png" group-title="UDU TV USA", Romance
+https://cca515f696634820833689103bb04704.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89af26264e201f49eec999/playlist.m3u8
+#EXTINF:-1 tvg-name="SciFi" tvg-logo="https://i.imgur.com/aUVVsSq.png" group-title="UDU TV USA", SciFi
+https://7f6c646754a74e90b9afad0ed13b1e32.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89af5a39cfef1f2542d365/playlist.m3u8
+#EXTINF:-1 tvg-name="Thriller" tvg-logo="https://i.imgur.com/rDY2LWP.png" group-title="UDU TV USA", Thriller
+https://d57cdb1c61b14a8da311d2c9d4513546.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89ae7966822c1f43b457fe/playlist.m3u8
 #EXTINF:-1 tvg-name="******************* CANADA ************" tvg-id="" group-title="" tvg-logo="",******************* CANADA ************
 http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="5AAB TV" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="CANADA",5AAB TV
@@ -1876,7 +1988,7 @@ http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 #EXTINF:-1 tvg-name="VBS" tvg-id="VBS" group-title="CANADA" tvg-logo="https://i.imgur.com/IWpevBp.jpg",VBS
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w530158239_b1228800.m3u8
 #EXTINF:-1 tvg-name="****************** AUSTRALIA ************" tvg-id="" group-title="" tvg-logo="",****************** AUSTRALIA ************
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_2.m3u8
+http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
 #EXTINF:-1 tvg-name="3AW Melburne (Webradio)" tvg-id="" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/Uvie0ws.png",3AW Melburne (Webradio)
 http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
 #EXTINF:-1 tvg-name="ABC News Australia" tvg-id="abcnews.com.au" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/rdkvOCh.png",ABC News Australia
@@ -1885,8 +1997,6 @@ plugin://plugin.video.youtube/play/?video_id=W1ilCy6XrmI
 https://c.mjh.nz/101002210220/
 #EXTINF:-1 tvg-name="ABC AU" tvg-id="" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/rLCHYCs.png",ABC AU
 https://c.mjh.nz/101002210221/
-#EXTINF:-tvg-name="ABC Kids" 1 tvg-id="" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/DQqcXqk.png",ABC Kids
-https://c.mjh.nz/101002210222/
 #EXTINF:-1 tvg-name="ABC Me" tvg-id="" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/wIdfcUx.png",ABC Me
 https://c.mjh.nz/101002210224/
 #EXTINF:-1 tvg-name="Ausbiz TV" tvg-id="tv.7ausbiz" tvg-logo="https://i.imgur.com/8hYBj3q.png",Ausbiz TV
@@ -1900,7 +2010,7 @@ https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source
 #EXTINF:-1 tvg-name="C31 Melbourne" tvg-id="" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/Tl79upK.jpg",C31 Melbourne
 https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8
 #EXTINF:-1 tvg-name="Channel 44 Adelaide" tvg-id="" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/gJvEW9o.png",Channel 44 Adelaide
-https://bdz47wk-lh.akamaihd.net/i/bdz47wkvo0zjom_1@1017167/master.m3u8
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/008ee5897af64d96b1d303d11b683b6d/manifest.m3u8?p=79&s=1607492702&e=1607493302&h=05ab5aafb92f593dc124e55cf56ccbd5
 #EXTINF:-1 tvg-name="Expo Channel" tvg-id="" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/RpCWw2I.png",Expo Channel
 https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vLdszKt.png" group-title="AUSTRALIA",Fox Sports News
@@ -1917,8 +2027,6 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 #EXTINF:-1 tvg-name="Sky News Australia Extra 3" tvg-id="skynews.com.au" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/1XiQezD.png",Sky News Australia Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 tvg-name="Snowy Mountains Television" tvg-id="tv.snowy-mountains" tvg-logo="https://i.imgur.com/hgwckSr.png",Snowy Mountains Television
-https://c.mjh.nz/snowy-mountains/
 #EXTINF:-1  tvg-name="TVSN" tvg-logo="https://i.imgur.com/TuHnkxP.png" group-title="AUSTRALIA",TVSN
 https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
 #EXTINF:-1 tvg-name="***************** NEWZEALAND ************" tvg-id="" group-title="" tvg-logo="",***************** NEWZEALAND ************
@@ -4382,7 +4490,7 @@ https://nn.geo.joj.sk/live/wau-index.m3u8
 #EXTINF:-1 tvg-name="*********** AFGHANISTAN PASHTO ********" tvg-id="" group-title="" tvg-logo="",*********** AFGHANISTAN PASHTO ********
 https://92news.vdn.dstreamone.net/92newshd/92hd/chunklist_w597745317.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",92 News Live
-plugin://plugin.video.youtube/play/?video_id=nfUadtimczM
+plugin://plugin.video.youtube/play/?video_id=13qXVs4IZ4I
 #EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Andisheh
 http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Ariana Afghan
@@ -4400,31 +4508,21 @@ https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/
 #EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Bahar TV
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Caltex Music TV
-http://vid1.caltexmusic.com/hls/caltextv.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Channel 1
-http://livestream.5centscdn.com/cls040317/0070c5b7ef083bdc8de09065c61a34d8.sdp/index.m3u8
+https://vid1.caltexmusic.com/hls/caltextv.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Dubai One (English)
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/media.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",EBC1 TV
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Ganje Hozoor
 http://topfi.ios.internapcdn.net/topfi/live_1/Test/Test.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",iFilm Persian
-https://live2.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Iman TV
 https://59d39900ebfb8.streamlock.net/imantv/imantv/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Iran International
-https://live.playstop.me/1816184091/index.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",IRIB Pooya
-https://sade2.telewebion.com/devices/_definst_/pooya-500k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEwLzEzLzIwMjAgNTo1NDo1NyBBTSZoYXNoX3ZhbHVlPXBpVUhaSVRQVWc1a0hxbGtodnlFZmc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
 #EXTINF:-1 group-title="AFGHANISTAN",Israel Pars TV
 https://live.pars-israel.com/iptv/stream.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Kalemeh TV
 http://184.75.208.98:1935/live/kalemeh/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Kayhan TV
 http://208.93.117.113/live/Stream1/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Khurshid
-https://afghantvchannels.ddns.net:30443/afghantvchannels-IOS/Khurshid-TV-ios-new/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Manoto TV
 https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Mihan TV
@@ -4451,8 +4549,6 @@ http://stream.persiantv1.com/ptv1/playlist.m3u8
 https://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Radio Javan TV
 https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Sat7 Pars
-https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Shabakeh 7
 http://rtmp.abnsat.com/hls/txministry.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Shamshad
@@ -4463,8 +4559,6 @@ https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
 http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",TIN TV
 https://unirtmp.tulix.tv/tintv/tintv/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Tolo News
-plugin://plugin.video.youtube/play/?video_id=bgxl46AVt3E
 #EXTINF:-1 group-title="AFGHANISTAN",Tuti Tv
 https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",VOA Persian
