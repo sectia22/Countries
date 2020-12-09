@@ -22,7 +22,7 @@ Also important!
 
 I keep seeing forks that are ancient. I hate ancient forks. If you fork my repo, keep it up to date too. It's your job to take care of it, not mine. ;-) 
 
-I DO NOT GIVE SUPPORT FOR OLD AND UNKEMT FORKS!
+I DO NOT GIVE SUPPORT FOR OLD AND UNKEMPT FORKS!
 
 If you add streams to in your current fork and make a pull request, please note the following:
 
