@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="****************** AUSTRALIA ************" tvg-id="" group-title="" tvg-logo="",****************** AUSTRALIA ************
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_2.m3u8
+http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
 #EXTINF:-1 tvg-name="3AW Melburne (Webradio)" tvg-id="" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/Uvie0ws.png",3AW Melburne (Webradio)
 http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
 #EXTINF:-1 tvg-name="ABC News Australia" tvg-id="abcnews.com.au" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/rdkvOCh.png",ABC News Australia
@@ -9,8 +9,6 @@ plugin://plugin.video.youtube/play/?video_id=W1ilCy6XrmI
 https://c.mjh.nz/101002210220/
 #EXTINF:-1 tvg-name="ABC AU" tvg-id="" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/rLCHYCs.png",ABC AU
 https://c.mjh.nz/101002210221/
-#EXTINF:-tvg-name="ABC Kids" 1 tvg-id="" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/DQqcXqk.png",ABC Kids
-https://c.mjh.nz/101002210222/
 #EXTINF:-1 tvg-name="ABC Me" tvg-id="" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/wIdfcUx.png",ABC Me
 https://c.mjh.nz/101002210224/
 #EXTINF:-1 tvg-name="Ausbiz TV" tvg-id="tv.7ausbiz" tvg-logo="https://i.imgur.com/8hYBj3q.png",Ausbiz TV
@@ -24,7 +22,7 @@ https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source
 #EXTINF:-1 tvg-name="C31 Melbourne" tvg-id="" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/Tl79upK.jpg",C31 Melbourne
 https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8
 #EXTINF:-1 tvg-name="Channel 44 Adelaide" tvg-id="" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/gJvEW9o.png",Channel 44 Adelaide
-https://bdz47wk-lh.akamaihd.net/i/bdz47wkvo0zjom_1@1017167/master.m3u8
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/008ee5897af64d96b1d303d11b683b6d/manifest.m3u8?p=79&s=1607492702&e=1607493302&h=05ab5aafb92f593dc124e55cf56ccbd5
 #EXTINF:-1 tvg-name="Expo Channel" tvg-id="" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/RpCWw2I.png",Expo Channel
 https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vLdszKt.png" group-title="AUSTRALIA",Fox Sports News
@@ -41,7 +39,5 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 #EXTINF:-1 tvg-name="Sky News Australia Extra 3" tvg-id="skynews.com.au" group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/1XiQezD.png",Sky News Australia Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 tvg-name="Snowy Mountains Television" tvg-id="tv.snowy-mountains" tvg-logo="https://i.imgur.com/hgwckSr.png",Snowy Mountains Television
-https://c.mjh.nz/snowy-mountains/
 #EXTINF:-1  tvg-name="TVSN" tvg-logo="https://i.imgur.com/TuHnkxP.png" group-title="AUSTRALIA",TVSN
 https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
