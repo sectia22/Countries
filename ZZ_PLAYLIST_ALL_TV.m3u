@@ -3338,9 +3338,7 @@ http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VP TV" tvg-logo="" group-title="ROMANIA",VP TV
 http://89.38.8.130:39437
 #EXTINF:-1 tvg-name="******************** INDIA ***********",******************* INDIA ***********
-http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="92 News (Pakistan)" tvg-logo="" group-title="INDIA",92 News (Pakistan)
-http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",7S Music
@@ -3455,16 +3453,10 @@ http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index
 http://cdncities.com/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Hulchul TV
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",HUM TV HD
-http://95.211.211.168/live/humtv0066/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Hum News
-http://95.211.211.168/live/humnews0189/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:-1 tvg-id="India TV-IN" tvg-name="India TV" tvg-logo="https://i.imgur.com/IYXrLPs.png" group-title="INDIA",India TV
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",ITN
-http://cdncities.com/itndvr2/itndvr2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Jaihind TV
 http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Janam TV
@@ -3497,8 +3489,6 @@ https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/index_150_av-p.m3u8?checke
 https://stream.simpaisa.com/pitvlive2/khyber3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",KOHENOOR NEWS
 https://stream.simpaisa.com/pitvlive2/kohenoor3/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Lahore News
-http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lok Sabha TV" tvg-logo="https://i.imgur.com/eoAeDrU.jpg" group-title="INDIA",Lok Sabha TV
 https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Mangalam TV
@@ -3529,8 +3519,6 @@ http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RZ0HIn4.jpg" group-title="INDIA",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Nethra TV
-http://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="News 24" tvg-logo="" group-title="INDIA",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="News18 Lokmat" tvg-logo="https://i.imgur.com/chFSLkD.jpg" group-title="INDIA",News18 Lokmat
@@ -3571,12 +3559,8 @@ https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunk
 http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Steelbird Music
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Subrang TV (USA)
-http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Suvarna News 24×7
 https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Tag TV
-http://cdn11.live247stream.com/tag/tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Tamil Vision
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Thanthi TV" tvg-logo="https://i.imgur.com/jek0twl.png" group-title="INDIA",Thanthi TV
@@ -3593,8 +3577,6 @@ http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 http://live.wmncdn.net/vaanaviltv/live.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Velicham
 https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zindagi TV" tvg-logo="" group-title="INDIA",Zindagi TV
-https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
 #EXTINF:-1 tvg-name="******************** CHINA ***********" tvg-id="" group-title="" tvg-logo="",******************* CHINA ***********
 http://cclive.aniu.tv/live/anzb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N8YdX6W.png" group-title="CHINA",Aniu TV
