@@ -809,44 +809,30 @@ https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/actionsportstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmSyxeP.png" group-title="MYTVTOGO USA",American Classic TV
 https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bkikN6d.png" group-title="MYTVTOGO USA",Apple Sauce Network
-https://nimble.dashmedia.tv/onestudio/applesaucetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgYEjYE.png" group-title="MYTVTOGO USA",Blush TV
 https://nimble.dashstreams.net/onestudio/blushtv/playlist.m3u8
 #EXTINF:-1 tvg-name="Cartoons 4U" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="https://i.imgur.com/AjnHVZw.png",Cartoons 4U
 https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8
-#EXTINF:-1 tvg-name="Classic TV 4U" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="https://i.imgur.com/Qq70J9t.png",Classic TV 4U
-https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
 #EXTINF:-1 tvg-name="Cooking 4U" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="https://i.imgur.com/SxRzFO8.png",Cooking 4U
 https://nimble.dashstreams.net/onestudio/cooking_4u_network/playlist.m3u8
 #EXTINF:-1 tvg-name="Documentaries 4U" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="https://i.imgur.com/QNaPXLj.png",Documentaries 4U
 https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mTwMJk.png" group-title="MYTVTOGO USA",Dream TV
 https://nimble.dashstreams.net/onestudio/dreamtv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0rfBAWY.png" group-title="MYTVTOGO USA",Exercise 4U
-https://nimble.dashmedia.tv/onestudio/exercise_4u_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9IlPgqf.png" group-title="MYTVTOGO USA",EZWay Network
 https://edge1.dashmedia.tv/onestudio/ezwaytv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xLC8ulA.png" group-title="MYTVTOGO USA",Gone Fishing
 https://edge1.dashmedia.tv/onestudio/gonefishing/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IDgT6aq.png" group-title="MYTVTOGO USA",Gone Hunting
 https://edge1.dashmedia.tv/onestudio/hunting/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ql8553f.png" group-title="MYTVTOGO USA",My Holyfield TV
-https://central.dashstreams.net/onestudio/holyfield/playlist.m3u8
 #EXTINF:-1 tvg-name="Horrified TV" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="https://i.imgur.com/Gh4kB7x.png",Horrified TV
 https://edge1.dashmedia.tv/onestudio/horrified/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h0UDljE.png" group-title="MYTVTOGO USA",It's At The Movies
 https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4otJeRo.png" group-title="MYTVTOGO USA",Kathryn Raaker's World
 https://edge1.dashmedia.tv/onestudio/kathryn_raakers_world/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ppsXxFu.png" group-title="MYTVTOGO USA",KLNM TV
-https://central.dashstreams.net/onestudio/jerrymiller/playlist.m3u8
-#EXTINF:-1 tvg-name="Kartoon Fun Time" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="https://i.imgur.com/ESnlHMY.png",Kartoon Fun Time
-https://nimble.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KGaH3pH.png" group-title="MYTVTOGO USA",Living Outdoors
 https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8
-#EXTINF:-1 tvg-name="Movee 4U" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="https://i.imgur.com/cb3fbiu.png",Movee 4U
-https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RZKS8XS.png" group-title="MYTVTOGO USA",My Life TV
 https://edge1.dashmedia.tv/onestudio/my_life_4u/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RMnzfj1.png" group-title="USA",Opportunity Knocks TV
@@ -859,8 +845,6 @@ https://edge1.dashmedia.tv/onestudio/rightnowtv/playlist.m3u8
 https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/woxovZh.png" group-title="MYTVTOGO USA",Shopping 4U
 https://edge1.dashmedia.tv/onestudio/shopping_4u/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RSHCC2y.png" group-title="MYTVTOGO USA",Spydar TV
-https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
 #EXTINF:-1 tvg-name="Street Music 4U" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="https://i.imgur.com/lofrKGg.png",Street Music 4U
 https://nimble.dashstreams.net/onestudio/StreetMusic4U/playlist.m3u8
 #EXTINF:-1 tvg-name="Travel 4U" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="https://i.imgur.com/GFyJviy.png",Travel 4U
@@ -869,8 +853,6 @@ https://nimble.dashstreams.net/onestudio/travel4u/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8
 #EXTINF:-1 tvg-name="Weather 4U" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Weather 4U
 https://nimble.dashstreams.net/onestudio/weather4u/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nFSaVJ2.png" group-title="MYTVTOGO USA",Westerns 4U
-https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
 #EXTINF:-1 tvg-name="Network – AutoPlay" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network – AutoPlay
 https://nimble.dashstreams.net/onestudio/aptv/playlist.m3u8
 #EXTINF:-1 tvg-name="Network – BCTV" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network – BCTV
@@ -1785,6 +1767,10 @@ https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/
 http://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Classic Movies
 http://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Classic Sports
+https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Boxing
+https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Drive-in Movie
 http://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Family Channel
