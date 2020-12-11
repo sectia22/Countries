@@ -1481,23 +1481,45 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ab3e1242be6906972
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=770&deviceId=5616f9c0ada51f8004c4b091&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Yo! MTV" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="PLUTO USA",Yo! MTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=873&deviceId=5d14fc31252d35decbc4080b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="************** USA REDBOX *********" tvg-id="" group-title="" tvg-logo="",************** USA REDBOX *********
+#EXTINF:-1 tvg-name="************** USA REDBOX *********",************** USA REDBOX *********
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bJGaOdW.png" group-title="REDBOX USA",American Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5VUZTa1.png" group-title="REDBOX USA",Battery Pop
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5VUZTa1.png" group-title="REDBOX USA",RedBox Battery Pop
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jL5IWRZ.png" group-title="REDBOX USA",RedBox Comedy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jL5IWRZ.png" group-title="REDBOX USA",Comedy
 https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nZEaSAb.png" group-title="REDBOX USA",RedBox Film Hub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RIXSg4L.png" group-title="REDBOX USA",Fail Army
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uwBpm1Y.png" group-title="REDBOX USA",FamilyFeud
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nZEaSAb.png" group-title="REDBOX USA",Film Hub
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6g3c2Yb.png" group-title="REDBOX USA",RedBox Hi-Yah!
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1fSHgSs.jpg" group-title="REDBOX USA",Filmrise
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fX1PNxl.png" group-title="REDBOX USA",FilmRise Forensic Files
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DghCzte.png" group-title="REDBOX USA",FilmRise Unsolved Mysteries
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BVrMQch.png" group-title="REDBOX USA",Food 52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uvgzOP5.png" group-title="REDBOX USA",Gravitas Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QHiOf7Z.png" group-title="REDBOX USA",Global Got Talent
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgottalentglobal/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6g3c2Yb.png" group-title="REDBOX USA",Hi-Yah!
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QL40Cv2.png" group-title="REDBOX USA",RedBox Kabillion
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iK3OHVr.png" group-title="REDBOX USA",RedBox Maverick Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FtZ7Q1x.png" group-title="REDBOX USA",Journy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QL40Cv2.png" group-title="REDBOX USA",Kabillion
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iK3OHVr.png" group-title="REDBOX USA",Maverick Movies
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WAs8vD1.png" group-title="REDBOX USA",RedBox Rush
-https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KqjTIh8.png" group-title="REDBOX USA",RedBox Spotlight
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SXWwfca.png" group-title="REDBOX USA",Now This
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xhsHccQ.png" group-title="REDBOX USA",The Pet Collective
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KqjTIh8.png" group-title="REDBOX USA",Spotlight
 https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8
 #EXTINF:-1 tvg-name="************** ROKU USA **********" tvg-id="" group-title="" tvg-logo="",************* ROKU USA **********
 https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
