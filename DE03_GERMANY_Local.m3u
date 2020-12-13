@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*********** GERMAN LOCAL **********" tvg-id="" group-title="" tvg-logo="",*********** GERMAN LOCAL **********
+#EXTINF:-1 tvg-name="*********** GERMAN LOCAL **********",*********** GERMAN LOCAL **********
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="a.tv Augsburg" tvg-id="a.tv.de" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png",a.tv Augsburg
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
@@ -9,6 +9,8 @@ https://stream01.stream.welocal.world/stream/alg/ngrp:alg.stream_all/chunklist_w
 plugin://plugin.video.youtube/play/?video_id=noWBpD-8TH0
 #EXTINF:-1 tvg-name="Baden TV Karlsruhe" tvg-id="Baden TV" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/TeH1HPb.jpg",Baden TV Karlsruhe
 http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Bibel TV" tvg-id="BibelTV.de" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/0OoMMbd.png",Bibel TV
+http://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8
 #EXTINF: -1  tvg-name="BLK TV Hohenmölsen" tvg-id="BLK Regional TV" tvg-logo="https://i.imgur.com/D5wePo5.jpg" group-title = "GERMAN LOCAL", BLK TV Hohenmölsen
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8?&ref=medienportal-sachsen-
 #EXTINF:-1 tvg-id="" tvg-name="Campus TV Magdeburg" tvg-logo="https://i.imgur.com/QyjXZlJ.jpg" group-title="GERMAN LOCAL",Campus TV Magdeburg
