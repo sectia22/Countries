@@ -47,8 +47,6 @@ https://edgesports-plex.amagi.tv/amRdirect/us_privacy=1---&did=df8e1a36-847d-509
 https://92101a418914495e875b3105a006bbf0.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_FailArmy/1274d359-2dc9-42f1-93de-b7736769d7cc/3.m3u8
 #EXTINF:-1 tvg-ID="PLEX.TV.Filmstream" tvg-name="Filmstream" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/spi_filmstream_1.png" group-title="PLEX USA",Filmstream
 https://b58cbafb283b4d0b9610407d0e766d64.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Filmstream/29d2a5e9-0e59-4a8b-b906-0f82d8fa81b8/5.m3u8
-#EXTINF:-1 tvg-ID="PLEX.TV.fubo.Sports.Network" tvg-name"fubo Sports Network" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/fubo-sports-network.png" group-title="PLEX USA",fubo Sports Network
-https://sportsnet-midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/SportsNet/a1849292-c0ab-4a1a-8992-0239ace33a1e/2.m3u8
 #EXTINF:-1 tvg-ID="PLEX.TV.Game.Show.Central" tvg-name="Game Show Central" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/gsn_gameshowchannnel_1.png" group-title="PLEX USA",Game Show Central
 https://ffcf6c437bec4f3988224ccfe150499d.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GameShowCentral/c3d6136c-3a3e-4690-949d-8dcebfe43fc2/5.m3u8
 #EXTINF:-1 tvg-ID="PLEX.TV.Glewed.TV" tvg-name="Glewed.TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/glewedtv_3.png" group-title="PLEX USA",Glewed.TV
