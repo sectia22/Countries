@@ -21,6 +21,8 @@ https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hG2k4QL.png" group-title="NETHERLANDS",Meer TV
 http://593aed234297b.streamlock.net/meervandaag/meervandaag/chunklist_w733465808.m3u8
+#EXTINF:-1 tvg-name=Nickelodeon Nederlands (Web) tvg-id="Nickelodeon.nl" group-title="NETHERLANDS" tvg-logo="https://www.nickelodeon.nl/png/Nickelodeon_logo@3x.png",Nickelodeon Nederlands (Web)
+plugin://plugin.video.youtube/play/?video_id=Ys1NO7seM7U
 #EXTINF:-1 tvg-id="OmroepBrabant.nl" tvg-name="Omroep_Brabant" tvg-shift="0" radio="" tvg-logo="https://i.imgur.com/KLYsKKC.png" group-title="NETHERLANDS",Omroep Brabant
 http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
 #EXTINF:-1 tvg-id="Omreop Fryslan NL" tvg-name="Omreop Fryslan NL" tvg-logo="https://i.imgur.com/uDhUnv7.jpg" group-title="NETHERLANDS",Omrop Fryslan
