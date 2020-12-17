@@ -52,7 +52,9 @@ http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
 #EXTINF:-1 tvg-name=Sky Sport News HD tvg-id="SkySportNewsHD.de" group-title="GERMAN TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skysportnewshd.png",Sky Sport News HD
 https://websitefreestreaming.akamaized.net/11111_ssnweb/index.m3u8
 #EXTINF:-1 tvg-name=Rocket Beans TV tvg-id="RocketBeans.tv" group-title="GERMAN TV" tvg-logo="https://i.imgur.com/g6bLn80.png",Rocket Beans TV
-plugin://plugin.video.youtube/play/?video_id=jcASMEg0Gi4
+plugin://plugin.video.youtube/play/?video_id=2zkFIs4Fa24
+#EXTINF:-1 tvg-name=Nickelodeon Deutschland (Web) tvg-id="Nickelodeon.de" group-title="GERMAN TV" tvg-logo="https://www.nick.de/png/Nickelodeon_logo@3x.png",Nickelodeon Deutschland (Web)
+plugin://plugin.video.youtube/play/?video_id=JpuEn_ptP-U
 #EXTINF:-1 tvg-name="*********** GERMAN LOCAL **********",*********** GERMAN LOCAL **********
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="a.tv Augsburg" tvg-id="a.tv.de" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png",a.tv Augsburg
@@ -937,8 +939,6 @@ https://edgesports-plex.amagi.tv/amRdirect/us_privacy=1---&did=df8e1a36-847d-509
 https://92101a418914495e875b3105a006bbf0.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_FailArmy/1274d359-2dc9-42f1-93de-b7736769d7cc/3.m3u8
 #EXTINF:-1 tvg-ID="PLEX.TV.Filmstream" tvg-name="Filmstream" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/spi_filmstream_1.png" group-title="PLEX USA",Filmstream
 https://b58cbafb283b4d0b9610407d0e766d64.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Filmstream/29d2a5e9-0e59-4a8b-b906-0f82d8fa81b8/5.m3u8
-#EXTINF:-1 tvg-ID="PLEX.TV.fubo.Sports.Network" tvg-name"fubo Sports Network" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/fubo-sports-network.png" group-title="PLEX USA",fubo Sports Network
-https://sportsnet-midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/SportsNet/a1849292-c0ab-4a1a-8992-0239ace33a1e/2.m3u8
 #EXTINF:-1 tvg-ID="PLEX.TV.Game.Show.Central" tvg-name="Game Show Central" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/gsn_gameshowchannnel_1.png" group-title="PLEX USA",Game Show Central
 https://ffcf6c437bec4f3988224ccfe150499d.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GameShowCentral/c3d6136c-3a3e-4690-949d-8dcebfe43fc2/5.m3u8
 #EXTINF:-1 tvg-ID="PLEX.TV.Glewed.TV" tvg-name="Glewed.TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/glewedtv_3.png" group-title="PLEX USA",Glewed.TV
@@ -2377,6 +2377,8 @@ https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hG2k4QL.png" group-title="NETHERLANDS",Meer TV
 http://593aed234297b.streamlock.net/meervandaag/meervandaag/chunklist_w733465808.m3u8
+#EXTINF:-1 tvg-name=Nickelodeon Nederlands (Web) tvg-id="Nickelodeon.nl" group-title="NETHERLANDS" tvg-logo="https://www.nickelodeon.nl/png/Nickelodeon_logo@3x.png",Nickelodeon Nederlands (Web)
+plugin://plugin.video.youtube/play/?video_id=Ys1NO7seM7U
 #EXTINF:-1 tvg-id="OmroepBrabant.nl" tvg-name="Omroep_Brabant" tvg-shift="0" radio="" tvg-logo="https://i.imgur.com/KLYsKKC.png" group-title="NETHERLANDS",Omroep Brabant
 http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
 #EXTINF:-1 tvg-id="Omreop Fryslan NL" tvg-name="Omreop Fryslan NL" tvg-logo="https://i.imgur.com/uDhUnv7.jpg" group-title="NETHERLANDS",Omrop Fryslan
