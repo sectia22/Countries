@@ -2460,9 +2460,7 @@ https://streams.uitzending.tv/zo34/zo34/playlist.m3u8
 #EXTINF:-1 tvg-id="Zuid West TV" tvg-name="Zuid West TV" tvg-shift="0" radio="" tvg-logo="https://www.zuidwesttv.nl/images/zwtv_fb.png" group-title="NETHERLANDS",Zuid West TV
 https://olon.ctl.cdn.ebsd.ericsson.net/L8B/2cc7091a/dc57b750.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="******************** BELGIUM ************",******************** BELGIUM ************
-https://594a365b4a1b2.streamlock.net/matele/live/chunklist.m3u8
-#EXTINF:-1 tvg-id="Antenne Centre TV" tvg-name="ACTV.be" tvg-logo="https://i.imgur.com/wLCwmnr.jpg" group-title="BELGIUM",Antenne Centre TV
-https://tvl-live-prp.fl.freecaster.net/live/actv/actv.m3u8
+http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A T V" tvg-logo="https://i.imgur.com/iWXUmje.jpg" group-title="BELGIUM",A T V
 http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
 #EXTINF:-1 tvg-id="BEL Radio PROS (Webradio)" tvg-name="BEL Radio PROS" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c8/01/37519/1/c175.png" group-title="BELGIUM",BEL Radio PROS (Webradio)
@@ -2509,18 +2507,10 @@ http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
 http://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
 #EXTINF:-1 tvg-id="RTL TVI" tvg-name="RTL TVI" tvg-logo="https://i.imgur.com/yjtxdmh.png" group-title="BELGIUM",RTL TVI
 http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tele MB" tvg-logo="https://i.imgur.com/e7xUgDm.png" group-title="BELGIUM",Tele MB
-https://tvl-live-prp.fl.freecaster.net/live/telemb/telemb.m3u8
-#EXTINF:-1 tvg-id="Telesambre" tvg-name="Telesambre" tvg-logo="https://i.imgur.com/hMdMaEx.png" group-title="BELGIUM",Telesambre
-https://tvl-live-prp.fl.freecaster.net/live/telesambre/telesambre.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Lux" tvg-logo="https://i.imgur.com/p2eKv46.jpg" group-title="BELGIUM",TV Lux
-https://tvl-live-prp.fl.freecaster.net/live/tvlux/tvlux.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Oost" tvg-logo="https://i.imgur.com/JFVEcEA.png" group-title="BELGIUM",TV Oost
 http://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVL" tvg-logo="https://i.ibb.co/KGRYRmt/download.jpg" group-title="BELGIUM",TVL
 https://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
-#EXTINF:-1 tvg-id="Vedia" tvg-name="Vedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Vedia_logo.jpg" group-title="BELGIUM",Vedia
-https://tvl-live-prp.fl.freecaster.net/live/vedia/vedia.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XITE BE" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="BELGIUM;MUSIK",XITE BE
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
 #EXTINF:-1 tvg-name="******************* LUXEMBOURG ************",******************* LUXEMBURG ************
@@ -4488,7 +4478,7 @@ http://rtmp.one.by:2200
 #EXTINF:-1 tvg-id="" tvg-name="Pervyy Muzykal'nyy RU BY HD" tvg-logo="https://i.imgur.com/7tFiG6S.jpg" group-title="BELARUS",Pervyy Muzykal'nyy RU BY HD
 http://rtmp.one.by:2300
 #EXTINF:-1 tvg-id="" tvg-name="Planeta RTR" tvg-logo="https://i.imgur.com/yqRuEJd.png" group-title="BELARUS",Planeta RTR
-https://edge-1192-ch-gv.filmon.com/live/1738.high.stream/playlist.m3u8
+https://a3569455801-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio HIT Orsk" tvg-logo="https://i.imgur.com/e2RyN4r.jpg" group-title="BELARUS",Radio HIT Orsk
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vitebsk Telekanal" tvg-logo="https://i.imgur.com/FXAqELU.jpg" group-title="BELARUS",Vitebsk Telekanal
@@ -4504,7 +4494,7 @@ http://hls.cdn.bg:2007/fls/vtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bulgaria On Air" tvg-logo="https://i.imgur.com/fawQSJN.jpg" group-title="BULGARIA",Bulgaria On Air
 http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bulgarska Svobodna TV" tvg-logo="https://i.imgur.com/Ugl3Pq5.png" group-title="BULGARIA",Bulgarska Svobodna TV
-https://lb-ts.cdn.bg/bstv/fls/bstv.stream/playlist.m3u8?at=b723b4ea9326455525550db407e66f8d
+https://lb-ts.cdn.bg/bstv/fls/bstv.stream/playlist.m3u8?at=82f1f92df8779d87140f23d239624d8a
 #EXTINF:-1 tvg-id="" tvg-name="City TV" tvg-logo="https://i.imgur.com/BjRTbrU.png" group-title="BULGARIA",City TV
 https://tv.city.bg/play/tshls/citytv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Evrokom" tvg-logo="https://i.imgur.com/3s7qchh.png" group-title="BULGARIA",Evrokom
@@ -4512,9 +4502,9 @@ https://live.ecomservice.bg/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Light Channel" tvg-logo="https://i.imgur.com/qskVMhF.png" group-title="BULGARIA",Light Channel
 http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fr1SYxZ.png" group-title="BULGARIA",MM TV
-https://streamer103.neterra.tv/mmtv/mmtv.smil/chunklist_w2100760669_b6128000_slbul.m3u8
+https://streamer103.neterra.tv/mmtv/mmtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sportal" tvg-logo="https://i.imgur.com/ZY7hoD8.png" group-title="BULGARIA",Sportal
-https://clb.cdn.bg/sportal/fls//sportal_pal/playlist.m3u8?at=b723b4ea9326455525550db407e66f8d
+https://e203-ts.cdn.bg/sportal/fls//sportal_pal/playlist.m3u8?at=82f1f92df8779d87140f23d239624d8a
 #EXTINF:-1 tvg-id="" tvg-name="This is Bulgaria" tvg-logo="https://i.imgur.com/FxLjPLh.jpg" group-title="BULGARIA",This is Bulgaria
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel TV" tvg-logo="https://i.imgur.com/7E4Kia6.jpg" group-title="BULGARIA",Travel TV
