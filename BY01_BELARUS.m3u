@@ -26,7 +26,7 @@ http://rtmp.one.by:2200
 #EXTINF:-1 tvg-id="" tvg-name="Pervyy Muzykal'nyy RU BY HD" tvg-logo="https://i.imgur.com/7tFiG6S.jpg" group-title="BELARUS",Pervyy Muzykal'nyy RU BY HD
 http://rtmp.one.by:2300
 #EXTINF:-1 tvg-id="" tvg-name="Planeta RTR" tvg-logo="https://i.imgur.com/yqRuEJd.png" group-title="BELARUS",Planeta RTR
-https://edge-1192-ch-gv.filmon.com/live/1738.high.stream/playlist.m3u8
+https://a3569455801-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio HIT Orsk" tvg-logo="https://i.imgur.com/e2RyN4r.jpg" group-title="BELARUS",Radio HIT Orsk
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vitebsk Telekanal" tvg-logo="https://i.imgur.com/FXAqELU.jpg" group-title="BELARUS",Vitebsk Telekanal
