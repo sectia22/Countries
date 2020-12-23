@@ -9,10 +9,6 @@ https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
 https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SXWX2Wf.png" group-title="ROKU USA",Deal or No Deal
 https://endemol-dealornodeal-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-ID="EPIE" tvg-name="Epix (East)" tvg-logo="https://i.imgur.com/9cBgsta.png" group-title="ROKU USA",Epix (East)
-https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
-#EXTINF:-1 tvg-ID="EPIE2" tvg-name="Epix 2 (East)" tvg-logo="https://i.imgur.com/9cBgsta.png" group-title="ROKU USA",Epix 2 (East)
-https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="ROKU USA",Euronews
 https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="ROKU USA",FTF (For the Fans)
@@ -21,20 +17,12 @@ https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
 https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="ROKU USA",Gusto TV
 https://gustotv-gustotv-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-ID="HBOE" tvg-name="HBO (East)" tvg-logo="https://i.imgur.com/KSOI1vs.png" group-title="ROKU USA",HBO (East)
-https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
-#EXTINF:-1 tvg-ID="HBOW" tvg-name="HBO (West)" tvg-logo="https://i.imgur.com/KSOI1vs.png" group-title="ROKU USA",HBO (West)
-https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="ROKU USA",Maverick Black Cinema
 https://maverick-maverick-black-cinema-3.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="ROKU USA",Midnight Pulp
 https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="ROKU USA",Retro Crush
 https://digitalmediarights-retrocrush-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-ID="SHOE" tvg-name="Showtime (East)" tvg-logo="https://i.imgur.com/NzRc8sJ.png" group-title="ROKU USA",Showtime (East)
-https://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8
-#EXTINF:-1 tvg-ID="SHOW" tvg-name="Showtime (West)" tvg-logo="https://i.imgur.com/NzRc8sJ.png" group-title="ROKU USA",Showtime (West)
-https://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFJ3Qa4.png" group-title="ROKU USA",Skills + Thrills Channel 1
 https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFJ3Qa4.png" group-title="ROKU USA",Skills + Thrills Channel 2
