@@ -2064,7 +2064,7 @@ http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="5AAB TV" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="CANADA",5AAB TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Amazing Discoveries TV" tvg-logo="https://i.imgur.com/XgejLKw.png" group-title="CANADA",Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w133198316.m3u8
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Assemblee Nationale du Quebec" tvg-logo="https://i.imgur.com/dNQUbok.png" group-title="CANADA",Assemblee Nationale du Quebec
 http://diffusionm3.assnat.qc.ca/canal10/250.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC Toronto Gaunda Punjab" tvg-logo="https://i.imgur.com/uSX4YXL.png" group-title="CANADA",BBC Toronto Gaunda Punjab
@@ -2083,7 +2083,9 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8
 https://wowzaprodhd45-lh.akamaihd.net/i/96d54ef6_1@438617/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNTV" tvg-logo="https://i.imgur.com/7xIiFrK.jpg" group-title="CANADA",CNTV
 https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""tvg-logo="https://i.imgur.com/wwmapsS.png" group-title="CANADA",CPAC
+#EXTINF:-1 tvg-id="" tvg-name="CPAC (EN)" tvg-logo="https://i.imgur.com/wwmapsS.png" group-title="CANADA",CPAC (EN)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CPAC (FR)" tvg-logo="https://i.imgur.com/wwmapsS.png" group-title="CANADA",CPAC (FR)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Deal or no Deal (CA)" tvg-logo="https://i.imgur.com/soOgFFc.jpg" group-title="CANADA",Deal or no Deal (CA)
 https://endemol-dealornodeal-1-ca.samsung.wurl.com/manifest/playlist.m3u8
@@ -2105,6 +2107,8 @@ https://elevensports-samsunguk-ca.samsung.wurl.com/manifest/playlist.m3u8
 https://fueltv-fueltv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Global Calgary" tvg-logo="https://i.imgur.com/ppMNSKT.png" group-title="CANADA",Global Calgary
 https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Global News National" tvg-logo="https://i.imgur.com/JIA7MUV.png" group-title="CANADA",Global News National
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Global Toronto" tvg-logo="https://i.imgur.com/wlqYdqN.png" group-title="CANADA",Global Toronto
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GurSikh Sabha TV Scarborough" tvg-logo="https://i.imgur.com/2EKCtQm.png" group-title="CANADA",GurSikh Sabha TV Scarborough
@@ -2131,8 +2135,16 @@ https://mavtv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
 https://mhz-samsung-linear-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Montreal Greek TV" tvg-id="Montreal Greek TV" tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="CANADA",Montreal Greek TV
 http://94.130.180.175:8081/live/greektv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Noovo" tvg-logo="https://i.imgur.com/fCV63xf.png" group-title="CANADA",Noovo
+https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTV Newfoundland" tvg-logo="https://i.imgur.com/c0USmrL.png" group-title="CANADA",NTV Newfoundland
 https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ontario Parliamentary Network (EN)" tvg-logo="https://i.imgur.com/BQWfhEr.jpg" group-title="CANADA",Ontario Parliamentary Network (EN)
+http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ontario Parliamentary Network (FR)" tvg-logo="https://i.imgur.com/BQWfhEr.jpg" group-title="CANADA",Ontario Parliamentary Network (FR)
+http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ONNtv Ontario" tvg-logo="https://i.imgur.com/RUuCbIG.png" group-title="CANADA",ONNtv Ontario
+https://onntv.vantrix.tv:443/onntv_hls/1080p/onntv_hls-HLS-1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Outside TV (CA)" tvg-logo="https://i.imgur.com/snuV96y.png" group-title="CANADA",Outside TV (CA)
 https://outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pardesi TV" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" group-title="CANADA",Pardesi TV
@@ -2161,7 +2173,7 @@ http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tastemade (CA)" tvg-logo="https://i.imgur.com/yuRa9lM.png" group-title="CANADA",Tastemade (CA)
 https://ti-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Tele Quebec" tvg-id="Tele Quebec" group-title="KANADA" tvg-logo="https://i.imgur.com/0ZmcpEE.png",Tele Quebec
+#EXTINF:-1 tvg-name="Tele Quebec" tvg-id="Tele Quebec" group-title="CANADA" tvg-logo="https://i.imgur.com/0ZmcpEE.png",Tele Quebec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Design Network (CA)" tvg-logo="https://i.imgur.com/wCq3E0M.png" group-title="CANADA",The Design Network (CA)
 https://thedesignnetwork-tdn-6-ca.samsung.wurl.com/manifest/playlist.m3u8
