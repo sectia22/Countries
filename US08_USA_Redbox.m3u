@@ -1,41 +1,69 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="************** USA REDBOX *********",************** USA REDBOX *********
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/1280x720_5000000/index.m3u8
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bJGaOdW.png" group-title="REDBOX USA",American Classics
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/1280x720_5000000/index.m3u8
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VUZTa1.png" group-title="REDBOX USA",Battery Pop
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999960/248x140.png?type=channelTile" group-title="REDBOX USA",BNC (Black News Channel)
+http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999945/248x140.png?type=channelTile" group-title="REDBOX USA",Cheddar
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/magnolia/CineLife_Logo_gray_248x140.png" group-title="REDBOX USA",Cine Life (Magnolia Pictures)
+http://magnolia-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jL5IWRZ.png" group-title="REDBOX USA",Comedy
-https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
+http://comedy-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNb5tRv.png" group-title="REDBOX USA",CONtv
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxcontv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WhyZM5n.png" group-title="REDBOX USA",CONtv Anime
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIXSg4L.png" group-title="REDBOX USA",Fail Army
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/1280x720_5000000/index.m3u8
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uwBpm1Y.png" group-title="REDBOX USA",FamilyFeud
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/1280x720_5000000/index.m3u8
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nZEaSAb.png" group-title="REDBOX USA",Film Hub
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1fSHgSs.jpg" group-title="REDBOX USA",Filmrise
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/1280x720_5000000/index.m3u8
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GvqmzPn.jpg" group-title="REDBOX USA",FilmRise Classic TV
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fX1PNxl.png" group-title="REDBOX USA",FilmRise Forensic Files
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/1280x720_5000000/index.m3u8
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1fSHgSs.jpg" group-title="REDBOX USA",FilmRise Free Movies
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81Tf2AEadwL.png" group-title="REDBOX USA",FilmRise Mysteries
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokufilmrisemystery/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/815Fp3E0LcL.png" group-title="REDBOX USA",FilmRise Sci-Fi
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DghCzte.png" group-title="REDBOX USA",FilmRise Unsolved Mysteries
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/1280x720_5000000/index.m3u8
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91HDGWEZbzL.png" group-title="REDBOX USA",FilmRise Western
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BVrMQch.png" group-title="REDBOX USA",Food 52
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/1280x720_5000000/index.m3u8
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uvgzOP5.png" group-title="REDBOX USA",Gravitas Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/1280x720_5000000/index.m3u8
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QHiOf7Z.png" group-title="REDBOX USA",Global Got Talent
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgottalentglobal/CDN/1280x720_5000000/index.m3u8
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxgottalentglobal/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6g3c2Yb.png" group-title="REDBOX USA",Hi-Yah!
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FtZ7Q1x.png" group-title="REDBOX USA",Journy
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/1280x720_5000000/index.m3u8
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxjourny/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QL40Cv2.png" group-title="REDBOX USA",Kabillion
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/1280x720_5000000/index.m3u8
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iK3OHVr.png" group-title="REDBOX USA",Maverick Movies
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9HxlD7c.jpg" group-title="REDBOX USA",NewsNOW from FOX
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999922/248x140.png?type=channelTile" group-title="REDBOX USA",Nosey
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redbox-nosey/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SXWwfca.png" group-title="REDBOX USA",Now This
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/1280x720_5000000/index.m3u8
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/1f/8c/vA9CqYr4_o.jpeg" group-title="REDBOX USA",One America News
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
+#EXTINF:-1 tvg-logo="http://image.xumo.com/v1/channels/channel/9999265/300x300.png?type=smartCast_channelTile" group-title="REDBOX USA",Shout! Factory TV
+http://shoutfactory-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xhsHccQ.png" group-title="REDBOX USA",The Pet Collective
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/1280x720_5000000/index.m3u8
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999388/300x300.png?type=smartCast_channelTile" group-title="REDBOX USA",Real Nosey
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxrealnosey/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KqjTIh8.png" group-title="REDBOX USA",Spotlight
 https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8
