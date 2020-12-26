@@ -58,13 +58,15 @@ plugin://plugin.video.youtube/play/?video_id=2zkFIs4Fa24
 #EXTINF:-1 tvg-name=Nickelodeon Deutschland (Web) tvg-id="Nickelodeon.de" group-title="GERMAN TV" tvg-logo="https://www.nick.de/png/Nickelodeon_logo@3x.png",Nickelodeon Deutschland (Web)
 plugin://plugin.video.youtube/play/?video_id=JpuEn_ptP-U
 #EXTINF:-1 tvg-name="*********** GERMAN LOCAL **********",*********** GERMAN LOCAL **********
-https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-name="a.tv Augsburg" tvg-id="a.tv.de" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png",a.tv Augsburg
-https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Alex Berlin" tvg-id="" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/eTmHk4e.png",Alex Berlin
+https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="allgäu.tv Kempen" tvg-id="allgäu.tv" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/allgaeutv.png",allgäu.tv Kempen
 https://stream01.stream.welocal.world/stream/alg/ngrp:alg.stream_all/chunklist_w1838873546_b446000.m3u8
 #EXTINF:-1 tvg-name="Arcadia TV" tvg-id="Arcadia TV" tvg-logo="https://i.imgur.com/UR4E82q.jpg" group-title="GERMAN LOCAL",Arcadia TV
 plugin://plugin.video.youtube/play/?video_id=WVoUozYtdgI
+#EXTINF:-1 tvg-name="a.tv Augsburg" tvg-id="a.tv.de" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png",a.tv Augsburg
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Baden TV Karlsruhe" tvg-id="Baden TV" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/TeH1HPb.jpg",Baden TV Karlsruhe
 http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Bibel TV" tvg-id="BibelTV.de" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/0OoMMbd.png",Bibel TV
@@ -95,10 +97,16 @@ https://583548fa0d82b.streamlock.net/friesischerRundfunk-live/_definst_/mp4:frie
 https://578d8e1867e87.streamlock.net/medienasa-vod/_definst_/mp4:hdl_sendung_720p.mp4/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=941156
 #EXTINF: -1 tvg-name="Hamburg 1" tvg-id="Hamburg1.de" tvg-logo="https://i.imgur.com/9TRhahY.png" group-title = "GERMAN LOCAL",Hamburg 1
 https://live2.telvi.de/hls/hamburg1.m3u8
+#EXTINF:-1 tvg-name="Hauptstadt TV (Potsdam)" tvg-id="" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/ZXskBkv.png",Hauptstadt TV (Potsdam)
+https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
 #EXTINF: -1 tvg-name="KulturMD Magdeburg" tvg-id="KulturMD" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title = "GERMAN LOCAL", KulturMD Magdeburg
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=661069
+#EXTINF:-1 tvg-name="KW TV Wildau" tvg-id="" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/882I3h8.png",KW TV Wildau
+https://58af0c57eaf3e.streamlock.net/easycast11-live/_definst_/mp4:livestream/playlist.m3u8?&ref=&seid=199961
 #EXTINF:-1 tvg-name="L-TV Ludwigsburg" tvg-id="L-TV.de" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ltv.png",L-TV Ludwigsburg
 https://58481b709ae2e.streamlock.net/tv2000plus-live/_definst_/mp4:ltv-live/playlist.m3u8
+#EXTINF:-1 tvg-name="Lausitzwelle Fernsehen" tvg-id="" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/GNMaGZE.png",Lausitzwelle Fernsehen
+https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd10/playlist.m3u8?&ref=www.lausitzwelle.de
 #EXTINF:-1 tvg-name="Leipzig Fernsehen" tvg-id="Leipzig Fernsehen" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/leipzigfernsehen.png",Leipzig Fernsehen
 https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
 #EXTINF: -1 tvg-name="MDF.1 Magdeburg" tvg-id="MDF.1" tvg-logo="https://medienportal-sachsen-anhalt.de/uploads/hg/mdf1.png" group-title = "GERMAN LOCAL", MDF.1 Magdeburg
@@ -111,8 +119,8 @@ https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist
 rtmp://62.67.13.54/MyTVplus/mtvp_livestream_2.stream
 #EXTINF: -1 tvg-name="Nahe TV" tvg-id="" tvg-logo="https://i.imgur.com/XINB3Zf.png" group-title = "GERMAN LOCAL",Nahe TV
 https://s.ok54.de/nahetv/webstream/playlist.m3u8
-#EXTINF:-1 tvg-name="Niederbayern TV" tvg-id="Donau TV" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/swstGF1.png",Niederbayern TV
-https://stream03.stream.welocal.world/stream/nla/ngrp:nla.stream_all/chunklist_w1653369256_b946000.m3u8
+#EXTINF:-1 tvg-name="Niederbayern TV" tvg-id="" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/swstGF1.png",Niederbayern TV
+https://stream03.stream.welocal.world/stream/nla/ngrp:nla.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="noa4 Hamburg HD" tvg-id="noa4 Hamburg HD" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png",noa4 Hamburg HD
 http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
 #EXTINF:-1 tvg-name="noa4 Norderstedt HD" tvg-id="noa4 Norderstedt HD" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png",noa4 Norderstedt HD
@@ -123,6 +131,8 @@ https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8
 https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Oeins Oldenburg" tvg-id="Oeins.de" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/NHvYg7e.png",oeins Oldenburg
 https://www.oeins.de/live/studio.m3u8
+#EXTINF:-1 tvg-name="OF-TV Offenbach" tvg-id="" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/BmJaDT3.jpg",OF-TV Offenbach
+https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8?&ref=www.of-tv.de&seid=166119
 #EXTINF: -1 tvg-name="Offener Kanal Fulda" tvg-id="" tvg-logo="https://i.imgur.com/XsmPI4N.jpg" group-title = "GERMAN LOCAL",Offener Kanal Fulda
 https://s.ok54.de/mok-fu/livestream/playlist.m3u8
 #EXTINF: -1 tvg-name="Offener Kanal Gießen" tvg-id="" tvg-logo="https://i.imgur.com/XsmPI4N.jpg" group-title = "GERMAN LOCAL",Offener Kanal Gießen
@@ -135,10 +145,14 @@ https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8?&ref=www.ok-dessau.de&seid=408238
 #EXTINF: -1 tvg-name="OK Flensburg" tvg-id="" tvg-logo="https://i.imgur.com/YNYsGYY.png" group-title = "GERMAN LOCAL",OK Flensburg
 https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/flensburgtv/index.m3u8
+#EXTINF:-1 tvg-name="OK Kaiserslautern" tvg-id="" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/SzGXrjb.png",OK Kaiserslautern
+https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
 #EXTINF: -1 tvg-name="OK Kiel" tvg-id="" tvg-logo="https://i.imgur.com/A8rLufC.png" group-title = "GERMAN LOCAL",OK Kiel
 https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/kieltv/index.m3u8
 #EXTINF:-1 tvg-name="OK Koblenz" tvg-id="OK Koblenz" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okkoblenz.png",OK Koblenz
 https://s.ok54.de/ok4/live/playlist.m3u8
+#EXTINF:-1 tvg-name="OK Ludwigshafen" tvg-id="" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/asmtpjL.png",OK Ludwigshafen
+https://s.ok54.de/oklu/livestream/playlist.m3u8
 #EXTINF: -1 tvg-name="OK Magdeburg" tvg-id="OK Magdeburg" tvg-logo="https://i.imgur.com/kBR5XUI.png" group-title = "GERMAN LOCAL", OK Magdeburg
 http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ok-magdeburg_high/playlist.m3u8?&ref=www.ok-magdeburg.de&seid=771136
 #EXTINF: -1 tvg-name="OK Mainz" tvg-id="" tvg-logo="https://i.imgur.com/rM9dOa4.png" group-title = "GERMAN LOCAL",OK Mainz
@@ -151,6 +165,8 @@ https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_h
 http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8
 #EXTINF:-1 tvg-name="OK Trier" tvg-id="OK Trier" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oktrier.png",OK Trier
 https://s.ok54.de/ott/webstream/playlist.m3u8
+#EXTINF:-1 tvg-name="OK TV Südwestpfalz" tvg-id="" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/q5G6MZ5.jpg",OK TV Südwestpfalz
+https://s.ok54.de/okswp/test/chunks.m3u8?nimblesessionid=8908005
 #EXTINF:-1 tvg-name="OK Weinstrasse Landau" tvg-id="OK Weinstrasse" tvg-logo="https://i.imgur.com/8qWX30L.png" group-title="GERMAN LOCAL",OK Weinstrasse Landau
 https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
 #EXTINF: -1 tvg-name="OK Wernigerode" tvg-id="OK Wernigerode" tvg-logo="https://medienportal-sachsen-anhalt.de/uploads/logos/ok-werni.png" group-title = "GERMAN LOCAL", OK Wernigerode
@@ -161,7 +177,7 @@ https://5852afe96c9bb.streamlock.net/easycast8-live/_definst_/mp4:livestreamhd4/
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:punktum_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=824679
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w6ViBlV.png" group-title="GERMANY",Radio 21 Hannover
 http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9pvCYaA.png" group-title="GERMANY",Radio Weser TV Bremen
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K3XWLpu.jpg" group-title="GERMANY",Radio Weser TV Bremen
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
 #EXTINF: -1 tvg-name="Ran1 Dessau-Roßlau" tvg-id="Ran1.de" tvg-logo="http://www.ran1.de/img/ban1.png" group-title = "GERMAN LOCAL", Ran1 Dessau-Roßlau
 http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ran1_high/playlist.m3u8?&ref=www.ran1.de&seid=201846
@@ -197,12 +213,18 @@ http://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u
 http://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
 #EXTINF: -1 tvg-name="Seenluft24" tvg-id="" tvg-logo="https://i.imgur.com/3TgBg9v.jpg" group-title = "GERMAN LOCAL",Seenluft24
 https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?=&ref=seenluft24.de
+#EXTINF:-1 tvg-name="Studio 47 (NRW - 18:00)" tvg-id="" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/xCiU1TB.png",Studio 47 ( (NRW - 18:00)
+https://5852afe96c9bb.streamlock.net/studio47-live/_definst_/mp4:livestream/playlist.m3u8?&ref=www.studio47.de&seid=166119
 #EXTINF: -1 tvg-name="Südthüringer Regionalfernsehen" tvg-id="Südthüringer Regionalfernsehen" tvg-logo="https://my.telvi.de//files/images/43/userfiles/116da521d.jpg" group-title = "GERMAN LOCAL", Südthüringer Regionalfernsehen
 https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Sylt1" tvg-id="Sylt1.de" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sylt1.png",Sylt1
 https://5aec29c5dd23b.streamlock.net:8443/sylt1/_definst_/sylt1_high1.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Tide TV (Hamburg - ab 12:00)" tvg-id="" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/p2lQVo0.png",Tide TV (Hamburg - ab 12:00)
+https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8?&ref=www.tidenet.de&seid=166119
 #EXTINF:-1  tvg-name="TV38 Südost-Niedersachen" tvg-id="TV38 Südost-Niedersachen" tvg-logo="https://i.imgur.com/ob9JJPU.png" group-title="GERMAN LOCAL",TV38 Südost-Niedersachen
 http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Bayern Live" tvg-id="" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/WyJLIzA.jpg",TV Bayern Live
+https://s3.welocal.world/tvbayernlive/media/134371/videos/hls.m3u8
 #EXTINF: -1 tvg-name="TV Halle" tvg-id="TV Halle" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/3/31/TV_Halle_Station-ID.png/320px-TV_Halle_Station-ID.png" group-title = "GERMAN LOCAL", TV Halle
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:tvhalle_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=835297
 #EXTINF: -1 tvg-name="TV Ingolstadt" tvg-id="" tvg-logo="https://i.imgur.com/lrLaILx.png" group-title = "GERMAN LOCAL",TV Ingolstadt
@@ -1696,43 +1718,71 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decb
 #EXTINF:-1 tvg-name="Yu-Gi-Oh" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="PLUTO USA",Yu-Gi-Oh
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=840&deviceId=5f4ec10ed9636f00089b8c89&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="************** USA REDBOX *********",************** USA REDBOX *********
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/1280x720_5000000/index.m3u8
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bJGaOdW.png" group-title="REDBOX USA",American Classics
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/1280x720_5000000/index.m3u8
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VUZTa1.png" group-title="REDBOX USA",Battery Pop
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999960/248x140.png?type=channelTile" group-title="REDBOX USA",BNC (Black News Channel)
+http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999945/248x140.png?type=channelTile" group-title="REDBOX USA",Cheddar
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/magnolia/CineLife_Logo_gray_248x140.png" group-title="REDBOX USA",Cine Life (Magnolia Pictures)
+http://magnolia-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jL5IWRZ.png" group-title="REDBOX USA",Comedy
-https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
+http://comedy-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNb5tRv.png" group-title="REDBOX USA",CONtv
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxcontv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WhyZM5n.png" group-title="REDBOX USA",CONtv Anime
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIXSg4L.png" group-title="REDBOX USA",Fail Army
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/1280x720_5000000/index.m3u8
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uwBpm1Y.png" group-title="REDBOX USA",FamilyFeud
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/1280x720_5000000/index.m3u8
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nZEaSAb.png" group-title="REDBOX USA",Film Hub
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1fSHgSs.jpg" group-title="REDBOX USA",Filmrise
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/1280x720_5000000/index.m3u8
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GvqmzPn.jpg" group-title="REDBOX USA",FilmRise Classic TV
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fX1PNxl.png" group-title="REDBOX USA",FilmRise Forensic Files
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/1280x720_5000000/index.m3u8
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1fSHgSs.jpg" group-title="REDBOX USA",FilmRise Free Movies
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81Tf2AEadwL.png" group-title="REDBOX USA",FilmRise Mysteries
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokufilmrisemystery/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/815Fp3E0LcL.png" group-title="REDBOX USA",FilmRise Sci-Fi
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DghCzte.png" group-title="REDBOX USA",FilmRise Unsolved Mysteries
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/1280x720_5000000/index.m3u8
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91HDGWEZbzL.png" group-title="REDBOX USA",FilmRise Western
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BVrMQch.png" group-title="REDBOX USA",Food 52
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/1280x720_5000000/index.m3u8
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uvgzOP5.png" group-title="REDBOX USA",Gravitas Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/1280x720_5000000/index.m3u8
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QHiOf7Z.png" group-title="REDBOX USA",Global Got Talent
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgottalentglobal/CDN/1280x720_5000000/index.m3u8
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxgottalentglobal/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6g3c2Yb.png" group-title="REDBOX USA",Hi-Yah!
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FtZ7Q1x.png" group-title="REDBOX USA",Journy
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/1280x720_5000000/index.m3u8
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxjourny/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QL40Cv2.png" group-title="REDBOX USA",Kabillion
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/1280x720_5000000/index.m3u8
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iK3OHVr.png" group-title="REDBOX USA",Maverick Movies
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9HxlD7c.jpg" group-title="REDBOX USA",NewsNOW from FOX
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999922/248x140.png?type=channelTile" group-title="REDBOX USA",Nosey
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redbox-nosey/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SXWwfca.png" group-title="REDBOX USA",Now This
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/1280x720_5000000/index.m3u8
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/1f/8c/vA9CqYr4_o.jpeg" group-title="REDBOX USA",One America News
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
+#EXTINF:-1 tvg-logo="http://image.xumo.com/v1/channels/channel/9999265/300x300.png?type=smartCast_channelTile" group-title="REDBOX USA",Shout! Factory TV
+http://shoutfactory-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xhsHccQ.png" group-title="REDBOX USA",The Pet Collective
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/1280x720_5000000/index.m3u8
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999388/300x300.png?type=smartCast_channelTile" group-title="REDBOX USA",Real Nosey
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxrealnosey/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KqjTIh8.png" group-title="REDBOX USA",Spotlight
 https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8
 #EXTINF:-1 tvg-name="************** ROKU USA **********",************* ROKU USA **********
