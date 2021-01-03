@@ -30,6 +30,7 @@ If you add streams to in your current fork and make a pull request, please note 
 2. Add the same Group-Name, it is the Country
 3. Do not add any GEO-Blocked streams, the streams in my M3U's can be seen by anyone, anywhere.
 4. Don't add illegal streams. But there are idiots who already do it and then give the name Kodi a bad reputation with the ignorant.
+5. Don´t add parameters, use only #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", an no more!
 
 I'm always grateful for any help, it's a lot of work. If everything fits, your pull request will also be accepted. :-)
 
