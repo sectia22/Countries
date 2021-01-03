@@ -3475,7 +3475,7 @@ https://originlive2.shooowit.net/25televisiolive/smil:channel1.smil/playlist.m3u
 https://5940924978228.streamlock.net/8157/8157/.m3u8
 #EXTINF:-1 tvg-id="324.TV" tvg-name="3/24" tvg-logo="https://i.imgur.com/cyQQZRV.png" group-title="SPAIN",3/24
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist_b1296000.m3u8
-#EXTINF:-1 tvg-id="324.TV" tvg-name="Canal 33" tvg-logo="http://cdn.teleon.tv/logo/es-33.jpg" group-title="SPAIN",Canal 33
+#EXTINF:-1 tvg-id="324.TV" tvg-name="33 Canal" tvg-logo="http://cdn.teleon.tv/logo/es-33.jpg" group-title="SPAIN",33 Canal
 https://directes-tv-int.ccma.cat/int/ngrp:c33_web/chunklist_b630067.m3u8
 #EXTINF:-1 tvg-id="7RM.TV" tvg-name="7 R. de Murcia" tvg-logo="https://i.imgur.com/M0JqHa9.png" group-title="SPAIN",7 Murcia
 https://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
@@ -3485,6 +3485,8 @@ https://ns3063900.ip-5-39-65.eu/hls/canal24.m3u8
 https://9laloma.tv/live.m3u8
 #EXTINF:-1 tvg-id="APUNT.TV" tvg-name="A Punt" tvg-logo="https://i.imgur.com/sInvpce.jpg" group-title="SPAIN",A Punt
 https://bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/6057955885001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Action Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="SPAIN",Action Movies
+https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Alacanti TV" tvg-id="" tvg-logo="https://i.imgur.com/Tmkt8J9.png" group-title="SPAIN",Alacanti TV
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 #EXTINF:-1 tvg-name="Alcarria TV" tvg-id="" tvg-logo="https://i.imgur.com/aJL1mjy.png" group-title="SPAIN",Alcarria TV
@@ -3497,6 +3499,8 @@ https://videos.rtva.ad/live/rtva/playlist.m3u8
 http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
 #EXTINF:-1 tvg-id="BTV.TV" tvg-name="Beteve" tvg-logo="https://i.imgur.com/747qLjC.png" group-title="SPAIN",Beteve
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0&playSessionId=381edbc5-f6df-0566-8c73-b767fb340d6
+#EXTINF:-1 tvg-id="" tvg-name="Big Name" tvg-logo="https://i.imgur.com/hChduSn.png" group-title="SPAIN",Big Name
+https://alchimie-big-names-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="BonDiaTV_CAT.TV" tvg-name="Bon Dia TV" tvg-logo="https://i.imgur.com/a0tGZh3.jpg" group-title="SPAIN",Bon Dia TV
 https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist.m3u8
 #EXTINF:-1 tvg-name="Cadena Elite" tvg-id="" tvg-logo="https://i.imgur.com/AFT43kx.png" group-title="SPAIN",Cadena Elite
@@ -3543,6 +3547,8 @@ https://taronjavic.streaming-pro.com/hls/vic.m3u8
 https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/WXP6YT/playlist.m3u8
 #EXTINF:-1 tvg-id="CMM.TV" tvg-name="CMM Castilla La Mancha" tvg-id="" tvg-logo="https://i.imgur.com/6Fge4nq.png" group-title="SPAIN",CMM Castilla La Mancha
 http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/index-s32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="SPAIN",Comedy Movies
+https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Condavision.TV" tvg-name="Condavision" tvg-id="" tvg-logo="https://i.imgur.com/VcaOigJ.png" group-title="SPAIN",Condavision
 http://145.239.141.154:1935/live/uSCQc5ky/master.m3u8
 #EXTINF:-1 tvg-name="Congreso de los Diputados 1" tvg-logo="https://i.imgur.com/2LAzcH8.jpg" group-title="SPAIN",Congreso de los Diputados 1
@@ -3591,6 +3597,8 @@ https://5b38ce71f1f00.streamlock.net/8122/8122/chunklist_w310432579.m3u8
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 #EXTINF:-1 tvg-name="EuroLatina TV" tvg-logo="https://i.imgur.com/29tCJId.jpg" group-title="SPAIN",EuroLatina TV
 https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="SPAIN",Euronews
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="EuropaPress TV" tvg-logo="https://i.imgur.com/qH7uDKw.jpg" group-title="SPAIN",EuropaPress TV
 https://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8
 #EXTINF:-1 tvg-name="Fibracat TV" tvg-logo="https://i.imgur.com/2QzHA3k.png" group-title="SPAIN",Fibracat TV
@@ -3603,10 +3611,14 @@ https://zuzenean.goienamedia.eus:8443/telebista.m3u8
 https://common01.todostreaming.es/live/ribera-livestream.m3u8
 #EXTINF:-1 tvg-name="Hamaika Telebista" tvg-logo="https://i.imgur.com/eFxqxER.jpg" group-title="SPAIN",Hamaika Telebista
 https://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8
+#EXTINF:-1 tvg-name="Harmony" tvg-id="" tvg-logo="https://i.imgur.com/0FlJWpc.png" group-title="SPAIN",Harmony
+https://alchimie-classical-harmony-3-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Hermes TV" tvg-logo="https://i.imgur.com/0hw0xS2.jpg" group-title="SPAIN",Hermes TV
 https://cdn01.yowi.tv/1H23S04G4M/hermesvigo.m3u8
 #EXTINF:-1 tvg-name="Huesca TV" tvg-id="" tvg-logo="https://i.imgur.com/hmYDqGV.png" group-title="SPAIN",Huesca TV
 https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Humanity" tvg-logo="https://i.imgur.com/DFjN26b.jpg" group-title="SPAIN",Humanity
+https://alchimie-humanity-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Imás TV" tvg-logo="https://i.imgur.com/a9hgTmM.png" group-title="SPAIN",Imás TV
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 #EXTINF:-1 tvg-id="InterAlmeria.TV" tvg-name="Interalmería TV" tvg-logo="https://i.imgur.com/odLXk90.jpg" group-title="SPAIN",Interalmería TV
@@ -3645,10 +3657,16 @@ https://cloudtv.provideo.es/live/marbellatv-livestream.m3u8
 https://mijas-live.flumotion.com/mijastv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MirameTV.TV" tvg-name="Mírame TV" tvg-logo="https://i.imgur.com/56HA0Rt.jpg" group-title="SPAIN",Mírame TV
 https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MMA TV" tvg-logo="https://i.imgur.com/MYoNHMg.png" group-title="SPAIN",MMA TV
+https://alchimie-mmatv-3-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Mola TV" tvg-id="" tvg-logo="https://i.imgur.com/NEHrmYr.png" group-title="SPAIN",Mola TV
 http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Moods" tvg-logo="https://i.imgur.com/zSdsBGc.jpg" group-title="SPAIN",Moods
+https://alchimie-moods-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="mtmad 24h" tvg-id="" tvg-logo="https://i.imgur.com/I9QX555.png" group-title="SPAIN",mtmad 24h
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="My Surf TV" tvg-logo="https://i.imgur.com/byD2nrE.png" group-title="SPAIN",My Surf TV
+https://alchimie-mysurf-3-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="NaTV.TV" tvg-name="Navarra TV" tvg-logo="https://i.imgur.com/I6dpjRg.jpg" group-title="SPAIN",Navarra TV
 https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="Negocios.TV" tvg-name="Negocios TV" tvg-logo="https://i.imgur.com/SUphv9v.jpg" group-title="SPAIN",Negocios TV
@@ -3673,8 +3691,12 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8
 https://streaming-audio-1.magentalabs.es:19360/ondavalencia/ondavalencia.m3u8
 #EXTINF:-1 tvg-name="Parlamento de Navarra" tvg-logo="https://i.imgur.com/IrmEEyh.jpg" group-title="SPAIN",Parlamento de Navarra
 https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="People are Awesome" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="SPAIN",People are Awesome
+https://jukin-peopleareawesome-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="PequeRadio TV" tvg-id="" tvg-logo="https://i.imgur.com/GwMeEbD.png" group-title="SPAIN",PequeRadio TV
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Planeta Kids" tvg-logo="https://i.imgur.com/CMRkI5N.jpg" group-title="SPAIN",Planeta Kids
+https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Popular TV Cantabria" tvg-id="" tvg-logo="https://i.imgur.com/hwlTrtF.png" group-title="SPAIN",Popular TV Cantabria
 https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 #EXTINF:-1 tvg-name="Popular TV Melilla" tvg-id="" tvg-logo="https://i.imgur.com/hwlTrtF.png" group-title="SPAIN",Popular TV Melilla
@@ -3701,6 +3723,10 @@ https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1 tvg-name="Sophia TV" tvg-id="" tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="SPAIN",Sophia TV
 https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spotlight" tvg-logo="https://i.imgur.com/TUDZvHw.jpg" group-title="SPAIN",Spotlight
+https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Supertoons TV" tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="SPAIN",Supertoons TV
+https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Taroteame TV" tvg-id="" tvg-logo="https://i.imgur.com/kJwjguZ.png" group-title="SPAIN",Taroteame TV
 http://93.93.67.117:1935/taroteame/tarot_web/playlist.m3u8
 #EXTINF:-1 tvg-name="Tarotcanal" tvg-id="" tvg-logo="https://i.imgur.com/VXuVQjG.png" group-title="SPAIN",Tarotcanal
@@ -3709,6 +3735,10 @@ https://live2.tarotcanal.com/live/livestream/index.m3u8
 https://cdn01.yowi.tv/36MLCJRAR2/master.m3u8
 #EXTINF:-1 tvg-name="Tele 7" tvg-logo="https://i.imgur.com/r4budKL.jpg" group-title="SPAIN",Tele 7
 https://59c8647978660.streamlock.net/8128/8128/playlist.m3u8
+#EXTINF:-1 tvg-name="Tele Crime" tvg-logo="https://i.imgur.com/MLCYwWD.png" group-title="SPAIN",Tele Crime
+https://endemol-tele-crimen-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Tele Drama" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="SPAIN",Tele Drama
+https://endemol-tele-drama-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Teleganés" tvg-logo="https://i.imgur.com/uFsOxUD.jpg" group-title="SPAIN",Teleganés
 https://cdn01.yowi.tv/P18V9163O7/master.m3u8
 #EXTINF:-1 tvg-name="TeleGilena" tvg-logo="https://i.imgur.com/4eDSmgn.jpg" group-title="SPAIN",TeleGilena
@@ -3753,6 +3783,8 @@ https://directo.tvferrol.es/tv.m3u8
 http://ventdelnord.tv:8080/girona/directe.m3u8
 #EXTINF:-1 tvg-name="TV Municipal Cordoba" tvg-id="" tvg-logo="https://i.imgur.com/HAbq91X.png" group-title="SPAIN",TV Municipal Cordoba
 http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Shows" tvg-logo="https://i.imgur.com/oMXfdkV.png" group-title="SPAIN",TV Shows
+https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="tvA" tvg-id="" tvg-logo="https://i.imgur.com/BuqsgOD.png" group-title="SPAIN",tvA
 https://streaming01.gestec-video.com/hls/artequatreTVA.m3u8
 #EXTINF:-1 tvg-name="TVE Canal24" tvg-logo="https://i.imgur.com/g6WWN4g.png" group-title="SPAIN", TVE Canal24
