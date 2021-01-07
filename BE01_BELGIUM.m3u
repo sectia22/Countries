@@ -11,7 +11,7 @@ http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal C" tvg-name="Canal C" tvg-logo="https://i.imgur.com/JJcnXUF.png" group-title="BELGIUM",Canal C
 http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal Zoom" tvg-name="Canal C" tvg-logo="https://i.imgur.com/uoSMNnr.png" group-title="BELGIUM",Canal Zoom
+#EXTINF:-1 tvg-id="Canal Zoom" tvg-name="Canal Zoom" tvg-logo="https://i.imgur.com/uoSMNnr.png" group-title="BELGIUM",Canal Zoom
 http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist.m3u8
 #EXTINF:-1 tvg-id="Canvas BE" tvg-name="Canvas BE" tvg-logo="https://i.imgur.com/xVgqbbT.jpg" group-title="BELGIUM",Canvas
 https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8
