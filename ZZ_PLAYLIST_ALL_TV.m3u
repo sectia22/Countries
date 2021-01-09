@@ -53,10 +53,8 @@ https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
 http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
 #EXTINF:-1 tvg-name=Sky Sport News HD tvg-id="SkySportNewsHD.de" group-title="GERMAN TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skysportnewshd.png",Sky Sport News HD
 https://websitefreestreaming.akamaized.net/11111_ssnweb/index.m3u8
-#EXTINF:-1 tvg-name=Rocket Beans TV tvg-id="RocketBeans.tv" group-title="GERMAN TV" tvg-logo="https://i.imgur.com/g6bLn80.png",Rocket Beans TV
-plugin://plugin.video.youtube/play/?video_id=2zkFIs4Fa24
-#EXTINF:-1 tvg-name=Nickelodeon Deutschland (Web) tvg-id="Nickelodeon.de" group-title="GERMAN TV" tvg-logo="https://www.nick.de/png/Nickelodeon_logo@3x.png",Nickelodeon Deutschland (Web)
-plugin://plugin.video.youtube/play/?video_id=JpuEn_ptP-U
+#EXTINF:-1 tvg-name="Kika" tvg-id="Kika.de" group-title="GERMAN TV" tvg-logo="https://i.imgur.com/qodAT7g.jpg",Kika
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 tvg-name="********** RK Germany *****" tvg-logo="https://i.imgur.com/7krfGOy.jpg",********** RK Germany *****
 https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Movies" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="RK GERMANY",Comedy Movies
@@ -2305,8 +2303,6 @@ https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/
 https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Boxing Network
 https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Cartoon Network
-https://nrpus.bozztv.com/36bay2/gusa-tvscartoonnetwork/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Classic Movies
 http://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Classic Sports
@@ -3199,8 +3195,6 @@ https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="News18 Lokmat" tvg-logo="https://i.imgur.com/chFSLkD.jpg" group-title="INDIA",News18 Lokmat
 https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="News18 Odia" tvg-logo="" group-title="INDIA",News18 Odia
-https://etv-oriya.akamaized.net/i/n18odia_1@179753/master.m3u8?hdnea=st=1607509617~exp=1607545617~acl=/*~hmac=16435640594e2c073a2a1b7876416da0631cde61e6a09040879d84dfd1c51fd1
 #EXTINF:-1 tvg-id="" tvg-name="News24" tvg-logo="" group-title="INDIA",News24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Only Music
@@ -5917,7 +5911,7 @@ https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bedxx0y.png" group-title="MUSIK",Radio Italia TV (IT)
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ghLKlHs.png" group-title="MUSIK",Radio m20 Lazio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ghLKlHs.png" group-title="ITALY;MUSIK",Radio m20 Lazio (IT)
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uCQNwdW.jpg" group-title="MUSIK",Radio Number One TV (IT)
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
