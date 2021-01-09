@@ -53,7 +53,5 @@ https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
 http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
 #EXTINF:-1 tvg-name=Sky Sport News HD tvg-id="SkySportNewsHD.de" group-title="GERMAN TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skysportnewshd.png",Sky Sport News HD
 https://websitefreestreaming.akamaized.net/11111_ssnweb/index.m3u8
-#EXTINF:-1 tvg-name=Rocket Beans TV tvg-id="RocketBeans.tv" group-title="GERMAN TV" tvg-logo="https://i.imgur.com/g6bLn80.png",Rocket Beans TV
-plugin://plugin.video.youtube/play/?video_id=2zkFIs4Fa24
-#EXTINF:-1 tvg-name=Nickelodeon Deutschland (Web) tvg-id="Nickelodeon.de" group-title="GERMAN TV" tvg-logo="https://www.nick.de/png/Nickelodeon_logo@3x.png",Nickelodeon Deutschland (Web)
-plugin://plugin.video.youtube/play/?video_id=JpuEn_ptP-U
+#EXTINF:-1 tvg-name="Kika" tvg-id="Kika.de" group-title="GERMAN TV" tvg-logo="https://i.imgur.com/qodAT7g.jpg",Kika
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
