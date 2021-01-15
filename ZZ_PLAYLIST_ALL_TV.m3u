@@ -43,6 +43,8 @@ https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 #EXTINF:-1 tvg-name=Phoenix tvg-id=phoenix.de tvg-logo=http://logos.zattic.com/images/channels/logos/a0b41e9eea449229f713/black/84x48.png group-title="GERMAN TV",Phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:-1 tvg-name=EURONEWS tvg-id=Euronews.de tvg-logo=https://i.imgur.com/szYOy8S.jpg group-title="GERMAN TV",EURONEWS
+https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name=WELT tvg-id=WELT.de tvg-logo=http://logos.zattic.com/images/channels/logos/2e460a3011ecd55bd3b9/black/84x48.png group-title="GERMAN TV",WELT
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
 #EXTINF:-1 tvg-name=WELT Live Stream tvg-id=WELT.de tvg-logo=http://logos.zattic.com/images/channels/logos/2e460a3011ecd55bd3b9/black/84x48.png group-title="GERMAN TV",WELT Live Stream
@@ -55,16 +57,32 @@ http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
 https://websitefreestreaming.akamaized.net/11111_ssnweb/index.m3u8
 #EXTINF:-1 tvg-name="Kika" tvg-id="Kika.de" group-title="GERMAN TV" tvg-logo="https://i.imgur.com/qodAT7g.jpg",Kika
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
-#EXTINF:-1 tvg-name="********** RK Germany *****" tvg-logo="https://i.imgur.com/7krfGOy.jpg",********** RK Germany *****
+#EXTINF:-1 tvg-name="********** RK TV DE AT CH *****" tvg-logo="https://i.imgur.com/I53ZkGL.png",********** RK TV DE AT CH *****
 https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="RK GERMANY",Comedy Movies
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies DE" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="RK GERMANY",Comedy Movies DE
 https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Action Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="RK GERMANY",Action Movies
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies AT" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="RK AUSTRIA",Comedy Movies AT
+https://rakuten-comedymovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies CH" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="RK SWITZERLAND",Comedy Movies CH
+https://rakuten-comedymovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Action Movies DE" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="RK GERMANY",Action Movies DE
 https://rakuten-actionmovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Drama" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="RK GERMANY",Drama
+#EXTINF:-1 tvg-id="" tvg-name="Action Movies AT" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="RK AUSTRIA",Action Movies AT
+https://rakuten-actionmovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Action Movies CH" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="RK SWITZERLAND",Action Movies CH
+https://rakuten-actionmovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Drama DE" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="RK GERMANY",Drama DE
 https://rakuten-tvshows-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Spotlight" tvg-logo="https://i.imgur.com/vbb3bjW.png" group-title="RK GERMANY",Spotlight
+#EXTINF:-1 tvg-id="" tvg-name="Drama AT" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="RK AUSTRIA",Drama AT
+https://rakuten-tvshows-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Drama CH" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="RK SWITZERLAND",Drama CH
+https://rakuten-tvshows-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spotlight DE" tvg-logo="https://i.imgur.com/vbb3bjW.png" group-title="RK GERMANY",Spotlight DE
 https://rakuten-spotlight-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spotlight AT" tvg-logo="https://i.imgur.com/vbb3bjW.png" group-title="RK AUSTRIA",Spotlight AT
+https://rakuten-spotlight-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spotlight CH" tvg-logo="https://i.imgur.com/vbb3bjW.png" group-title="RK SWITZERLAND",Spotlight CH
+https://rakuten-spotlight-4-ch.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="******************** Pluto Germany ***********" tvg-id="" group-title="" tvg-logo="",******************* Pluto Germany ***********
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede45d077746000072be0fe/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f70b11c0-33bf-11eb-bb3e-5b164828c024&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dfbeaaa2-9804-4fd1-b33b-411dc96c1d2e&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="5ede45d077746000072be0fe" group-title="Pluto Germany" tvg-name="Auction Hunters" tvg-logo="https://images.pluto.tv/channels/5ede45d077746000072be0fe/colorLogoPNG.png" ,Auction Hunters
@@ -467,6 +485,12 @@ http://62.113.210.250:1935/medienasa-live/ok-wettin_high/playlist.m3u8
 https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
 #EXTINF:-1 tvg-name="Parlamentsfernsehen 2" tvg-id="" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png",Parlamentsfernsehen 2
 https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
+#EXTINF:-1 tvg-name="********* GERMAN Etc. ********" tvg-logo="https://i.imgur.com/pMJKqnr.png",********* GERMAN  Etc. **********
+https://insighttv-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Insight TV" tvg-id="" tvg-logo="https://i.imgur.com/gKNP2Gd.png" group-title="GERMAN Etc",Insight TV
+https://insighttv-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Inwonder TV" tvg-id="" tvg-logo="https://i.imgur.com/2V9wsWp.png" group-title="GERMAN Etc",Inwonder TV
+https://inwonder-samsung-de.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="****************** AUSTRIA ************" tvg-id="" group-title="" tvg-logo="",****************** AUSTRIA ************
 https://stream.openplayout.org/hls/dorf_high/index.m3u8
 #EXTINF:-1 tvg-name="dorf tv" tvg-id="" group-title="AUSTRIA" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dorftv.png",dorf tv
