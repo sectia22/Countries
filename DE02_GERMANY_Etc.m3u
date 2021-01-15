@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="********* GERMAN Etc. ********" tvg-logo="https://i.imgur.com/pMJKqnr.png",********* GERMAN  Etc. **********
+https://insighttv-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Insight TV" tvg-id="" tvg-logo="https://i.imgur.com/gKNP2Gd.png" group-title="GERMAN Etc",Insight TV
+https://insighttv-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Inwonder TV" tvg-id="" tvg-logo="https://i.imgur.com/2V9wsWp.png" group-title="GERMAN Etc",Inwonder TV
+https://inwonder-samsung-de.amagi.tv/playlist.m3u8
