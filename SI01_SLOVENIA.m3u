@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="************ SLOVENIA *********",************ SLOVENIA *********
+https://29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-name="RTV MMC" tvg-logo="" group-title="SLOVENIA",RTV MMC
+https://29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-name="RTV SLO1" tvg-logo="" group-title="SLOVENIA",RTV SLO1
+https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-name="RTV SLO2" tvg-logo="" group-title="SLOVENIA",RTV SLO2
+https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-name="RTV SLO3" tvg-logo="" group-title="SLOVENIA",RTV SLO3
+https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-name="RTV TV Maribor" tvg-logo="" group-title="SLOVENIA",RTV TV Maribor
+https://25-rtvslo-tv-mb-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-name="RTV TV Koper Capodistria" tvg-logo="" group-title="SLOVENIA",RTV TV Koper Capodistria
+https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
