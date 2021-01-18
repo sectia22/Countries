@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="************ MONACO *********",************ MONACO *********
+https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Monaco Info" tvg-logo="" group-title="MONACO",Monaco Info
+https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
