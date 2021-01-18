@@ -4,7 +4,9 @@ http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGw
 #EXTINF:-1 tvg-name="Canal 9" tvg-id="Kanal9.ch" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/nQVDOVb.png",Canal 9
 https://livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8
 #EXTINF:-1 tvg-id="CanalAlphaJU.ch" tvg-name="Canal Alpha Jura" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="SWITZERLAND",Canal Alpha Jura
-http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
+https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Alpha Neuchatel" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="SWITZERLAND",Canal Alpha Neuchatel
+https://edge3.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Die Neue Zeit" tvg-logo="https://i.imgur.com/9dQuwCc.jpg" group-title="SWITZERLAND",Die Neue Zeit
 https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/chunklist_w2039349636.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dieu TV" tvg-logo="https://i.imgur.com/3sWAEuY.jpg" group-title="SWITZERLAND",Dieu TV
@@ -50,7 +52,7 @@ https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTG
 #EXTINF:-1 tvg-id="" tvg-name="TeleBielingue" tvg-logo="https://i.imgur.com/bPpWJj2.png" group-title="SWITZERLAND",TeleBielingue
 https://edge4.vedge.infomaniak.com/livecast/telebielinguech/chunklist.m3u8
 #EXTINF:-1 tvg-id="TeleTicino.ch" tvg-name="TeleTicino" tvg-logo="https://i.imgur.com/HuPkeOg.jpg" group-title="SWITZERLAND",TeleTicino
-https://livestream.gruppocdt.ch/hls/teleticino_720p/index.m3u8
+https://livestream.gruppocdt.ch/hls/teleticino.m3u8
 #EXTINF:-1 tvg-name="Telezürich" tvg-id="TeleZuri.ch" group-title="SWITZERLAND" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telezueri.png",Telezürich
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_4dmq7avs/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-name="TVM 3" tvg-id="TVM3.ch"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_TVM3_2015.png/1200px-Logo_TVM3_2015.png" group-title="SWITZERLAND;MUSIK",TVM 3
