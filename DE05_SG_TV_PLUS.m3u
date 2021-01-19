@@ -27,6 +27,10 @@ https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
 https://fueltv-fueltv-5-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GUSTO TV (en)" tvg-logo="https://i.imgur.com/vanl2NZ.jpg" group-title="SAMSUNG TV PLUS",GUSTO TV (en)
 https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Insight TV" tvg-id="" tvg-logo="https://i.imgur.com/gKNP2Gd.png" group-title="SAMSUNG TV PLUS",Insight TV
+https://insighttv-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Inwonder TV" tvg-id="" tvg-logo="https://i.imgur.com/2V9wsWp.png" group-title="SAMSUNG TV PLUS",Inwonder TV
+https://inwonder-samsung-de.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Qello Concerts by Stingray" tvg-logo="https://i.imgur.com/IVUgJPY.png" group-title="SAMSUNG TV PLUS",Qello Concerts by Stingray
 https://stingray-qelloconcerts-2-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="QUEST TV Jazz and Beyond (en)" tvg-logo="https://i.imgur.com/bhSrOea.jpg" group-title="SAMSUNG TV PLUS",QUEST TV Jazz and Beyond (en)
