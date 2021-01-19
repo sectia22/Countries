@@ -3,7 +3,7 @@
 https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Alex Berlin" tvg-id="" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/eTmHk4e.png",Alex Berlin
 https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="allgäu.tv Kempen" tvg-id="allgäu.tv" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/allgaeutv.png",allgäu.tv Kempen
+#EXTINF:-1 tvg-name="allgÃ¤u.tv Kempen" tvg-id="allgÃ¤u.tv" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/allgaeutv.png",allgäu.tv Kempen
 https://stream01.stream.welocal.world/stream/alg/ngrp:alg.stream_all/chunklist_w1838873546_b446000.m3u8
 #EXTINF:-1 tvg-name="Arcadia TV" tvg-id="Arcadia TV" tvg-logo="https://i.imgur.com/UR4E82q.jpg" group-title="GERMAN LOCAL",Arcadia TV
 plugin://plugin.video.youtube/play/?video_id=WVoUozYtdgI
@@ -13,7 +13,7 @@ https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist
 http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Bibel TV" tvg-id="BibelTV.de" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/0OoMMbd.png",Bibel TV
 http://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8
-#EXTINF: -1  tvg-name="BLK TV Hohenmölsen" tvg-id="BLK Regional TV" tvg-logo="https://i.imgur.com/D5wePo5.jpg" group-title = "GERMAN LOCAL", BLK TV Hohenmölsen
+#EXTINF: -1  tvg-name="BLK TV HohenmÃ¶lsen" tvg-id="BLK Regional TV" tvg-logo="https://i.imgur.com/D5wePo5.jpg" group-title = "GERMAN LOCAL", BLK TV HohenmÃ¶lsen
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8?&ref=medienportal-sachsen-
 #EXTINF:-1 tvg-id="" tvg-name="Campus TV Magdeburg" tvg-logo="https://i.imgur.com/QyjXZlJ.jpg" group-title="GERMAN LOCAL",Campus TV Magdeburg
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8
@@ -23,15 +23,15 @@ https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playl
 https://swrdasdingvrhls-i.akamaihd.net/hls/live/780817/vrdasding/master.m3u8
 #EXTINF:-1 tvg-name="Dresden Fernsehen" tvg-id="Dresden Fernsehen" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dresdenfernsehen.png",Dresden Fernsehen
 https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
-#EXTINF: -1 tvg-name="Elbekanal Schönebeck " tvg-id="Elbekanal" tvg-logo="https://i.imgur.com/MjZ0w7G.png" group-title = "GERMAN LOCAL",Elbekanal Schönebeck 
+#EXTINF: -1 tvg-name="Elbekanal SchÃ¶nebeck " tvg-id="Elbekanal" tvg-logo="https://i.imgur.com/MjZ0w7G.png" group-title = "GERMAN LOCAL",Elbekanal SchÃ¶nebeck 
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=171674
 #EXTINF: -1 tvg-name="ems TV Lingen" tvg-id="emsTV.de" tvg-logo="https://i.imgur.com/dKCLYAj.png" group-title = "GERMAN LOCAL",ems TV Lingen
 https://5889e7d0d6e28.streamlock.net/ev1tv-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Erz-TV Stollberg" tvg-id="Erz-TV Stollberg" tvg-logo="https://i.imgur.com/VenSjan.png" group-title="GERMAN LOCAL",Erz-TV Stollberg
 https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Filstalwelle Göppingen" tvg-id="Filstalwelle" tvg-logo="https://i.imgur.com/19iKLvf.png" group-title="GERMAN LOCAL",Filstalwelle Göppingen
+#EXTINF:-1 tvg-name="Filstalwelle GÃ¶ppingen" tvg-id="Filstalwelle" tvg-logo="https://i.imgur.com/19iKLvf.png" group-title="GERMAN LOCAL",Filstalwelle GÃ¶ppingen
 http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/chunklist_w660034089.m3u8
-#EXTINF:-1 tvg-name="Franken Fernsehen Nürnberg" tvg-id="FrankenTV.de" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png",Franken Fernsehen Nürnberg
+#EXTINF:-1 tvg-name="Franken Fernsehen NÃ¼rnberg" tvg-id="FrankenTV.de" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png",Franken Fernsehen NÃ¼rnberg
 https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Friesischer Rundfunk Friedeburg" tvg-id="Friesischer Rundfunk"tvg-logo="https://i.imgur.com/jynL4Xl.png" group-title="GERMAN LOCAL",Friesischer Rundfunk Friedeburg
 https://583548fa0d82b.streamlock.net/friesischerRundfunk-live/_definst_/mp4:friesischerrundfunk/playlist.m3u8
@@ -55,7 +55,7 @@ https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:mdf1_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=458536
 #EXTINF: -1 tvg-name="Metropol Region TV (Rhein-Neckar)" tvg-id="" tvg-logo="https://i.imgur.com/6mmKLJq.jpg" group-title = "GERMAN LOCAL",Metropol Region TV (Rhein-Neckar)
 https://5852afe96c9bb.streamlock.net/metropolregiontv-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="münchen.tv" tvg-id="MunchenTV.de" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/muenchentv.png",münchen.tv
+#EXTINF:-1 tvg-name="mÃ¼nchen.tv" tvg-id="MunchenTV.de" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/muenchentv.png",mÃ¼nchen.tv
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.mytvplus.de/arbeitsdaten/png/LOGO%20MyTVplus%2002.png" group-title="GERMAN LOCAL",MyTVplus Dresden
 rtmp://62.67.13.54/MyTVplus/mtvp_livestream_2.stream
@@ -77,7 +77,7 @@ https://www.oeins.de/live/studio.m3u8
 https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8?&ref=www.of-tv.de&seid=166119
 #EXTINF: -1 tvg-name="Offener Kanal Fulda" tvg-id="" tvg-logo="https://i.imgur.com/XsmPI4N.jpg" group-title = "GERMAN LOCAL",Offener Kanal Fulda
 https://s.ok54.de/mok-fu/livestream/playlist.m3u8
-#EXTINF: -1 tvg-name="Offener Kanal Gießen" tvg-id="" tvg-logo="https://i.imgur.com/XsmPI4N.jpg" group-title = "GERMAN LOCAL",Offener Kanal Gießen
+#EXTINF: -1 tvg-name="Offener Kanal GieÃŸen" tvg-id="" tvg-logo="https://i.imgur.com/XsmPI4N.jpg" group-title = "GERMAN LOCAL",Offener Kanal GieÃŸen
 https://s.ok54.de/mok-gi/mok-gi/playlist.m3u8
 #EXTINF: -1 tvg-name="Offener Kanal Kassel" tvg-id="" tvg-logo="https://i.imgur.com/XsmPI4N.jpg" group-title = "GERMAN LOCAL",Offener Kanal Kassel
 https://s.ok54.de/mok-ks/kassel/playlist.m3u8
@@ -107,7 +107,7 @@ https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_h
 http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8
 #EXTINF:-1 tvg-name="OK Trier" tvg-id="OK Trier" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oktrier.png",OK Trier
 https://s.ok54.de/ott/webstream/playlist.m3u8
-#EXTINF:-1 tvg-name="OK TV Südwestpfalz" tvg-id="" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/q5G6MZ5.jpg",OK TV Südwestpfalz
+#EXTINF:-1 tvg-name="OK TV SÃ¼dwestpfalz" tvg-id="" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/q5G6MZ5.jpg",OK TV SÃ¼dwestpfalz
 https://s.ok54.de/okswp/test/chunks.m3u8?nimblesessionid=8908005
 #EXTINF:-1 tvg-name="OK Weinstrasse Landau" tvg-id="OK Weinstrasse" tvg-logo="https://i.imgur.com/8qWX30L.png" group-title="GERMAN LOCAL",OK Weinstrasse Landau
 https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
@@ -121,7 +121,7 @@ https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:punktum_high/p
 http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K3XWLpu.jpg" group-title="GERMANY",Radio Weser TV Bremen
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
-#EXTINF: -1 tvg-name="Ran1 Dessau-Roßlau" tvg-id="Ran1.de" tvg-logo="http://www.ran1.de/img/ban1.png" group-title = "GERMAN LOCAL", Ran1 Dessau-Roßlau
+#EXTINF: -1 tvg-name="Ran1 Dessau-RoÃŸlau" tvg-id="Ran1.de" tvg-logo="http://www.ran1.de/img/ban1.png" group-title = "GERMAN LOCAL", Ran1 Dessau-RoÃŸlau
 http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ran1_high/playlist.m3u8?&ref=www.ran1.de&seid=201846
 #EXTINF: -1 tvg-name="RBW Bitterfeld-Wolfen" tvg-id="RBW" tvg-logo="http://www.rbwonline.de/img/ban1.png" group-title = "GERMAN LOCAL", RBW Bitterfeld-Wolfen
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=237997
@@ -157,13 +157,13 @@ http://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u
 https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?=&ref=seenluft24.de
 #EXTINF:-1 tvg-name="Studio 47 (NRW - 18:00)" tvg-id="" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/xCiU1TB.png",Studio 47 ( (NRW - 18:00)
 https://5852afe96c9bb.streamlock.net/studio47-live/_definst_/mp4:livestream/playlist.m3u8?&ref=www.studio47.de&seid=166119
-#EXTINF: -1 tvg-name="Südthüringer Regionalfernsehen" tvg-id="Südthüringer Regionalfernsehen" tvg-logo="https://my.telvi.de//files/images/43/userfiles/116da521d.jpg" group-title = "GERMAN LOCAL", Südthüringer Regionalfernsehen
+#EXTINF: -1 tvg-name="SÃ¼dthÃ¼ringer Regionalfernsehen" tvg-id="SÃ¼dthÃ¼ringer Regionalfernsehen" tvg-logo="https://my.telvi.de//files/images/43/userfiles/116da521d.jpg" group-title = "GERMAN LOCAL", SÃ¼dthÃ¼ringer Regionalfernsehen
 https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Sylt1" tvg-id="Sylt1.de" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sylt1.png",Sylt1
 https://5aec29c5dd23b.streamlock.net:8443/sylt1/_definst_/sylt1_high1.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Tide TV (Hamburg - ab 12:00)" tvg-id="" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/p2lQVo0.png",Tide TV (Hamburg - ab 12:00)
 https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8?&ref=www.tidenet.de&seid=166119
-#EXTINF:-1  tvg-name="TV38 Südost-Niedersachen" tvg-id="TV38 Südost-Niedersachen" tvg-logo="https://i.imgur.com/ob9JJPU.png" group-title="GERMAN LOCAL",TV38 Südost-Niedersachen
+#EXTINF:-1  tvg-name="TV38 SÃ¼dost-Niedersachen" tvg-id="TV38 SÃ¼dost-Niedersachen" tvg-logo="https://i.imgur.com/ob9JJPU.png" group-title="GERMAN LOCAL",TV38 SÃ¼dost-Niedersachen
 http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Bayern Live" tvg-id="" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/WyJLIzA.jpg",TV Bayern Live
 https://s3.welocal.world/tvbayernlive/media/134371/videos/hls.m3u8
@@ -179,7 +179,7 @@ https://sdn-global-live-http-cache.3qsdn.com/2979/amlst:5714-sbr/playlist.m3u8
 https://stream02.stream.welocal.world/stream/tvo/ngrp:tvo.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="TVA Ostbayern" tvg-id="TVA" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tva.png",TVA Ostbayern
 https://stream02.stream.welocal.world/stream/tva/ngrp:tva.stream_all/playlist.m3u8
-#EXTINF: -1 tvg-name="UnserDing Saarbrücken (Webradio)" tvg-id="UnserDing" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9e/Unser_Ding.svg/revision/latest/scale-to-width-down/250?cb=20091226181423" group-title = "GERMAN LOCAL", UnserDing Saarbrücken (Webradio)
+#EXTINF: -1 tvg-name="UnserDing SaarbrÃ¼cken (Webradio)" tvg-id="UnserDing" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9e/Unser_Ding.svg/revision/latest/scale-to-width-down/250?cb=20091226181423" group-title = "GERMAN LOCAL", UnserDing SaarbrÃ¼cken (Webradio)
 http://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/index_1662_av-b.m3u8
 #EXTINF:-1 tvg-name="Westerwald TV" tvg-id="Westerwald TV" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/westerwaldtv.png",Westerwald TV
 https://sdn-global-live-http-cache.3qsdn.com/2980/amlst:5715-sbr/playlist.m3u8
