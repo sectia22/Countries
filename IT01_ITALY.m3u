@@ -53,7 +53,7 @@ https://alchimie-humanity-3-it.samsung.wurl.com/manifest/playlist.m3u8
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Italia 1" tvg-logo="https://i.imgur.com/5RlYdhr.png" group-title="ITALY",Italia 1
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I1)/index.m3u8
-#EXTINF:-1 tvg-name="Italia 2" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/TDSgG28.png",Italia 2
+#EXTINF:-1 tvg-name="Italia 2" tvg-id="" group-title="ITALY" tvg-logo="",Italia 2
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="La 5" tvg-logo="https://i.imgur.com/3mROs2T.png" group-title="ITALY",La 5
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
@@ -137,9 +137,9 @@ https://kedoo-supertoonstv-4-it.samsung.wurl.com/manifest/playlist.m3u8
 https://dhx-teletubbies-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGCOM24" tvg-logo="https://i.imgur.com/kDDYZ7Q.png" group-title="ITALY",TGCOM24
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
-#EXTINF:-1 tvg-name="Top Crime" tvg-id="" group-title="ITALY" tvg-logo="",Top Crime
+#EXTINF:-1 tvg-name="Top Crime" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/MLCYwWD.png",Top Crime
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
-#EXTINF:-1 tvg-name="Top Crimine" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/MLCYwWD.png",Top Crimine
+#EXTINF:-1 tvg-name="Top Crimine" tvg-id="" group-title="ITALY" tvg-logo="",Top Crimine
 https://endemol-top-criminie-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Top Series" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/P4hb5Ws.jpg",Top Series
 https://endemol-top-serie-1-it.samsung.wurl.com/manifest/playlist.m3u8
