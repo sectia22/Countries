@@ -265,6 +265,8 @@ https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playl
 https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="rheinmaintv" tvg-id="rheinmaintv.de" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rheinmaintv.png",rheinmaintv
 https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8?=&ref=www.rheinmaintv.de&seid=598541
+#EXTINF: -1 tvg-name="Rockland TV - Mainz" tvg-id="" tvg-logo="https://i.imgur.com/vIMkVo6.png" group-title = "GERMAN LOCAL",Rockland TV - Mainz
+http://player-api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
 #EXTINF: -1 tvg-name="RON TV (18:00 - 18:30)" tvg-id="" tvg-logo="https://i.imgur.com/ZqHWb40.png" group-title = "GERMAN LOCAL",RON TV  (18:00 - 18:30)
 https://ron-i.akamaihd.net/hls/live/523496/ron/master.m3u8
 #EXTINF: -1 tvg-name="RTL West (18:00 - 18:30)" tvg-id="" tvg-logo="https://i.imgur.com/i7245OO.png" group-title = "GERMAN LOCAL",RTL West (18:00 - 18:30)
@@ -283,6 +285,8 @@ https://5852afe96c9bb.streamlock.net/studio47-live/_definst_/mp4:livestream/play
 https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Sylt1" tvg-id="Sylt1.de" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sylt1.png",Sylt1
 https://5aec29c5dd23b.streamlock.net:8443/sylt1/_definst_/sylt1_high1.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="SWR 3 Visual Radio" tvg-id="S" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/PxSgxRO.jpg",SWR 3 Visual Radio (Webradio)
+https://swrswr3vrhls-i.akamaihd.net/hls/live/780818/vrswr3/master-540p-1928.m3u8
 #EXTINF:-1 tvg-name="Tide TV (Hamburg - ab 12:00)" tvg-id="" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/p2lQVo0.png",Tide TV (Hamburg - ab 12:00)
 https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8?&ref=www.tidenet.de&seid=166119
 #EXTINF:-1  tvg-name="TV38 Südost-Niedersachen" tvg-id="TV38 Südost-Niedersachen" tvg-logo="https://i.imgur.com/ob9JJPU.png" group-title="GERMAN LOCAL",TV38 Südost-Niedersachen
