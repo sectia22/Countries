@@ -141,13 +141,11 @@ http://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.
 http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LW3Dfbt.png" group-title="USA LOCAL",WJAX Action News - Jacksonville
 https://d2eit0bra9qkiw.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10050_b9ac3c93-be86-4f7e-82b8-796b7f8bfda3_LE/in/cmg-wjaxtv-hls-v3/live.m3u8?aws.sessionId=dcb19887-c2ac-40ff-94fa-4f9c8692f754
-#EXTINF:-1 tvg-id="" tvg-name="WMFD" tvg-logo="https://i.imgur.com/4i7Ve3E.png" group-title="USA LOCAL",WMFD (Mansfield, Ohio)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4i7Ve3E.png" group-title="USA LOCAL",WMFD (Mansfield - Ohio)
 https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="WPMT 43" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA LOCAL",WPMT FOX 43 (Harrisburg, Pennsylvania)
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA LOCAL",WPMT FOX 43 (Harrisburg - Pennsylvania)
 https://cdn008.teleuptv.net/o8XVqW4mQw/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="WPSU" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/eqanuc.png" group-title="USA LOCAL",
-WPSU PBS (Penn State, Pennsylvania)
+#EXTINF:-1 tvg-ID="" tvg-name="WPSU" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/eqanuc.png" group-title="USA LOCAL",WPSU PBS (Penn State - Pennsylvania)
 https://bozztv.com/teleyupp/lnABbIUBrO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WSVI TV - Virgin Islands USA" tvg-logo="https://i.imgur.com/SlS8xic.png" group-title="USA",WSVI TV - Virgin Islands USA
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
-#EXTINF:-1 tvg-ID="WSVN 7" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/wxjzcq.png" group-title="USA LOCAL",WSVN FOX 7 (Florida)
