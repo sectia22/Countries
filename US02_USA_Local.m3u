@@ -149,3 +149,5 @@ https://cdn008.teleuptv.net/o8XVqW4mQw/playlist.m3u8
 https://bozztv.com/teleyupp/lnABbIUBrO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WSVI TV - Virgin Islands USA" tvg-logo="https://i.imgur.com/SlS8xic.png" group-title="USA",WSVI TV - Virgin Islands USA
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="WSVN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/wxjzcq.png" group-title="USA LOCAL",WSVN FOX 7 (Florida)
+https://cdn006.teleuptv.net/GgIpXe0CjT/playlist.m3u8
