@@ -49,10 +49,6 @@ http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="Bhakti TV" tvg-logo="https://i.imgur.com/PFiNM4e.png" group-title="INDIA",Bhakti TV
 plugin://plugin.video.youtube/play/?video_id=Xeg0Q6SZRBA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Bollywood
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="Bollywood Classic" tvg-logo="https://i.imgur.com/pXqSXto.png" group-title="INDIA",Bollywood Classic
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel-S Live TV" tvg-logo="" group-title="INDIA",Channel-S Live TV
