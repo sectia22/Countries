@@ -11,6 +11,8 @@ https://akaku.vod.castus.tv/live/ch1.m3u8
 https://akaku.vod.castus.tv/live/ch2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Akaku 55 (Hawaii)" tvg-logo="https://i.imgur.com/y7qpxAT.jpg" group-title="USA LOCAL",Akaku 55 (Hawaii)
 https://akaku.vod.castus.tv/live/ch3.m3u8
+#EXTINF:-1 tvg-name="Atlanta Channel" tvg-id="AtlantaChannel" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/zVCz4rY.png",Atlanta Channel
+https://5b0f5374bdf0c.streamlock.net:444/LiveTV/ATLHD/playlist.m3u8
 #EXTINF:-1 tvg-name="Beach TV - Panama City" tvg-id="Beach TV Panama City" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/GaUcUCZ.png",Beach TV - Panama City
 https://5b0f5374bdf0c.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
 #EXTINF:-1 tvg-name="Beach TV - Florida - Alabama" tvg-id="Beach TV Florida" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/qjzj4TJ.png",Beach TV - Florida - Alabama
@@ -53,12 +55,16 @@ http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
 http://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Escambia County" tvg-logo="https://i.imgur.com/DBddBUb.png" group-title="USA LOCAL",Escambia County
 https://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/playlist.m3u8
+#EXTINF:-1 tvg-name="EZWay Network" tvg-id="EZWAY US" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/9IlPgqf.png",EZWay Network
+https://nimble.dashstreams.net/mytvtogo/ezwaytv007/playlist.m3u8
 #EXTINF:-1 tvg-name="Fairfax Ch. 16 - Virginia" tvg-id="Fairfax Ch. 16" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/yP1nhl0.jpg",Fairfax Ch. 16 - Virginia
 https://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Galveston County TV"  tvg-logo="https://i.imgur.com/mGIeNl2.png" group-title="USA LOCAL",Galveston County TV
 https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Glendale 11 - Arizona" tvg-logo="https://i.imgur.com/TAGILVe.png" group-title="USA LOCAL",Glendale 11 - Arizona
 https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globesville (Stream sometimes)" tvg-logo="https://i.imgur.com/ffTmXdk.png" group-title="USA LOCAL",Globesville  (Stream sometimes)
+http://link.frontlayer.com/services/hls2/fl592468/index.m3u8
 #EXTINF:-1 tvg-name="Greenbelt TV" tvg-id="greenbeltaccesstv.org" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/uxUqIVT.png",Greenbelt TV
 https://t07113a-lh.akamaihd.net/i/t07113a_1@756729/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
 #EXTINF:-1 tvg-name="Greensboro TV Network" tvg-id="Greensboro TV" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/fuf9HAz.png",Greensboro TV Network
@@ -67,6 +73,8 @@ http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
 https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/chunklist_w444601733_b1628000.m3u8
 #EXTINF:-1 tvg-name="HTV 2 - Houston Television" tvg-id="htv1.us" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/zvj1boM.jpg",HTV 2 - Houston Television
 https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
+#EXTINF:-1 tvg-name="KEY TV" tvg-id="kbvr.com" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/96POFOB.png",KEY TV
+https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KIRO 7 (Seattle) (news feed only)" tvg-logo="https://i.imgur.com/os5b80c.jpg" group-title="USA LOCAL",KIRO 7 (Seattle) (news feed only)
 https://d3brkxnx500hx8.cloudfront.net/v1/manifest/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10090_8e38113f-0933-4706-b0c6-ae96ab12921c_LE/124adea9-222d-43fc-b08c-a1b9d98a6326/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KMTV CBS 3 (Omaha) (news feed only)" tvg-logo="https://i.imgur.com/XgF6S22.png" group-title="USA LOCAL",KMTV CBS 3 (Omaha) (news feed only)
@@ -77,6 +85,8 @@ https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
 https://cdn006.teleuptv.net/N8qwnqgUq2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KTLA 5 (2) (news feed only)" tvg-logo="https://i.imgur.com/JH99Psi.jpg" group-title="USA LOCAL",KTLA 5 (2) (news feed only)
 https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KUSI" tvg-logo="https://i.imgur.com/4uDFUNi.png" group-title="USA LOCAL",KUSI
+https://dai.google.com/linear/hls/pa/event/YQrqEzS-QkeI4UECvYoWDA/stream/830f84db-2a6f-478d-b384-b9bd732e5aba:GRQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FzxuNhl.png" group-title="USA LOCAL",KVVB-TV 33
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b1000000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Leominster TV Educational" tvg-logo="https://i.imgur.com/nEG2ZST.png" group-title="USA LOCAL",Leominster TV Educational
@@ -89,6 +99,12 @@ http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_
 https://ottmanifest.weathergroup.com/live/10.233.185.101:58081/api/v1/live/hls/localnow/index.m3u8?network=OTT&experienceid=paPhiladelphia&seid=532865b2-796b-497d-abb2-56df16f62f32&showlocalnow=false&cdn=https%3a//ottcdn-a.akamaihd.net&sessionId=LocalNowWeb_bW9jLm9vYWNiQDM4NzkwZXd0&format=HLS&tpp=10443
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YnOZtNm.png" group-title="USA LOCAL",LoveWorld USA
 https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8
+#EXTINF:-1 tvg-name="MCN6" tvg-id="Metro Cable" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/KOgoXoG.png",MCN6
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
+#EXTINF:-1 tvg-name="MCN6 Arts Channel" tvg-id="Metro Cable" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/KOgoXoG.png",MCN6 Arts Channel
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
+#EXTINF:-1 tvg-name="MCN6 Music Channel" tvg-id="Metro Cable" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/KOgoXoG.png",MCN6 Music Channel
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 #EXTINF:-1 tvg-name="Miami City TV" tvg-id="Miami City TV" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/HJohrzO.png",Miami City TV
 https://granicusliveus9-a.akamaihd.net/miamifl/G2076_003/playlist.m3u8
 #EXTINF:-1 tvg-name="Miami TV" tvg-id="Miami TV" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/JmUUVL1.png",Miami TV
@@ -125,8 +141,12 @@ https://cdn006.teleuptv.net/rTK2EQCVCX/playlist.m3u8
 http://granicusliveus12-a.akamaihd.net/rockvillemd/G0458_001/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TSTV" tvg-logo="https://i.imgur.com/tV8tVxQ.png" group-title="USA LOCAL",TSTV
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVW" tvg-logo="https://i.imgur.com/SrRxU67.png" group-title="USA LOCAL",TVW
+https://wowzaprod13-i.akamaihd.net/hls/live/254985/29c28f19/persisTarget_9375922947_TVWAIR_247_720p/chunklist.m3u8
 #EXTINF:-1 tvg-name="UCTV - University of California" tvg-id="UCTV - University of California" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/ehMz9T5.png",UCTV - University of California
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UWW-TV (Stream sometimes)" tvg-logo="https://i.imgur.com/bF9jznS.png" group-title="USA LOCAL",UWW-TV (Stream sometimes)
+http://vanadium.uww.edu:1935/uwwlive/smil:uwwtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WCCA-TV (Worcester)" tvg-logo="https://i.imgur.com/EX5hpVY.png" group-title="USA LOCAL",WCCA-TV (Worcester)
 http://worcester.vod.castus.tv/live/ch1.m3u8
 #EXTINF:-1 tvg-name="WFTV Channel 9 - Florida - Orlando" tvg-id="WFTV" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/S3fqmWY.png",WFTV Channel 9 - Florida - Orlando
