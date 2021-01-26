@@ -3037,25 +3037,71 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 https://c.mjh.nz/101002210220/
 #EXTINF:-1 tvg-name="ACCTV" tvg-id="" tvg-logo="http://i.mjh.nz/.images/tv.acctv.png" group-title="AUSTRALIA",ACCTV
 https://i.mjh.nz/au/Sydney/tv.acctv.m3u8
+#EXTINF:-1 tvg-name="Action Hollywood Movies" tvg-id="" tvg-logo="https://i.imgur.com/wnlzC0w.jpg" group-title="AUSTRALIA",Action Hollywood Movies
+https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Ausbiz TV" tvg-id="tv.7ausbiz" tvg-logo="https://i.imgur.com/8hYBj3q.png" group-title="AUSTRALIA",Ausbiz TV
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
-#EXTINF:-1 tvg-name="Bloomberg Australia" tvg-id="australiachannel.com.au" tvg-logo="https://i.imgur.com/KKFqbHw.png" group-title="AUSTRALIA",Bloomberg Australia
-https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8
-#EXTINF:-1 tvg-name="C31 Melbourne" tvg-id="" tvg-logo="https://i.imgur.com/Tl79upK.jpg" group-title="AUSTRALIA",C31 Melbourne
-https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8
-#EXTINF:-1 tvg-name="Expo Channel" tvg-id="" tvg-logo="https://i.imgur.com/RpCWw2I.png" group-title="AUSTRALIA",Expo Channel
-https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="AUSTRALIA",Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 #EXTINF:-1 tvg-name="Australian Sports Channel" tvg-id="australiachannel.com.au" tvg-logo="https://i.imgur.com/vLdszKt.png" group-title="AUSTRALIA",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 tvg-name="Bloomberg Australia" tvg-id="australiachannel.com.au" tvg-logo="https://i.imgur.com/KKFqbHw.png" group-title="AUSTRALIA",Bloomberg Australia
+https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8
+#EXTINF:-1 tvg-name="Bounty Plus" tvg-id="" tvg-logo="https://i.imgur.com/Q8mmLAB.png" group-title="AUSTRALIA",Bounty Plus
+https://bountyfilms-bounty-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="C31 Melbourne" tvg-id="" tvg-logo="https://i.imgur.com/Tl79upK.jpg" group-title="AUSTRALIA",C31 Melbourne
+https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8
+#EXTINF:-1 tvg-name="Dry Bar Comedy" tvg-id="" tvg-logo="https://i.imgur.com/XDqmN1R.png" group-title="AUSTRALIA",Dry Bar Comedy
+https://drybar-drybarcomedy-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="DUST" tvg-name="" tvg-logo="https://i.imgur.com/pXXUmuW.jpg" group-title="AUSTRALIA",DUST
+https://dust-samsung-uk-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name=EURONEWS tvg-id=Euronews.au tvg-logo=https://i.imgur.com/szYOy8S.jpg group-title="AUSTRALIA",EURONEWS
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Expo Channel" tvg-id="" tvg-logo="https://i.imgur.com/RpCWw2I.png" group-title="AUSTRALIA",Expo Channel
+https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8
+#EXTINF:-1 tvg-name="Filmstream" tvg-id="" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="AUSTRALIA",Filmstream
+https://spi-filmstream-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Fuel TV" tvg-id="" tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="AUSTRALIA",Fuel TV
+https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Gusto TV" tvg-id="" tvg-logo="https://i.imgur.com/DZD4jTq.png" group-title="AUSTRALIA",Gusto TV
+https://gustotv-samsung-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Horse and Country" tvg-id="" tvg-logo="https://i.imgur.com/r5Ip3P0.png" group-title="AUSTRALIA",Horse and Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Insight TV" tvg-id="" tvg-logo="https://i.imgur.com/gKNP2Gd.png" group-title="AUSTRALIA",Insight TV
+https://insighttv-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Introuble TV" tvg-id="" tvg-logo="https://i.imgur.com/iVw55kC.png" group-title="AUSTRALIA",Introuble TV
+https://introuble-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Inwild TV" tvg-id="" tvg-logo="https://i.imgur.com/VSiG39E.png" group-title="AUSTRALIA",Inwild TV
+https://inwild-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Inwonder TV" tvg-id="" tvg-logo="https://i.imgur.com/d3LshRd.png" group-title="AUSTRALIA",Inwonder TV
+https://inwonder-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name"Juice" tvg-id="" tvg-logo="https://i.mjh.nz/.images/tv.juice.png" group-title="AUSTRALIA",Juice TV
 https://i.mjh.nz/nz/tv.juice.m3u8
+#EXTINF:-1 tvg-name"MAVTV Motor Sports" tvg-id="" tvg-logo="https://i.imgur.com/CqAhL91.png" group-title="AUSTRALIA",MAVTV Motor Sports
+https://mavtv-mavtvglobal-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="MIS Televizija" tvg-id="" tvg-logo="https://i.imgur.com/XaXRbxj.png" group-title="AUSTRALIA",MIS Televizija
 https://5afd52b55ff79.streamlock.net/MISTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-name="Outdoor Channel" tvg-id="" tvg-logo="https://i.imgur.com/mcUDAhZ.png" group-title="AUSTRALIA",Outdoor Channel
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Pulse TV" tvg-id="" tvg-logo="https://i.imgur.com/vQ6cBdd.png" group-title="AUSTRALIA",Pulse TV
+https://lightning-pulse-samsungaustralia.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QUEST TV Classical" tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="AUSTRALIA",QUEST TV Classical
+https://qwestclassic-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QUEST TV Jazz and Beyond" tvg-logo="https://i.imgur.com/bhSrOea.jpg" group-title="AUSTRALIA",QUEST TV Jazz and Beyond
+https://qwestjazz-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QUEST TV MIX" tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="AUSTRALIA",QUEST TV MIX
+https://qwestmix-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Racing.com" tvg-id="Racing.com" tvg-logo="https://i.imgur.com/NAY9DTt.png" group-title="AUSTRALIA",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
 #EXTINF:-1 tvg-name="Rainbow TV Chinese" tvg-logo="https://i.imgur.com/gRrfqSb.png" group-title="AUSTRALIA",Rainbow TV Chinese
 http://rtvcdn.com.au:8082/TV_GG.m3u8
-#EXTINF:-1 tvg-name="Australian News Channel" tvg-id="australiachannel.com.au" tvg-logo="https://i.imgur.com/ZeC0jE4.png" group-title="AUSTRALIA",Sky News Australia
+#EXTINF:-1 tvg-name="Real Stories" tvg-logo="https://i.imgur.com/KOkWP6i.jpg" group-title="AUSTRALIA",Real Stories
+https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rialto" tvg-logo="https://i.imgur.com/RnzWT9C.jpg" group-title="AUSTRALIA",Rialto
+https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Ryan and Friends" tvg-logo="https://i.imgur.com/M8VTWFk.jpg" group-title="AUSTRALIA",Ryan and Friends
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky News Australia" tvg-id="australiachannel.com.au" tvg-logo="https://i.imgur.com/ZeC0jE4.png" group-title="AUSTRALIA",Sky News Australia
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 #EXTINF:-1 tvg-name="Sky News Australia Extra 1" tvg-id="skynews.com.au" tvg-logo="https://i.imgur.com/1XiQezD.png" group-title="AUSTRALIA",Sky News Australia Extra 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
@@ -3063,8 +3109,20 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 #EXTINF:-1 tvg-name="Sky News Australia Extra 3" tvg-id="skynews.com.au" tvg-logo="https://i.imgur.com/1XiQezD.png" group-title="AUSTRALIA",Sky News Australia Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 tvg-name="Smithsonian Channel" tvg-id="" tvg-logo="https://i.imgur.com/weNdD7r.png" group-title="AUSTRALIA",Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vuFx0Zd.jpg" group-title="AUSTRALIA",Snowy Mountains TV
+http://c.mjh.nz/snowy-mountains/
+#EXTINF:-1 tvg-id="" tvg-name="Toon Goggles" tvg-logo="https://i.imgur.com/XusVyxA.jpg" group-title="AUSTRALIA",Toon Goggles
+https://toongoggles-toongoggles-3-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="AUSTRALIA",Travel XP
+https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="TVSN" tvg-logo="https://i.imgur.com/TuHnkxP.png" group-title="AUSTRALIA",TVSN
 https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
+#EXTINF:-1 tvg-name="VENN" tvg-logo="https://i.imgur.com/H8ucPJd.jpg" group-title="AUSTRALIA",VENN
+https://venntv-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Zoo Moo" tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="AUSTRALIA",Zoo Moo
+https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="***************** NEWZEALAND ************" tvg-id="" group-title="" tvg-logo="",***************** NEWZEALAND ************
 https://tvnzliveios-i.akamaihd.net/hls/live/248954/tvnzliveios/16320191519/0253/master.m3u8
 #EXTINF:-1 tvg-name="Firstlight" tvg-id="" group-title="NEWZEALAND" tvg-logo="https://i.imgur.com/2TKL6BX.png",Firstlight
