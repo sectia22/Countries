@@ -45,7 +45,7 @@ https://bozztv.com/teleyupp/teleup-cspan/playlist.m3u8
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.cbn.com/images8/cbnnews/CBN-OG.jpg" group-title="USA",CBN News Channel
 https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
-#EXTINF:-1 tvg-name="CBSN" tvg-id="CBSN" group-title="USA" tvg-logo="https://i.imgur.com/nki2HDQ.png",CBSN
+#EXTINF:-1 tvg-name="CBS Network" tvg-id="CBSN" group-title="USA" tvg-logo="https://i.imgur.com/nki2HDQ.png",CBS Network
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2OnFFoP.png" group-title="USA",Cheddar
 https://live.chdrstatic.com/cheddar/primary/1.m3u8
