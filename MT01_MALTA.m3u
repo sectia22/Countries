@@ -3,6 +3,8 @@
 https://2-fss-2.streamhoster.com/pl_124/201830-1293592-1/playlist.m3u8
 #EXTINF:-1 tvg-name="One" tvg-id="" group-title="MALTA" tvg-logo="",One
 https://2-fss-2.streamhoster.com/pl_124/201830-1293592-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Smash TV" tvg-id="" group-title="MALTA" tvg-logo="",Smash TV
+http://s3.smashmalta.com/hls/smash/smash.m3u8
 #EXTINF:-1 tvg-name="TVM News" tvg-id="" group-title="MALTA" tvg-logo="",TVM News
 plugin://plugin.video.youtube/play/?video_id=kZnhMpR_w78
 
