@@ -3,9 +3,7 @@
 https://2-fss-2.streamhoster.com/pl_124/201830-1293592-1/playlist.m3u8
 #EXTINF:-1 tvg-name="One" tvg-id="" group-title="MALTA" tvg-logo="",One
 https://2-fss-2.streamhoster.com/pl_124/201830-1293592-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Smash TV" tvg-id="" group-title="MALTA" tvg-logo="",Smash TV
+http://s3.smashmalta.com/hls/smash/smash.m3u8
 #EXTINF:-1 tvg-name="TVM News" tvg-id="" group-title="MALTA" tvg-logo="",TVM News
 plugin://plugin.video.youtube/play/?video_id=kZnhMpR_w78
-#EXTINF:-1 tvg-name="TVM 1" tvg-id="" group-title="MALTA" tvg-logo="",TVM 1
-https://live.23video.com/live/amlst:7200b599hs4vvt8hhqf5qv6rv6:16966825-2ca040dbfeea9e5cb868.mp4/playlist.m3u8
-#EXTINF:-1 tvg-name="TVM 2" tvg-id="" group-title="MALTA" tvg-logo="",TVM 2
-https://live.23video.com/live/amlst:rc3k1o5mon4414q20i9kf1bhn4:16973314-1185a91eaad15f019b1b.mp4/playlist.m3u8
