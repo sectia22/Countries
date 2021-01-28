@@ -1509,6 +1509,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccf5?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1 tvg-ID="PLEX.TV.Party.Tyme.Karaoke" tvg-name="Party Tyme Karaoke" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/party-tyme-karaoke.png" group-title="PLEX USA",Party Tyme Karaoke
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7ac?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/F6ca9IG.png" group-title="PLEX USA",PopcornFlix
+https://popcornflix-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="************** USA PLUTO *********" tvg-id="" group-title="" tvg-logo="",************** USA  PLUTO  *********
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=95&deviceId=5ca525b650be2571e3943c63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="70s Cinema" tvg-logo="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png" group-title="PLUTO USA",70s Cinema
@@ -4705,6 +4707,8 @@ https://59cba4d34b678.streamlock.net/canlitv/arastv/playlist.m3u8?hash=16134c485
 https://waw2.artiyerelmedya.net/astv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-name="ATR Kirim Tatar" tvg-id="ATR Kirim Tatar" tvg-logo="https://i.imgur.com/ysvDr1D.jpg" group-title="TURKEY",ATR Kırım Tatar
 http://stream.atr.ua/atr//live/index.m3u8
+#EXTINF:-1 tvg-id="ATV Avrupa" tvg-name="ATV Avrupa" tvg-logo="https://i.ibb.co/k4yHhn7/atvavrupa.png" group-title="TURKEY",ATV Avrupa
+http://iptvmasterlink.dyndns.org:5566/Entry/atvavrupa_yeni.m3u8
 #EXTINF:-1 tvg-name="ATV Alanya" tvg-id="" tvg-logo="https://i.imgur.com/Jo6DJUe.png" group-title="TURKEY",ATV Alanya
 http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Av TV" tvg-id="" tvg-logo="https://i.imgur.com/j535lf4.png" group-title="TURKEY",Av TV
@@ -4713,6 +4717,8 @@ http://195.142.1.213:1935/avtv/avtv/playlist.m3u8
 https://cdn-berattv.yayin.com.tr/berattv/berattv/chunklist_w401133734.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Besiktas Web TV" tvg-logo="https://i.imgur.com/xa1Vjw5.png" group-title="TURKEY",Besiktas Web TV
 https://s01.vpis.io/besiktas/besiktas.m3u8
+#EXTINF:-1 tvg-id="Beyaz TV" tvg-name="Beyaz TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Msq17kK/beyaztv.png" group-title="TURKEY",Beyaz TV
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 #EXTINF:-1 tvg-name="Beykent TV" tvg-id="" tvg-logo="https://i.imgur.com/ia7io8Z.png" group-title="TURKEY",Beykent TV
 https://beykenttv.arsivnet.net/P62039948/beykenttv/chunklist_w1942204286.m3u8
 #EXTINF:-1 tvg-name="Bitlis TV" tvg-id="" tvg-logo="https://i.imgur.com/wcaXa08.jpg" group-title="TURKEY",Bitlis TV
@@ -4893,6 +4899,8 @@ https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_7
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/chunklist_b500000.m3u8
 #EXTINF:-1 tvg-name="Sinop Yildiz TV" tvg-id="" tvg-logo="https://i.imgur.com/qk102lK.png" group-title="TURKEY",Sinop Yildiz TV
 https://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
+#EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/q0jrHyZ/show.png" group-title="TURKEY",Show TV
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:-1 tvg-name="Sports TV" tvg-id="" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="TURKEY",Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv_sd/index.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0
 #EXTINF:-1 tvg-id="" tvg-name="Star TV" tvg-logo="https://i.imgur.com/mCGbz8P.png" group-title="TURKEY",Star TV
