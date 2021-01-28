@@ -1509,8 +1509,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccf5?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1 tvg-ID="PLEX.TV.Party.Tyme.Karaoke" tvg-name="Party Tyme Karaoke" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/party-tyme-karaoke.png" group-title="PLEX USA",Party Tyme Karaoke
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7ac?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/F6ca9IG.png" group-title="PLEX USA",PopcornFlix
-https://popcornflix-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="************** USA PLUTO *********" tvg-id="" group-title="" tvg-logo="",************** USA  PLUTO  *********
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=95&deviceId=5ca525b650be2571e3943c63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="70s Cinema" tvg-logo="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png" group-title="PLUTO USA",70s Cinema
