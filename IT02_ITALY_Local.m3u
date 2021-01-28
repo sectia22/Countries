@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*************** ITALY ************" tvg-logo="https://i.imgur.com/PzFJG5f.png",*************** ITALY ************
+#EXTINF:-1 tvg-name="*************** ITALY LOCAL ************" tvg-logo="https://i.imgur.com/PzFJG5f.png",*************** ITALY LOCAL ************
 https://meridelive01-lh.akamaihd.net/i/tvparma_1@356964/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="12 TV Parma" tvg-logo="" group-title="ITALY LOCAL",12 TV Parma
 https://meridelive01-lh.akamaihd.net/i/tvparma_1@356964/master.m3u8
