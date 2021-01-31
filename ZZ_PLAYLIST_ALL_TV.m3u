@@ -6261,7 +6261,7 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOLX Music (Not until Kodi 19!)" tvg-logo="https://i.imgur.com/R9f5Fmx.png" group-title="MUSIK",FOLX Music  (Not until Kodi 19!)
 https://lemp.smmx.dev/streams/ch-4/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOLX Slovenija (Not until Kodi 19!)" tvg-logo="https://i.imgur.com/R9f5Fmx.png" group-title="MUSIK",FOLX Slovenija (Not until Kodi 19!)
-https://lemp.smmx.dev/streams/ch-6/master.m3u8
+https://lemp.smmx.dev/streams/ch-5/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5MLGsFs.png" group-title="MUSIK",Friday Feels (US)
 https://7d6f1eaab26244879085a9c647097af7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_plex/8d5f1f7f-8546-4892-9eca-988e973d6cc2/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Generations TV (FR)" tvg-logo="https://i.imgur.com/daUGyPl.jpg" group-title="FRANCE;MUSIK",Generations TV (FR)
@@ -6317,7 +6317,7 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ONE1 Music (Not until Kodi 19!)" tvg-logo="https://i.imgur.com/fHbHbEH.png" group-title="MUSIK",ONE1 Music (Not until Kodi 19!)
 https://lemp.smmx.dev/streams/ch-3/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ONE1 Slovenija (Not until Kodi 19!)" tvg-logo="https://i.imgur.com/fHbHbEH.png" group-title="MUSIK",ONE1 Slovenija (Not until Kodi 19!)
-https://lemp.smmx.dev/streams/ch-5/master.m3u8
+https://lemp.smmx.dev/streams/ch-6/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gMj1BQR.jpg" group-title="MUSIK",Only 90s Kids will understand (US)
 https://526cbf93692f48879c403ab8c1350e2a.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_plex/76979eef-8053-48eb-a1dc-b165e0d3dbf9/5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="MUSIK",Otto FM TV (IT)
@@ -6384,19 +6384,21 @@ https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_
 https://6f293d7819ba4cf39ea9152700ad54ad.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_plex/eea1884a-76ca-461b-886d-9707c39c0fbb/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZWEI2 Music (Not until Kodi 19!)" tvg-logo="https://i.imgur.com/VVwHID9.png" group-title="MUSIK",ZWEI2 Music (Not until Kodi 19!)
 https://lemp.smmx.dev/streams/ch-2/master.m3u8
+#EXTINF:-1 tvg-name="* Special List by Kodinerds Germany *" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/YX6YYuh.jpg",* Special List by Kodinerds Germany *
+https://
 #EXTINF:-1 tvg-name="****** GERMANY ******" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/gJGRDcn.jpg",****** GERMANY ******
-https://22603.live.streamtheworld.com/AFNE_WBN_SC?csegid=15
-#EXTINF:-1 tvg-name="AFN Radio Wiesbaden" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/MjuO9lL.jpg",AFN Radio Wiesbaden
-https://22603.live.streamtheworld.com/AFNE_WBN_SC?csegid=15
-#EXTINF:-1 tvg-name="Fun Radio 92.7 Alabama" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/uHm1KSm.png",Fun Radio 92.7 Alabama
-https://ais-edge08-live365-dal02.cdnstream.com/a20884
-#EXTINF:-1 tvg-name="105'5 Spreeradio" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/SfdY3rr.png",105'5 Spreeradio
+https://
+#EXTINF:-1 tvg-name="105'5 Spreeradio (Emsbürener)" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/SfdY3rr.png",105'5 Spreeradio  (Emsbürener)
 http://stream.spreeradio.de/spree-live/mp3-128/konsole
-#EXTINF:-1 tvg-name="105'5 Spreeradio 80er" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/1iayQmM.png",105'5 Spreeradio 80er
+#EXTINF:-1 tvg-name="105'5 Spreeradio 80er (Emsbürener)" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/1iayQmM.png",105'5 Spreeradio 80er  (Emsbürener)
 http://stream.spreeradio.de/spree-80er/mp3-128/konsole
-#EXTINF:-1 tvg-name="Ems Vechte Welle" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/bPCsrYQ.jpg",Ems Vechte Welle
+#EXTINF:-1 tvg-name="AFN Wiesbaden (Emsbürener)" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/MjuO9lL.jpg",AFN Wiesbaden  (Emsbürener)
+https://22603.live.streamtheworld.com/AFNE_WBN_SC?csegid=15
+#EXTINF:-1 tvg-name="Ems Vechte Welle (Emsbürener)" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/bPCsrYQ.jpg",Ems Vechte Welle  (Emsbürener)
 https://live.radio-aktiv.de/evw.mp3
+#EXTINF:-1 tvg-name="Rock Antenne (Lightboy)" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/eZKNvkT.png",Rock Antenne (Lightboy)
+https://stream.rockantenne.de/rockantenne/stream/mp3
 #EXTINF:-1 tvg-name="****** USA ******" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/FDdeKor.png",****** USA ******
-https://ais-edge08-live365-dal02.cdnstream.com/a20884
-#EXTINF:-1 tvg-name="Fun Radio 92.7 Alabama" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/uHm1KSm.png",Fun Radio 92.7 Alabama
+https://
+#EXTINF:-1 tvg-name="Fun Radio 92.7 Alabama (Emsbürener)" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/uHm1KSm.png",Fun Radio 92.7 Alabama  (Emsbürener)
 https://ais-edge08-live365-dal02.cdnstream.com/a20884
