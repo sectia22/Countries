@@ -6382,7 +6382,7 @@ https://6f293d7819ba4cf39ea9152700ad54ad.mediatailor.us-west-2.amazonaws.com/v1/
 https://lemp.smmx.dev/streams/ch-2/master.m3u8
 #EXTINF:-1 tvg-name="****** GERMANY ******" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/gJGRDcn.jpg",****** GERMANY ******
 https://22603.live.streamtheworld.com/AFNE_WBN_SC?csegid=15
-#EXTINF:-1 tvg-name="AFN Radio Wiesbaden" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/MjuO9lL.jpg",Wiesbaden
+#EXTINF:-1 tvg-name="AFN Radio Wiesbaden" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/MjuO9lL.jpg",AFN Radio Wiesbaden
 https://22603.live.streamtheworld.com/AFNE_WBN_SC?csegid=15
 #EXTINF:-1 tvg-name="Fun Radio 92.7 Alabama" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/uHm1KSm.png",Fun Radio 92.7 Alabama
 https://ais-edge08-live365-dal02.cdnstream.com/a20884
