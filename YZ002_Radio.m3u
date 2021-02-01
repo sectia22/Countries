@@ -9,7 +9,9 @@ http://stream.spreeradio.de/spree-80er/mp3-128/konsole
 https://22603.live.streamtheworld.com/AFNE_WBN_SC?csegid=15
 #EXTINF:-1 tvg-name="Ems Vechte Welle" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/bPCsrYQ.jpg",Ems Vechte Welle
 https://live.radio-aktiv.de/evw.mp3
-#EXTINF:-1 tvg-name="Rock Antenne" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/eZKNvkT.png",Rock Antenne (Lightboy)
+#EXTINF:-1 tvg-name="Nostalgie Route 66" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/Y6bNYBf.jpg",Nostalgie Route 66
+http://cdn.nrjaudio.fm/adwz1/de/57485/mp3_128.mp3
+#EXTINF:-1 tvg-name="Rock Antenne" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/eZKNvkT.png",Rock Antenne
 https://stream.rockantenne.de/rockantenne/stream/mp3
 #EXTINF:-1 tvg-name="****** USA ******" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/FDdeKor.png",****** USA ******
 https://
