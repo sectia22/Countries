@@ -1,19 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="* Special List by Kodinerds Germany *" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/YX6YYuh.jpg",* Special List by Kodinerds Germany *
+#EXTINF:-1 tvg-name="****** GERMANY ******" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/gJGRDcn.jpg",****** GERMANY ******
 https://
-#EXTINF:-1 tvg-name="****** GERMANY ******" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/gJGRDcn.jpg",****** GERMANY ******
-https://
-#EXTINF:-1 tvg-name="105'5 Spreeradio (Emsbürener)" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/SfdY3rr.png",105'5 Spreeradio  (Emsbürener)
+#EXTINF:-1 tvg-name="105'5 Spreeradio" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/SfdY3rr.png",105'5 Spreeradio
 http://stream.spreeradio.de/spree-live/mp3-128/konsole
-#EXTINF:-1 tvg-name="105'5 Spreeradio 80er (Emsbürener)" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/1iayQmM.png",105'5 Spreeradio 80er  (Emsbürener)
+#EXTINF:-1 tvg-name="105'5 Spreeradio 80er" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/1iayQmM.png",105'5 Spreeradio 80er
 http://stream.spreeradio.de/spree-80er/mp3-128/konsole
-#EXTINF:-1 tvg-name="AFN Wiesbaden (Emsbürener)" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/MjuO9lL.jpg",AFN Wiesbaden  (Emsbürener)
+#EXTINF:-1 tvg-name="AFN Wiesbaden" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/MjuO9lL.jpg",AFN Wiesbaden
 https://22603.live.streamtheworld.com/AFNE_WBN_SC?csegid=15
-#EXTINF:-1 tvg-name="Ems Vechte Welle (Emsbürener)" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/bPCsrYQ.jpg",Ems Vechte Welle  (Emsbürener)
+#EXTINF:-1 tvg-name="Ems Vechte Welle" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/bPCsrYQ.jpg",Ems Vechte Welle
 https://live.radio-aktiv.de/evw.mp3
-#EXTINF:-1 tvg-name="Rock Antenne (Lightboy)" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/eZKNvkT.png",Rock Antenne (Lightboy)
+#EXTINF:-1 tvg-name="Rock Antenne" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/eZKNvkT.png",Rock Antenne (Lightboy)
 https://stream.rockantenne.de/rockantenne/stream/mp3
 #EXTINF:-1 tvg-name="****** USA ******" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/FDdeKor.png",****** USA ******
 https://
-#EXTINF:-1 tvg-name="Fun Radio 92.7 Alabama (Emsbürener)" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/uHm1KSm.png",Fun Radio 92.7 Alabama  (Emsbürener)
+#EXTINF:-1 tvg-name="Fun Radio 92.7 Alabama" group-title="RADIO USA" radio="true" tvg-logo="https://i.imgur.com/uHm1KSm.png",Fun Radio 92.7 Alabama
 https://ais-edge08-live365-dal02.cdnstream.com/a20884
