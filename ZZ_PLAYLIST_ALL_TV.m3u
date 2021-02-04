@@ -77,19 +77,31 @@ https://rakuten-tvshows-3-de.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-tvshows-5-at.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Drama CH" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="SAMSUNG TV PLUS",Drama CH
 https://rakuten-tvshows-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Der Serienkanal DE (breaks off)" tvg-logo="https://i.imgur.com/l3C0eDv.jpg" group-title="SAMSUNG TV PLUS",Der Serienkanal DE (breaks off)
+https://endemol-derserienkanal-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Der Serienkanal AT (stop at ads)" tvg-logo="https://i.imgur.com/l3C0eDv.jpg" group-title="SAMSUNG TV PLUS",Der Serienkanal AT (stop at ads)
+https://endemol-derserienkanal-1-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Der Serienkanal CH (stop at ads)" tvg-logo="https://i.imgur.com/l3C0eDv.jpg" group-title="SAMSUNG TV PLUS",Der Serienkanal CH (stop at ads)
+https://endemol-derserienkanal-1-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV+" tvg-logo="https://i.imgur.com/ZYFF5YN.png" group-title="SAMSUNG TV PLUS",Bloomberg TV+
+https://bloomberg-bloombergtv-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="https://i.imgur.com/bD9jUgK.png" group-title="SAMSUNG TV PLUS",CNN International
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="DUST (en)" tvg-name="" tvg-logo="https://i.imgur.com/pXXUmuW.jpg" group-title="SAMSUNG TV PLUS",DUST (en)
 https://dust-samsung-uk-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name=EURONEWS tvg-id=Euronews.de tvg-logo=https://i.imgur.com/szYOy8S.jpg group-title="SAMSUNG TV PLUS",EURONEWS
+https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="FTF (en)" tvg-name="" tvg-logo="https://i.imgur.com/Db8nWyW.png" group-title="SAMSUNG TV PLUS",FTF (en)
 https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Fuel TV" tvg-name="" tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="SAMSUNG TV PLUS",Fuel TV
+#EXTINF:-1 tvg-id="Fuel TV" tvg-name="Fuel TV" tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="SAMSUNG TV PLUS",Fuel TV
 https://fueltv-fueltv-5-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GUSTO TV (en)" tvg-logo="https://i.imgur.com/vanl2NZ.jpg" group-title="SAMSUNG TV PLUS",GUSTO TV (en)
 https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Insight TV" tvg-id="" tvg-logo="https://i.imgur.com/gKNP2Gd.png" group-title="SAMSUNG TV PLUS",Insight TV
+#EXTINF:-1 tvg-id="" tvg-name="Insight TV" tvg-logo="https://i.imgur.com/gKNP2Gd.png" group-title="SAMSUNG TV PLUS",Insight TV
 https://insighttv-samsung-de.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Inwonder TV" tvg-id="" tvg-logo="https://i.imgur.com/2V9wsWp.png" group-title="SAMSUNG TV PLUS",Inwonder TV
+#EXTINF:-1 tvg-id="" tvg-name="Inwonder TV" tvg-logo="https://i.imgur.com/2V9wsWp.png" group-title="SAMSUNG TV PLUS",Inwonder TV
 https://inwonder-samsung-de.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Motorvision TV (en)" tvg-id="" tvg-logo="https://i.imgur.com/zcFYJLu.png" group-title="SAMSUNG TV PLUS",Motorvision TV (en)
+#EXTINF:-1 tvg-id="" tvg-name="Motorvision TV (en)" tvg-logo="https://i.imgur.com/zcFYJLu.png" group-title="SAMSUNG TV PLUS",Motorvision TV (en)
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-motorvisiontv/CDN/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Qello Concerts by Stingray" tvg-logo="https://i.imgur.com/IVUgJPY.png" group-title="SAMSUNG TV PLUS",Qello Concerts by Stingray
 https://stingray-qelloconcerts-2-de.samsung.wurl.com/manifest/playlist.m3u8
@@ -113,6 +125,8 @@ https://rakuten-spotlight-4-ch.samsung.wurl.com/manifest/playlist.m3u8
 https://stingray-karaoke-2-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Supertoons TV" tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="SAMSUNG TV PLUS",Supertoons TV
 https://kedoo-supertoonstv-5-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/dwMUVhs.png" group-title="SAMSUNG TV PLUS",Tastemade
+https://tastemade-de-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Teletubbies" tvg-logo="https://i.imgur.com/FlCXGip.jpg" group-title="SAMSUNG TV PLUS",Teletubbies
 https://dhx-teletubbies-3-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="SAMSUNG TV PLUS",Travel XP
@@ -976,7 +990,7 @@ https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Unindentified" tvg-logo="https://i.imgur.com/NdqpUbK.png" group-title="USA",Unindentified
 https://studio1091-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/usa-network.png" group-title="USA",USA Network
-https://cdn008.teleuptv.net/JnVLClgyvD/playlist.m3u8
+https://ts001.teleuptv.net/JnVLClgyvD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Venn TV" tvg-logo="https://i.imgur.com/MYHC666.png" group-title="USA",Venn TV
 https://venntv-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Voice of America" tvg-name="Voice of America" tvg-logo="https://i.imgur.com/ieoPf2G.png" group-title="USA",Voice of America
@@ -1010,7 +1024,7 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestrea
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5MfhbGP.png" group-title="USA LOCAL",7News - Boston
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="16 WAPT" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/abc.png" group-title="USA LOCAL",ABC 16 WAPT (Mississippi)
-https://cdn008.teleuptv.net/oKMfGHckPJ/playlist.m3u8
+https://ts001.teleuptv.net/oKMfGHckPJ/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Akaku 53 (Hawaii)" tvg-logo="https://i.imgur.com/y7qpxAT.jpg" group-title="USA LOCAL",Akaku 53 (Hawaii)
 https://akaku.vod.castus.tv/live/ch1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Akaku 54 (Hawaii)" tvg-logo="https://i.imgur.com/y7qpxAT.jpg" group-title="USA LOCAL",Akaku 54 (Hawaii)
@@ -1040,7 +1054,7 @@ http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tmKtbf9.png" group-title="USA LOCAL",Capital City Connection Montgomery
 http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="WHP 21" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/zunsky.png" group-title="USA LOCAL",CBS WHP 21 (Harrisburg, Pennsylvania)
-https://cdn008.teleuptv.net/XYH8cX6OUm/playlist.m3u8
+https://ts002.teleuptv.net/XYH8cX6OUm/playlist.m3u8
 #EXTINF:-1 tvg-name="CCX Media - Minnesota" tvg-id="NWCT 12" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/VqaF8Rd.png",CCX Media - Minnesota
 http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTV" tvg-logo="https://i.imgur.com/6zzwmfK.jpg" group-title="USA LOCAL",CGTV
@@ -1088,7 +1102,7 @@ http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KOMO 4 TV Seattle (news feed only)" tvg-logo="https://i.imgur.com/g9qLJ2l.jpg" group-title="USA LOCAL",KOMO 4 TV Seattle (news feed only)
 https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KTLA 5" tvg-logo="https://i.imgur.com/JH99Psi.jpg" group-title="USA LOCAL",KTLA 5 (Los Angeles)
-https://cdn006.teleuptv.net/N8qwnqgUq2/playlist.m3u8
+https://ts002.teleuptv.net/N8qwnqgUq2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KTLA 5 (2) (news feed only)" tvg-logo="https://i.imgur.com/JH99Psi.jpg" group-title="USA LOCAL",KTLA 5 (2) (news feed only)
 https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KUSI" tvg-logo="https://i.imgur.com/4uDFUNi.png" group-title="USA LOCAL",KUSI
@@ -1118,7 +1132,7 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w8236309
 #EXTINF:-1 tvg-ID="" tvg-name="WCTX" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/kpygox.png" group-title="USA LOCAL",My9 WCTX My Network TV (Connecticut)
 https://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="NBC 6" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/nbc.png" group-title="USA LOCAL",NBC 6 (South Florida / Miami)
-https://cdn008.teleuptv.net/X2TfmeGBtg/playlist.m3u8
+https://ts002.teleuptv.net/X2TfmeGBtg/playlist.m3u8
 #EXTINF:-1 tvg-name="NO TV - New Orleans Television" tvg-id="New Orleans Television" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/QPWwlo4.png",NO TV - New Orleans Television
 https://5b0f5374bdf0c.streamlock.net:444/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1 tvg-name="NAU-TV - Northern Arizona University" tvg-id="NAU-TV" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/uNKEoa4.png",NAU-TV - Northern Arizona University
@@ -1142,7 +1156,7 @@ https://wowzaprod188-i.akamaihd.net/hls/live/730322/3fa8d5f5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Southeastern Channel" tvg-logo="https://i.imgur.com/5yAdX7E.png" group-title="USA LOCAL",Southeastern Channel
 http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="CW-WHP" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/ynslys.png" group-title="USA LOCAL",The CW-WHP 11 (Harrisburg, Pennsylvania)
-https://cdn006.teleuptv.net/rTK2EQCVCX/playlist.m3u8
+https://ts002.teleuptv.net/rTK2EQCVCX/playlist.m3u8
 #EXTINF:-1 tvg-name="The Rockville Channel" tvg-id="The Rockville Channel" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/0mvGibX.jpg",The Rockville Channel
 http://granicusliveus12-a.akamaihd.net/rockvillemd/G0458_001/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TSTV" tvg-logo="https://i.imgur.com/tV8tVxQ.png" group-title="USA LOCAL",TSTV
@@ -1158,7 +1172,7 @@ http://worcester.vod.castus.tv/live/ch1.m3u8
 #EXTINF:-1 tvg-name="WFTV Channel 9 - Florida - Orlando" tvg-id="WFTV" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/S3fqmWY.png",WFTV Channel 9 - Florida - Orlando
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftve2-hls-v3/live.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/lpaqfc.png" group-title="USA LOCAL",WGN9 (Chicago)
-https://cdn006.teleuptv.net/mBm5MQ50rA/playlist.m3u8
+https://ts002.teleuptv.net/mBm5MQ50rA/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="White Plains Community Media" tvg-logo="https://i.imgur.com/hhjrOB1.png" group-title="USA LOCAL",White Plains Community Media
 http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
 #EXTINF:-1 tvg-name="WHOH TV - Hastings-On-Hudson - NY" tvg-id="WHOH TV" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/oua9m6O.jpg",WHOH TV - Hastings-On-Hudson - NY
@@ -1170,13 +1184,13 @@ https://d2eit0bra9qkiw.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4i7Ve3E.png" group-title="USA LOCAL",WMFD (Mansfield - Ohio)
 https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA LOCAL",WPMT FOX 43 (Harrisburg - Pennsylvania)
-https://cdn008.teleuptv.net/o8XVqW4mQw/playlist.m3u8
+https://ts002.teleuptv.net/o8XVqW4mQw/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="WPSU" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/eqanuc.png" group-title="USA LOCAL",WPSU PBS (Penn State - Pennsylvania)
 https://bozztv.com/teleyupp/lnABbIUBrO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WSVI TV - Virgin Islands USA" tvg-logo="https://i.imgur.com/SlS8xic.png" group-title="USA",WSVI TV - Virgin Islands USA
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="WSVN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/wxjzcq.png" group-title="USA LOCAL",WSVN FOX 7 (Florida)
-https://cdn006.teleuptv.net/GgIpXe0CjT/playlist.m3u8
+https://ts002.teleuptv.net/GgIpXe0CjT/playlist.m3u8
 #EXTINF:-1 tvg-name="***************** USA ALLSPRK ***********" tvg-id="" group-title="" tvg-logo="",**************** USA  ALLSPRK ***********
 https://stream.allsprk.tv/live/9/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALLSPRK USA",Artur
@@ -2798,13 +2812,13 @@ http://142.112.39.133:8080/catv.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Canal Savoir" tvg-logo="https://i.imgur.com/dSvUExH.png" group-title="CANADA",Canal Savoir
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/hfihtv.png" group-title="CANADA",CBC Toronto
-https://cdn006.teleuptv.net/ydcl2V1MVC/playlist.m3u8
+https://ts002.teleuptv.net/ydcl2V1MVC/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBC News" tvg-logo="https://i.imgur.com/gxGGalE.jpg" group-title="CANADA",CBC News
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV" tvg-logo="https://i.imgur.com/9eQ8msN.jpg" group-title="CANADA",CCTV
 https://wowzaprodhd45-lh.akamaihd.net/i/96d54ef6_1@438617/master.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/byqsfg.png" group-title="CANADA",CityTV Toronto
-https://cdn006.teleuptv.net/iSykLSKMFr/playlist.m3u8
+https://ts002.teleuptv.net/iSykLSKMFr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNTV" tvg-logo="https://i.imgur.com/7xIiFrK.jpg" group-title="CANADA",CNTV
 https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CPAC (EN)" tvg-logo="https://i.imgur.com/wwmapsS.png" group-title="CANADA",CPAC (EN)
@@ -2812,7 +2826,7 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3
 #EXTINF:-1 tvg-id="" tvg-name="CPAC (FR)" tvg-logo="https://i.imgur.com/wwmapsS.png" group-title="CANADA",CPAC (FR)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/uafvsq.png" group-title="CANADA",CTV Toronto
-https://cdn006.teleuptv.net/zxsJFt6VvY/playlist.m3u8
+https://ts002.teleuptv.net/zxsJFt6VvY/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Deal or no Deal" tvg-logo="https://i.imgur.com/soOgFFc.jpg" group-title="CANADA",Deal or no Deal
 https://endemol-dealornodeal-1-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DryBar Comedy" tvg-logo="https://i.imgur.com/a3mGVRE.jpg" group-title="CANADA",DryBar Comedy
@@ -2928,7 +2942,7 @@ http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 16 Toronto" tvg-logo="https://i.imgur.com/brxkNbw.png" group-title="CANADA",TV 16 Toronto
 http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/hpONhUM.png" group-title="CANADA",TVO
-https://cdn006.teleuptv.net/OMZsmYVUMp/playlist.m3u8
+https://ts002.teleuptv.net/OMZsmYVUMp/playlist.m3u8
 #EXTINF:-1 tvg-name="TVO Kids" tvg-logo="https://i.imgur.com/JgRDyaB.png" group-title="CANADA",TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Urdu TV Toronto" tvg-logo="https://i.imgur.com/7768lwn.jpg" group-title="CANADA",Urdu TV Toronto
