@@ -4,7 +4,7 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestrea
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5MfhbGP.png" group-title="USA LOCAL",7News - Boston
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="16 WAPT" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/abc.png" group-title="USA LOCAL",ABC 16 WAPT (Mississippi)
-https://ts002.teleuptv.net/oKMfGHckPJ/playlist.m3u8
+https://ts001.teleuptv.net/oKMfGHckPJ/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Akaku 53 (Hawaii)" tvg-logo="https://i.imgur.com/y7qpxAT.jpg" group-title="USA LOCAL",Akaku 53 (Hawaii)
 https://akaku.vod.castus.tv/live/ch1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Akaku 54 (Hawaii)" tvg-logo="https://i.imgur.com/y7qpxAT.jpg" group-title="USA LOCAL",Akaku 54 (Hawaii)
