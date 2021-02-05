@@ -113,8 +113,8 @@ https://qwestclassic-samsung-uk.amagi.tv/playlist.m3u8
 https://qwestmix-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Samsung Wildlife TV" tvg-logo="https://i.imgur.com/x06npU2.png" group-title="SAMSUNG TV PLUS",Samsung Wildlife TV
 https://d23gend7a1exlu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sofy TV (en)" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="SAMSUNG TV PLUS",Sofy TV (en)
-https://sofytv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sofy TV" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="SAMSUNG TV PLUS",Sofy TV
+https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Spotlight DE" tvg-logo="https://i.imgur.com/vbb3bjW.png" group-title="SAMSUNG TV PLUS",Spotlight DE
 https://rakuten-spotlight-3-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Spotlight AT" tvg-logo="https://i.imgur.com/vbb3bjW.png" group-title="SAMSUNG TV PLUS",Spotlight AT
@@ -4793,6 +4793,8 @@ https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/chunklist_w145659
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Credo TV" tvg-logo="https://i.imgur.com/AX5NsOv.jpg" group-title="ROMANIA",Credo TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$CredoTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 tvg-id="" tvg-name="Cornea TV" tvg-logo="https://i.imgur.com/cn89fLa.jpg" group-title="ROMANIA",Cornea TV
+http://89.149.30.158:1935/CorneaTV/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cromtel TV" tvg-logo="https://i.imgur.com/kNNRmS1.png" group-title="ROMANIA",Cromtel TV
 http://webmobile.xdev.ro:81/tv7/playlist.m3u8?time=1463062060161
 #EXTINF:-1 tvg-id="" tvg-name="Digi 24" tvg-logo="https://i.imgur.com/k4TQOHi.png" group-title="ROMANIA",Digi 24
@@ -6368,6 +6370,8 @@ http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
 https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="DELUXEMUSIC (DE) 2" tvg-id="DeLuxeMusic.de" group-title="MUSIK" tvg-logo="https://i.imgur.com/Y9Y2YYx.png",DELUXEMUSIC (DE) 2
 https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/chunklist_b500000_slde.m3u8
+#EXTINF:-1 tvg-name="DELUXEMUSIC - Schlager Deluxe" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/1xeC9yM.png",DELUXEMUSIC - Schlager Deluxe
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26411877144_2102_61314video_480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DBM (FR)" tvg-logo="https://i.imgur.com/KOlCUJ9.jpg" group-title="FRANCE;MUSIK",DBM (FR)
 https://edge6.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
 #EXTINF:-1 tvg-name="Ditty TV (US)" tvg-id="DittyTV.com" group-title="MUSIK" tvg-logo="https://i.imgur.com/p5rREUo.png",Ditty TV (US)
