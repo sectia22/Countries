@@ -55,8 +55,8 @@ https://qwestclassic-samsung-uk.amagi.tv/playlist.m3u8
 https://qwestmix-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Samsung Wildlife TV" tvg-logo="https://i.imgur.com/x06npU2.png" group-title="SAMSUNG TV PLUS",Samsung Wildlife TV
 https://d23gend7a1exlu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sofy TV (en)" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="SAMSUNG TV PLUS",Sofy TV (en)
-https://sofytv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sofy TV" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="SAMSUNG TV PLUS",Sofy TV
+https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Spotlight DE" tvg-logo="https://i.imgur.com/vbb3bjW.png" group-title="SAMSUNG TV PLUS",Spotlight DE
 https://rakuten-spotlight-3-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Spotlight AT" tvg-logo="https://i.imgur.com/vbb3bjW.png" group-title="SAMSUNG TV PLUS",Spotlight AT
