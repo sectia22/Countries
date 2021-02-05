@@ -37,6 +37,8 @@ http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
 https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="DELUXEMUSIC (DE) 2" tvg-id="DeLuxeMusic.de" group-title="MUSIK" tvg-logo="https://i.imgur.com/Y9Y2YYx.png",DELUXEMUSIC (DE) 2
 https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/chunklist_b500000_slde.m3u8
+#EXTINF:-1 tvg-name="DELUXEMUSIC - Schlager Deluxe" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/1xeC9yM.png",DELUXEMUSIC - Schlager Deluxe
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26411877144_2102_61314video_480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DBM (FR)" tvg-logo="https://i.imgur.com/KOlCUJ9.jpg" group-title="FRANCE;MUSIK",DBM (FR)
 https://edge6.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
 #EXTINF:-1 tvg-name="Ditty TV (US)" tvg-id="DittyTV.com" group-title="MUSIK" tvg-logo="https://i.imgur.com/p5rREUo.png",Ditty TV (US)
