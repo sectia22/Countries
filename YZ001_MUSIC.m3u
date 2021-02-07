@@ -87,6 +87,18 @@ https://7b65d9c562ad41b4b6efeaf1f598093d.mediatailor.us-west-2.amazonaws.com/v1/
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=855&deviceId=5873fc21cad696fb37aa9054&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="" tvg-name="Magic (UK)" tvg-logo="https://i.imgur.com/HXfKkwj.png" group-title="UK;MUSIK",Magic (UK)
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
+#EXTINF:-1 tvg-id="" tvg-name="MIX 24/7 - Baladas" tvg-logo="https://i.imgur.com/WCyapaP.jpg" group-title="MUSIK",MIX 24/7 - Baladas
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MIX 24/7 - Conciertos Live" tvg-logo="https://i.imgur.com/WCyapaP.jpg" group-title="MUSIK",MIX 24/7 - Conciertos Live
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MIX 24/7 - Pop" tvg-logo="https://i.imgur.com/WCyapaP.jpg" group-title="MUSIK",MIX 24/7 - Pop
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MIX 24/7 - Retro" tvg-logo="https://i.imgur.com/WCyapaP.jpg" group-title="MUSIK",MIX 24/7 - Retro
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MIX 24/7 - Top 100" tvg-logo="https://i.imgur.com/WCyapaP.jpg" group-title="MUSIK",MIX 24/7 - Top 100
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MIX 24/7 - Tropical" tvg-logo="https://i.imgur.com/WCyapaP.jpg" group-title="MUSIK",MIX 24/7 - Tropical
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fr1SYxZ.png" group-title="MUSIK",MM TV (BG)
 https://streamer103.neterra.tv/mmtv/mmtv.smil/chunklist_w2100760669_b6128000_slbul.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g46c2Ht.png" group-title="MUSIK",Music Channel (RO)
@@ -113,6 +125,8 @@ https://lemp.smmx.dev/streams/ch-6/master.m3u8
 https://526cbf93692f48879c403ab8c1350e2a.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_plex/76979eef-8053-48eb-a1dc-b165e0d3dbf9/5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="MUSIK",Otto FM TV (IT)
 http://streaming.bitonlive.net:8080/hls/ottofmtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EAkvIw8.jpg" group-title="MUSIK",Pure Rock
+http://159.69.56.148:25461/live/PuroRock/PuroRock24-7.com/25.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yz3LSXo.png" group-title="MUSIK",Radio 51 Lombardia (IT)
 http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Contact" tvg-logo="https://i.imgur.com/ekRMtra.png" group-title="MUSIK",Radio Contact
