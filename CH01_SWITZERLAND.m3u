@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="************** SWITZERLAND **********" tvg-id="" group-title="" tvg-logo="",*************** SWITZERLAND **********
+#EXTINF:-1 tvg-name="************** SWITZERLAND **********" tvg-logo="https://i.imgur.com/eqVr8td.jpg",*************** SWITZERLAND **********
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/index-s32.m3u8
 #EXTINF:-1 tvg-name="Canal 9" tvg-id="Kanal9.ch" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/nQVDOVb.png",Canal 9
 https://livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8
@@ -21,6 +21,8 @@ https://latele.vedge.infomaniak.com/livecast/latele/chunklist.m3u8
 https://edge5.vedge.infomaniak.com/livecast/ik:naxoo/manifest.m3u8?spark=88728f76-440d-4265-8f6b-b8a776071e47&token=
 #EXTINF:-1 tvg-id="" tvg-name="LFM TV" tvg-logo="https://i.imgur.com/UE1E3uH.png" group-title="SWITZERLAND;MUSIK",LFM TV
 https://edge4.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8?spark=cf45faac-ae15-4c71-92c5-6c3527ed8e0f&token=
+#EXTINF:-1 tvg-id="" tvg-name="Meteonews" tvg-logo="https://i.imgur.com/YtYhbJD.png" group-title="SWITZERLAND",Meteonews
+https://streaming.meteonews.net/hls/stream.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="Musig24" tvg-logo="https://i.imgur.com/A21WS1A.png" group-title="SWITZERLAND;MUSIK",Musig24
 https://playback2.akamaized.net/streams/16598383_8687407_lsin7mfbawvyji8z19o_1/master.m3u8?dw=14400&hdnts=exp=1605428280~acl=/streams/16598383_8687407_lsin7mfbawvyji8z19o_1/master.m3u8*~hmac=073ce4b0d92471b2f87e3786620b8bc6eb0c98e131334e32ff9394fa72cc3d71
 #EXTINF:-1 tvg-id="" tvg-name="One TV" tvg-logo="https://i.imgur.com/YEQ957V.png" group-title="SWITZERLAND",One TV
