@@ -58,7 +58,7 @@ https://5852afe96c9bb.streamlock.net/metropolregiontv-live/_definst_/mp4:livestr
 #EXTINF:-1 tvg-name="münchen.tv" tvg-id="MunchenTV.de" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/muenchentv.png",münchen.tv
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.mytvplus.de/arbeitsdaten/png/LOGO%20MyTVplus%2002.png" group-title="GERMAN LOCAL",MyTVplus Dresden
-rtmp://62.67.13.54/MyTVplus/mtvp_livestream_2.stream
+https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8 
 #EXTINF: -1 tvg-name="Nahe TV" tvg-id="" tvg-logo="https://i.imgur.com/XINB3Zf.png" group-title = "GERMAN LOCAL",Nahe TV
 https://s.ok54.de/nahetv/webstream/playlist.m3u8
 #EXTINF:-1 tvg-name="Niederbayern TV" tvg-id="" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/swstGF1.png",Niederbayern TV
