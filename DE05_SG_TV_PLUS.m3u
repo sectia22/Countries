@@ -41,8 +41,6 @@ https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
 https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESR (US)" tvg-logo="https://i.imgur.com/N9DdtrE.png" group-title="SAMSUNG TV PLUS",ESR (US)
 https://esr-samsung.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name=EURONEWS tvg-id=Euronews.de tvg-logo=https://i.imgur.com/szYOy8S.jpg group-title="SAMSUNG TV PLUS",EURONEWS
-https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="SAMSUNG TV PLUS",Fashion TV
 https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Froot TV (EU)" tvg-logo="https://i.imgur.com/bRaihBR.png" group-title="SAMSUNG TV PLUS",Froot TV (EU)
