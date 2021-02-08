@@ -53,12 +53,18 @@ https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
 https://eventenc02-lh.akamaihd.net/i/eventenc02_1@379038/index_1_av-p.m3u8?sd=10&dw=0&rebase=on
 #EXTINF:-1 tvg-name="Bloomberg TV (for DE but english)" tvg-id="" group-title="GERMAN TV" tvg-logo="https://i.imgur.com/qx2uHRU.png",Bloomberg TV (for DE but english)
 https://bloomberg-bloombergtv-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name=EURONEWS tvg-id=Euronews.de tvg-logo=https://i.imgur.com/szYOy8S.jpg group-title="GERMAN TV",EURONEWS
+https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="n-tv Event" tvg-id="" group-title="GERMAN TV" tvg-logo="https://i.imgur.com/9FPXcFY.jpg",n-tv Event
 https://ntvlivehls-lh.akamaihd.net/i/ntvlivehls_event1_1@409295/master.m3u8
 #EXTINF:-1 tvg-name="Deutsche Welle" tvg-id="DeutscheWelleDE.de" group-title="GERMAN TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle
 https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
 #EXTINF:-1 tvg-name="Deutsche Welle+" tvg-id="DeutscheWelle+DE.de" group-title="GERMAN TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle+
 http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
+#EXTINF:-1 tvg-name="********* SPORT DE **********" tvg-logo="https://i.imgur.com/2FpMtZ5.jpg",********* SPORT DE ********
+http://
+#EXTINF:-1 tvg-name="FIFA Club WM" tvg-id="" group-title="GERMAN TV" tvg-logo="https://i.imgur.com/5RDKZk5.jpg",FIFA Club WM
+https://bildlivehls-lh.akamaihd.net/i/fifa0208_1@330807/index_2328_av-p.m3u8?sd=10&b=0-2500&rebase=on
 #EXTINF:-1 tvg-name="Sky Sport News HD" tvg-id="SkySportNewsHD.de" group-title="GERMAN TV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skysportnewshd.png",Sky Sport News HD
 https://websitefreestreaming.akamaized.net/11111_ssnweb/index.m3u8
 #EXTINF:-1 tvg-name="********* KIDS DE **********" tvg-logo="https://i.imgur.com/ZrMKFWa.png" group-title="GERMAN TV",******* KIDS DE ********
