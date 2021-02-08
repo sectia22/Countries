@@ -18,6 +18,10 @@ Important! Some streams (very few) only work in Kodi with the Youtube add-on ;-)
 
 Should a channel stop working, just leave a message. You can do this with the Menu "Issues". :-)
 
+My ZZ_PLAYLIST_ALL_TV is also used in the pre-configuration of the new Hypnotix app. This app comes from the Linux Mint team. :-)
+
+https://itsfoss.com/hypnotix-iptv-app/
+
 Also important!
 
 I keep seeing forks that are ancient. I hate ancient forks. If you fork my repo, keep it up to date too. It's your job to take care of it, not mine. ;-) 
