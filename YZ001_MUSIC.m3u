@@ -123,6 +123,8 @@ http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MIX 24/7 - Tropical" tvg-logo="https://i.imgur.com/WCyapaP.jpg" group-title="MUSIK",MIX 24/7 - Tropical
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MM TV (BG)" tvg-logo="https://i.imgur.com/Fr1SYxZ.png" group-title="MUSIK",MM TV (BG)
+https://streamer103.neterra.tv/mmtv/mmtv.smil/chunklist_w1574446231_b2628000_slbul.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g46c2Ht.png" group-title="MUSIK",Music Channel (RO)
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="MTV Germany (DE)" tvg-id="MTVGermany.de" group-title="MUSIK" tvg-logo="https://i.imgur.com/peq4OaE.png",MTV Germany (DE)
