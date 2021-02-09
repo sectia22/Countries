@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="****************** ISRAEL ************" tvg-logo="https://i.imgur.com/IZCtGmD.png",****************** ISRAEL ************
+http://
+#EXTINF:-1 tvg-id="" tvg-name="Hala TV Israel" tvg-logo="https://i.imgur.com/iZ6qgDg.png" group-title="ISRAEL",Hala TV Israel
+https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hidabroot Israel" tvg-logo="https://i.imgur.com/lD3bhwl.png" group-title="ISRAEL",Hidabroot Israel
+https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kabbalah TV Hebrew" tvg-logo="https://i.imgur.com/JtJ4U6o.png" group-title="ISRAEL",Kabbalah TV Hebrew
+http://edge2.uk.kab.tv/live/tv66-heb-medium/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KAN 11 Israel" tvg-logo="https://i.imgur.com/SBeqbv0.png" group-title="ISRAEL",KAN 11 Israel
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Knesset Channel" tvg-logo="https://i.imgur.com/65Cthto.png" group-title="ISRAEL",Knesset Channel
+https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music 24" tvg-logo="https://i.imgur.com/RYsXzeJ.jpg" group-title="ISRAEL",Music 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
