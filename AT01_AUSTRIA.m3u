@@ -38,12 +38,14 @@ http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8
 #EXTINF:-1 tvg-name="W24 TV" tvg-id="w24.at" group-title="AUSTRIA" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/w24.png",W24 TV
 https://ms01.w24.at/W24/smil:liveevent.smil/chunklist_w89103916_b2176000_slger.m3u8
 #EXTINF:-1 tvg-name="********** RK AUSTRIA *****" tvg-logo="https://i.imgur.com/7krfGOy.jpg",********** RK AUSTRIA *****
-https://rakuten-comedymovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="RK AUSTRIA",Comedy Movies
-https://rakuten-comedymovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Action Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="RK AUSTRIA",Action Movies
+https://
+#EXTINF:-1 tvg-id="" tvg-name="Action Movies - AT" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="AUSTRIA",Action Movies - AT
 https://rakuten-actionmovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Drama" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="RK AUSTRIA",Drama
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies - AT" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="AUSTRIA",Comedy Movies - AT
+https://rakuten-comedymovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Der Serienkanal - AT (stop at ads)" tvg-logo="https://i.imgur.com/l3C0eDv.jpg" group-title="AUSTRIA",Der Serienkanal - AT (stop at ads)
+https://endemol-derserienkanal-1-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Drama - AT" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="AUSTRIA",Drama - AT
 https://rakuten-tvshows-5-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Spotlight" tvg-logo="https://i.imgur.com/vbb3bjW.png" group-title="RK AUSTRIA",Spotlight
+#EXTINF:-1 tvg-id="" tvg-name="Spotlight - AT" tvg-logo="https://i.imgur.com/vbb3bjW.png" group-title="AUSTRIA",Spotlight - AT
 https://rakuten-spotlight-5-at.samsung.wurl.com/manifest/playlist.m3u8
