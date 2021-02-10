@@ -1,16 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="******************** CHINA ***********" tvg-id="" group-title="" tvg-logo="",******************* CHINA ***********
-http://cclive.aniu.tv/live/anzb.m3u8
+http://
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N8YdX6W.png" group-title="CHINA",Aniu TV
 http://cclive.aniu.tv/live/anzb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHINA",Bao Ying
 http://jsby.chinashadt.com:2035/live/by2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1D941LM.png" group-title="CHINA",CCTV-1
-https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv1_2/index.m3u8
- #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4.jpg" group-title="CHINA",CCTV-4
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4.jpg" group-title="CHINA",CCTV-4
 https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fWVXqKc.png" group-title="CHINA",China Business Network
-https://w1live.livecdn.yicai.com/live/cbn.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGNTV" tvg-logo="https://webtvonlive.com/wp-content/uploads/CGN-TV-webtvonlive-com.jpg" group-title="CHINA",CGNTV
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHINA",Hebei Jinzhou
@@ -37,10 +33,6 @@ http://hblz.chinashadt.com:1538/live/di3.stream/playlist.m3u8
 http://hblq.chinashadt.com:2036/live/stream:luquan1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHINA",Lu Quan 2
 http://hblq.chinashadt.com:2036/live/stream:luquan2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d6/MASTV.png/180px-MASTV.png" group-title="CHINA",MASTV 1 Macau
-http://stream.mastvnet.com/MSTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d6/MASTV.png/180px-MASTV.png" group-title="CHINA",MASTV 2 Macau
-http://stream.mastvnet.com/MASTV/sd/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kEcxOLc.png" group-title="CHINA",Max Financial Media
 http://xinl.live.maxtv.cn/live/zb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHINA",Ninghua TV
@@ -55,8 +47,6 @@ https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_702_av-b.m3u8?sd=10&re
 http://stream.smntv.cn/smtv1/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHINA",Sanming Public Channel 2
 http://stream.smntv.cn/smtv2/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHINA",Sanya News
-http://hnsy.chinashadt.com:1935/live/syzb.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHINA",Shao Dong
 http://hnsd.chinashadt.com:2036/live/stream:shaodong.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ZcRy1Q.png" group-title="CHINA",Sichuan Movie Channel
@@ -75,16 +65,6 @@ http://gztr.chinashadt.com:2036/live/stream:tr2.stream/playlist.m3u8
 http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHINA",Wan Sheng
 http://qxlmlive.cbg.cn:1935/app_2/ls_40.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CHINA",Wan Zai Channel
-http://jxwz.chinashadt.com:2036/live/tv1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tt45Gmm.jpg" group-title="CHINA",XMTV 1
-http://cstvpull.live.wscdns.com/live/xiamen1.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tt45Gmm.jpg" group-title="CHINA",XMTV 2
-http://cstvpull.live.wscdns.com/live/xiamen2.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tt45Gmm.jpg" group-title="CHINA",XMTV 3
-http://cstvpull.live.wscdns.com/live/xiamen3.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tt45Gmm.jpg" group-title="CHINA",XMTV Star
-http://cstvpull.live.wscdns.com/live/xiamen4.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/LcJZVV5.png" group-title="CHINA",Xuzhou TV 1
 http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225945/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/LcJZVV5.png" group-title="CHINA",Xuzhou TV 2

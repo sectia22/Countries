@@ -15,8 +15,6 @@ http://diffusionm3.assnat.qc.ca/canal10/250.sdp/chunklist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC Toronto Gaunda Punjab" tvg-logo="https://i.imgur.com/uSX4YXL.png" group-title="CANADA",BBC Toronto Gaunda Punjab
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Xtra" tvg-logo="https://i.imgur.com/pVU9nrc.png" group-title="CANADA",Bein Sport Xtra
-https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Canada One" tvg-id="Canada One" group-title="CANADA" tvg-logo="https://i.imgur.com/1D8LfbD.png",Canada One
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canadian Arab TV" tvg-logo="https://i.imgur.com/rAZBgir.png" group-title="CANADA",Canadian Arab TV
@@ -151,8 +149,6 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-tmz/CDN/master.m3u8
 #EXTINF:-1 tvg-name="Toronto 360" tvg-id="Toronto 360" group-title="CANADA" tvg-logo="https://i.imgur.com/PkWndsv.png",Toronto 360
 http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV 16 Toronto" tvg-logo="https://i.imgur.com/brxkNbw.png" group-title="CANADA",TV 16 Toronto
-http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/hpONhUM.png" group-title="CANADA",TVO
 https://ts002.teleuptv.net/OMZsmYVUMp/playlist.m3u8
 #EXTINF:-1 tvg-name="TVO Kids" tvg-logo="https://i.imgur.com/JgRDyaB.png" group-title="CANADA",TVO Kids

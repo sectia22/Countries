@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="************ ENGLAND ************" tvg-logo="https://i.imgur.com/vKXvAZx.png",************ ENGLAND ************
-http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+http://
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" group-title="UK",92 News UK
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Action Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="UK",Action Movies
@@ -13,10 +13,6 @@ http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-S
 http://51.52.156.22:8888/http/004
 #EXTINF:-1 tvg-id="BBC Scotland" tvg-name="BBC Scotland" tvg-logo="https://i.imgur.com/rtZxGzr.png" group-title="UK",BBC Scotland
 http://51.52.156.22:8888/http/001
-#EXTINF:-1 tvg-id="" tvg-name="Big Name" tvg-logo="https://i.imgur.com/hChduSn.png" group-title="UK",Big Name
-https://alchimie-big-names-2-gb.samsung.wurl.com/manifest/playlist.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/AMGo8sU.png" group-title="UK",Bloomberg
-https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u
 #EXTINF:-1 tvg-name="Bloomberg EU" tvg-id="Bloomberg.nws" group-title="UK" tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg EU
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 #EXTINF:-1 tvg-name="Bloomberg EU Event" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg EU Event
@@ -199,7 +195,5 @@ https://qwestclassic-samsung-uk.amagi.tv/playlist.m3u8
 https://qwestmix-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Unbeaten" tvg-logo="https://i.imgur.com/hMojkpf.png" group-title="UK",Unbeaten
 https://alchimie-unbeaten-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K1AW9O1.png" group-title="UK",Venus TV
-https://a.jsrdn.com/rtmp/22690/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Wonder" tvg-logo="https://i.imgur.com/450pJvs.png" group-title="UK",Wonder
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8

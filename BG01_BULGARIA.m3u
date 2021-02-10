@@ -10,7 +10,7 @@ http://hls.cdn.bg:2007/fls/vtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bulgaria On Air" tvg-logo="https://i.imgur.com/fawQSJN.jpg" group-title="BULGARIA",Bulgaria On Air
 http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bulgarska Svobodna TV" tvg-logo="https://i.imgur.com/Ugl3Pq5.png" group-title="BULGARIA",Bulgarska Svobodna TV
-https://lb-ts.cdn.bg/bstv/fls/bstv.stream/playlist.m3u8?at=82f1f92df8779d87140f23d239624d8a
+https://e203-ts.cdn.bg/bstv/fls/bstv.stream/playlist.m3u8?at=27dbed3689bce270f5ce305e550588f2
 #EXTINF:-1 tvg-id="" tvg-name="City TV" tvg-logo="https://i.imgur.com/BjRTbrU.png" group-title="BULGARIA",City TV
 https://tv.city.bg/play/tshls/citytv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Evrokom" tvg-logo="https://i.imgur.com/3s7qchh.png" group-title="BULGARIA",Evrokom
@@ -20,9 +20,9 @@ http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fr1SYxZ.png" group-title="BULGARIA",MM TV
 https://streamer103.neterra.tv/mmtv/mmtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sportal" tvg-logo="https://i.imgur.com/ZY7hoD8.png" group-title="BULGARIA",Sportal
-https://e203-ts.cdn.bg/sportal/fls//sportal_pal/playlist.m3u8?at=82f1f92df8779d87140f23d239624d8a
+https://e203-ts.cdn.bg/sportal/fls//sportal_pal/playlist.m3u8?at=27dbed3689bce270f5ce305e550588f2
 #EXTINF:-1 tvg-id="" tvg-name="This is Bulgaria" tvg-logo="https://i.imgur.com/FxLjPLh.jpg" group-title="BULGARIA",This is Bulgaria
-http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+https://streamer103.neterra.tv/thisisbulgaria/community.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel TV" tvg-logo="https://i.imgur.com/7E4Kia6.jpg" group-title="BULGARIA",Travel TV
 http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV+" tvg-logo="https://i.imgur.com/W074hkS.jpg" group-title="BULGARIA",TV+

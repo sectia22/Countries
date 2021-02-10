@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="" tvg-name="************** PLEX USA *********",************** USA PLEX *********
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+https://
 #EXTINF:-1 tvg-ID="PLEX.TV.24.Hour.Free.Movies" tvg-name="24 Hour Free Movies" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/24hrfreemovies_logo_dark.png" group-title="PLEX USA",24 Hour Free Movies
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1 tvg-ID="PLEX.TV.ACCDN" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/accdn-logo.png" group-title="PLEX USA",ACCDN
@@ -21,8 +21,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff265d71d
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f6b8e5900b0950040d0f2af?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1 tvg-ID="PLEX.TV.Choppertown" tvg-name="Choppertown" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/choppertown.png" group-title="PLEX USA",Choppertown
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d3?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1 tvg-ID="PLEX.TV.Christmas.Classics" tvg-name="Christmas Classics" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/christmasclassics_logo_dark.png" group-title="PLEX USA",Christmas Classics
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fd928ca102006002d33c12d?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1 tvg-ID="PLEX.TV.Comedy.Dynamics" tvg-name="Comedy Dynamics" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_comedydynamics_1.png" group-title="PLEX USA",Comedy Dynamics
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f76?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1 tvg-ID="PLEX.TV.CONtv" tvg-name="CONtv" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/contv.png" group-title="PLEX USA",CONtv
@@ -45,8 +43,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de4e0b3
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de8e0b3f5003f5d9f91?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1 tvg-ID="PLEX.TV.DrinkTV" tvg-name="DrinkTV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/drink-tv.png" group-title="PLEX USA",DrinkTV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc76a?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1 tvg-ID="PLEX.TV.Eddie's.Wonderland" tvg-name="Eddie's Wonderland" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/eddies_wonderland_logo_dark.png" group-title="PLEX USA",Eddie's Wonderland
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fbd4b0b507c5e002e702185?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1 tvg-ID="PLEX.TV.EDGEsport" tvg-name="EDGEsport" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/edgesport.png" group-title="PLEX USA",EDGEsport
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d45252710041e0ccb9?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1 tvg-ID="PLEX.TV.Electric.Now" tvg-name="Electric Now" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/electric-now.png" group-title="PLEX USA",Electric Now
@@ -105,8 +101,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9a
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0641d0e8ffda004033aff4?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1 tvg-ID="PLEX.TV.Midnight.Pulp" tvg-name="Midnight Pulp" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/midnightpulp_samsung.png" group-title="PLEX USA",Midnight Pulp
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4427?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1 tvg-ID="PLEX.TV.Monster.Kids" tvg-name="Monster Kids" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_monsterkids_1-v2.png" group-title="PLEX USA",Monster Kids
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f7c?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1 tvg-ID="PLEX.TV.MOVIESPHERE" tvg-name="MOVIESPHERE" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/moviesphere_logo_dark.png" group-title="PLEX USA",MOVIESPHERE
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fb84bc1b7ad2d002dcb735f?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1 tvg-ID="PLEX.TV.News.12.NY" tvg-name="News 12 NY" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/news12ny_logo_dark.png" group-title="PLEX USA",News 12 NY
@@ -211,8 +205,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f74cf83ffbe
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f6b8e7900b0950040d0f2b2?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1 tvg-ID="PLEX.TV.Wu.Tang.Collection" tvg-name="Wu Tang Collection" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wu-tang-collection.png" group-title="PLEX USA",Wu Tang Collection
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770?X-Plex-Token=MorUy57ijWhGe4ixZb_T
-#EXTINF:-1 tvg-ID="PLEX.TV.Xplore" tvg-name="Xplore" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/xplore_logo_dark.png" group-title="PLEX USA",Xplore
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc6f3ad2b6f7b002e77ffb0?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1 tvg-ID="PLEX.TV.Yahoo!.Finance" tvg-name="Yahoo! Finance" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/yahoo-finance.png" group-title="PLEX USA",Yahoo! Finance
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f170f01b898490041b49dd1?X-Plex-Token=MorUy57ijWhGe4ixZb_T
 #EXTINF:-1 tvg-ID="PLEX.TV.YUYU.TV" tvg-name="YUYU TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/yuyu_samsung.png" group-title="PLEX USA",YUYU TV

@@ -77,8 +77,6 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 https://alchimie-mysurf-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nove IT" tvg-logo="https://i.imgur.com/ADGbwMY.png" group-title="ITALY",Nove IT
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel Italia" tvg-logo="" group-title="ITALY",Paramount Channel Italia
-https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="People are Awesome" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="ITALY",People are Awesome
 https://jukin-peopleareawesome-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="R101 TV" tvg-logo="https://i.imgur.com/zcipWuk.png" group-title="ITALY",R101 TV
@@ -93,10 +91,6 @@ http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/maste
 https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist_1.m3u8
 #EXTINF:-1 tvg-name="Radio Italia TV" tvg-id="" tvg-logo="https://i.imgur.com/7eWrVUH.jpg" group-title="ITALY;MUSIK",Radio Italia TV
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Kiss Kiss Italia TV" tvg-logo="" group-title="ITALY;MUSIK",Radio Kiss Kiss Italia TV
-https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Kiss Kiss TV" tvg-logo="" group-title="ITALY;MUSIK",Radio Kiss Kiss TV
-https://59253971be783.streamlock.net/KKMulti/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio m2o TV" tvg-logo="https://i.imgur.com/ghLKlHs.png" group-title="ITALY;MUSIK",Radio m2o TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Monte Carlo TV" tvg-logo="" group-title="ITALY;MUSIK",Radio Monte Carlo TV

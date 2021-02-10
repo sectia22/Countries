@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="************ MALTA ************" tvg-shift="0" radio="" tvg-logo="" group-title="",************ MALTA ************
-https://2-fss-2.streamhoster.com/pl_124/201830-1293592-1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="************ MALTA ************" tvg-logo="" group-title="",************ MALTA ************
+https://
 #EXTINF:-1 tvg-name="One" tvg-id="" group-title="MALTA" tvg-logo="",One
 https://2-fss-2.streamhoster.com/pl_124/201830-1293592-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Smash TV" tvg-id="" group-title="MALTA" tvg-logo="",Smash TV

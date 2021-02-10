@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="**************** USA Local TV **********",**************** USA Local TV **********
-https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+#EXTINF:-1 tvg-name="**************** USA Local TV **********" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",**************** USA Local TV **********
+https://
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5MfhbGP.png" group-title="USA LOCAL",7News - Boston
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="16 WAPT" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/abc.png" group-title="USA LOCAL",ABC 16 WAPT (Mississippi)
@@ -25,8 +25,6 @@ https://5b0f5374bdf0c.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bek Sports West" tvg-logo="https://i.imgur.com/pDeshnR.png" group-title="USA LOCAL",Bek Sports West
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nSMaujc.png" group-title="USA LOCAL",Bowie TV
-http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
 #EXTINF:-1 tvg-name="Buffalo TV" tvg-id="BuffaloTV" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/f5ZtDhj.png",Buffalo TV
 http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
 #EXTINF:-1 tvg-name="BUTV10 - Boston University" tvg-id="BUTV10" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/7c523zt.jpg",BUTV10 - Boston University
@@ -53,8 +51,6 @@ http://video.oct.dc.gov/out/u/15_12.m3u8
 http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="District of Columbia Network" tvg-logo="https://i.imgur.com/CI8ZspR.png" group-title="USA LOCAL",District of Columbia Network
 http://video.oct.dc.gov/out/u/DCN.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Escambia County" tvg-logo="https://i.imgur.com/DBddBUb.png" group-title="USA LOCAL",Escambia County
-https://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-name="EZWay Network" tvg-id="EZWAY US" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/9IlPgqf.png",EZWay Network
 https://nimble.dashstreams.net/mytvtogo/ezwaytv007/playlist.m3u8
 #EXTINF:-1 tvg-name="Fairfax Ch. 16 - Virginia" tvg-id="Fairfax Ch. 16" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/yP1nhl0.jpg",Fairfax Ch. 16 - Virginia
@@ -85,8 +81,6 @@ https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
 https://ts002.teleuptv.net/N8qwnqgUq2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KTLA 5 (2) (news feed only)" tvg-logo="https://i.imgur.com/JH99Psi.jpg" group-title="USA LOCAL",KTLA 5 (2) (news feed only)
 https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KUSI" tvg-logo="https://i.imgur.com/4uDFUNi.png" group-title="USA LOCAL",KUSI
-https://dai.google.com/linear/hls/pa/event/YQrqEzS-QkeI4UECvYoWDA/stream/830f84db-2a6f-478d-b384-b9bd732e5aba:GRQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FzxuNhl.png" group-title="USA LOCAL",KVVB-TV 33
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b1000000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Leominster TV Educational" tvg-logo="https://i.imgur.com/nEG2ZST.png" group-title="USA LOCAL",Leominster TV Educational
@@ -95,8 +89,6 @@ http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t6
 http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Leominster TV Public" tvg-logo="https://i.imgur.com/nEG2ZST.png" group-title="USA LOCAL",Leominster TV Public
 http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Local Now Philidelphia" tvg-logo="https://i.imgur.com/xcVo32F.png" group-title="USA LOCAL",Local Now Philidelphia
-https://ottmanifest.weathergroup.com/live/10.233.185.101:58081/api/v1/live/hls/localnow/index.m3u8?network=OTT&experienceid=paPhiladelphia&seid=532865b2-796b-497d-abb2-56df16f62f32&showlocalnow=false&cdn=https%3a//ottcdn-a.akamaihd.net&sessionId=LocalNowWeb_bW9jLm9vYWNiQDM4NzkwZXd0&format=HLS&tpp=10443
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YnOZtNm.png" group-title="USA LOCAL",LoveWorld USA
 https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8
 #EXTINF:-1 tvg-name="MCN6" tvg-id="Metro Cable" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/KOgoXoG.png",MCN6

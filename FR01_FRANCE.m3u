@@ -5,8 +5,6 @@ https://stream.sen-gt.com/A2itv/myStream/chunklist_w1124459956.m3u8
 https://stream.sen-gt.com/A2itv/myStream/chunklist_w1124459956.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A2i Music" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="FRANCE",A2i Music
 https://stream.sen-gt.com/A2iMusic/myStream/chunklist_w652109108.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A2i Naja" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="FRANCE",A2i Naja
-https://stream.sen-gt.com/A2iNaija/myStream/chunklist_w59258816.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A2i Religion" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="FRANCE",A2i Religion
 https://stream.sen-gt.com/A2iReligion/myStream/chunklist_w672043691.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Action Movies Religion" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="FRANCE",Action Movies
@@ -21,8 +19,6 @@ https://amuse-amuseanimation-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01
 #EXTINF:-1 tvg-id="" tvg-name="Arte France" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="FRANCE",Arte France
 https://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ASTV" tvg-logo="https://i.imgur.com/Ayx5wvk.png" group-title="FRANCE",ASTV
-plugin://plugin.video.youtube/play/?video_id=tQTc34GgWyU
 #EXTINF:-1 tvg-id="" tvg-name="Atelier des chefs" tvg-logo="https://i.imgur.com/laArg26.png" group-title="FRANCE",Atelier des chefs
 https://alchimie-atelier-des-chefs-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BFM Business" tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="FRANCE",BFM Business
@@ -45,8 +41,6 @@ https://bloomberg-bloombergtv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 https://dhx-caillou-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Classical Harmony" tvg-logo="https://i.imgur.com/JQaZblm.jpg" group-title="FRANCE",Classical Harmony
 https://alchimie-classical-harmony-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNEWS" tvg-logo="" group-title="FRANCE",CNEWS
-https://stream-04.ix7.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gbyUh2s3HiXnLfD9lW-aby4)/dm/3/x3b68jn/d/live-0.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Movies" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="FRANCE",Comedy Movies
 https://rakuten-comedymovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="D5TV" tvg-logo="https://i.imgur.com/cThInij.png" group-title="FRANCE;MUSIK",D5TV
@@ -59,8 +53,6 @@ https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
 https://rakuten-tvshows-7-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EMCI TV" tvg-logo="https://i.imgur.com/cgTJ9wW.jpg" group-title="FRANCE",EMCI TV
 https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ere TV" tvg-logo="https://i.imgur.com/YlN5Y5b.jpg" group-title="FRANCE",Ere TV
-http://api.new.livestream.com/accounts/7861901/events/8505052/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="FRANCE",Euronews
 https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="FRANCE",Fashion TV
@@ -87,16 +79,12 @@ https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LCI" tvg-logo="https://i.imgur.com/6VzdKEa.png" group-title="FRANCE",LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lourdes TV" tvg-logo="https://i.imgur.com/ghTXszc.jpg" group-title="FRANCE",Lourdes TV
-plugin://plugin.video.youtube/play/?video_id=BbFRgMR8Urk
 #EXTINF:-1 tvg-id="" tvg-name="Luxe TV" tvg-logo="https://i.imgur.com/8tWhfap.png" group-title="FRANCE",Luxe TV
 https://alchimie-luxe-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MDL" tvg-logo="https://i.imgur.com/QjjVd1M.jpg" group-title="FRANCE",MDL
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Moods" tvg-logo="https://i.imgur.com/zSdsBGc.jpg" group-title="FRANCE",Moods
 https://alchimie-moods-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mosaik Cristal" tvg-logo="https://i.imgur.com/T9dJq5u.jpg" group-title="FRANCE",Mosaik Cristal
-plugin://plugin.video.youtube/play/?video_id=Ag1WtMkyes
 #EXTINF:-1 tvg-id="" tvg-name="Movies Central" tvg-logo="https://i.imgur.com/dwOoEmE.jpg" group-title="FRANCE",Movies Central
 https://alchimie-movies-central-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MyComedy" tvg-logo="https://i.imgur.com/EgSC2QT.jpg" group-title="FRANCE",MyComedy
@@ -151,16 +139,12 @@ https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
 http://hls.tmacaraibes.com/live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TMC" tvg-logo="https://i.imgur.com/s9BIeQ8.png" group-title="FRANCE",TMC
 https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV78" tvg-logo="https://i.imgur.com/Qazm3SU.png" group-title="FRANCE",TV78
-https://origin1.dvmr.fr/hls/tvfil78/tvfil78.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV3" tvg-logo="https://i.imgur.com/05RMwlR.png" group-title="FRANCE",TV3
 https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV5 Monde Europe" tvg-logo="" group-title="FRANCE",TV5 Monde Europe
 https://tv5europe-i.akamaihd.net/hls/live/729480/tv5europehls/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV5 Monde Info" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="FRANCE",TV5 Monde Info
 https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV5 Style" tvg-logo="https://i.imgur.com/FRP03WJ.jpg" group-title="FRANCE",TV5 Style
-https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV7 Bordeaux" tvg-logo="https://i.imgur.com/y8YdwPF.jpg" group-title="FRANCE",TV7 Bordeaux
 plugin://plugin.video.youtube/play/?video_id=t6wgCy7kwPU
 #EXTINF:-1 tvg-id="" tvg-name="TV7 Colmar" tvg-logo="https://i.imgur.com/RuFISFk.png" group-title="FRANCE",TV7 Colmar

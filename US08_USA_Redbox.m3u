@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="************** USA REDBOX *********",************** USA REDBOX *********
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
+https://
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bJGaOdW.png" group-title="REDBOX USA",American Classics
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/OjBnAUM.png" group-title="REDBOX USA",The Asylum
@@ -11,14 +11,12 @@ http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLin
 http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999945/248x140.png?type=channelTile" group-title="REDBOX USA",Cheddar
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/magnolia/CineLife_Logo_gray_248x140.png" group-title="REDBOX USA",Cine Life (Magnolia Pictures)
-http://magnolia-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lNb5tRv.png" group-title="REDBOX USA",CONtv
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxcontv/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WhyZM5n.png" group-title="REDBOX USA",CONtv Anime
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Docurama" tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22764/electricnow/logo_20191212_183017.png" group-title="REDBOX USA",DocuRAMA
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1234A-docuramaA/CDN/playlist.m3u8
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/cN4ESSg.png" group-title="REDBOX USA",Dove Channel
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1234A-dovenow/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIXSg4L.png" group-title="REDBOX USA",Fail Army

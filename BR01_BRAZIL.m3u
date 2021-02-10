@@ -29,8 +29,6 @@ http://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5jPEI5c.png" group-title="BRAZIL",Cultura Pará
 http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OJK86Xo.png" group-title="BRAZIL",FonteTV (GO)
-http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aoq9CGU.png" group-title="BRAZIL",Gospel Cartoon
 https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XlNKtkD.jpg" group-title="BRAZIL",Gospel Movie TV
@@ -69,8 +67,6 @@ https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf
 https://slbps-sambatech.akamaized.net/live/3410%2C8879%2C12263efc906e7f003af8490bfe3c4941%3Bbase64np%3BeUxpdAC7dOnee8E%21/amlst%3AeUyRbR3wcejBO03M/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vD69bN7.png" group-title="BRAZIL",Rede Super
 http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bB3xcYm.png" group-title="BRAZIL",Rede Século 21
-https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rJ0kO2o.png" group-title="BRAZIL",Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8fGmJWA.png" group-title="BRAZIL",RedeTV! Tocantins
@@ -91,8 +87,6 @@ https://5e36c064a2f6a.streamlock.net:1936/8040/8040/playlist.m3u8
 https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1pZUGb4.png" group-title="BRAZIL",TV Aberta SP
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UuaQEXo.png" group-title="BRAZIL",TV Aparecida
-https://caikron.com.br:8082/padroeira/padroeira/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oOzSNA2.png" group-title="BRAZIL",TV Aracati
 https://livefocamundo.com:8081/8148/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cefSiod.jpg" group-title="BRAZIL",TV Birigui

@@ -51,6 +51,8 @@ https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8
 #EXTINF:-1 tvg-name="Filmstream" tvg-id="" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="AUSTRALIA",Filmstream
 https://spi-filmstream-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Fox Sports News" tvg-id="" tvg-logo="https://i.imgur.com/lS2d1f6.png" group-title="AUSTRALIA",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-name="Fuel TV" tvg-id="" tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="AUSTRALIA",Fuel TV
 https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Gusto TV" tvg-id="" tvg-logo="https://i.imgur.com/DZD4jTq.png" group-title="AUSTRALIA",Gusto TV

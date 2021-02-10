@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="************* TAIWAN ***********" tvg-logo="https://i.imgur.com/KXcPGuA.png",*************** TAIWAN ***********
-plugin://plugin.video.youtube/play/?video_id=9pWXAEZ5NLs
-#EXTINF:-1 tvg-id="" tvg-name="CTI TV News" tvg-logo="https://i.imgur.com/uR7ZrHG.png" group-title="TAIWAN",CTI TV News
-plugin://plugin.video.youtube/play/?video_id=9pWXAEZ5NLs
+plugin://
 #EXTINF:-1 tvg-id="" tvg-name="CTS" tvg-logo="https://i.imgur.com/VMLLsWs.jpg" group-title="TAIWAN",CTS
 plugin://plugin.video.youtube/play/?video_id=PQLMD4iHhG8
 #EXTINF:-1 tvg-id="" tvg-name="CTV News " tvg-logo="https://i.imgur.com/NKFqN5z.png" group-title="TAIWAN",CTV News 
@@ -15,18 +13,12 @@ plugin://plugin.video.youtube/play/?video_id=63RmMXCd_bQ
 plugin://plugin.video.youtube/play/?video_id=XxJKnDLYZz4
 #EXTINF:-1 tvg-id="" tvg-name="FTV News" tvg-logo="https://i.imgur.com/8JPOdS8.png" group-title="TAIWAN",FTV News
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 tvg-id="Hakka TV" tvg-name="" tvg-logo="https://i.imgur.com/akJHmJn.jpg" group-title="TAIWAN",Hakka TV
-plugin://plugin.video.youtube/play/?video_id=LWwepk1p5kE
-#EXTINF:-1 tvg-id="" tvg-name="HZTV" tvg-logo="https://i.imgur.com/TEiEn1Y.jpg" group-title="TAIWAN",HZTV
-plugin://plugin.video.youtube/play/?video_id=s5DPIRWxWmU
 #EXTINF:-1 tvg-id="" tvg-name="Indigenous TV" tvg-logo="https://i.imgur.com/RuAYuSM.png" group-title="TAIWAN",Indigenous TV
 http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Legislative Yuan" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="TAIWAN",Legislative Yuan
 https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Set News" tvg-logo="https://i.imgur.com/d5s3EwA.png" group-title="TAIWAN",Set News
 plugin://plugin.video.youtube/play/?video_id=4ZVUmEUFwaY
-#EXTINF:-1 tvg-id="" tvg-name="SJTV Taiwan" tvg-logo="https://i.imgur.com/5c3r8tz.png" group-title="TAIWAN",SJTV Taiwan
-plugin://plugin.video.youtube/play/?video_id=ezb1oWKAUX0
 #EXTINF:-1 tvg-id="" tvg-name="TTV NEWS" tvg-logo="https://cdn.teleon.tv/logo/ttv-news-tw.png" group-title="TAIWAN",TTV NEWS
 plugin://plugin.video.youtube/play/?video_id=xL0ch83RAK8
 #EXTINF:-1 tvg-id="TVBS" tvg-name="" tvg-logo="https://i.imgur.com/YHMXeqI.jpg" group-title="TAIWAN",TVBS

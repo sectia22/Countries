@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="****************** ROMANIA ***********" tvg-id="" group-title="" tvg-logo="",***************** ROMANIA ***********
-https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
+#EXTINF:-1 tvg-name="****************** ROMANIA ***********" tvg-logo="",***************** ROMANIA ***********
+https://
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z10bwPn.jpg" group-title="ROMANIA",7TV
 https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p4rcHoe.png" group-title="ROMANIA",Agro TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MQ5PkKB.png" group-title="ROMANIA",Aleph News
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pkUjse7.png" group-title="ROMANIA",Alfa Omega TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="" tvg-name="Antena Comedy" tvg-logo="https://i.imgur.com/tH624pc.png" group-title="ROMANIA",Antena Comedy
 http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Antena Cook and PLay" tvg-logo="https://i.imgur.com/GZABUfW.png" group-title="ROMANIA",Antena Cook and PLay
@@ -17,26 +13,16 @@ http://stream1.antenaplay.ro/live/smil:CookPlay.smil/chunklist_w904193915_b10000
 http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VQqgkzw.jpg" group-title="ROMANIA",B1
 http://stream.adunity.com/b1/b1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d8mJYu0.png" group-title="ROMANIA",Bollywood TV Romania
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8G83qZu.png" group-title="ROMANIA",Bollywood Classic Romania
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="" tvg-name="Bucovina TV" tvg-logo="https://i.imgur.com/7QHdiTO.png" group-title="ROMANIA",Bucovina TV
 http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9tNRAX0.png" group-title="ROMANIA",Canal 33
 https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/chunklist_w1456597134_b680000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HUNixjy.png" group-title="ROMANIA",CBN Family Romania
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Credo TV" tvg-logo="https://i.imgur.com/AX5NsOv.jpg" group-title="ROMANIA",Credo TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$CredoTV/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="" tvg-name="Cornea TV" tvg-logo="https://i.imgur.com/cn89fLa.jpg" group-title="ROMANIA",Cornea TV
 http://89.149.30.158:1935/CorneaTV/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cromtel TV" tvg-logo="https://i.imgur.com/kNNRmS1.png" group-title="ROMANIA",Cromtel TV
 http://webmobile.xdev.ro:81/tv7/playlist.m3u8?time=1463062060161
-#EXTINF:-1 tvg-id="" tvg-name="Digi 24" tvg-logo="https://i.imgur.com/k4TQOHi.png" group-title="ROMANIA",Digi 24
-https://edge74.rcs-rds.ro/V4-4703828-3a3d5e06c3d40e71b65af38c91c15ad6-1533128302-0-1611073677-477-digi24/digi24/digi24mq.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g6BtErH.png" group-title="ROMANIA",Erdely TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="" tvg-name="EST TV" tvg-logo="https://i.imgur.com/tP5cGl1.jpg" group-title="ROMANIA",EST TV
 http://89.38.8.130:39435
 #EXTINF:-1 tvg-id="" tvg-name="H!t Music Channel Romania" tvg-logo="https://i.imgur.com/VDl1q98.png" group-title="ROMANIA",H!t Music Channel Romania
@@ -45,8 +31,6 @@ https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/index.m3u8
 https://netstreaming.eu:8080/hls/hd365.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PTsws8f.png" group-title="ROMANIA",Iasi TV Life
 http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rjGbznr.png" group-title="ROMANIA",Inedit TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="" tvg-name="Infinit TV" tvg-logo="https://i.imgur.com/3OOmdCU.jpg" group-title="ROMANIA",Infinit TV
 http://webmobile.xdev.ro:81/tv6/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Info HD" tvg-logo="https://i.imgur.com/RiZA8Yu.png" group-title="ROMANIA",Info HD
@@ -57,14 +41,6 @@ http://46.4.14.12:9999/intermedia1/playlist.m3u8
 http://84.247.79.238:1935/kapital/kapital/kapital.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lira TV" tvg-logo="https://i.imgur.com/sC9ELuY.jpg" group-title="ROMANIA",Lira TV
 https://5d79ae45bc63b.streamlock.net/Liratv/Liratv/chunklist_w98704019.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a5euWt1.png" group-title="ROMANIA",Mooz HD
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/18.m3u8/Level(545259)?start=LIVE&end=END&time=1472768553044
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7q7gu4n.png" group-title="ROMANIA",Mooz Dance
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/18.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W3YkqXn.png" group-title="ROMANIA",Mooz Hits
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/18.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0QTjHHD.png" group-title="ROMANIA",Mooz Ro!
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g46c2Ht.png" group-title="ROMANIA",Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nasul TV" tvg-logo="https://i.imgur.com/LJTcfxk.png" group-title="ROMANIA",Nasul TV
@@ -75,28 +51,18 @@ http://webmobile.xdev.ro:81/tv13/playlist.m3u8
 http://novapress.ro:1935/live/nova/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Prima TV" tvg-logo="https://i.imgur.com/G03w5XQ.png" group-title="ROMANIA",Prima TV
 https://netstreaming.eu:8080/hls/unutv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FWM790Y.png" group-title="ROMANIA",Pro TV News
-https://cmero-ott-live-sec.ssl.cdn.cra.cz/xhnQRYA4MHStb8FaW-OpPQ==,1611082911/channels/cme-ro-voyo-news/playlist-live_lq.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kWrneym.png" group-title="ROMANIA",Profit
 https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ae1Klb2.png" group-title="ROMANIA",Realitatea TV
 http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6e9Q5xV.jpg" group-title="ROMANIA",Romania TV
-https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qFE5PUx.png" group-title="ROMANIA",Sangeorz TV
-http://s2.streamnet.ro:8035/stream.flv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3LdXQxm.png" group-title="ROMANIA",Somax TV
 http://webmobile.xdev.ro:81/tv12/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Speranta TV" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="ROMANIA",Speranta TV
-https://telekomtv-ro.akamaized.net/shls/LIVE$SperantaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o1WmDXf.png" group-title="ROMANIA",Stars
 http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o1WmDXf.png" group-title="ROMANIA",Stars Direct
 http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="TravelMix" tvg-logo="https://i.imgur.com/MHTJwMo.jpg" group-title="ROMANIA",TravelMix
 http://89.38.8.131:39520
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tnpqF6Y.png" group-title="ROMANIA",TV City
-http://telekomtv-ro.akamaized.net/shls/LIVE$TVCITY/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="" tvg-name="TV SE" tvg-logo="https://i.imgur.com/BoMnP5g.png" group-title="ROMANIA",TV SE
 http://89.38.8.130:39419
 #EXTINF:-1 tvg-id="" tvg-name="TVPlus Suceava" tvg-logo="https://i.imgur.com/6T7w975.png" group-title="ROMANIA",TVPlus Suceava

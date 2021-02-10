@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*********** AFGHANISTAN PASHTO ********" tvg-id="" group-title="" tvg-logo="",*********** AFGHANISTAN PASHTO ********
-https://92news.vdn.dstreamone.net/92newshd/92hd/chunklist_w597745317.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",92 News Live
-plugin://plugin.video.youtube/play/?video_id=13qXVs4IZ4I
+#EXTINF:-1 tvg-name="*********** AFGHANISTAN PASHTO ********" tvg-logo="",*********** AFGHANISTAN PASHTO ********
+https://
 #EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Andisheh
 http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",group-title="AFGHANISTAN",Ariana Afghan
@@ -71,8 +69,6 @@ https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
 http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",TIN TV
 https://unirtmp.tulix.tv/tintv/tintv/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Tuti Tv
-https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",VOA Persian
 https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",WATAN-E-MAA

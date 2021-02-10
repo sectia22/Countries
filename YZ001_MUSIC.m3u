@@ -37,8 +37,6 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 https://rtmp.info/canal38/envivo/playlist.m3u8
 #EXTINF:-1 tvg-name="Carolina TV" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/eaHPbqd.png",Carolina TV
 https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-name="CM Canal de la Musica HD" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/Cdp29OL.png",CM Canal de la Musica HD
-http://g1.mc-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8
 #EXTINF:-1 tvg-name="CMC (US)" tvg-id="CMC 2" group-title="USA;MUSIK" tvg-logo="https://i.imgur.com/aDReLcK.png",CMC 2 (US)
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 #EXTINF:-1 tvg-name="Conecta TV HD" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/9TGQZzk.png",Conecta TV HD

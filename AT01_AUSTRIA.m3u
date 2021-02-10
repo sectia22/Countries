@@ -8,7 +8,7 @@ https://stream.openplayout.org/hls/dorf_high/index.m3u8
 #EXTINF:-1 tvg-name="FS1 Salzburg" tvg-id="FS1 Salzburg" tvg-logo="https://i.imgur.com/P5pc813.png" group-title="AUSTRIA",FS1 Salzburg
 http://stream.fs1.tv:8080/hls/webstream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hitradio Ö3 (Webradio)" tvg-logo="https://i.imgur.com/pb4Iqno.png" group-title="AUSTRIA",Hitradio Ö3 (Webradio)
-http://185.85.28.19/oe3sd/orf.sdp/master.m3u8
+https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OyOPRtq.png" group-title="AUSTRIA",K-TV
 http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KT1" tvg-logo="https://www.kt1.at/wp-content/uploads/2019/08/kt1_header_logo.png" group-title="AUSTRIA",KT1

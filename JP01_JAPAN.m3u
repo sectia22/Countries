@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="************* JAPAN **********",********** JAPAN **********
-plugin://plugin.video.youtube/play/?video_id=coYw-eVU0Ks
+plugin://
 #EXTINF:-1 tvg-id="" tvg-name="ANN News" tvg-logo="https://i.imgur.com/WXjmhdZ.jpg" group-title="JAPAN",ANN News
 plugin://plugin.video.youtube/play/?video_id=coYw-eVU0Ks
 #EXTINF:-1 tvg-id="" tvg-name="BSC24" tvg-logo="https://i.imgur.com/7GzyvgI.jpg" group-title="JAPAN",BSC24
@@ -15,8 +15,6 @@ https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
 https://hiroshima-tv-live.hls.wselive.stream.ne.jp/hiroshima-tv-live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Japanet Channel DX" tvg-logo="https://i.imgur.com/KVralKI.png" group-title="JAPAN",Japanet Channel DX
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Netchannel KYO" tvg-logo="https://i.imgur.com/38tFPGp.jpg" group-title="JAPAN",Netchannel KYO
-plugin://plugin.video.youtube/play/?video_id=hU9Z1nAN7YQ
 #EXTINF:-1 tvg-id="" tvg-name="NHK Chinese Vision" tvg-logo="https://i.imgur.com/4yRulEZ.png" group-title="JAPAN",NHK Chinese Vision
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://i.imgur.com/db41qjL.jpg" group-title="JAPAN",NHK World
