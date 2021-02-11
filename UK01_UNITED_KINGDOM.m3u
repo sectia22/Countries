@@ -47,7 +47,7 @@ https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Fashion TV" tvg-id="FashionTV.eu" group-title="UK" tvg-logo="https://i.imgur.com/HBksX8u.png",Fashion TV
 http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Film4" tvg-logo="" group-title="UK",Film4
+#EXTINF:-1 tvg-id="" tvg-name="Film4" tvg-logo="https://i.imgur.com/VMkE93N.png" group-title="UK",Film4
 http://51.52.156.22:8888/http/008
 #EXTINF:-1 tvg-name="Filmon 360" tvg-logo="https://i.imgur.com/Jh3Ccrn.png" group-title="UK",Filmon 360
 https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
@@ -79,11 +79,11 @@ https://inwild-samsung-uk.amagi.tv/playlist.m3u8
 https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ITV (UK)" tvg-name="ITV" tvg-logo="https://i.imgur.com/SsgOgRF.png" group-title="UK",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITV2" tvg-logo="" group-title="UK",ITV 2
+#EXTINF:-1 tvg-id="" tvg-name="ITV2" tvg-logo="https://i.imgur.com/skKLbE9.png" group-title="UK",ITV 2
 http://51.52.156.22:8888/http/005
-#EXTINF:-1 tvg-id="" tvg-name="ITV3" tvg-logo="" group-title="UK",ITV 3
+#EXTINF:-1 tvg-id="" tvg-name="ITV3" tvg-logo="https://i.imgur.com/fSnofcu.png" group-title="UK",ITV 3
 http://51.52.156.22:8888/http/006
-#EXTINF:-1 tvg-id="" tvg-name="ITV4" tvg-logo="" group-title="UK",ITV 4
+#EXTINF:-1 tvg-id="" tvg-name="ITV4" tvg-logo="https://i.imgur.com/Fr8Mnrd.png" group-title="UK",ITV 4
 http://51.52.156.22:8888/http/007
 #EXTINF:-1 tvg-id="" tvg-name="Jazz and Beyond" tvg-logo="https://i.imgur.com/bhSrOea.jpg" group-title="UK",Jazz and Beyond
 https://qwestjazz-samsung-uk.amagi.tv/playlist.m3u8
@@ -165,7 +165,7 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 https://sofytv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Sonlife UK" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/p6og1yz.png",Sonlife UK
 https://sonlife7-i.akamaihd.net/hls/live/585011/ch7/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Movies Action" tvg-logo="" group-title="UK",Sony Movies Action
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies Action" tvg-logo="https://i.imgur.com/LY8Vauy.jpg" group-title="UK",Sony Movies Action
 http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-id="" tvg-name="Sports Channel Network" tvg-logo="https://i.imgur.com/trfRIem.png" group-title="UK",Sports Channel Network
 https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
