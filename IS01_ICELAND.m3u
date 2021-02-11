@@ -5,7 +5,7 @@ https://
 https://w2.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chunklist_w587901821_b772000_slfao.m3u8
 #EXTINF:-1 tvg-name="N4" tvg-id="N4" tvg-logo="https://i.imgur.com/bLA64K0.png" group-title="ICELAND",N4
 https://live.tv.c.is/n4/index.m3u8
-#EXTINF:-1 tvg-name="RÚV 1 Island" tvg-id="RÚV 1 Island" tvg-logo="https://i.imgur.com/9M7hsjR.png" group-title="ICELAND",RÚV 1 Island
+#EXTINF:-1 tvg-name="RUV 1 Island" tvg-id="RUV 1 Island" tvg-logo="https://i.imgur.com/9M7hsjR.png" group-title="ICELAND",RUV 1 Island
 http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUV 2" tvg-logo="http://www.ruv.is/sjonvarp/static/media/RUV2_192.9247daaf.png" group-title="ICELAND",RUV 2
 http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruv2erl/index.m3u8
