@@ -666,11 +666,15 @@ https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Alpha Neuchatel" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="SWITZERLAND",Canal Alpha Neuchatel
 https://edge3.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Die Neue Zeit" tvg-logo="https://i.imgur.com/9dQuwCc.jpg" group-title="SWITZERLAND",Die Neue Zeit
-https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/chunklist_w2039349636.m3u8
+https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dieu TV" tvg-logo="https://i.imgur.com/3sWAEuY.jpg" group-title="SWITZERLAND",Dieu TV
+https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 9" tvg-logo="https://i.imgur.com/nQVDOVb.png" group-title="SWITZERLAND",Kanal 9
 https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="La Tele" tvg-logo="https://i.imgur.com/JiAnDPu.png" group-title="SWITZERLAND",La Tele
 https://latele.vedge.infomaniak.com/livecast/latele/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Leman Bleu" tvg-logo="https://icanlive.tv/pictures/lemanbleu.jpg" group-title="SWITZERLAND",Leman Bleu
+https://edge2.vedge.infomaniak.com/livecast/ik:naxoo/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LFM TV" tvg-logo="https://i.imgur.com/UE1E3uH.png" group-title="SWITZERLAND;MUSIK",LFM TV
 https://edge4.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8?spark=cf45faac-ae15-4c71-92c5-6c3527ed8e0f&token=
 #EXTINF:-1 tvg-id="" tvg-name="Meteonews" tvg-logo="https://i.imgur.com/YtYhbJD.png" group-title="SWITZERLAND",Meteonews
@@ -928,11 +932,13 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 #EXTINF:-1 tvg-id="" tvg-name="NBCLX" tvg-logo="https://i.imgur.com/FPt2WNf.jpg" group-title="USA",NBCLX
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
 #EXTINF:-1 tvg-name="Newsmax TV" tvg-id="Newsmax" group-title="USA" tvg-logo="https://i.imgur.com/L0PC2YI.png",Newsmax TV
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-name="NewsNet" tvg-id="NewsNet" tvg-logo="https://i.imgur.com/Fc40om4.jpg" group-title="USA",NewsNet
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2020/08/newsnow-logo.jpg" group-title="USA",NewsNow from FOX
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2020/08/newsnow-logo.jpg" group-title="USA",NewsNow from FOX (alt)
+https://content.uplynk.com/channel/3b8643bb739f4f24a8248fad52beb2a0.m3u8?repl=aboi
 #EXTINF:-1 tvg-name="Newsy" tvg-id="Newsy" tvg-logo="https://i.imgur.com/Otw0sN1.png" group-title="USA",Newsy
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
 #EXTINF:-1 tvg-name="Nothing Scripted" tvg-id="" group-title="USA" tvg-logo="https://i.imgur.com/QSH4Z4p.png",Nothing Scripted
@@ -1207,6 +1213,8 @@ https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
 https://wowzaprod188-i.akamaihd.net/hls/live/730322/3fa8d5f5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Southeastern Channel" tvg-logo="https://i.imgur.com/5yAdX7E.png" group-title="USA LOCAL",Southeastern Channel
 http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo 47" tvg-logo="" group-title="USA LOCAL",Telemundo 47 New York
+https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/master.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="CW-WHP" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/ynslys.png" group-title="USA LOCAL",The CW-WHP 11 (Harrisburg, Pennsylvania)
 https://ts002.teleuptv.net/rTK2EQCVCX/playlist.m3u8
 #EXTINF:-1 tvg-name="The Rockville Channel" tvg-id="The Rockville Channel" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/0mvGibX.jpg",The Rockville Channel
@@ -5856,6 +5864,8 @@ https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Birikina TV" tvg-logo="https://i.imgur.com/kzvsNo2.png" group-title="ITALY LOCAL;MUSIK",Radio Birikina TV
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Bruno" tvg-logo="" group-title="ITALY LOCAL;MUSIK",Radio Bruno
+https://stream7.xdevel.com/video0s975758-579/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Carina TV" tvg-logo="https://i.imgur.com/Epfn9m0.png" group-title="ITALY LOCAL;MUSIK",Radio Carina TV
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Ibiza TV" tvg-logo="" group-title="ITALY LOCAL;MUSIK",Radio Ibiza TV
@@ -5868,6 +5878,8 @@ https://flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Piterpan" tvg-logo="https://i.imgur.com/DfugVgy.png" group-title="ITALY LOCAL;MUSIK",Radio Piterpan
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Studio 7" tvg-logo="https://i.imgur.com/3UvjR39.png" group-title="ITALY LOCAL;MUSIK",Radio Studio 7
+https://flash7.xdevel.com/studio7mctv/studio7mctv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Taormina Sicilia" tvg-logo="https://i.imgur.com/SrhtocV.png" group-title="ITALY LOCAL;MUSIK",Radio Taormina Sicilia
 https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Universal TV Catania" tvg-logo="https://i.imgur.com/9Zess4Q.png" group-title="ITALY LOCAL;MUSIK",Radio Universal TV Catania
@@ -6010,6 +6022,8 @@ http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 https://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVRS Marche" tvg-logo="https://i.imgur.com/CbjnaNN.png" group-title="ITALY LOCAL",TVRS Marche
 http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Umbria TV" tvg-logo="" group-title="ITALY LOCAL",Umbria TV
+https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VCO Azzurra TV" tvg-logo="https://i.imgur.com/FWU8jDN.png" group-title="ITALY LOCAL",VCO Azzurra TV
 https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vera TV Marche" tvg-logo="https://i.imgur.com/kXDdx0h.png" group-title="ITALY LOCAL",Vera TV Marche
