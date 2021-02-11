@@ -83,6 +83,8 @@ https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Birikina TV" tvg-logo="https://i.imgur.com/kzvsNo2.png" group-title="ITALY LOCAL;MUSIK",Radio Birikina TV
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Bruno" tvg-logo="" group-title="ITALY LOCAL;MUSIK",Radio Bruno
+https://stream7.xdevel.com/video0s975758-579/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Carina TV" tvg-logo="https://i.imgur.com/Epfn9m0.png" group-title="ITALY LOCAL;MUSIK",Radio Carina TV
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Ibiza TV" tvg-logo="" group-title="ITALY LOCAL;MUSIK",Radio Ibiza TV
@@ -95,6 +97,8 @@ https://flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Piterpan" tvg-logo="https://i.imgur.com/DfugVgy.png" group-title="ITALY LOCAL;MUSIK",Radio Piterpan
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Studio 7" tvg-logo="https://i.imgur.com/3UvjR39.png" group-title="ITALY LOCAL;MUSIK",Radio Studio 7
+https://flash7.xdevel.com/studio7mctv/studio7mctv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Taormina Sicilia" tvg-logo="https://i.imgur.com/SrhtocV.png" group-title="ITALY LOCAL;MUSIK",Radio Taormina Sicilia
 https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Universal TV Catania" tvg-logo="https://i.imgur.com/9Zess4Q.png" group-title="ITALY LOCAL;MUSIK",Radio Universal TV Catania
@@ -237,6 +241,8 @@ http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 https://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVRS Marche" tvg-logo="https://i.imgur.com/CbjnaNN.png" group-title="ITALY LOCAL",TVRS Marche
 http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Umbria TV" tvg-logo="" group-title="ITALY LOCAL",Umbria TV
+https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VCO Azzurra TV" tvg-logo="https://i.imgur.com/FWU8jDN.png" group-title="ITALY LOCAL",VCO Azzurra TV
 https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vera TV Marche" tvg-logo="https://i.imgur.com/kXDdx0h.png" group-title="ITALY LOCAL",Vera TV Marche
