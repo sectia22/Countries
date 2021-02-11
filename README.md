@@ -2,7 +2,11 @@
 Free legally receivable IPTV channels as .m3u for Kodi. :-)
 
 The lists work fine with me in the IPTV Simple Client from Kodi. To automatically create the individual lists
-to one list, i use the ADD-On IPTV-Merge from Matt Huisman. ;-) Without Kodi you can use the lists in the VLC-Media Player. :-)
+to one list, i use the ADD-On IPTV-Merge from Matt Huisman. ;-) You find this great Add-On here:
+
+https://www.matthuisman.nz/2019/02/iptv-merge-kodi-add-on.html
+
+Without Kodi you can use the lists in the VLC-Media Player. :-)
 
 You can also use the ZZ_PLAYLIST_ALL_TV.m3u, there you have all TV stations in one list (.m3u).
 
