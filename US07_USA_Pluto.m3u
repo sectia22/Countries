@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://techzyon.com/epg/plutotv_guide.xml" url-tvg="https://techzyon.com/epg/plutotv_guide.xml" refresh="3600"
 #EXTINF:-1 tvg-name="************** USA PLUTO *********" tvg-id="" group-title="" tvg-logo="",************** USA  PLUTO  *********
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?appVersion=0&deviceDNT=false&sid=channel&deviceId=0&deviceMake=0&deviceModel=0&deviceType=web&deviceVersion=0
 #EXTINF:-1 tvg-name="70s Cinema" tvg-logo="http://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png" group-title="PLUTO USA",70s Cinema
