@@ -17,7 +17,7 @@ https://w1.mediastreaming.it/tuttositiweb/livestream/playlist.m3u8
 https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bergamo TV" tvg-logo="https://i.imgur.com/6jNbS4e.png" group-title="ITALY LOCAL",Bergamo TV
 http://api.new.livestream.com/accounts/245066/events/3063596/live.m3u8
-#EXTINF:-1 tvg-name="Cafè 24" tvg-id="" group-title="ITALY LOCAL" tvg-logo="https://i.imgur.com/Ta05IbG.jpg",Cafè 24
+#EXTINF:-1 tvg-name="Cafe 24" tvg-id="" group-title="ITALY LOCAL" tvg-logo="https://i.imgur.com/Ta05IbG.jpg",Cafe 24
 https://srvx1.selftv.video/cafe/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Canale 2" tvg-id="" group-title="ITALY LOCAL" tvg-logo="https://i.imgur.com/nlcGron.jpg",Canale 2
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
@@ -113,7 +113,7 @@ https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
 http://flash2.streaming.xdevel.com:80/radiouniversaltv/radiouniversaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radionorba TV" tvg-logo="https://i.imgur.com/NLBLh4j.png" group-title="ITALY LOCAL;MUSIK",Radionorba TV
 http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="RAI Südtirol" tvg-id="" group-title="ITALY LOCAL" tvg-logo="https://i.imgur.com/Igx6Cja.png",RAI Südtirol
+#EXTINF:-1 tvg-name="RAI SÃ¼dtirol" tvg-id="" group-title="ITALY LOCAL" tvg-logo="https://i.imgur.com/Igx6Cja.png",RAI SÃ¼dtirol
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ReggioTV" tvg-logo="https://i.imgur.com/WpXkI5i.png" group-title="ITALY LOCAL",ReggioTV
 https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8
@@ -147,7 +147,7 @@ https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8
 https://59d8c0cee6f3d.streamlock.net/studio100ta/studio100ta/chunklist_w807820603.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Style Channel" tvg-logo="https://i.imgur.com/GQSlVzp.png" group-title="ITALY LOCAL",Style Channel
 https://59ef7ad665d1d.streamlock.net:1443/artelab/_definst_/artelab/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Südtirol TV" tvg-logo="" group-title="ITALY LOCAL",Südtirol TV
+#EXTINF:-1 tvg-id="" tvg-name="SÃ¼dtirol TV" tvg-logo="" group-title="ITALY LOCAL",SÃ¼dtirol TV
 https://5ce9406b73c33.streamlock.net/SudTirolTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Super J TV Teramo" tvg-logo="https://i.imgur.com/H3uItqg.png" group-title="ITALY LOCAL",Super J TV Teramo
 http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8
@@ -189,7 +189,7 @@ https://streamtechglobal.akamaized.net/hls/live/2024685/telefriuli/Group01/playl
 https://5db313b643fd8.streamlock.net/Telegenova/Telegenova/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telegranda" tvg-logo="" group-title="ITALY LOCAL",Telegranda
 http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telelibertà" tvg-logo="" group-title="ITALY LOCAL",Telelibertà
+#EXTINF:-1 tvg-id="" tvg-name="Teleliberta" tvg-logo="" group-title="ITALY LOCAL",Teleliberta
 http://api.new.livestream.com/accounts/17114188/events/4902226/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TeleMia Calabria" tvg-logo="https://i.imgur.com/VDiISqA.png" group-title="ITALY LOCAL",TeleMia Calabria
 http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8

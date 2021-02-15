@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="*************** USA GALXY TV ***********" tvg-logo="https://i.imgur.com/oPnzAPC.png",************** USA GALXY TV ***********
+https://
+#EXTINF:-1 tvg-id="" tvg-name="Galxy TV" tvg-logo="https://i.imgur.com/oPnzAPC.png" group-title="USA GALXY TV",Galxy TV
+https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Watch it Kid" tvg-logo="https://i.imgur.com/DAhbkLv.png" group-title="USA GALXY TV",Watch it Kid
+https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8

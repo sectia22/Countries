@@ -23,35 +23,35 @@ https://nimble.dashstreams.net/onestudio/travel4u/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8
 #EXTINF:-1 tvg-name="Weather 4U" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Weather 4U
 https://nimble.dashstreams.net/onestudio/weather4u/playlist.m3u8
-#EXTINF:-1 tvg-name="Network – AutoPlay" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network – AutoPlay
+#EXTINF:-1 tvg-name="Network - AutoPlay" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network - AutoPlay
 https://nimble.dashstreams.net/onestudio/aptv/playlist.m3u8
-#EXTINF:-1 tvg-name="Network – BCTV" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network – BCTV
+#EXTINF:-1 tvg-name="Network - BCTV" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network - BCTV
 https://nimble.dashstreams.net/onestudio/blackmedia/playlist.m3u8
-#EXTINF:-1 tvg-name="Network – Black Music Artist TV" tvg-id="" group-title="MYTVTOGO USA;MUSIK" tvg-logo="",Network – Black Music Artist TV
+#EXTINF:-1 tvg-name="Network - Black Music Artist TV" tvg-id="" group-title="MYTVTOGO USA;MUSIK" tvg-logo="",Network - Black Music Artist TV
 https://nimble.dashstreams.net/onestudio/blackmusicartist/playlist.m3u8
-#EXTINF:-1 tvg-name="Network – Bluegrass Music" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="https://i.imgur.com/wha8zxc.png",Network – Bluegrass Music
+#EXTINF:-1 tvg-name="Network - Bluegrass Music" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="https://i.imgur.com/wha8zxc.png",Network - Bluegrass Music
 https://nimble.dashstreams.net/onestudio/bluegrassmusic4u/playlist.m3u8
-#EXTINF:-1 tvg-name="Network – California Music Channel" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network – California Music Channel
+#EXTINF:-1 tvg-name="Network - California Music Channel" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network - California Music Channel
 https://nimble.dashstreams.net/onestudio/californiamusicchannel/playlist.m3u8
-#EXTINF:-1 tvg-name="Network – Classic Arts Showcase" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network – Classic Arts Showcase
+#EXTINF:-1 tvg-name="Network - Classic Arts Showcase" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network - Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
-#EXTINF:-1 tvg-name="Network – Energy Network" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network – Energy Network
+#EXTINF:-1 tvg-name="Network - Energy Network" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network - Energy Network
 https://nimble.dashstreams.net/onestudio/energytv/playlist.m3u8
-#EXTINF:-1 tvg-name="Network – Family Friendly Entertainment" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network – Family Friendly Entertainment
+#EXTINF:-1 tvg-name="Network - Family Friendly Entertainment" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network - Family Friendly Entertainment
 https://nimble.dashstreams.net/onestudio/gmt/playlist.m3u8
-#EXTINF:-1 tvg-name="Network – Going To War" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network – Going To War
+#EXTINF:-1 tvg-name="Network - Going To War" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network - Going To War
 https://nimble.dashstreams.net/onestudio/going_to_war/playlist.m3u8
-#EXTINF:-1 tvg-name="Network – Let’s Talk About It" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network – Let’s Talk About It
+#EXTINF:-1 tvg-name="Network - Lets Talk About It" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network - Lets Talk About It
 https://nimble.dashstreams.net/onestudio/lets_talk_about_it/playlist.m3u8
-#EXTINF:-1 tvg-name="Network – News Net" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network – News Net
+#EXTINF:-1 tvg-name="Network - News Net" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network - News Net
 https://nimble.dashstreams.net/onestudio/newsnet/playlist.m3u8
-#EXTINF:-1 tvg-name="Network – nPowered TV" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network – nPowered TV
+#EXTINF:-1 tvg-name="Network - nPowered TV" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network - nPowered TV
 https://nimble.dashstreams.net/onestudio/npowered/playlist.m3u8
-#EXTINF:-1 tvg-name="Network – OK TV" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network – OK TV
+#EXTINF:-1 tvg-name="Network - OK TV" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network - OK TV
 https://nimble.dashstreams.net/onestudio/myoktv/playlist.m3u8
-#EXTINF:-1 tvg-name="Network – Planet Cannabis Shopping" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network – Planet Cannabis Shopping
+#EXTINF:-1 tvg-name="Network - Planet Cannabis Shopping" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network - Planet Cannabis Shopping
 https://nimble.dashstreams.net/onestudio/planetshopping/playlist.m3u8
-#EXTINF:-1 tvg-name="Network – Really TV" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network – Really TV
+#EXTINF:-1 tvg-name="Network - Really TV" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network - Really TV
 https://nimble.dashstreams.net/onestudio/ReallyTv/playlist.m3u8
-#EXTINF:-1 tvg-name="Network – Wink TV" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network – Wink TV
+#EXTINF:-1 tvg-name="Network - Wink TV" tvg-id="" group-title="MYTVTOGO USA" tvg-logo="",Network - Wink TV
 https://nimble.dashstreams.net/onestudio/winktv/playlist.m3u8

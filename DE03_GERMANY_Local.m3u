@@ -41,7 +41,11 @@ https://578d8e1867e87.streamlock.net/medienasa-vod/_definst_/mp4:hdl_sendung_720
 https://live2.telvi.de/hls/hamburg1.m3u8
 #EXTINF:-1 tvg-name="Hauptstadt TV (Potsdam)" tvg-id="" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/ZXskBkv.png",Hauptstadt TV (Potsdam)
 https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
-#EXTINF: -1 tvg-name="KulturMD Magdeburg" tvg-id="KulturMD" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="GERMAN LOCAL", KulturMD Magdeburg
+#EXTINF: -1 tvg-name="Jena TV" tvg-id="" tvg-logo="https://i.imgur.com/o3D4bQI.png" group-title="GERMAN LOCAL",Jena TV
+https://stream7.sehradar.de/jenatv/ngrp:livestream_all/playlist.m3u8
+#EXTINF: -1 tvg-name="Kanal 12 Spremberg TV" tvg-id="" tvg-logo="https://i.imgur.com/DuHNGCq.png" group-title="GERMAN LOCAL",Kanal 12 Spremberg TV
+https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
+#EXTINF: -1 tvg-name="KulturMD Magdeburg" tvg-id="KulturMD" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="GERMAN LOCAL",KulturMD Magdeburg
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=661069
 #EXTINF:-1 tvg-name="KW TV Wildau" tvg-id="" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/882I3h8.png",KW TV Wildau
 https://58af0c57eaf3e.streamlock.net/easycast11-live/_definst_/mp4:livestream/playlist.m3u8?&ref=&seid=199961
@@ -93,8 +97,6 @@ https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
 https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/kieltv/index.m3u8
 #EXTINF:-1 tvg-name="OK Koblenz" tvg-id="OK Koblenz" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okkoblenz.png",OK Koblenz
 https://s.ok54.de/ok4/live/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Ludwigshafen" tvg-id="" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/asmtpjL.png",OK Ludwigshafen
-https://s.ok54.de/oklu/livestream/playlist.m3u8
 #EXTINF: -1 tvg-name="OK Magdeburg" tvg-id="OK Magdeburg" tvg-logo="https://i.imgur.com/kBR5XUI.png" group-title="GERMAN LOCAL", OK Magdeburg
 http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ok-magdeburg_high/playlist.m3u8?&ref=www.ok-magdeburg.de&seid=771136
 #EXTINF: -1 tvg-name="OK Mainz" tvg-id="" tvg-logo="https://i.imgur.com/rM9dOa4.png" group-title="GERMAN LOCAL",OK Mainz
@@ -108,11 +110,13 @@ http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8
 #EXTINF:-1 tvg-name="OK Trier" tvg-id="OK Trier" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oktrier.png",OK Trier
 https://s.ok54.de/ott/webstream/playlist.m3u8
 #EXTINF:-1 tvg-name="OK TV Südwestpfalz" tvg-id="" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/q5G6MZ5.jpg",OK TV Südwestpfalz
-https://s.ok54.de/okswp/test/chunks.m3u8?nimblesessionid=8908005
+https://s.ok54.de/okswp/test/playlist.m3u8
 #EXTINF:-1 tvg-name="OK Weinstrasse Landau" tvg-id="OK Weinstrasse" tvg-logo="https://i.imgur.com/8qWX30L.png" group-title="GERMAN LOCAL",OK Weinstrasse Landau
 https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
 #EXTINF: -1 tvg-name="OK Wernigerode" tvg-id="OK Wernigerode" tvg-logo="https://medienportal-sachsen-anhalt.de/uploads/logos/ok-werni.png" group-title="GERMAN LOCAL", OK Wernigerode
 http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ok-wernigerode_high/playlist.m3u8?&ref=www.campus-tv-harz.de&seid=765525
+#EXTINF: -1 tvg-name="Oscar am Freitag" tvg-id="" tvg-logo="https://i.imgur.com/EIJH9kp.gif" group-title="GERMAN LOCAL",Oscar am Freitag
+https://58de7a369a9c4.streamlock.net/oskar/_definst_/stream_720p/playlist.m3u8
 #EXTINF: -1 tvg-name="Punkteins (Oberlausitz)" tvg-id="" tvg-logo="https://i.imgur.com/Zb87dQQ.png" group-title="GERMAN LOCAL",Punkteins (Oberlausitz)
 https://5852afe96c9bb.streamlock.net/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8
 #EXTINF: -1 tvg-name="PunktUm Hettstedt" tvg-id="PunktUm" tvg-logo="https://www.punktum-fernsehen.de/share/android-icon-192x192.png" group-title="GERMAN LOCAL", PunktUm Hettstedt
@@ -165,6 +169,8 @@ https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
 https://5aec29c5dd23b.streamlock.net:8443/sylt1/_definst_/sylt1_high1.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="SWR 3 Visual Radio" tvg-id="S" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/PxSgxRO.jpg",SWR 3 Visual Radio (Webradio)
 https://swrswr3vrhls-i.akamaihd.net/hls/live/780818/vrswr3/master-540p-1928.m3u8
+#EXTINF:-1 tvg-name="teltOwkanal" tvg-id="" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/EG73maP.png",teltOwkanal
+https://5856e1a25f71a.streamlock.net/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8?&ref=www.teltowkanal.de
 #EXTINF:-1 tvg-name="Tide TV (Hamburg - ab 12:00)" tvg-id="" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/p2lQVo0.png",Tide TV (Hamburg - ab 12:00)
 https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8?&ref=www.tidenet.de&seid=166119
 #EXTINF:-1  tvg-name="TV38 Südost-Niedersachen" tvg-id="TV38 Südost-Niedersachen" tvg-logo="https://i.imgur.com/ob9JJPU.png" group-title="GERMAN LOCAL",TV38 Südost-Niedersachen
