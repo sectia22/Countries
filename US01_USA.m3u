@@ -243,6 +243,8 @@ http://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-ptd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PTL TV Network" tvg-logo="https://i.imgur.com/EhISpCd.png" group-title="USA",PTL TV Network
 http://morningside-lh.akamaihd.net/i/jblive_1@303354/index_2008_av-p.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/Ki7zVmW.png" group-title="USA",Qubo
+http://ion-qubo-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/qvcLive/logo_small.png" group-title="USA",QVC Live
 http://n1.klowdtv.net/live2/qvclive_720p/chunks.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/QVC_Plus_Logo.svg/320px-QVC_Plus_Logo.svg.png" group-title="USA",QVC 2
