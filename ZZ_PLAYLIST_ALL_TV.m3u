@@ -205,7 +205,7 @@ https://jola.live:16200/tesastv.m3u8
 https://
 #EXTINF:-1 tvg-name="Alex Berlin" tvg-id="" group-title="GERMAN LOCAL" tvg-logo="https://i.imgur.com/eTmHk4e.png",Alex Berlin
 https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="allgäu.tv Kempen" tvg-id="allgäu.tv" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/allgaeutv.png",allg�u.tv Kempen
+#EXTINF:-1 tvg-name="allgäu.tv Kempen" tvg-id="allgäu.tv" group-title="GERMAN LOCAL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/allgaeutv.png",allg�u.tv Kempen
 https://stream01.stream.welocal.world/stream/alg/ngrp:alg.stream_all/chunklist_w1838873546_b446000.m3u8
 #EXTINF:-1 tvg-name="Arcadia TV" tvg-id="Arcadia TV" tvg-logo="https://i.imgur.com/UR4E82q.jpg" group-title="GERMAN LOCAL",Arcadia TV
 plugin://plugin.video.youtube/play/?video_id=WVoUozYtdgI
@@ -585,7 +585,7 @@ http://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestr
 https://stream.openplayout.org/hls/dorf_high/index.m3u8
 #EXTINF:-1 tvg-name="FS1 Salzburg" tvg-id="FS1 Salzburg" tvg-logo="https://i.imgur.com/P5pc813.png" group-title="AUSTRIA",FS1 Salzburg
 http://stream.fs1.tv:8080/hls/webstream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hitradio Ö3 (Webradio)" tvg-logo="https://i.imgur.com/pb4Iqno.png" group-title="AUSTRIA",Hitradio �3 (Webradio)
+#EXTINF:-1 tvg-id="" tvg-name="Hitradio Ö3 (Webradio)" tvg-logo="https://i.imgur.com/pb4Iqno.png" group-title="AUSTRIA",Hitradio �3 (Webradio)
 https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OyOPRtq.png" group-title="AUSTRIA",K-TV
 http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
@@ -1711,16 +1711,8 @@ https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
 https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="ROKU USA",Gusto TV
 https://gustotv-gustotv-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/FMgtqM8.jpg" group-title="ROKU USA",Hallmark Channel
-https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/RHbmKUV.jpg" group-title="ROKU USA",Hallmark Drama
-https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-drama-frndlytv/CDN/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/hcLUKfv.jpg" group-title="ROKU USA",Hallmark Movies & More
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/IytaaVV.jpg" group-title="ROKU USA",Hallmark Movies & Mysteries
-https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-frndlytv/CDN/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/82mkgv7.png" group-title="ROKU USA",Insp
-https://vidaprimo-roku-us.amagi.tv/hls/amagi_hls_data_yupptvfrn-insp-frndlytv/CDN/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/mMAO3P6.jpg" group-title="ROKU USA",Kidoodle
 http://kidoodletv-kdtv-3.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/1LPIb2E.png" group-title="ROKU USA",Kocowa Classic
@@ -1761,8 +1753,6 @@ https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8
 https://aenetworks-skills-thrills-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VrZkqvM.png" group-title="ROKU USA",The Design Network
 https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/CjJo4Iu.jpg" group-title="ROKU USA",UPtv
-https://vidaprimo-roku-us.amagi.tv/hls/amagi_hls_data_yupptvfrn-uptv-frndlytv/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="ROKU USA",Weather Nation
 https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="ROKU USA",Wipeout Xtra
