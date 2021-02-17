@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="****************** ICELAND *******************" tvg-name="****************** ICELAND *******************" tvg-shift="0" radio="" tvg-logo="" group-title="",---- SENDER ISLAND ----
+#EXTINF:-1 tvg-name="**************** ICELAND *****************" tvg-logo="" group-title="",**************** ICELAND *****************
 https://
 #EXTINF:-1 tvg-name="KVF Faroe Island" tvg-id="KVF Faroe Island" tvg-logo="" group-title="ICELAND",KVF Faroe Island
 https://w2.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chunklist_w587901821_b772000_slfao.m3u8
