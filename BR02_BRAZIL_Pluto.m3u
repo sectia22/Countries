@@ -1,6 +1,6 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="************** BR PLUTO *********" group-title="PLUTO BR" tvg-logo="",************** BR PLUTO *********
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml" url-tvg="https://i.mjh.nz/PlutoTV/br.xml" refresh="3600"
+#EXTINF:-1 tvg-name="******************** PLUTO BR ***********" tvg-logo="",******************* PLUTO BR ***********
+https://
 #EXTINF:-1 tvg-name="A vida moderna de Rocko" tvg-id="5f6df6293a12e10007017396" group-title="PLUTO BR" tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png",A vida moderna de Rocko
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="As  Pistas de Blue" tvg-id="5f99aad4e82db50007fac4b2" group-title="PLUTO BR" tvg-logo="https://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/colorLogoPNG.png",As  Pistas de Blue
