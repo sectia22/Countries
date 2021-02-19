@@ -9,12 +9,6 @@ https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://endemol-alldrama-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Arise News" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/BlNMp0k.png",Arise News
 http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1 tvg-id="Cbeebies (UK)" tvg-name="CBeebies" tvg-logo="https://i.imgur.com/q6ipFCf.png" group-title="UK",BBC Four/CBeebies
-http://51.52.156.22:8888/http/003
-#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="UK",BBC News
-http://51.52.156.22:8888/http/004
-#EXTINF:-1 tvg-id="BBC Scotland" tvg-name="BBC Scotland" tvg-logo="https://i.imgur.com/rtZxGzr.png" group-title="UK",BBC Scotland/CITV
-http://51.52.156.22:8888/http/001
 #EXTINF:-1 tvg-id="" tvg-name="Beano TV" tvg-logo="https://i.imgur.com/XvBi1Ou.png" group-title="UK",Beano TV
 https://beanostudios-beanotv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Big Names" tvg-logo="https://i.imgur.com/OVPfhsc.png" group-title="UK",Big Names
@@ -53,8 +47,6 @@ https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Fashion TV" tvg-id="FashionTV.eu" group-title="UK" tvg-logo="https://i.imgur.com/HBksX8u.png",Fashion TV
 http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Film4" tvg-logo="https://i.imgur.com/VMkE93N.png" group-title="UK",Film4
-http://51.52.156.22:8888/http/008
 #EXTINF:-1 tvg-name="Filmon 360" tvg-logo="https://i.imgur.com/Jh3Ccrn.png" group-title="UK",Filmon 360
 https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Filmstream" tvg-logo="https://i.imgur.com/aoaV9ek.jpg" group-title="UK",Filmstream
@@ -84,15 +76,7 @@ https://inwild-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Inwonder" tvg-logo="https://i.imgur.com/5VUGeTE.png" group-title="UK",Inwonder
 https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ITV (UK)" tvg-name="ITV" tvg-logo="https://i.imgur.com/SsgOgRF.png" group-title="UK",ITV
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITV2" tvg-logo="https://i.imgur.com/skKLbE9.png" group-title="UK",ITV 2
-http://51.52.156.22:8888/http/005
-#EXTINF:-1 tvg-id="" tvg-name="ITV3" tvg-logo="https://i.imgur.com/fSnofcu.png" group-title="UK",ITV 3
-http://51.52.156.22:8888/http/006
-#EXTINF:-1 tvg-id="" tvg-name="ITV4" tvg-logo="https://i.imgur.com/Fr8Mnrd.png" group-title="UK",ITV 4
-http://51.52.156.22:8888/http/007
-#EXTINF:-1 tvg-id="" tvg-name="Jazz and Beyond" tvg-logo="https://i.imgur.com/bhSrOea.jpg" group-title="UK",Jazz and Beyond
-https://qwestjazz-samsung-uk.amagi.tv/playlist.m3u8
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 tvg-id="kerang.uk" tvg-name="Kerrang" tvg-logo="https://i.imgur.com/z8T3Q48.png" group-title="UK;MUSIK",Kerrang
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 #EXTINF:-1 tvg-id="" tvg-name="Kid Gamer TV" tvg-logo="https://i.imgur.com/dSPmDU7.png" group-title="UK",Kid Gamer TV
@@ -105,6 +89,8 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a/
 http://w11.streamgb.com:1935/kool/kool/playlist.m3u8
 #EXTINF:-1 tvg-name="La Muscle TV" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/ZiVPUiT.png",La Muscle TV
 https://streamcdn.lamuscle.com/lamtv-origin/smil:monsterworkout-tricepspt1.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Latest TV (4PM TO 2AM) " tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/qwAkIWp.png",Latest TV (4PM TO 2AM) 
+https://5a0e89631aa14.streamlock.net/LatestTV/LatestTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Loveworld TV" tvg-logo="https://i.imgur.com/8mc9KqX.png" group-title="UK",Loveworld TV
 https://cdn.lwuk.live/live/smil:lwukweb.smil/chunklist_b864000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Luxe TV" tvg-logo="https://i.imgur.com/8tWhfap.png" group-title="UK",Luxe TV
@@ -126,9 +112,9 @@ https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTA 3" tvg-logo="https://i.imgur.com/C5nT9yi.png" group-title="UK",MTA 3
 https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="My5 Documentaries" tvg-logo="https://i.imgur.com/xhIXQGK.png" group-title="UK",My5 Documentaries
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf901280e3550009139c86/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=475&deviceId=5ddf901280e3550009139c86&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf901280e3550009139c86/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-name="My5 GP's" tvg-logo="https://i.imgur.com/xhIXQGK.png" group-title="UK",My5 GP's
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2c57ee4f9ddf73da8a0ba5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=480&deviceId=5d2c57ee4f9ddf73da8a0ba5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d2c57ee4f9ddf73da8a0ba5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-name="Noor TV" tvg-logo="https://i.imgur.com/oeV42l0.jpg" group-title="UK",Noor TV
 https://ls1.serverdump.com/stream3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PBS America" tvg-logo="https://i.imgur.com/J4zE5z9.jpg" group-title="UK",PBS America
@@ -145,6 +131,12 @@ https://pocketwatch-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://live.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Qello Concerts by Stingray" tvg-logo="https://i.imgur.com/IVUgJPY.png" group-title="UK",Qello Concerts by Stingray
 https://stingray-qelloconcerts-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QUEST TV Classical" tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="UK",QUEST TV Classical
+https://qwestclassic-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QUEST TV Jazz and Beyond" tvg-logo="https://i.imgur.com/bhSrOea.jpg" group-title="UK",QUEST TV Jazz and Beyond
+https://qwestjazz-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QUEST TV MIX" tvg-logo="https://i.imgur.com/B69BHnx.jpg" group-title="UK",QUEST TV MIX
+https://qwestmix-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Real Stories" tvg-logo="https://i.imgur.com/TVfuBfJ.jpg" group-title="UK",Real Stories
 https://realstories-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Reel Truth" tvg-logo="https://i.imgur.com/gqUOI93.jpg" group-title="UK",Reel Truth
@@ -169,8 +161,6 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 https://sofytv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Sonlife UK" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/p6og1yz.png",Sonlife UK
 https://sonlife7-i.akamaihd.net/hls/live/585011/ch7/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Movies Action" tvg-logo="https://i.imgur.com/LY8Vauy.jpg" group-title="UK",Sony Movies Action
-http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-id="" tvg-name="Sports Channel Network" tvg-logo="https://i.imgur.com/trfRIem.png" group-title="UK",Sports Channel Network
 https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Spotlight" tvg-logo="https://i.imgur.com/vbb3bjW.png" group-title="UK",Spotlight
