@@ -153,6 +153,8 @@ http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
 https://api.new.livestream.com/accounts/6986636/events/5362122/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Screamfest"  tvg-logo="https://i.imgur.com/dtmm8iI.jpg" group-title="UK",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sheffield Live TV" tvg-logo="https://i.imgur.com/eUqnYU1.png" group-title="UK",Sheffield Live TV
+http://tv.sheffieldlive.org/hls/main.m3u8
 #EXTINF:-1 tvg-name="Sky 1 Racing" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/QweV0BP.png",Sky 1 Racing
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
 #EXTINF:-1 tvg-name="Sky 2" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/7MkX0Ct.png",Sky 2 Racing
