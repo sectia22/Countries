@@ -7,8 +7,6 @@ http://30a-tv.com/music.m3u8
 https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/5.m3u8
 #EXTINF:-1 tvg-name="Activa TV" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/guHWZwP.jpg",Activa TV
 https://streamtv.mediasector.es/hls/activatv/.m3u8
-#EXTINF:-1 tvg-name="ADRIA Music (Not until Kodi 19!)" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/pPAj9Ua.png",ADRIA Music (Not until Kodi 19!)
-https://lemp.smmx.dev/streams/ch-1/master.m3u8
 #EXTINF:-1 tvg-name="Alegria TV" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/jlRMBbu.jpg",Alegria TV
 https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
 #EXTINF:-1 tvg-name="Awka" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/RTjCXoJ.png",Awka
@@ -65,10 +63,6 @@ https://10999-1.b.cdn13.com/streams/masters-v3/djset/417.m3u8
 https://57490d2f4ea646bbae56a1a816617a5f.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_plex/3f15c325-941b-4c87-b429-d93bd3e70738/5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eurtz6A.png" group-title="MUSIK",Euro Indie Music Chart
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOLX Music (Not until Kodi 19!)" tvg-logo="https://i.imgur.com/R9f5Fmx.png" group-title="MUSIK",FOLX Music  (Not until Kodi 19!)
-https://lemp.smmx.dev/streams/ch-4/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOLX Slovenija (Not until Kodi 19!)" tvg-logo="https://i.imgur.com/R9f5Fmx.png" group-title="MUSIK",FOLX Slovenija (Not until Kodi 19!)
-https://lemp.smmx.dev/streams/ch-5/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5MLGsFs.png" group-title="MUSIK",Friday Feels (US)
 https://7d6f1eaab26244879085a9c647097af7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_plex/8d5f1f7f-8546-4892-9eca-988e973d6cc2/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Generations TV (FR)" tvg-logo="https://i.imgur.com/daUGyPl.jpg" group-title="FRANCE;MUSIK",Generations TV (FR)
@@ -151,10 +145,6 @@ https://edge4.vedge.infomaniak.com/livecast/ik:obossotv_6/manifest.m3u8?spark=f0
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="ON FM" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/GMyv6PM.jpg",ON FM
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONE1 Music (Not until Kodi 19!)" tvg-logo="https://i.imgur.com/fHbHbEH.png" group-title="MUSIK",ONE1 Music (Not until Kodi 19!)
-https://lemp.smmx.dev/streams/ch-3/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ONE1 Slovenija (Not until Kodi 19!)" tvg-logo="https://i.imgur.com/fHbHbEH.png" group-title="MUSIK",ONE1 Slovenija (Not until Kodi 19!)
-https://lemp.smmx.dev/streams/ch-6/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gMj1BQR.jpg" group-title="MUSIK",Only 90s Kids will understand (US)
 https://526cbf93692f48879c403ab8c1350e2a.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_plex/76979eef-8053-48eb-a1dc-b165e0d3dbf9/5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="MUSIK",Otto FM TV (IT)
@@ -233,8 +223,20 @@ https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
 https://fc68583ae7094821b6ab3b44c50c7740.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/unwind_plex/3c8fb5fb-b196-45cc-9284-40da26a04a98/5.m3u8
 #EXTINF:-1 tvg-name="Urban Music" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/m4fM1B7.jpg",Urban Music
 https://nrpus.bozztv.com/36bay2/gusa-urbanmusic4u/index.m3u8
-#EXTINF:-1 tvg-name="Vevo Pop (US)" tvg-logo="https://i.imgur.com/ws0RcNP.png" group-title="PLUTO USA;MUSIK",Vevo Pop (US)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=890&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="VEVO 2K (US)" tvg-logo="http://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="MUSIK",VEVO 2K (US)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="VEVO 80's (US)" tvg-logo="http://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="MUSIK",VEVO 80's (US)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="VEVO 90's (US)" tvg-logo="http://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="MUSIK",VEVO 90's (US)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="VEVO Country (US)" tvg-logo="http://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg" group-title="MUSIK",VEVO Country (US)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Vevo Pop (US)" tvg-logo="http://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="MUSIK",Vevo Pop (US)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="VEVO R&B (US)" tvg-logo="http://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-title="MUSIK",VEVO R&B (US)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="VEVO Reggeaton & Trap (US)" tvg-logo="http://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg" group-title="MUSIK",VEVO Reggeaton & Trap (US)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Video Tour Channel HD" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/l1oc3ER.png",Video Tour Channel HD
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 #EXTINF:-1 tvg-name="Videorola HD" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/MWBk2hQ.jpg",Videorola HD
@@ -251,5 +253,3 @@ https://tls.cdnz.cl/xtvmusic/xtvmusic/playlist.m3u8
 https://6f293d7819ba4cf39ea9152700ad54ad.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_plex/eea1884a-76ca-461b-886d-9707c39c0fbb/5.m3u8
 #EXTINF:-1 tvg-name="Zapping Music HD" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/lHvoKdw.jpg",Zapping Music HD
 https://zmlive.zappingtv.com/zm_free/zm.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZWEI2 Music (Not until Kodi 19!)" tvg-logo="https://i.imgur.com/VVwHID9.png" group-title="MUSIK",ZWEI2 Music (Not until Kodi 19!)
-https://lemp.smmx.dev/streams/ch-2/master.m3u8
