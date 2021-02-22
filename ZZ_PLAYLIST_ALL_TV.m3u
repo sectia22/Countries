@@ -6871,6 +6871,8 @@ https://streamtv.mediasector.es/hls/activatv/.m3u8
 https://serve-first.folxplay.tv/folx/ch-1/master.m3u8
 #EXTINF:-1 tvg-name="Alegria TV" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/jlRMBbu.jpg",Alegria TV
 https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Algorhythm i love Tech House" tvg-logo="https://i.imgur.com/GyxXMDv.png" group-title="MUSIK",Algorhythm i love Tech House
+https://10999-1.b.cdn13.com/streams/masters-v3/djset/615.m3u8
 #EXTINF:-1 tvg-name="Awka" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/RTjCXoJ.png",Awka
 https://stmv1.questreaming.com/awkasonido/awkasonido/playlist.m3u8
 #EXTINF:-1 tvg-name="BaebleMusic (US)" tvg-id="BaebleMusic" group-title="USA;MUSIK" tvg-logo="https://i.imgur.com/9kLTfsY.png",BaebleMusic (US)
@@ -6913,8 +6915,6 @@ https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 tvg-name="DELUXEMUSIC (DE)" tvg-id="DeLuxeMusic.de" group-title="MUSIK" tvg-logo="https://i.imgur.com/Y9Y2YYx.png",DELUXEMUSIC (DE)
 https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="DELUXEMUSIC - Schlager Deluxe" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/1xeC9yM.png",DELUXEMUSIC - Schlager Deluxe
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26411877144_2102_61314video_480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DBM (FR)" tvg-logo="https://i.imgur.com/KOlCUJ9.jpg" group-title="FRANCE;MUSIK",DBM (FR)
 https://edge6.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
 #EXTINF:-1 tvg-name="Ditty TV (US)" tvg-id="DittyTV.com" group-title="MUSIK" tvg-logo="https://i.imgur.com/p5rREUo.png",Ditty TV (US)
@@ -7140,11 +7140,13 @@ https://mdr-284280-1.sslcast.mdr.de/mdr/284280/1/mp3/high/stream.mp3
 #EXTINF:-1 tvg-name="Nostalgie Route 66" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/Y6bNYBf.jpg",Nostalgie Route 66
 http://cdn.nrjaudio.fm/adwz1/de/57485/mp3_128.mp3
 #EXTINF:-1 tvg-name="Ostsee Welle" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/SwM099d.png",Ostsee Welle
-https://ostseewelle-ais-edge-3006-fra-eco-cdn.cast.addradio.de/ostseewelle/nord/mp3/high?ar-distributor=ffa0&context=fHA6LTE=&_art=dj0yJmlwPTkxLjI0OC43My40NyZpZD1pY3NjeGwtNnhweHlwNW1iJnQ9MTYxMzk4OTY4NiZzPTc4NjZmMjljIzE3ZDIwNTEwMzU2YzZiYWVlMDE5MThhM2RhMDliZjU2
+http://mp3.ostseewelle.c.nmdn.net/ostseewellelive/livestream.mp3
 #EXTINF:-1 tvg-name="Radio BOB" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/xRzItla.png",Radio BOB
-https://bob.hoerradar.de/radiobob-national-mp3-hq?sABC=6032340p%230%23s3343rsq78r024n15s803n2n4s4494r5%23ubzrcntr&mode=preroll&aw_0_1st.skey=1613902806&cb=141178607&amsparams=playerid:homepage;skey:1613902860
+https://streams.radiobob.de/bob-national/mp3-192
 #EXTINF:-1 tvg-name="Radio Ostrock" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/cytXyRK.png",Radio Ostrock
 https://secondradio.de:7070/ostrock?nc=1613902505298
+#EXTINF:-1 tvg-name="Radio Schlager Paradies" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/Nb4GEO5.png",Radio Schlager Paradies
+https://webstream.schlagerparadies.de/schlagerparadies128k.mp3
 #EXTINF:-1 tvg-name="Rock Antenne" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/eZKNvkT.png",Rock Antenne
 https://stream.rockantenne.de/rockantenne/stream/mp3
 #EXTINF:-1 tvg-name="****** USA ******" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/FDdeKor.png",****** USA ******
