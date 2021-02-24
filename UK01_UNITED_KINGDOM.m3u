@@ -45,6 +45,8 @@ https://dust-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://i.imgur.com/sBPVCYy.jpg" group-title="UK",Euronews
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Family Movies" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="UK",Family Movies
+https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Fashion TV" tvg-id="FashionTV.eu" group-title="UK" tvg-logo="https://i.imgur.com/HBksX8u.png",Fashion TV
 http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 tvg-name="Filmon 360" tvg-logo="https://i.imgur.com/Jh3Ccrn.png" group-title="UK",Filmon 360
@@ -207,5 +209,7 @@ https://qwestclassic-samsung-uk.amagi.tv/playlist.m3u8
 https://qwestmix-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Unbeaten" tvg-logo="https://i.imgur.com/hMojkpf.png" group-title="UK",Unbeaten
 https://alchimie-unbeaten-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="V2Beat TV" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/PXhzoPd.jpg",V2Beat TV
+https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Wonder" tvg-logo="https://i.imgur.com/450pJvs.png" group-title="UK",Wonder
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8
