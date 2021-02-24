@@ -93,7 +93,7 @@ https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 #EXTINF:-1 tvg-id="KISS.uk" tvg-name="Kiss (UK)" tvg-logo="https://i.imgur.com/InXTyza.png" group-title="UK;MUSIK",Kiss (UK)
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
-#EXTINF:-1 tvg-id="" tvg-name="KroneHit TV (AT)" tvg-logo="https://i.imgur.com/tLwBOtU.jpg" group-title="AUSTRIA;MUSIK",KroneHit TV (AT)
+#EXTINF:-1 tvg-id="" tvg-name="KroneHit TV (AT)" tvg-logo="https://i.imgur.com/tLwBOtU.jpg" group-title="MUSIK",KroneHit TV (AT)
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1 tvg-name="Latido Music HD" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/p3n3CZP.jpg",Latido Music HD
 https://vidaprimo-distroscale.amagi.tv/playlist720p.m3u8
@@ -175,7 +175,7 @@ http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uCQNwdW.jpg" group-title="MUSIK",Radio Number One TV (IT)
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WGs1jsk.png" group-title="SWITZERLAND;MUSIK",Radio Pilatus (Webradio) (CH)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WGs1jsk.png" group-title="MUSIK",Radio Pilatus (Webradio) (CH)
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Reload Radio" tvg-logo="https://i.imgur.com/WCWvj2M.png" group-title="MUSIK",Reload Radio
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
@@ -223,7 +223,7 @@ https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1038427347_b2028000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dpF2Hhh.png" group-title="MUSIK",Trending (US)
 https://8f8959ec0c604ae0aac98fe0cda060eb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trending_plex/9ea57596-c36d-4991-802a-3f1961fb4e87/5.m3u8
-#EXTINF:-1 tvg-name="TVM 3 (CH)" tvg-id="TVM3.ch"tvg-logo="https://i.imgur.com/ns5Ex9s.png" group-title="SWITZERLAND;MUSIK",TVM 3 (CH)
+#EXTINF:-1 tvg-name="TVM 3 (CH)" tvg-id="TVM3.ch"tvg-logo="https://i.imgur.com/ns5Ex9s.png" group-title="MUSIK",TVM 3 (CH)
 http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Exitos HD" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/kY94JF9.jpg",TV Exitos HD
 http://siglo21.dnsalias.com:8080/mylive/tvexitos/index.m3u8
@@ -233,6 +233,8 @@ https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
 https://fc68583ae7094821b6ab3b44c50c7740.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/unwind_plex/3c8fb5fb-b196-45cc-9284-40da26a04a98/5.m3u8
 #EXTINF:-1 tvg-name="Urban Music" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/m4fM1B7.jpg",Urban Music
 https://nrpus.bozztv.com/36bay2/gusa-urbanmusic4u/index.m3u8
+#EXTINF:-1 tvg-name="V2Beat TV (UK)" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/PXhzoPd.jpg",V2Beat TV (UK)
+https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-name="VEVO 2K (US)" tvg-logo="http://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="MUSIK",VEVO 2K (US)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="VEVO 80's (US)" tvg-logo="http://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="MUSIK",VEVO 80's (US)
