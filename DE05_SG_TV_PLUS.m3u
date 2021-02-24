@@ -1,23 +1,23 @@
 #EXTM3U 
-#EXTINF:-1 tvg-name="********** SAMSUNG TV PLUS *****" tvg-logo="",********** SAMSUNG TV PLUS *****
+#EXTINF:-1 tvg-name="********** SAMSUNG TV PLUS *****" tvg-logo="https://i.imgur.com/rVrHvn5.jpg",********** SAMSUNG TV PLUS *****
 https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Action Movies DE" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="SAMSUNG TV PLUS",Action Movies DE
+#EXTINF:-1 tvg-id="" tvg-name="Action Movies DE" tvg-logo="https://i.imgur.com/81NIxYJ.jpg" group-title="SAMSUNG TV PLUS",Action Movies DE
 https://rakuten-actionmovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Action Movies AT" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="SAMSUNG TV PLUS",Action Movies AT
+#EXTINF:-1 tvg-id="" tvg-name="Action Movies AT" tvg-logo="https://i.imgur.com/81NIxYJ.jpg" group-title="SAMSUNG TV PLUS",Action Movies AT
 https://rakuten-actionmovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Action Movies CH" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="SAMSUNG TV PLUS",Action Movies CH
+#EXTINF:-1 tvg-id="" tvg-name="Action Movies CH" tvg-logo="https://i.imgur.com/81NIxYJ.jpg" group-title="SAMSUNG TV PLUS",Action Movies CH
 https://rakuten-actionmovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies DE" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="SAMSUNG TV PLUS",Comedy Movies DE
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies DE" tvg-logo="https://i.imgur.com/slOK2IH.jpg" group-title="SAMSUNG TV PLUS",Comedy Movies DE
 https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies AT" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="SAMSUNG TV PLUS",Comedy Movies AT
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies AT" tvg-logo="https://i.imgur.com/slOK2IH.jpg" group-title="SAMSUNG TV PLUS",Comedy Movies AT
 https://rakuten-comedymovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies CH" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="SAMSUNG TV PLUS",Comedy Movies CH
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies CH" tvg-logo="https://i.imgur.com/slOK2IH.jpg" group-title="SAMSUNG TV PLUS",Comedy Movies CH
 https://rakuten-comedymovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Drama DE" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="SAMSUNG TV PLUS",Drama DE
+#EXTINF:-1 tvg-id="" tvg-name="Drama DE" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="SAMSUNG TV PLUS",Drama DE
 https://rakuten-tvshows-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Drama AT" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="SAMSUNG TV PLUS",Drama AT
+#EXTINF:-1 tvg-id="" tvg-name="Drama AT" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="SAMSUNG TV PLUS",Drama AT
 https://rakuten-tvshows-5-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Drama CH" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="SAMSUNG TV PLUS",Drama CH
+#EXTINF:-1 tvg-id="" tvg-name="Drama CH" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="SAMSUNG TV PLUS",Drama CH
 https://rakuten-tvshows-4-ch.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Der Serienkanal DE (breaks off)" tvg-logo="https://i.imgur.com/l3C0eDv.jpg" group-title="SAMSUNG TV PLUS",Der Serienkanal DE (breaks off)
 https://endemol-derserienkanal-1-de.samsung.wurl.com/manifest/playlist.m3u8
@@ -25,6 +25,18 @@ https://endemol-derserienkanal-1-de.samsung.wurl.com/manifest/playlist.m3u8
 https://endemol-derserienkanal-1-at.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Der Serienkanal CH (stop at ads)" tvg-logo="https://i.imgur.com/l3C0eDv.jpg" group-title="SAMSUNG TV PLUS",Der Serienkanal CH (stop at ads)
 https://endemol-derserienkanal-1-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Family DE" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="SAMSUNG TV PLUS",Family DE
+https://rakuten-family-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Family AT" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="SAMSUNG TV PLUS",Family AT
+https://rakuten-family-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Family CH" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="SAMSUNG TV PLUS",Family CH
+https://rakuten-family-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spotlight DE" tvg-logo="https://i.imgur.com/qgYRzl1.jpg" group-title="SAMSUNG TV PLUS",Spotlight DE
+https://rakuten-spotlight-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spotlight AT" tvg-logo="https://i.imgur.com/qgYRzl1.jpg" group-title="SAMSUNG TV PLUS",Spotlight AT
+https://rakuten-spotlight-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spotlight CH" tvg-logo="https://i.imgur.com/qgYRzl1.jpg" group-title="SAMSUNG TV PLUS",Spotlight CH
+https://rakuten-spotlight-4-ch.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Amuse Animation (FR)" tvg-logo="https://i.imgur.com/H7GtB0T.jpg" group-title="SAMSUNG TV PLUS",Amuse Animation (FR)
 https://amuse-amuseanimation-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV+" tvg-logo="https://i.imgur.com/ZYFF5YN.png" group-title="SAMSUNG TV PLUS",Bloomberg TV+
@@ -79,12 +91,6 @@ https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 https://d23gend7a1exlu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sofy TV" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="SAMSUNG TV PLUS",Sofy TV
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Spotlight DE" tvg-logo="https://i.imgur.com/vbb3bjW.png" group-title="SAMSUNG TV PLUS",Spotlight DE
-https://rakuten-spotlight-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Spotlight AT" tvg-logo="https://i.imgur.com/vbb3bjW.png" group-title="SAMSUNG TV PLUS",Spotlight AT
-https://rakuten-spotlight-5-at.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Spotlight CH" tvg-logo="https://i.imgur.com/vbb3bjW.png" group-title="SAMSUNG TV PLUS",Spotlight CH
-https://rakuten-spotlight-4-ch.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Karaoke" tvg-logo="https://i.imgur.com/XkBOu3Q.jpg" group-title="SAMSUNG TV PLUS",Stingray Karaoke
 https://stingray-karaoke-2-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Naturescape (US)" tvg-logo="https://i.imgur.com/sw1LtJ4.png" group-title="SAMSUNG TV PLUS",Stingray Naturescape (US)
