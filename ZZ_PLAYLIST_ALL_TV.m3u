@@ -255,6 +255,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1004e0a
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db04b360fa2560009deb3de/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5c5c3b948002db3c3e0b262e" group-title="Pluto Germany" tvg-name="Movies" tvg-logo="https://images.pluto.tv/channels/5c5c3b948002db3c3e0b262e/colorLogoPNG.png" ,Movies
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="5dc2bdfec6cdc10009975e20" group-title="Pluto Germany" tvg-name="Movies CH" tvg-logo="https://images.pluto.tv/channels/5dc2bdfec6cdc10009975e20/colorLogoPNG.png" ,Movies CH
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2bdfec6cdc10009975e20/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="60080e8a4bf36000076a81b1" group-title="Pluto Germany" tvg-name="N24 Doku" tvg-logo="https://images.pluto.tv/channels/60080e8a4bf36000076a81b1/colorLogoPNG.png" ,N24 Doku
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5be1c3f9851dd5632e2c91b2" group-title="Pluto Germany" tvg-name="Nature" tvg-logo="https://images.pluto.tv/channels/5be1c3f9851dd5632e2c91b2/colorLogoPNG.png" ,Nature
@@ -4863,16 +4865,20 @@ https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791350.m3u8
 https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791553.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Västmanlands Television" tvg-logo="https://i.imgur.com/Mol9GKz.jpg" group-title="SWEDEN",Västmanlands Television
 https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="******************* NORWAY ***************" tvg-logo="",******************* NORWAY ***************
-http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 10" tvg-logo="https://i.imgur.com/XZHqsMw.png" group-title="NORWAY",Kanal 10
-http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="******************* NORWAY ***************" group-title="NORWAY" tvg-logo="https://i.imgur.com/kAFLbMA.png",******************* NORWAY ***************
+http://
 #EXTINF:-1 tvg-id="" tvg-name="Frikanalen" tvg-logo="" group-title="NORWAY",Frikanalen
 https://frikanalen.no/stream/stream_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 10" tvg-logo="https://i.imgur.com/XZHqsMw.png" group-title="NORWAY",Kanal 10
+http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Motors TV" tvg-logo="https://i.imgur.com/BHm0wem.png" group-title="NORWAY",Motors TV
+http://digicom.hls.iptvdc.com/canalmotor/pl.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stortinget Nett-TV" tvg-logo="https://i.imgur.com/3U1p695.png" group-title="NORWAY",Stortinget Nett-TV
 http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Haugaland" tvg-logo="https://i.imgur.com/5SkiUk2.png" group-title="NORWAY",TV Haugaland
 https://900c544ac47302fffd7d3f12b4c745fd-httpcache0-90216-cachelive0.dna.qbrick.com/90216-cachelive0/smil:APPLETV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Vision Norge" tvg-logo="" group-title="NORWAY",TV Vision Norge
+http://cdn-flash.crossnet.net/visjonnorgelive/ngrp:tvvn_all/playlist.m3u8
 #EXTINF:-1 tvg-name="**************** ICELAND *****************" tvg-logo="" group-title="",**************** ICELAND *****************
 https://
 #EXTINF:-1 tvg-name="KVF Faroe Island" tvg-id="KVF Faroe Island" tvg-logo="" group-title="ICELAND",KVF Faroe Island
@@ -6887,6 +6893,10 @@ https://yviistreamer.kernel.online/hls/yviitv.m3u8
 https://
 #EXTINF:-1 tvg-name="30A Music (US)" tvg-id="30a-tv.com" group-title="USA;MUSIK" tvg-logo="https://i.imgur.com/gNWg9tl.png",30A Music (US)
 http://30a-tv.com/music.m3u8
+#EXTINF:-1 tvg-name="80's Loop (US)" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/jxY0QSw.png",80's Loop (US)
+https://loop-80s-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="90's Loop (US)" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/jxY0QSw.png",90's Loop (US)
+https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MFbbITI.jpg" group-title="MUSIK",80s Party (US)
 https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/5.m3u8
 #EXTINF:-1 tvg-name="Activa TV" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/guHWZwP.jpg",Activa TV
@@ -7019,10 +7029,24 @@ http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8
 https://streamer103.neterra.tv/mmtv/mmtv.smil/chunklist_w1574446231_b2628000_slbul.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g46c2Ht.png" group-title="MUSIK",Music Channel (RO)
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="MTV Germany (DE)" tvg-id="MTVGermany.de" group-title="MUSIK" tvg-logo="https://i.imgur.com/peq4OaE.png",MTV Germany (DE)
+#EXTINF:-1 tvg-name="MTV Music 24 (Free from akamaihd.net!)" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/zVrZ4Pd.png",MTV Music 24 (Free from akamaihd.net!)
+http://unilivemtveu-lh.akamaihd.net/i/mtvmusic24_1@134926/master.m3u8
+#EXTINF:-1 tvg-name="MTV Germany (DE) (Free from akamaihd.net!)" tvg-id="MTVGermany.de" group-title="MUSIK" tvg-logo="https://i.imgur.com/peq4OaE.png",MTV Germany (DE) (Free from akamaihd.net!)
 http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-name="MTV Norway (NO)" tvg-id="MTV Norway" group-title="MUSIK" tvg-logo="https://i.imgur.com/peq4OaE.png",MTV Norway (NO)
+#EXTINF:-1 tvg-name="MTV Norway (NO) (Free from akamaihd.net!)" tvg-id="MTV Norway" group-title="MUSIK" tvg-logo="https://i.imgur.com/peq4OaE.png",MTV Norway (NO) (Free from akamaihd.net!)
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-name="Muzzik Cafe&Club Serbia"" tvg-id="" group-title="MUSIK" tvg-logo="http://muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",Muzzik Cafe&Club Serbia
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik HipHop Serbia" tvg-logo="http://muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIK",Muzzik HipHop Serbia
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik Mediteraneo Serbia" tvg-logo="http://muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIK",Muzzik Mediteraneo Serbia
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 tvg-name="Muzzik Rock&Roll Serbia" tvg-id="" group-title="MUSIK" tvg-logo="http://muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",Muzzik Rock&Roll Serbia
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Muzzik TV Serbia" tvg-id="" group-title="MUSIK" tvg-logo="http://muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",Muzzik TV Serbia
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik Worldwide Serbia" tvg-logo="http://muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIK",Muzzik Worldwide Serbia
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nancy Web TV (FR)" tvg-logo="https://i.imgur.com/W43rv1R.jpg" group-title="FRANCE;MUSIK",Nancy Web TV (FR)
 https://edge4.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8?spark=4bb70108-16ee-48ef-b780-08d91bffccbc&token=
 #EXTINF:-1 tvg-id="" tvg-name="NRJ Hits (FR)" tvg-logo="https://i.imgur.com/mcgIxUN.png" group-title="FRANCE;MUSIK",NRJ Hits (FR)
