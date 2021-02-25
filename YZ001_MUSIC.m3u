@@ -3,6 +3,10 @@
 https://
 #EXTINF:-1 tvg-name="30A Music (US)" tvg-id="30a-tv.com" group-title="USA;MUSIK" tvg-logo="https://i.imgur.com/gNWg9tl.png",30A Music (US)
 http://30a-tv.com/music.m3u8
+#EXTINF:-1 tvg-name="80's Loop (US)" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/jxY0QSw.png",80's Loop (US)
+https://loop-80s-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="90's Loop (US)" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/jxY0QSw.png",90's Loop (US)
+https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MFbbITI.jpg" group-title="MUSIK",80s Party (US)
 https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/5.m3u8
 #EXTINF:-1 tvg-name="Activa TV" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/guHWZwP.jpg",Activa TV
@@ -135,10 +139,24 @@ http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8
 https://streamer103.neterra.tv/mmtv/mmtv.smil/chunklist_w1574446231_b2628000_slbul.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g46c2Ht.png" group-title="MUSIK",Music Channel (RO)
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="MTV Germany (DE)" tvg-id="MTVGermany.de" group-title="MUSIK" tvg-logo="https://i.imgur.com/peq4OaE.png",MTV Germany (DE)
+#EXTINF:-1 tvg-name="MTV Music 24 (Free from akamaihd.net!)" tvg-id="" group-title="MUSIK" tvg-logo="https://i.imgur.com/zVrZ4Pd.png",MTV Music 24 (Free from akamaihd.net!)
+http://unilivemtveu-lh.akamaihd.net/i/mtvmusic24_1@134926/master.m3u8
+#EXTINF:-1 tvg-name="MTV Germany (DE) (Free from akamaihd.net!)" tvg-id="MTVGermany.de" group-title="MUSIK" tvg-logo="https://i.imgur.com/peq4OaE.png",MTV Germany (DE) (Free from akamaihd.net!)
 http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-name="MTV Norway (NO)" tvg-id="MTV Norway" group-title="MUSIK" tvg-logo="https://i.imgur.com/peq4OaE.png",MTV Norway (NO)
+#EXTINF:-1 tvg-name="MTV Norway (NO) (Free from akamaihd.net!)" tvg-id="MTV Norway" group-title="MUSIK" tvg-logo="https://i.imgur.com/peq4OaE.png",MTV Norway (NO) (Free from akamaihd.net!)
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-name="Muzzik Cafe&Club Serbia"" tvg-id="" group-title="MUSIK" tvg-logo="http://muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",Muzzik Cafe&Club Serbia
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik HipHop Serbia" tvg-logo="http://muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIK",Muzzik HipHop Serbia
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik Mediteraneo Serbia" tvg-logo="http://muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIK",Muzzik Mediteraneo Serbia
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 tvg-name="Muzzik Rock&Roll Serbia" tvg-id="" group-title="MUSIK" tvg-logo="http://muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",Muzzik Rock&Roll Serbia
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Muzzik TV Serbia" tvg-id="" group-title="MUSIK" tvg-logo="http://muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",Muzzik TV Serbia
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik Worldwide Serbia" tvg-logo="http://muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIK",Muzzik Worldwide Serbia
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nancy Web TV (FR)" tvg-logo="https://i.imgur.com/W43rv1R.jpg" group-title="FRANCE;MUSIK",Nancy Web TV (FR)
 https://edge4.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8?spark=4bb70108-16ee-48ef-b780-08d91bffccbc&token=
 #EXTINF:-1 tvg-id="" tvg-name="NRJ Hits (FR)" tvg-logo="https://i.imgur.com/mcgIxUN.png" group-title="FRANCE;MUSIK",NRJ Hits (FR)
