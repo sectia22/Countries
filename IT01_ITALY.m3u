@@ -37,6 +37,8 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
 https://5f11919dca3bd.streamlock.net/donnatv/donnatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="ITALY",Euronews
 https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Family Movies" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="ITALY",Family Movies
+https://rakuten-family-6-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Focus" tvg-logo="https://i.imgur.com/bFVWJR1.png" group-title="ITALY",Focus
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://i.imgur.com/RuuGNzX.png" group-title="ITALY",Food Network
@@ -83,7 +85,7 @@ https://jukin-peopleareawesome-2-it.samsung.wurl.com/manifest/playlist.m3u8
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(er)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio 105 TV" tvg-logo="" group-title="ITALY;MUSIK",Radio 105 TV
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ec)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio 24" tvg-logo=" group-title="ITALY",Radio 24
+#EXTINF:-1 tvg-id="" tvg-name="Radio 24" tvg-logo="" group-title="ITALY",Radio 24
 http://radio24-lh.akamaihd.net/i/radio24video_1@379914/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Capital TV" tvg-logo="https://i.imgur.com/0bv1gID.png" group-title="ITALY;MUSIK",Radio Capital TV
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
@@ -95,9 +97,9 @@ http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Monte Carlo TV" tvg-logo="" group-title="ITALY;MUSIK",Radio Monte Carlo TV
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Radicale TV" tvg-logo=" group-title="ITALY",Radio Radicale TV
+#EXTINF:-1 tvg-id="" tvg-name="Radio Radicale TV" tvg-logo="" group-title="ITALY",Radio Radicale TV
 https://video-ar.radioradicale.it/diretta/padtv2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Radio TV" tvg-logo=" group-title="ITALY",Radio Radio TV
+#EXTINF:-1 tvg-id="" tvg-name="Radio Radio TV" tvg-logo="" group-title="ITALY",Radio Radio TV
 http://api.new.livestream.com/accounts/11463451/events/3679884/live.m3u8
 #EXTINF:-1 tvg-name="Radio Zeta TV" tvg-id="" group-title="ITALY;MUSIK" tvg-logo="",Radio Zeta TV
 https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8

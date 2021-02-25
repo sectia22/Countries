@@ -3,8 +3,6 @@
 https://
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5MfhbGP.png" group-title="USA LOCAL",7News - Boston
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="16 WAPT" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/abc.png" group-title="USA LOCAL",ABC 16 WAPT (Mississippi)
-https://ts001.teleuptv.net/oKMfGHckPJ/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Akaku 53 (Hawaii)" tvg-logo="https://i.imgur.com/y7qpxAT.jpg" group-title="USA LOCAL",Akaku 53 (Hawaii)
 https://akaku.vod.castus.tv/live/ch1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Akaku 54 (Hawaii)" tvg-logo="https://i.imgur.com/y7qpxAT.jpg" group-title="USA LOCAL",Akaku 54 (Hawaii)
@@ -31,8 +29,6 @@ http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4
 http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tmKtbf9.png" group-title="USA LOCAL",Capital City Connection Montgomery
 http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="WHP 21" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/zunsky.png" group-title="USA LOCAL",CBS WHP 21 (Harrisburg, Pennsylvania)
-https://ts002.teleuptv.net/XYH8cX6OUm/playlist.m3u8
 #EXTINF:-1 tvg-name="CCX Media - Minnesota" tvg-id="NWCT 12" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/VqaF8Rd.png",CCX Media - Minnesota
 http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTV" tvg-logo="https://i.imgur.com/6zzwmfK.jpg" group-title="USA LOCAL",CGTV
@@ -78,7 +74,7 @@ http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KOMO 4 TV Seattle (news feed only)" tvg-logo="https://i.imgur.com/g9qLJ2l.jpg" group-title="USA LOCAL",KOMO 4 TV Seattle (news feed only)
 https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KTLA 5" tvg-logo="https://i.imgur.com/JH99Psi.jpg" group-title="USA LOCAL",KTLA 5 (Los Angeles)
-https://ts002.teleuptv.net/N8qwnqgUq2/playlist.m3u8
+https://bozztv.com/teleyupp1/teleup-N8qwnqgUq2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KTLA 5 (2) (news feed only)" tvg-logo="https://i.imgur.com/JH99Psi.jpg" group-title="USA LOCAL",KTLA 5 (2) (news feed only)
 https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FzxuNhl.png" group-title="USA LOCAL",KVVB-TV 33
@@ -103,8 +99,6 @@ https://granicusliveus9-a.akamaihd.net/miamifl/G2076_003/playlist.m3u8
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w823630935_b2592000.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="WCTX" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/kpygox.png" group-title="USA LOCAL",My9 WCTX My Network TV (Connecticut)
 https://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="NBC 6" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/nbc.png" group-title="USA LOCAL",NBC 6 (South Florida / Miami)
-https://ts002.teleuptv.net/X2TfmeGBtg/playlist.m3u8
 #EXTINF:-1 tvg-name="NO TV - New Orleans Television" tvg-id="New Orleans Television" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/QPWwlo4.png",NO TV - New Orleans Television
 https://5b0f5374bdf0c.streamlock.net:444/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1 tvg-name="NAU-TV - Northern Arizona University" tvg-id="NAU-TV" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/uNKEoa4.png",NAU-TV - Northern Arizona University
@@ -129,8 +123,6 @@ https://wowzaprod188-i.akamaihd.net/hls/live/730322/3fa8d5f5/playlist.m3u8
 http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo 47" tvg-logo="" group-title="USA LOCAL",Telemundo 47 New York
 https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/master.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="CW-WHP" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/ynslys.png" group-title="USA LOCAL",The CW-WHP 11 (Harrisburg, Pennsylvania)
-https://ts002.teleuptv.net/rTK2EQCVCX/playlist.m3u8
 #EXTINF:-1 tvg-name="The Rockville Channel" tvg-id="The Rockville Channel" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/0mvGibX.jpg",The Rockville Channel
 http://granicusliveus12-a.akamaihd.net/rockvillemd/G0458_001/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TSTV" tvg-logo="https://i.imgur.com/tV8tVxQ.png" group-title="USA LOCAL",TSTV
@@ -146,7 +138,7 @@ http://worcester.vod.castus.tv/live/ch1.m3u8
 #EXTINF:-1 tvg-name="WFTV Channel 9 - Florida - Orlando" tvg-id="WFTV" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/S3fqmWY.png",WFTV Channel 9 - Florida - Orlando
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftve2-hls-v3/live.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/lpaqfc.png" group-title="USA LOCAL",WGN9 (Chicago)
-https://ts002.teleuptv.net/mBm5MQ50rA/playlist.m3u8
+https://bozztv.com/teleyupp1/teleup-mBm5MQ50rA/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="White Plains Community Media" tvg-logo="https://i.imgur.com/hhjrOB1.png" group-title="USA LOCAL",White Plains Community Media
 http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
 #EXTINF:-1 tvg-name="WHOH TV - Hastings-On-Hudson - NY" tvg-id="WHOH TV" group-title="USA LOCAL" tvg-logo="https://i.imgur.com/oua9m6O.jpg",WHOH TV - Hastings-On-Hudson - NY
@@ -157,11 +149,9 @@ http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
 https://d2eit0bra9qkiw.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10050_b9ac3c93-be86-4f7e-82b8-796b7f8bfda3_LE/in/cmg-wjaxtv-hls-v3/live.m3u8?aws.sessionId=dcb19887-c2ac-40ff-94fa-4f9c8692f754
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4i7Ve3E.png" group-title="USA LOCAL",WMFD (Mansfield - Ohio)
 https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fox-wpmt.png" group-title="USA LOCAL",WPMT FOX 43 (Harrisburg - Pennsylvania)
-https://ts002.teleuptv.net/o8XVqW4mQw/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="WPSU" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/eqanuc.png" group-title="USA LOCAL",WPSU PBS (Penn State - Pennsylvania)
 https://bozztv.com/teleyupp/lnABbIUBrO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WSVI TV - Virgin Islands USA" tvg-logo="https://i.imgur.com/SlS8xic.png" group-title="USA",WSVI TV - Virgin Islands USA
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="WSVN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/wxjzcq.png" group-title="USA LOCAL",WSVN FOX 7 (Florida)
-https://ts002.teleuptv.net/GgIpXe0CjT/playlist.m3u8
+https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/playlist.m3u8

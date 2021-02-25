@@ -121,9 +121,9 @@ https://58de7a369a9c4.streamlock.net/oskar/_definst_/stream_720p/playlist.m3u8
 https://5852afe96c9bb.streamlock.net/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8
 #EXTINF: -1 tvg-name="PunktUm Hettstedt" tvg-id="PunktUm" tvg-logo="https://www.punktum-fernsehen.de/share/android-icon-192x192.png" group-title="GERMAN LOCAL", PunktUm Hettstedt
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:punktum_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=824679
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w6ViBlV.png" group-title="GERMANY",Radio 21 Hannover
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w6ViBlV.png" group-title="GERMAN LOCAL",Radio 21 Hannover
 http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K3XWLpu.jpg" group-title="GERMANY",Radio Weser TV Bremen
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K3XWLpu.jpg" group-title="GERMAN LOCAL",Radio Weser TV Bremen
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
 #EXTINF: -1 tvg-name="Ran1 Dessau-Roßlau" tvg-id="Ran1.de" tvg-logo="http://www.ran1.de/img/ban1.png" group-title="GERMAN LOCAL", Ran1 Dessau-Roßlau
 http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ran1_high/playlist.m3u8?&ref=www.ran1.de&seid=201846

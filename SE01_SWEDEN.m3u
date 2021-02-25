@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="***************** SWEDEN ******************" tvg-logo="" group-title="",***************** SWEDEN ******************
+#EXTINF:-1 tvg-id="" tvg-name="*************** SWEDEN **************" tvg-logo="https://i.imgur.com/6RX1gF5.jpg" group-title="SWEDEN",************** SWEDEN **************
 http://
 #EXTINF:-1 tvg-id="" tvg-name="ATG Live" tvg-logo="https://i.imgur.com/5CdW62M.png" group-title="SWEDEN",ATG Live
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8

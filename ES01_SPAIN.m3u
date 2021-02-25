@@ -129,6 +129,8 @@ https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="EuropaPress TV" tvg-logo="https://i.imgur.com/qH7uDKw.jpg" group-title="SPAIN",EuropaPress TV
 https://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Family Movies" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="SPAIN",Family Movies
+https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Fibracat TV" tvg-logo="https://i.imgur.com/2QzHA3k.png" group-title="SPAIN",Fibracat TV
 https://cdn-02.fibracat.cat/fibracattv/index.m3u8
 #EXTINF:-1 tvg-name="Fion TV" tvg-logo="https://i.imgur.com/lOkkf0D.png" group-title="SPAIN",Fion TV

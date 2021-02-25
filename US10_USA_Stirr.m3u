@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="***************** USA STIRR ***********",**************** USA  STIRR ***********
-https://dai.google.com/linear/hls/event/mMP0Ny8OTb2Ev2EvsiIlrg/master.m3u8
+https://
 #EXTINF:-1 tvg-id="2020 Live" tvg-name="2020 Live" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/e155b2ff-61dc-44c2-9d2a-26b0f69ebc5b-small3x1_stirr_0120_epg_2020LIVE_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",2020 Live
 https://dai.google.com/linear/hls/event/mMP0Ny8OTb2Ev2EvsiIlrg/master.m3u8
 #EXTINF:-1 tvg-id="21 Jump Street" tvg-name="21 Jump Street" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/fff115ea-8e29-48e9-b8bc-42c97e53a29f-small3x1_stirr_1219_epg_21jumpstreet_1920x1080_v2.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",21 Jump Street

@@ -5,12 +5,22 @@ https://
 http://stream.spreeradio.de/spree-live/mp3-128/konsole
 #EXTINF:-1 tvg-name="105'5 Spreeradio 80er" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/1iayQmM.png",105'5 Spreeradio 80er
 http://stream.spreeradio.de/spree-80er/mp3-128/konsole
-#EXTINF:-1 tvg-name="AFN Wiesbaden" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/MjuO9lL.jpg",AFN Wiesbaden
-https://22603.live.streamtheworld.com/AFNE_WBN_SC?csegid=15
 #EXTINF:-1 tvg-name="Ems Vechte Welle" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/bPCsrYQ.jpg",Ems Vechte Welle
 https://live.radio-aktiv.de/evw.mp3
+#EXTINF:-1 tvg-name="MDR Jump" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/Y8Z6chO.png",MDR Jump
+https://mdr-284320-0.sslcast.mdr.de/mdr/284320/0/mp3/high/stream.mp3
+#EXTINF:-1 tvg-name="MDR Radio Sachsen Bautzen" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/5Vo2oxF.jpg",MDR Radio Sachsen Bautzen
+https://mdr-284280-1.sslcast.mdr.de/mdr/284280/1/mp3/high/stream.mp3
 #EXTINF:-1 tvg-name="Nostalgie Route 66" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/Y6bNYBf.jpg",Nostalgie Route 66
 http://cdn.nrjaudio.fm/adwz1/de/57485/mp3_128.mp3
+#EXTINF:-1 tvg-name="Ostsee Welle" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/SwM099d.png",Ostsee Welle
+http://mp3.ostseewelle.c.nmdn.net/ostseewellelive/livestream.mp3
+#EXTINF:-1 tvg-name="Radio BOB" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/xRzItla.png",Radio BOB
+https://streams.radiobob.de/bob-national/mp3-192
+#EXTINF:-1 tvg-name="Radio Ostrock" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/cytXyRK.png",Radio Ostrock
+https://secondradio.de:7070/ostrock?nc=1613902505298
+#EXTINF:-1 tvg-name="Radio Schlager Paradies" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/Nb4GEO5.png",Radio Schlager Paradies
+https://webstream.schlagerparadies.de/schlagerparadies128k.mp3
 #EXTINF:-1 tvg-name="Rock Antenne" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/eZKNvkT.png",Rock Antenne
 https://stream.rockantenne.de/rockantenne/stream/mp3
 #EXTINF:-1 tvg-name="****** USA ******" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/FDdeKor.png",****** USA ******
