@@ -1,3 +1,6 @@
+# Donation Button
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/FreeIPTVGitgub?locale.x=de_DE)
+
 # Countries
 Free legally receivable IPTV channels as .m3u for Kodi. :-)
 
