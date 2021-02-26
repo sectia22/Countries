@@ -145,17 +145,23 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvmusic24_1@134926/master.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-name="MTV Norway (NO) (Free from akamaihd.net!)" tvg-id="MTV Norway" group-title="MUSIK" tvg-logo="https://i.imgur.com/peq4OaE.png",MTV Norway (NO) (Free from akamaihd.net!)
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 tvg-name="Muzzik Cafe&Club Serbia"" tvg-id="" group-title="MUSIK" tvg-logo="http://muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",Muzzik Cafe&Club Serbia
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik AMVA 2020 Serbia" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIK",Muzzik AMVA 2020 Serbia
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik Cafe&Club Serbia"" tvg-id="" group-title="MUSIK" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",Muzzik Cafe&Club Serbia
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik HipHop Serbia" tvg-logo="http://muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIK",Muzzik HipHop Serbia
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik Gen Z Serbia" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIK",Muzzik Gen Z Serbia
+https://muzzik-live.morescreens.com/mts-a2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik HipHop Serbia" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIK",Muzzik HipHop Serbia
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik Mediteraneo Serbia" tvg-logo="http://muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIK",Muzzik Mediteraneo Serbia
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik Mediteraneo Serbia" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIK",Muzzik Mediteraneo Serbia
 https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik Rock&Roll Serbia" tvg-id="" group-title="MUSIK" tvg-logo="http://muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",Muzzik Rock&Roll Serbia
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik OKK Serbia" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIK",Muzzik OKK Serbia
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik Rock&Roll Serbia" tvg-id="" group-title="MUSIK" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",Muzzik Rock&Roll Serbia
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik TV Serbia" tvg-id="" group-title="MUSIK" tvg-logo="http://muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",Muzzik TV Serbia
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik TV Serbia" tvg-id="" group-title="MUSIK" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",Muzzik TV Serbia
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Muzzik Worldwide Serbia" tvg-logo="http://muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIK",Muzzik Worldwide Serbia
+#EXTINF:-1 tvg-id="" tvg-name="Muzzik Worldwide Serbia" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIK",Muzzik Worldwide Serbia
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nancy Web TV (FR)" tvg-logo="https://i.imgur.com/W43rv1R.jpg" group-title="FRANCE;MUSIK",Nancy Web TV (FR)
 https://edge4.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8?spark=4bb70108-16ee-48ef-b780-08d91bffccbc&token=
