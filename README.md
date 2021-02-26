@@ -1,6 +1,8 @@
 # Countries
 Free legally receivable IPTV channels as .m3u for Kodi. :-)
 
+IMPORTANT! ONLY CREATE A FORK IF YOU WANT TO WORK WITH ME AND NOT ONLY TO ENRICH YOUR GITHUB ACCOUNT!
+
 The lists work fine with me in the IPTV Simple Client from Kodi. To automatically create the individual lists
 to one list, i use the ADD-On IPTV-Merge from Matt Huisman. ;-) You find this great Add-On here:
 
